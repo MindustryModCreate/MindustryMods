@@ -12,6 +12,8 @@ import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
+import javax.imageio.*;
+import java.awt.image.*;
 import java.util.*;
 
 import static arc.struct.StringMap.*;
@@ -19,8 +21,10 @@ import static arc.struct.StringMap.*;
 public class ModUpdater{
     static final String api = "https://api.github.com", searchTerm = "mindustry mod";
     static final int perPage = 100;
-    static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy");
-    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry","pixaxeofpixie/Braindustry-Mod","MoTRona/Colloseus-Mod");
+    static final int maxLength = 55;
+    static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
+    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod","pixaxeofpixie/Braindustry-Mod","MoTRona/Colloseus-Mod");
+    static final int iconSize = 64;
 
     public static void main(String[] args){
         Core.net = makeNet();
@@ -61,23 +65,40 @@ public class ModUpdater{
                 return val.get("full_name").toString();
             });
 
-            names.remove("Anuken/ExampleMod");
-            names.remove("Anuken/ExampleJavaMod");
+            for(String name : blacklist){
+                names.remove(name);
+            }
+
+            Fi icons = Fi.get("icons");
+
+            icons.deleteDirectory();
+            icons.mkdirs();
 
             Log.info("&lcTotal mods found: @\n", names.size);
 
             int index = 0;
             for(String name : names){
-                if(blacklist.contains(name)) continue;
-
                 Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
+
                 try{
-                    String branch = ghmeta.get(name).getString("default_branch");
+                    Jval meta = ghmeta.get(name);
+                    String branch = meta.getString("default_branch");
                     Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
 
                     if(modjson == null){
                         Log.info("&lc| &lySkipping, no meta found.");
                         continue;
+                    }
+
+                    //filter icons based on stars to prevent potential abuse
+                    if(meta.getInt("stargazers_count", 0) >= 2){
+                        var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
+                        if(icon != null){
+                            var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
+                            scaled.createGraphics().drawImage(icon.getScaledInstance(iconSize, iconSize, java.awt.Image.SCALE_AREA_AVERAGING), 0, 0, iconSize, iconSize, null);
+                            Log.info("&lc| &lmFound icon file: @x@", icon.getWidth(), icon.getHeight());
+                            ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")).file());
+                        }
                     }
 
                     Log.info("&lc|&lg Found mod meta file!");
@@ -109,15 +130,18 @@ public class ModUpdater{
 
                 String lang = gm.getString("language", "");
 
+                String metaName = Strings.stripColors(displayName).replace("\n", "");
+                if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
+
                 obj.add("repo", name);
-                obj.add("name", Strings.stripColors(displayName).replace("\n", ""));
+                obj.add("name", metaName);
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
                 obj.add("minGameVersion", version);
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
-                obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
+                obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
                 array.asArray().add(obj);
             }
 
@@ -131,9 +155,26 @@ public class ModUpdater{
         Jval[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> { //hjson
+            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
                 if(out.getStatus() == HttpStatus.OK){
                     result[0] = Jval.read(out.getResultAsString());
+                }
+            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+        }
+        return result[0];
+    }
+
+    BufferedImage tryImage(String... queries){
+        BufferedImage[] result = {null};
+        for(String str : queries){
+            //try to get mod.json instead
+            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
+                try{
+                    if(out.getStatus() == HttpStatus.OK){
+                        result[0] = ImageIO.read(out.getResultAsStream());
+                    }
+                }catch(Exception e){
+                    throw new RuntimeException(e);
                 }
             }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
         }
