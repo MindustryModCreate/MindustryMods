@@ -20,7 +20,7 @@ public class ModUpdater{
     static final String api = "https://api.github.com", searchTerm = "mindustry mod";
     static final int perPage = 100;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy");
-    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry","pixaxeofpixie/Braindustry-Mod");
+    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry","pixaxeofpixie/Braindustry-Mod","MoTRona/Colloseus-Mod");
 
     public static void main(String[] args){
         Core.net = makeNet();
