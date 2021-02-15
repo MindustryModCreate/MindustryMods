@@ -36,7 +36,7 @@
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
     "author": "sk7725",
-    "lastUpdated": "2021-02-15T09:44:46Z",
+    "lastUpdated": "2021-02-15T14:45:06Z",
     "stars": 72,
     "minGameVersion": "123",
     "hasScripts": false,
@@ -136,7 +136,7 @@
     "name": "PicToLogic",
     "author": "DeltaNedas, Router and another guy",
     "lastUpdated": "2020-12-17T21:41:56Z",
-    "stars": 28,
+    "stars": 29,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
@@ -649,6 +649,17 @@
     "description": "mindustry is a mod where the various categories were expanded by adding machines, turrets, units, where to produce and defend your core will be more entertaining"
   },
   {
+    "repo": "DeltaNedas/unit-factory",
+    "name": "Unit Factory",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-01-08T09:33:18Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "MEEPofFaith/anuke-approaching",
     "name": "Do not the Anuke",
     "author": "MEEP of Faith",
@@ -746,17 +757,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adds a bunch of stuff"
-  },
-  {
-    "repo": "DeltaNedas/unit-factory",
-    "name": "Unit Factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-01-08T09:33:18Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/modding-toolbox",
@@ -1406,6 +1406,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod"
+  },
+  {
+    "repo": "QmelZ/launchpad-redirect",
+    "name": "Launchpad Destination Changer",
+    "author": "QmelZ",
+    "lastUpdated": "2020-12-17T16:29:11Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
@@ -2176,5 +2187,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "beta2.0更新内容:\n1.添加语言和js脚本编辑.\n2.修复单位无法添加的bug.\n\n目前还没完善\n如有bug，请及时反馈给作者\n\n创建的是文件夹(在mods(I hope...)文件夹)."
+  },
+  {
+    "repo": "nichrosia/Acceleration",
+    "name": "Acceleration",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-02-15T15:12:26Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod."
   }
 ]
