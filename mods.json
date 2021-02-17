@@ -825,17 +825,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone.\nHeal Button: Resets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to (basically) infinity.\n\nAlso increases zooming range."
   },
   {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-02-09T11:00:42Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
-  },
-  {
     "repo": "skykatik/PaperMod",
     "name": "PaperMod",
     "author": "Skat with Pandorum's Players",
@@ -845,6 +834,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Please no..."
+  },
+  {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-02-17T08:30:16Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
   },
   {
     "repo": "DeltaNedas/radar",
@@ -1034,28 +1034,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "purofle/Industrial-Craft-Mindustry",
-    "name": "工业时代",
-    "author": "purofle",
-    "lastUpdated": "2020-12-09T16:32:33Z",
-    "stars": 2,
-    "minGameVersion": "108",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个跟mc中的工业时代(Industrial Craft)完全扯不上关系的mod"
-  },
-  {
-    "repo": "DeltaNedas/boost-control",
-    "name": "Boost Control",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:22Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "Kyllingene/Router-Mod",
     "name": "Router Mod",
     "author": "Kyllingene",
@@ -1076,17 +1054,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod allowing trading one metal for the next"
-  },
-  {
-    "repo": "DeltaNedas/ldb",
-    "name": "Logic Debugger",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-29T02:00:00Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -1175,17 +1142,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds an Item Transfer that allows you to exchange items with another teams"
-  },
-  {
-    "repo": "MasterNo2/Decordustry",
-    "name": "Decdustry",
-    "author": "MasterNo2",
-    "lastUpdated": "2021-02-04T03:57:13Z",
-    "stars": 2,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod purely for decoration. Not really any functionallity."
   },
   {
     "repo": "Volas171/nekodustry",
@@ -1287,17 +1243,6 @@
     "description": "Powerful weapons that use electromagnetism to make pew."
   },
   {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "author": "guiY",
-    "lastUpdated": "2021-02-17T00:43:15Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958"
-  },
-  {
     "repo": "THEGAMER-10n/Techdustry",
     "name": "Techdustry",
     "author": "THEGAMER_10n",
@@ -1309,94 +1254,6 @@
     "description": "TO-DO"
   },
   {
-    "repo": "4156/Infintory",
-    "name": "Example Java Mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-10-03T12:14:03Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
-    "repo": "SirMachinegun/EBM",
-    "name": "Experimental Blocks",
-    "author": "SirMachinegun (EMPEROR#5403)",
-    "lastUpdated": "2020-10-18T22:15:13Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry mod which reveals hidden blocks that are in the game files/folders."
-  },
-  {
-    "repo": "MindustryInside/SupremePancake",
-    "name": "Supreme Pancake",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2020-11-07T02:36:46Z",
-    "stars": 1,
-    "minGameVersion": "111",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
-    "repo": "a-soulspark/Cakedustry",
-    "name": "Cakedustry",
-    "author": "a-soulspark",
-    "lastUpdated": "2020-12-01T15:23:57Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Celebrate v6's release with Cake!"
-  },
-  {
-    "repo": "Vladislav117/RPW",
-    "name": "Router Part Role play mod",
-    "author": "Vladislav117, ne-pomidor, Zelaux, Blab, Wikomir, CoCuCka",
-    "lastUpdated": "2020-12-01T19:17:02Z",
-    "stars": 1,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Мод для первого РП-сервера RP RolePlay. \nDiscord: discord.gg/JHAp8qt"
-  },
-  {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "summetdev/SolarSystem",
-    "name": "Solar System",
-    "author": "Summet",
-    "lastUpdated": "2020-12-11T20:46:14Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Implements real Solar System."
-  },
-  {
-    "repo": "Steefano/Liquids-Enhanced",
-    "name": "Liquids Enhanced",
-    "author": "Stefano Rando",
-    "lastUpdated": "2020-12-13T17:41:38Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
-  },
-  {
     "repo": "QmelZ/computer-begone",
     "name": "Computer Begone",
     "author": "QmelZ",
@@ -1406,39 +1263,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Uses up your cpu and ram.\n TODO:\n- Make this use up gpu"
-  },
-  {
-    "repo": "DeltaNedas/item-grabber",
-    "name": "Item Grabber",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:13Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "DeltaNedas/notepad",
-    "name": "Notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "sisit135/ExtendedUnitMod",
-    "name": "Extended unit Mod",
-    "author": "sisit135",
-    "lastUpdated": "2020-12-16T09:35:10Z",
-    "stars": 1,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod"
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
@@ -1485,17 +1309,6 @@
     "description": "Mod that gives tons of space parts"
   },
   {
-    "repo": "Tenser43/random-mod",
-    "name": "Random Mod",
-    "author": "Tenser",
-    "lastUpdated": "2020-12-24T03:54:38Z",
-    "stars": 1,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds some random, but useful stuff."
-  },
-  {
     "repo": "RebornTrack970/infinicampaign",
     "name": "InfiniCampaign",
     "author": "RTOmega",
@@ -1518,17 +1331,6 @@
     "description": "DO NOT USE THIS MOD!"
   },
   {
-    "repo": "laok233/test-mod",
-    "name": "test mod",
-    "author": "end",
-    "lastUpdated": "2021-01-06T01:38:27Z",
-    "stars": 1,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "test the build"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "author": "Mandu",
@@ -1540,39 +1342,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "ice100k/prismatic",
-    "name": "Prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2021-01-21T11:29:01Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "In this mod you will find lots of chains of units and weapons like vibro weaponry and radio weaponry"
-  },
-  {
-    "repo": "TheBabinator/Toaster",
-    "name": "Toaster",
-    "author": "TheBabinator",
-    "lastUpdated": "2021-01-23T13:39:26Z",
-    "stars": 1,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "Pietro303HD/dynamic",
-    "name": "depression",
-    "author": "Pietro",
-    "lastUpdated": "2021-01-25T13:39:23Z",
-    "stars": 1,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod to express my feelings about everything."
-  },
-  {
     "repo": "Voz-Duh/progressed-factorio",
     "name": "Progressed Factorio - TexturePack",
     "author": "VozDuh",
@@ -1582,17 +1351,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-01-31T02:15:33Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
   },
   {
     "repo": "PiGPiG2048/KENGINTERmod",
@@ -1617,72 +1375,6 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
-    "repo": "theangelurd/Tech-n-Alchemy-Mod",
-    "name": "Tech n Alchemy",
-    "author": "Sh1penfire, cl0cks, Tayros",
-    "lastUpdated": "2021-02-08T03:17:51Z",
-    "stars": 1,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds advanced tech and chemical stuff. Collab with many people."
-  },
-  {
-    "repo": "TheRealIvyX/SeiBuffRevert",
-    "name": "SeiBuffRevert",
-    "author": "IvyX",
-    "lastUpdated": "2021-02-08T19:50:01Z",
-    "stars": 1,
-    "minGameVersion": "124",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the pointless Sei health buff in build 124"
-  },
-  {
-    "repo": "Yaroslav242/recompensator-mod",
-    "name": "recompensator-mod",
-    "author": "Yaroslav242",
-    "lastUpdated": "2021-02-09T15:06:38Z",
-    "stars": 1,
-    "minGameVersion": "124",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
-  },
-  {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-02-14T00:48:30Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game."
-  },
-  {
-    "repo": "Danieljb5/Loredustry",
-    "name": "Loredustry",
-    "author": "Danieljb5 & ...",
-    "lastUpdated": "2021-02-14T16:45:17Z",
-    "stars": 1,
-    "minGameVersion": "123.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that extends the vanilla campaign, adding more items, fluids, factories, turrets and more."
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -1692,17 +1384,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Don't play it"
-  },
-  {
-    "repo": "UniDuki/golden-duo",
-    "name": "Golden Duo",
-    "author": "dogecoin",
-    "lastUpdated": "2020-10-17T10:02:38Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a golden duo"
   },
   {
     "repo": "Thinkystuff7/MindustryMod-1",
@@ -1716,237 +1397,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "author": "RTOmega",
-    "lastUpdated": "2020-10-29T15:34:46Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
-  },
-  {
-    "repo": "2938137849/MindustryMod",
-    "name": "MyMod",
-    "author": "bin",
-    "lastUpdated": "2020-11-09T10:47:21Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "铜是万能的(双关)"
-  },
-  {
-    "repo": "sample-text-here/template-mindustry-mod",
-    "name": "Mod name",
-    "author": "someone",
-    "lastUpdated": "2020-11-18T23:09:11Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod description here"
-  },
-  {
-    "repo": "Thinkystuff7/MindustryMod-2",
-    "name": "Mind ustry Mod1",
-    "author": "thinkystuff7",
-    "lastUpdated": "2020-11-26T20:31:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "als39175/Infinity-Cheat",
-    "name": "Infinity Cheat",
-    "author": "SMIPE444",
-    "lastUpdated": "2020-11-28T17:48:57Z",
-    "stars": 0,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
-  },
-  {
-    "repo": "WilloIzCitron/Mindustry-Ultra-Mod",
-    "name": "Mindustry ULTRA  Mod",
-    "author": "WilloIzCitron",
-    "lastUpdated": "2020-11-29T00:55:09Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "oh no"
-  },
-  {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
-  },
-  {
-    "repo": "avocado5182/FirstMindustryMod",
-    "name": "Epic Mindustry Mod",
-    "author": "avocado5182",
-    "lastUpdated": "2020-12-12T12:48:22Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dumb mod that does dumb stuff."
-  },
-  {
-    "repo": "Bohaska/simple-text",
-    "name": "Simple Text",
-    "author": "Bohaska",
-    "lastUpdated": "2020-12-12T13:26:28Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds a somewhat useful language bundle that translates all the text into simple English words that almost everybody knows."
-  },
-  {
-    "repo": "LokeYourLord/Extremely-Efficient-Structures",
-    "name": "Extremely-Efficient-Structures",
-    "author": "LokeYourC3PH",
-    "lastUpdated": "2020-12-13T13:11:21Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds several OP structures to ruin gameplay."
-  },
-  {
-    "repo": "Kyllingene/ruoter-legacy",
-    "name": "ruoter",
-    "author": "Kyllingene",
-    "lastUpdated": "2020-12-14T06:18:29Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "much ruoter very ruoter"
-  },
-  {
-    "repo": "LottieVixen/test-mindustry-mod",
-    "name": "Test Mindustry Mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-16T20:38:55Z",
-    "stars": 0,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "test mod"
-  },
-  {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
-    "repo": "Firegoesblue/Automatic_Connections_Disabled",
-    "name": "Auto Connections bye bye!",
-    "author": "Eldoofus, extracted by Bbsx",
-    "lastUpdated": "2020-12-27T04:58:53Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "disables automatic power nodes. It does not affect gameplay. "
-  },
-  {
-    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
-    "name": "Mindustry Java mod Template",
-    "author": "AmateurPotion",
-    "lastUpdated": "2020-12-27T16:38:32Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
-    "repo": "Sonnicon/GroovyModMod",
-    "name": "Groovy Mod Mod",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2020-12-28T01:11:25Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
-  },
-  {
-    "repo": "AmateurPotion/NuclearJavaMod",
-    "name": "Nuclear Mod for Java",
-    "author": "Namedo",
-    "lastUpdated": "2020-12-28T16:01:59Z",
-    "stars": 0,
-    "minGameVersion": "20416",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
-    "repo": "Sheep-Hugger/Silver-spirit-Sphere",
-    "name": "Silver spirit Sphere",
-    "author": "Sheep hugger",
-    "lastUpdated": "2020-12-29T23:32:04Z",
-    "stars": 0,
-    "minGameVersion": "120.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod adding a very hard to mine resource"
-  },
-  {
-    "repo": "MakeItGame/Test4Life-Enhancement",
-    "name": "Test4Life Enhancement",
-    "author": "MakeItGame",
-    "lastUpdated": "2020-12-30T16:07:12Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod that enhaces your Game with  new Things and Enhancements."
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "author": "svanriy",
@@ -1956,247 +1406,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
-  },
-  {
-    "repo": "EmanuelG-Gaming/big-numbers-funi",
-    "name": "BigNumbersFuni",
-    "author": "Emanuel G",
-    "lastUpdated": "2021-01-02T09:41:42Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes almost everything have tons of value. Happy new year xD"
-  },
-  {
-    "repo": "AmateurPotion/Crystal",
-    "name": "Crystal edition",
-    "author": "AmateurPotion",
-    "lastUpdated": "2021-01-04T12:47:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
-    "repo": "PythonGen-dev/Mindustry-back-to-classic-mod",
-    "name": "Mindustry back to classic",
-    "author": "Agentfuchs",
-    "lastUpdated": "2021-01-06T18:48:39Z",
-    "stars": 0,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
-    "repo": "Leyn-pl/TheWorstMod2",
-    "name": "TheWorstMod2",
-    "author": "Leyn-pl",
-    "lastUpdated": "2021-01-18T19:50:30Z",
-    "stars": 0,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Worst mod! Never play with it!"
-  },
-  {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
-  },
-  {
-    "repo": "MEEPofFaith/mindustry-modding-docs-examples",
-    "name": "Modding Docs Example Codes",
-    "author": "  MEEP of Faith",
-    "lastUpdated": "2021-01-21T07:54:19Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Displays the modding docs code examples."
-  },
-  {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
-  },
-  {
-    "repo": "1qwaka/DPS-meter",
-    "name": "DPS-meter",
-    "author": "Qwaka",
-    "lastUpdated": "2021-01-25T06:15:39Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
-    "repo": "xzxADIxzx/JustMod",
-    "name": "JustMod",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2021-01-26T07:06:20Z",
-    "stars": 0,
-    "minGameVersion": "122.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Some strange mod, which there some metals.\n\n   - Release!\n   - Mindustry V6\n   - GitHub"
-  },
-  {
-    "repo": "AlbinoGeek/modFoo",
-    "name": "Mod Template //the displayed mod name",
-    "author": "Sharlotte //you",
-    "lastUpdated": "2021-02-01T11:28:11Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the template for mods. //mod description"
-  },
-  {
-    "repo": "DeltaNedas/ExampleJavaMod",
-    "name": "Example Java Mod",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-05T03:16:50Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod. Glory to the cat"
-  },
-  {
-    "repo": "Quantum-Coder826/AdamantiumMod",
-    "name": "Adamantium mod",
-    "author": "QByte, Superman",
-    "lastUpdated": "2021-02-06T10:17:18Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds adamantium to the game."
-  },
-  {
-    "repo": "Dinistor/heavy-metal-engi",
-    "name": "Heavy Metal Engineering",
-    "author": "DINisTOR",
-    "lastUpdated": "2021-02-07T11:10:35Z",
-    "stars": 0,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет несколько плюс-минус сбалансированных фабрик и пару генераторов"
-  },
-  {
-    "repo": "SakuraLilly/Powered-by-nature",
-    "name": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2021-02-07T16:02:59Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V6 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
-  },
-  {
-    "repo": "SakuraLilly/Trade-It",
-    "name": "Trade it",
-    "author": "SakuraLilly",
-    "lastUpdated": "2021-02-07T16:15:05Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working. "
-  },
-  {
-    "repo": "MMT007/Dustry-Verse",
-    "name": "Dustry Verse ",
-    "author": "Will#7435 and MMT007_backUP#9499",
-    "lastUpdated": "2021-02-08T22:12:09Z",
-    "stars": 0,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An extension that doesn't limit itself from this game only..."
-  },
-  {
-    "repo": "souvikpodder/Mindustry-souvy-mod",
-    "name": "Souvy Help Block",
-    "author": "Souvy",
-    "lastUpdated": "2021-02-09T19:13:53Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
-  },
-  {
-    "repo": "lordReddx/badGuns",
-    "name": "Bad Guns",
-    "author": "RED",
-    "lastUpdated": "2021-02-12T17:44:18Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "in dev"
-  },
-  {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "author": "I hope...",
-    "lastUpdated": "2021-02-14T14:18:42Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "beta2.0更新内容:\n1.添加语言和js脚本编辑.\n2.修复单位无法添加的bug.\n\n目前还没完善\n如有bug，请及时反馈给作者\n\n创建的是文件夹(在mods(I hope...)文件夹)."
-  },
-  {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
-  },
-  {
-    "repo": "nichrosia/Acceleration",
-    "name": "Acceleration",
-    "author": "NiChrosia",
-    "lastUpdated": "2021-02-16T21:22:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod."
-  },
-  {
-    "repo": "BlueThecno/Mindustry-Diamond-Mod",
-    "name": "Diamond Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-02-17T00:53:08Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
   }
 ]
