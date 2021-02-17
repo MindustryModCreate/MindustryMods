@@ -297,17 +297,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "K103908/Exotic-Mod",
-    "name": "Exotic Mod",
-    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-02-17T10:53:58Z",
-    "stars": 14,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
-  },
-  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
@@ -317,6 +306,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
+    "repo": "K103908/Exotic-Mod",
+    "name": "Exotic Mod",
+    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
+    "lastUpdated": "2021-02-17T10:53:58Z",
+    "stars": 13,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -1276,26 +1276,15 @@
     "description": "Uses up your cpu and ram.\n TODO:\n- Make this use up gpu"
   },
   {
-    "repo": "CalibriLight/MoreOresMDmod",
-    "name": "More Ores Mod",
-    "author": "CalibriLighYT",
-    "lastUpdated": "2020-12-21T10:15:20Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod add three ores  and too many things"
-  },
-  {
-    "repo": "RebornTrack970/routerplanet",
-    "name": "Router Planet",
-    "author": "RTOmega & Qmelz ",
-    "lastUpdated": "2020-12-21T18:03:00Z",
+    "repo": "RebornTrack970/OmegaCursed",
+    "name": "Omega-Cursed.bat",
+    "author": "RTOmega",
+    "lastUpdated": "2020-12-18T07:03:31Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds router planet"
+    "description": "A Completely new gamemode!"
   },
   {
     "repo": "staticvoidliam7/MindustrySpaceMod",
@@ -1342,17 +1331,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-01-29T09:30:45Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "PiGPiG2048/KENGINTERmod",
     "name": "KENGINTERmod",
     "author": "PiGPiG2048",
@@ -1373,17 +1351,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-02-14T00:48:30Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game."
   },
   {
     "repo": "Nikisos/TheBattleMod",
