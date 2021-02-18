@@ -319,17 +319,6 @@
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
-    "repo": "NickName73/Gravillaso",
-    "name": "Gravillaso Mod",
-    "author": "NickName73",
-    "lastUpdated": "2021-02-17T07:52:40Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Gravillaso - mod based on magnetic materials\n\n\nDevelopers: \nNickName73\nCREAsTIVE\nSpriters:\nRadmir Yakupov\nCat fat"
-  },
-  {
     "repo": "abomb4/super-cheat",
     "name": "(v6) Invincible Cheat 无敌作弊",
     "author": "滞人",
@@ -339,6 +328,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n"
+  },
+  {
+    "repo": "NickName73/Gravillaso",
+    "name": "Gravillaso Mod",
+    "author": "NickName73",
+    "lastUpdated": "2021-02-18T18:48:07Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Gravillaso - mod based on magnetic materials\n\n\nDevelopers: \nNickName73\nCREAsTIVE\nSpriters:\nRadmir Yakupov\nCat fat"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -1331,15 +1331,15 @@
     "description": "No description provided."
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-01-29T09:30:45Z",
+    "repo": "1qwaka/DPS-meter",
+    "name": "DPS-meter",
+    "author": "Qwaka",
+    "lastUpdated": "2021-01-25T06:15:39Z",
     "stars": 1,
     "minGameVersion": "105",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
-    "description": ""
+    "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
     "repo": "PiGPiG2048/KENGINTERmod",
@@ -1362,17 +1362,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-02-14T00:48:30Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game."
   },
   {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
