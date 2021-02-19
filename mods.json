@@ -113,7 +113,7 @@
     "repo": "Eschatologue/Heavy-Armaments-Industries",
     "name": "Heavy Armaments Industries",
     "author": "Eschatologue",
-    "lastUpdated": "2021-02-14T14:00:37Z",
+    "lastUpdated": "2021-02-19T05:12:34Z",
     "stars": 39,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -297,17 +297,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "K103908/Exotic-Mod",
-    "name": "Exotic Mod",
-    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-02-17T14:59:40Z",
-    "stars": 14,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
-  },
-  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
@@ -317,6 +306,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
+    "repo": "K103908/Exotic-Mod",
+    "name": "Exotic Mod",
+    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
+    "lastUpdated": "2021-02-19T05:15:23Z",
+    "stars": 14,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -1221,17 +1221,6 @@
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
   },
   {
-    "repo": "THEGAMER-10n/Techdustry",
-    "name": "Techdustry",
-    "author": "THEGAMER_10n",
-    "lastUpdated": "2021-02-18T10:37:18Z",
-    "stars": 2,
-    "minGameVersion": "123.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "TO-DO"
-  },
-  {
     "repo": "Leyn-pl/LEYNmod",
     "name": "LEYNmod",
     "author": "_LEYN",
@@ -1263,6 +1252,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Powerful weapons that use electromagnetism to make big pew."
+  },
+  {
+    "repo": "THEGAMER-10n/Techdustry",
+    "name": "Techdustry",
+    "author": "THEGAMER_10n",
+    "lastUpdated": "2021-02-19T04:35:32Z",
+    "stars": 2,
+    "minGameVersion": "123.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "TO-DO"
   },
   {
     "repo": "QmelZ/computer-begone",
