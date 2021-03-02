@@ -836,17 +836,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "FarmerThanos/Jukeustry",
-    "name": "Jukeustry",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-01-12T15:22:01Z",
-    "stars": 4,
-    "minGameVersion": "122.00",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
     "repo": "TheSaus/SimpleAdditions",
     "name": "Simple Additions",
     "author": "The-Saus#1038",
@@ -911,6 +900,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds specal additions in terms of technologies. Mod is still unfinished yet the entire mod is already planned inside my head."
+  },
+  {
+    "repo": "FarmerThanos/Jukeustry",
+    "name": "Jukeustry",
+    "author": "Farmer Thanos",
+    "lastUpdated": "2021-03-02T14:08:00Z",
+    "stars": 4,
+    "minGameVersion": "125.00",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
   },
   {
     "repo": "DeltaNedas/radar",
@@ -1364,15 +1364,15 @@
     "description": "A mindustry mod. Extremely unfinished. Animated shields is highly reccomended for gameplay."
   },
   {
-    "repo": "staticvoidliam7/MindustrySpaceMod",
-    "name": "Mindustry Space Expansion Pack",
-    "author": "Staticalliam7",
-    "lastUpdated": "2020-12-23T23:36:55Z",
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
     "stars": 1,
-    "minGameVersion": "121.4",
-    "hasScripts": false,
+    "minGameVersion": "120",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "Mod that gives tons of space parts"
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "RebornTrack970/infinicampaign",
@@ -1384,6 +1384,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
+    "repo": "FreezeMandu/PowerSources",
+    "name": "Power Sources mod",
+    "author": "Mandu",
+    "lastUpdated": "2021-01-10T16:52:59Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
