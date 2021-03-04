@@ -465,7 +465,7 @@
     "repo": "o7-Fire/Mindustry-Ozone",
     "name": "Ozone Mindustry",
     "author": "o7-Fire",
-    "lastUpdated": "2021-03-02T12:13:38Z",
+    "lastUpdated": "2021-03-04T01:47:26Z",
     "stars": 10,
     "minGameVersion": "123",
     "hasScripts": false,
@@ -671,17 +671,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-02-24T17:58:09Z",
-    "stars": 6,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone.\nHeal Button: Resets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to (basically) infinity.\n\nAlso increases zooming range."
-  },
-  {
     "repo": "7rodo/Strawberry",
     "name": "Strawberry",
     "author": "7rodo",
@@ -702,6 +691,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Kills braincells. Am i supposed to even say anything? Probably not."
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-03-04T01:24:39Z",
+    "stars": 6,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone.\nHeal Button: Resets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to (basically) infinity.\nSandbox/Survival Button: Toggles infinite resources.\nFill Core Button: Completely fills your core with every item, vanilla and modded.\n\nAlso increases zooming range."
   },
   {
     "repo": "DeltaNedas/no",
@@ -1395,17 +1395,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
-  },
-  {
-    "repo": "FreezeMandu/PowerSources",
-    "name": "Power Sources mod",
-    "author": "Mandu",
-    "lastUpdated": "2021-01-10T16:52:59Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "Nikisos/TheBattleMod",
