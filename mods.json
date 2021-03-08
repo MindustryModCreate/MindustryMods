@@ -682,17 +682,6 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-03-06T20:39:13Z",
-    "stars": 6,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\n\nAlso increases zooming range."
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
@@ -702,6 +691,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Kills braincells. Am i supposed to even say anything? Probably not."
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-03-08T09:27:37Z",
+    "stars": 6,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\n\nAlso increases zooming range."
   },
   {
     "repo": "DeltaNedas/no",
@@ -924,26 +924,26 @@
     "description": "Amplify your mindustry by adding new materials and adding new special blocks which will help you progress enjoy the turret families that have special abilities"
   },
   {
-    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
-    "name": "Legendary Rainbow Mod",
-    "author": "Mikamolimo",
-    "lastUpdated": "2021-03-08T08:03:37Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that."
-  },
-  {
     "repo": "THEGAMER-10n/Techdustry",
     "name": "Techdustry",
     "author": "THEGAMER_10n",
-    "lastUpdated": "2021-03-08T08:22:26Z",
+    "lastUpdated": "2021-03-08T08:32:23Z",
     "stars": 4,
     "minGameVersion": "116",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds specal additions in terms of technologies. Mod is still unfinished yet the entire mod is already planned inside my head."
+  },
+  {
+    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
+    "name": "Legendary Rainbow Mod",
+    "author": "Mikamolimo",
+    "lastUpdated": "2021-03-08T09:09:58Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that."
   },
   {
     "repo": "DeltaNedas/radar",
