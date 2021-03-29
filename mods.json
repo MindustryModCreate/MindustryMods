@@ -253,17 +253,6 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
-    "repo": "K103908/Exotic-Mod",
-    "name": "Exotic Mod",
-    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-03-26T21:37:52Z",
-    "stars": 21,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  suffering\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6"
-  },
-  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
@@ -273,6 +262,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
+    "repo": "K103908/Exotic-Mod",
+    "name": "Exotic Mod",
+    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
+    "lastUpdated": "2021-03-29T23:07:51Z",
+    "stars": 21,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  suffering\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6"
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -1364,17 +1364,6 @@
     "description": "一个跟mc中的工业时代(Industrial Craft)完全扯不上关系的mod"
   },
   {
-    "repo": "Leyn-pl/LEYNmod",
-    "name": "LEYNmod",
-    "author": "_LEYN",
-    "lastUpdated": "2021-03-01T14:08:32Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ВНИМАНИЕ:\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\nhttps://discord.gg/kqRsRCN"
-  },
-  {
     "repo": "Austin5003/mohole",
     "name": "Mohole (and more)",
     "author": "Austin5003",
@@ -1428,6 +1417,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod purely for decoration. Not really any functionallity. Adding more in the future. Thanks to Pankiwi for the planets."
+  },
+  {
+    "repo": "bloool/SolarWorks",
+    "name": "Solar Works",
+    "author": "blool",
+    "lastUpdated": "2021-03-16T20:03:58Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
     "repo": "BlueThecno/Galaxite-Mod",
