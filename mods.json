@@ -190,12 +190,12 @@
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
-    "lastUpdated": "2021-04-22T11:18:30Z",
+    "lastUpdated": "2021-04-23T08:21:48Z",
     "stars": 28,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+    "description": "Adds new content, including units, turrets, blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get there through <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when starting the game. By choosing the available settings, you can activate the in-game debug panel and advanced loading, which creates outline icons and unit full icons automatically. However, the advanced loading now causes a stuck problem when the game is loaded on a phone. So, for your gaming experience, I made it false by default. If you are confident with your device, activate it. If you find that your device cannot afford it, open the mod file folder and find the 'new-horizon' folder, open the properties file in it, and rewrite the '@active.advance-load' to false, then open the game again."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -944,17 +944,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "yes\nAlso try Gdeft/bleach!"
-  },
-  {
-    "repo": "TheSaus/SimpleAdditions",
-    "name": "Simple Additions",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-01-21T00:14:55Z",
-    "stars": 4,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds simple things, like the ability to build Huge and Gigantic walls, a new resource, an upgraded launch pad and more"
   },
   {
     "repo": "DeltaNedas/cliff",
