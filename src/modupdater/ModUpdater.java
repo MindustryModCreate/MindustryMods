@@ -71,7 +71,7 @@ public class ModUpdater{
 
             Fi icons = Fi.get("icons");
 
-            icons.deleteDirectory();
+            icons.delete(); //.deleteDirectory();
             icons.mkdirs();
 
             Log.info("&lcTotal mods found: @\n", names.size);
