@@ -97,7 +97,7 @@ public class ModUpdater{
                             var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
                             scaled.createGraphics().drawImage(icon.getScaledInstance(iconSize, iconSize, java.awt.Image.SCALE_AREA_AVERAGING), 0, 0, iconSize, iconSize, null);
                             Log.info("&lc| &lmFound icon file: @x@", icon.getWidth(), icon.getHeight());
-                            ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")).file());
+                            ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")+".png").file());
                         }
                     }
 
