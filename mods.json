@@ -154,6 +154,17 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "UI Lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-08T18:30:34Z",
+    "stars": 32,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "author": "DeltaNedas, Router and another guy",
@@ -388,7 +399,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "Aureus",
-    "lastUpdated": "2021-04-27T09:35:33Z",
+    "lastUpdated": "2021-04-27T17:03:10Z",
     "stars": 12,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -460,6 +471,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+  },
+  {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-04-05T06:07:43Z",
+    "stars": 11,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "MEEPofFaith/prog-mats-java",
