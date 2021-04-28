@@ -244,8 +244,8 @@
   {
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
-    "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-04-26T22:17:44Z",
+    "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
+    "lastUpdated": "2021-04-28T01:39:32Z",
     "stars": 24,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -290,7 +290,7 @@
     "name": "Opore-Mod",
     "author": "amione#0663",
     "lastUpdated": "2021-03-09T21:35:24Z",
-    "stars": 20,
+    "stars": 21,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": false,
@@ -407,6 +407,17 @@
     "description": "A mod that adds in some new content in to the game"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2021-04-28T00:18:10Z",
+    "stars": 12,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "author": "sk7725",
@@ -495,17 +506,6 @@
     "description": "a mod that adds more content wich is a great example for noobies to modding :D"
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-04-28T00:18:10Z",
-    "stars": 11,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "author": "tcookiem, Ski12345",
@@ -583,17 +583,6 @@
     "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
   },
   {
-    "repo": "SnakkiZXZ/Coppermod",
-    "name": "Coppermod",
-    "author": "Snakki",
-    "lastUpdated": "2020-12-27T07:12:49Z",
-    "stars": 8,
-    "minGameVersion": "115",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Немного читов"
-  },
-  {
     "repo": "AnOreo1/ChaosArranity",
     "name": "Chaos Arranity",
     "author": "Chickenloser, Oreo, and Duvent",
@@ -636,6 +625,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds upgraded versions of existing factories"
+  },
+  {
+    "repo": "SnakkiZXZ/Coppermod",
+    "name": "Coppermod",
+    "author": "Snakki",
+    "lastUpdated": "2021-04-28T02:34:03Z",
+    "stars": 8,
+    "minGameVersion": "115",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Немного читов"
   },
   {
     "repo": "Goobrr/shitass",
@@ -1543,7 +1543,7 @@
     "repo": "INSANEANDSAD/generic-mod",
     "name": "Mod Name",
     "author": "A author. Wow",
-    "lastUpdated": "2021-04-28T00:52:42Z",
+    "lastUpdated": "2021-04-28T02:17:48Z",
     "stars": 2,
     "minGameVersion": "125.1",
     "hasScripts": true,
