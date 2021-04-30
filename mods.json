@@ -223,7 +223,7 @@
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-04-29T20:36:03Z",
+    "lastUpdated": "2021-04-30T01:11:22Z",
     "stars": 26,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -363,6 +363,17 @@
     "description": "Gravillaso - mod based on magnetic materials\n\n\nDevelopers: \nNickName73\nCREAsTIVE\nSpriters:\nRadmir Yakupov\nCat fat"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2021-04-29T16:49:48Z",
+    "stars": 14,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "Fresh791/mindustry-extended",
     "name": "Mindustry-Extended",
     "author": "Developer:\n    Fresh791\n    \nContributers:\n    Boopas172 (Balance Playtesting / Ideas)\n    Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites / HIVE Sprites)\n    Hairy Nugget (Spanish Translations)\n    DeCell (Balance Playtester)",
@@ -374,15 +385,15 @@
     "description": "Mindustry Extended! Mission Strahl! Mission HIVE!\n\nA mod that focuses on adding cool but not op content.\n\nSupported Languages: English, Spanish\n\nPlease note that the content will be in the language that your game is\nin. (e.g: If your game is in English, the content will be so, too)."
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-04-29T16:49:48Z",
-    "stars": 13,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+    "repo": "sk7725/Commands",
+    "name": "Commands",
+    "author": "sk7725",
+    "lastUpdated": "2020-11-19T05:26:24Z",
+    "stars": 12,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -427,17 +438,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "EXP Library for 6.0!"
-  },
-  {
-    "repo": "sk7725/Commands",
-    "name": "Commands",
-    "author": "sk7725",
-    "lastUpdated": "2020-11-19T05:26:24Z",
-    "stars": 11,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -528,6 +528,28 @@
     "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
+    "repo": "Gdeft/bleach",
+    "name": "Bleach",
+    "author": "Gdeft",
+    "lastUpdated": "2020-12-16T00:19:00Z",
+    "stars": 9,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-04-21T00:49:51Z",
+    "stars": 9,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\n\nAlso increases zooming range."
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -572,15 +594,15 @@
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
   },
   {
-    "repo": "Gdeft/bleach",
-    "name": "Bleach",
-    "author": "Gdeft",
-    "lastUpdated": "2020-12-16T00:19:00Z",
+    "repo": "Goobrr/shitass",
+    "name": "Shitass",
+    "author": "Goober",
+    "lastUpdated": "2021-01-13T14:27:11Z",
     "stars": 8,
-    "minGameVersion": "120",
+    "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
+    "description": "Adds shitass to the game"
   },
   {
     "repo": "AnOreo1/ChaosArranity",
@@ -592,17 +614,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Making a mod for the first time. Join our Discord! discord.gg/6y6HAqTrkJ"
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-04-21T00:49:51Z",
-    "stars": 8,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\n\nAlso increases zooming range."
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -636,17 +647,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
-  },
-  {
-    "repo": "Goobrr/shitass",
-    "name": "Shitass",
-    "author": "Goober",
-    "lastUpdated": "2021-01-13T14:27:11Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds shitass to the game"
   },
   {
     "repo": "TheSlaylord/Basic-Schematics",
@@ -1243,6 +1243,17 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
+    "repo": "3Snake3/ADC",
+    "name": "ADC",
+    "author": "Snake",
+    "lastUpdated": "2021-02-15T02:27:26Z",
+    "stars": 3,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of additional content. It includes power generators, crafters, turrets, walls, drills, upgraded illuminator, new item, units and resprite of two ingame walls."
+  },
+  {
     "repo": "Yaroslav242/recompensator-mod",
     "name": "recompensator-mod",
     "author": "Yaroslav242",
@@ -1307,17 +1318,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Skyblock but in sea"
-  },
-  {
-    "repo": "Meltdown-Altair/Roomber-N-Wack",
-    "name": "[ff000]Roomber-N -Wack",
-    "author": "Roomber",
-    "lastUpdated": "2021-04-17T04:24:58Z",
-    "stars": 3,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod. Demonstrates how to make wack  and stuff."
   },
   {
     "repo": "pixaxeofpixie/AzureFlareTech",
@@ -1540,10 +1540,21 @@
     "description": "April Fools!"
   },
   {
+    "repo": "jhrushbe/MOARdustry",
+    "name": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2021-04-30T01:48:54Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.9 on 4-25-2021"
+  },
+  {
     "repo": "INSANEANDSAD/generic-mod",
     "name": "Mod Name",
     "author": "A author. Wow",
-    "lastUpdated": "2021-04-29T08:08:32Z",
+    "lastUpdated": "2021-04-30T02:16:32Z",
     "stars": 2,
     "minGameVersion": "125.1",
     "hasScripts": true,
