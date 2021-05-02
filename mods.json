@@ -15,7 +15,7 @@
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
     "lastUpdated": "2021-03-28T06:14:44Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -48,7 +48,7 @@
     "name": "Heavy Armaments Industries",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2021-04-25T15:12:32Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -176,6 +176,17 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Sharlottes/ExampleMod",
+    "name": "Example Mod",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-02-22T05:22:04Z",
+    "stars": 29,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
+  },
+  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
@@ -196,17 +207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
-  },
-  {
-    "repo": "Sharlottes/ExampleMod",
-    "name": "Example Mod",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-02-22T05:22:04Z",
-    "stars": 28,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
     "repo": "younggam/multi-lib",
@@ -330,6 +330,17 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2021-02-26T06:03:20Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
@@ -339,17 +350,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2021-02-26T06:03:20Z",
-    "stars": 14,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "Fresh791/mindustry-extended",
@@ -407,6 +407,17 @@
     "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
+    "repo": "DaGamerFiles/classic-music",
+    "name": "<Mindustry> Classic Music",
+    "author": "DaGamerFiles",
+    "lastUpdated": "2021-02-13T20:25:32Z",
+    "stars": 12,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
+  },
+  {
     "repo": "pankiwi/Horition",
     "name": "Horition",
     "author": "pankiwi",
@@ -460,17 +471,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "DaGamerFiles/classic-music",
-    "name": "<Mindustry> Classic Music",
-    "author": "DaGamerFiles",
-    "lastUpdated": "2021-02-13T20:25:32Z",
-    "stars": 11,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
     "repo": "theangelurd/Additional-Content",
@@ -1320,17 +1320,6 @@
     "description": "Skyblock but in sea"
   },
   {
-    "repo": "Meltdown-Altair/Roomber-N-Wack",
-    "name": "[ff000]Roomber-N -Wack",
-    "author": "Roomber",
-    "lastUpdated": "2021-04-17T04:24:58Z",
-    "stars": 3,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod. Demonstrates how to make wack  and stuff."
-  },
-  {
     "repo": "pixaxeofpixie/AzureFlareTech",
     "name": "Azure Flare Technologies",
     "author": "PixaxeOfPixie",
@@ -1576,7 +1565,7 @@
     "repo": "INSANEANDSAD/generic-mod",
     "name": "Mod Name",
     "author": "A author. Wow",
-    "lastUpdated": "2021-05-02T08:22:26Z",
+    "lastUpdated": "2021-05-02T08:37:35Z",
     "stars": 2,
     "minGameVersion": "125.1",
     "hasScripts": true,
