@@ -198,17 +198,6 @@
     "description": "Adds new content, including units, turrets, blocks, etc.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide. You can get there through <link> in the <Start Dialog>\n\n This mod adds a new setting dialog when starting the game. By choosing the available settings, you can activate the in-game debug panel and advanced loading, which creates outline icons and unit full icons automatically. However, the advanced loading now causes a stuck problem when the game is loaded on a phone. So, for your gaming experience, I made it false by default. If you are confident with your device, activate it. If you find that your device cannot afford it, open the mod file folder and find the 'new-horizon' folder, open the properties file in it, and rewrite the '@active.advance-load' to false, then open the game again."
   },
   {
-    "repo": "Gdeft/portal",
-    "name": "Portal",
-    "author": "Gdeft",
-    "lastUpdated": "2020-10-17T08:03:00Z",
-    "stars": 28,
-    "minGameVersion": "108",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
-  },
-  {
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
