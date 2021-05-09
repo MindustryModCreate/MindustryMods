@@ -190,12 +190,12 @@
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
-    "lastUpdated": "2021-05-02T07:52:50Z",
+    "lastUpdated": "2021-05-09T05:18:31Z",
     "stars": 29,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, etc.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide. You can get there through <link> in the <Start Dialog>\n\n This mod adds a new setting dialog when starting the game. By choosing the available settings, you can activate the in-game debug panel and advanced loading, which creates outline icons and unit full icons automatically. However, the advanced loading now causes a stuck problem when the game is loaded on a phone. So, for your gaming experience, I made it false by default. If you are confident with your device, activate it. If you find that your device cannot afford it, open the mod file folder and find the 'new-horizon' folder, open the properties file in it, and rewrite the '@active.advance-load' to false, then open the game again."
+    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "Gdeft/portal",
@@ -418,6 +418,17 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-04-05T06:07:43Z",
+    "stars": 12,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "pankiwi/Horition",
     "name": "Horition",
     "author": "pankiwi",
@@ -482,17 +493,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
-  },
-  {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-05T06:07:43Z",
-    "stars": 11,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "xjamiex/infinite-program",
