@@ -858,17 +858,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "author": "Skat",
-    "lastUpdated": "2021-05-07T17:43:59Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
-  },
-  {
     "repo": "QmelZ/void",
     "name": "Void",
     "author": "QmelZ",
@@ -900,6 +889,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "author": "Skat",
+    "lastUpdated": "2021-05-13T20:21:56Z",
+    "stars": 6,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
   },
   {
     "repo": "DeltaNedas/no",
@@ -1408,28 +1408,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "MindustryInside/JavaModTemplate",
-    "name": "Java Mod Template",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-07T17:39:03Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Java mods for Mindustry."
-  },
-  {
-    "repo": "MindustryInside/ClassicMusic",
-    "name": "Mindustry Classic Music",
-    "author": "Summet, A Drop A Day (music)",
-    "lastUpdated": "2021-05-07T17:40:16Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod to return the music to 3.5."
-  },
-  {
     "repo": "superwibr/etigeox-mod",
     "name": "ETG Circsus",
     "author": "Superwibr & Miter",
@@ -1461,6 +1439,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of additional content like turrets, units, factories and other."
+  },
+  {
+    "repo": "MindustryInside/JavaModTemplate",
+    "name": "Java Mod Template",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-13T20:23:15Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Java mods for Mindustry."
+  },
+  {
+    "repo": "MindustryInside/ClassicMusic",
+    "name": "Mindustry Classic Music",
+    "author": "Summet, A Drop A Day (music)",
+    "lastUpdated": "2021-05-13T20:25:24Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to return the music to 3.5."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1681,6 +1681,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a description."
+  },
+  {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -1912,17 +1923,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
-    "repo": "RebornTrack970/moonmod",
-    "name": "MoonMod",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-31T07:59:05Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds moon"
   },
   {
     "repo": "osp54/Zoom-Mod",
