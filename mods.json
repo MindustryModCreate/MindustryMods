@@ -231,17 +231,6 @@
     "description": "WARNING: Not supported on low-end devices.\n\nWe got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  you should have run when you could have.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
-    "repo": "younggam/multi-lib",
-    "name": "Multi Lib",
-    "author": "younggam",
-    "lastUpdated": "2021-02-10T06:46:50Z",
-    "stars": 26,
-    "minGameVersion": "112.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
     "repo": "DeltaNedas/dev-mode",
     "name": "Developer Mode",
     "author": "DeltaNedas",
@@ -251,6 +240,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
+  },
+  {
+    "repo": "younggam/multi-lib",
+    "name": "Multi Lib",
+    "author": "younggam",
+    "lastUpdated": "2021-05-14T00:32:03Z",
+    "stars": 26,
+    "minGameVersion": "112.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
     "repo": "MEEPofFaith/missing-category-units",
@@ -407,6 +407,17 @@
     "description": "A mod that adds in some new content in to the game"
   },
   {
+    "repo": "abomb4/dimension-shard",
+    "name": "Dimension Shard",
+    "author": "滞人",
+    "lastUpdated": "2021-05-01T08:02:16Z",
+    "stars": 13,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
+  },
+  {
     "repo": "sk7725/Commands",
     "name": "Commands",
     "author": "sk7725",
@@ -438,17 +449,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
-  },
-  {
-    "repo": "abomb4/dimension-shard",
-    "name": "Dimension Shard",
-    "author": "滞人",
-    "lastUpdated": "2021-05-01T08:02:16Z",
-    "stars": 12,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
     "repo": "pankiwi/Horition",
@@ -627,6 +627,17 @@
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Infomation",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-05-14T00:35:20Z",
+    "stars": 9,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
+  },
+  {
     "repo": "sk7725/Immundustry",
     "name": "Immundustry",
     "author": "sk7725",
@@ -660,17 +671,6 @@
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
   },
   {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Infomation",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-05-11T10:24:33Z",
-    "stars": 8,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
-  },
-  {
     "repo": "TheSlaylord/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "author": "The Slaylord",
@@ -680,6 +680,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
+  },
+  {
+    "repo": "TheSkyFather/Minerals",
+    "name": "Minerals",
+    "author": "SkyFather",
+    "lastUpdated": "2021-02-11T13:20:57Z",
+    "stars": 7,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Explore minerals and mechanisms."
   },
   {
     "repo": "bluehouse-studios/Dark-Life",
@@ -1397,17 +1408,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-05-13T06:16:38Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.9 on 4-25-2021"
-  },
-  {
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "author": "Snake",
@@ -1441,10 +1441,21 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "jhrushbe/MOARdustry",
+    "name": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2021-05-14T00:07:01Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.9 on 4-25-2021"
+  },
+  {
     "repo": "superwibr/etigeox-mod",
     "name": "ETG Circsus",
     "author": "Superwibr & Miter",
-    "lastUpdated": "2021-05-13T23:14:23Z",
+    "lastUpdated": "2021-05-14T00:38:40Z",
     "stars": 3,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -1672,6 +1683,17 @@
     "description": "This is a description."
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "author": "SMIPE444",
@@ -1780,6 +1802,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nsearch 'Logic Bench' in schematics!\n"
+  },
+  {
+    "repo": "Divarion-D/Technology",
+    "name": "Technology",
+    "author": "Deletron247",
+    "lastUpdated": "2021-05-12T08:00:19Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
   },
   {
     "repo": "Nikisos/TheBattleMod",
