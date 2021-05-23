@@ -223,7 +223,7 @@
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-05-23T17:15:44Z",
+    "lastUpdated": "2021-05-23T20:00:26Z",
     "stars": 28,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-05-21T19:28:22Z",
+    "lastUpdated": "2021-05-23T20:24:33Z",
     "stars": 21,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -1268,7 +1268,7 @@
     "repo": "FlinTyX/DiverseTech",
     "name": "DiverseTech",
     "author": "Flin",
-    "lastUpdated": "2021-05-23T19:17:41Z",
+    "lastUpdated": "2021-05-23T20:19:09Z",
     "stars": 4,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1661,17 +1661,6 @@
     "description": "April Fools!"
   },
   {
-    "repo": "YSpoof/mindustry-zmod",
-    "name": "ZMod",
-    "author": "N0TZ3R0",
-    "lastUpdated": "2021-05-19T15:28:55Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod provides a new way to play Mindustry, being a Ground Unit and add some useful things, like turrets, units, etc...\n\nContributors: \n\nPenguin0 ( Some sprites and some code )\nkuraisensei ( Some sprites )"
-  },
-  {
     "repo": "ice100k/prismatic",
     "name": "Prismatic",
     "author": "ice100k, thecrisperson",
@@ -1705,15 +1694,15 @@
     "description": "This is a description."
   },
   {
-    "repo": "4156/Infintory",
-    "name": "Example Java Mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-10-03T12:14:03Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
+    "repo": "YSpoof/mindustry-zmod",
+    "name": "ZMod",
+    "author": "N0TZ3R0",
+    "lastUpdated": "2021-05-23T19:59:43Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod provides a new way to play Mindustry, being a Ground Unit and add some useful things, like turrets, units, etc...\n\nContributors: \n\nPenguin0 ( Some sprites and some code )\nkuraisensei ( Some sprites )"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -1758,6 +1747,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-01-31T02:15:33Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
   },
   {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
@@ -1824,17 +1824,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nsearch 'Logic Bench' in schematics!\n"
-  },
-  {
-    "repo": "Divarion-D/Technology",
-    "name": "Technology",
-    "author": "Deletron247",
-    "lastUpdated": "2021-05-12T08:00:19Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New guns, drills, crafting, materials and resourses"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -1914,6 +1903,17 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
+    "repo": "Destrux/mega-battery-mod",
+    "name": "More Batteries",
+    "author": "Destrux",
+    "lastUpdated": "2021-01-23T17:08:16Z",
+    "stars": 0,
+    "minGameVersion": "123.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod adding multiple tiers of more powerful batteries"
+  },
+  {
     "repo": "AlbinoGeek/modFoo",
     "name": "Mod Template //the displayed mod name",
     "author": "Sharlotte //you",
@@ -1945,6 +1945,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
+  },
+  {
+    "repo": "RebornTrack970/moonmod",
+    "name": "MoonMod",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-31T07:59:05Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds moon"
   },
   {
     "repo": "KotMilkMeoW/sun-mod",
