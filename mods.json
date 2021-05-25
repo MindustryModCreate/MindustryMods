@@ -154,17 +154,6 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "DeltaNedas/ui-lib",
-    "name": "UI Lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-05-17T19:01:47Z",
-    "stars": 37,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "author": "DeltaNedas, Router and another guy",
@@ -1342,17 +1331,6 @@
     "description": "High maneuverability land unit"
   },
   {
-    "repo": "QmelZ/launchpad-redirect",
-    "name": "Launchpad Redirect",
-    "author": "QmelZ",
-    "lastUpdated": "2021-03-26T08:39:51Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "1qwaka/Adronium-mod",
     "name": "Adronium mod",
     "author": "Дикая пчела",
@@ -1488,7 +1466,7 @@
     "repo": "THEGAMER-10n/New-Era",
     "name": "NEW-ERA: alpha 0.1",
     "author": "THEGAMER_10n",
-    "lastUpdated": "2021-05-25T03:10:13Z",
+    "lastUpdated": "2021-05-25T09:52:35Z",
     "stars": 3,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1958,15 +1936,15 @@
     "description": "A Mindustry Mod that Reverts Multiplayernt"
   },
   {
-    "repo": "KotMilkMeoW/Milkmod",
-    "name": "MilkMod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
+    "repo": "RebornTrack970/moonmod",
+    "name": "MoonMod",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-31T07:59:05Z",
     "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
+    "minGameVersion": "120",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "mod for Mindustry"
+    "description": "Adds moon"
   },
   {
     "repo": "KotMilkMeoW/sun-mod",
@@ -1978,5 +1956,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
+  },
+  {
+    "repo": "Xusk947/NeoTech",
+    "name": "NeoTech",
+    "author": "Xusk",
+    "lastUpdated": "2021-05-25T10:27:31Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod add new Unit's and fractions"
   }
 ]
