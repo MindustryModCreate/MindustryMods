@@ -135,6 +135,8 @@ public class ModUpdater{
 
                 obj.add("repo", name);
                 obj.add("name", metaName);
+                obj.add("version", Strings.stripColors(modj.getString("version", "No version provided.")));
+                obj.add("mod_id", Strings.stripColors(modj.getString("name", "No name provided.")));
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
