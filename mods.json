@@ -31,7 +31,7 @@
     "version": "0.9",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2021-05-29T05:04:01Z",
+    "lastUpdated": "2021-05-29T22:53:37Z",
     "stars": 96,
     "minGameVersion": "123",
     "hasScripts": false,
@@ -512,7 +512,7 @@
     "version": "1.2",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2021-05-29T15:07:05Z",
+    "lastUpdated": "2021-05-29T22:48:39Z",
     "stars": 13,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -642,7 +642,7 @@
     "version": "0.3.8",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-05-29T22:36:00Z",
+    "lastUpdated": "2021-05-29T23:33:02Z",
     "stars": 11,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1482,19 +1482,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "NiChrosia/Acceleration",
-    "name": "Acceleration",
-    "version": "0.2",
-    "mod_id": "acceleration",
-    "author": "NiChrosia",
-    "lastUpdated": "2021-05-29T01:42:58Z",
-    "stars": 4,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A kotlin mod."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1506,6 +1493,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "NiChrosia/Acceleration",
+    "name": "Acceleration",
+    "version": "0.2",
+    "mod_id": "acceleration",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-05-29T23:32:13Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A kotlin mod."
   },
   {
     "repo": "DeltaNedas/radar",
