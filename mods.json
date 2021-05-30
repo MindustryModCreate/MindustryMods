@@ -208,6 +208,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Sharlottes/ExampleMod",
+    "name": "Example Mod",
+    "version": "1.4.9",
+    "mod_id": "testmod",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-02-22T05:22:04Z",
+    "stars": 30,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
+  },
+  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "version": "1.7.9 beta",
@@ -219,19 +232,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
-  },
-  {
-    "repo": "Sharlottes/ExampleMod",
-    "name": "Example Mod",
-    "version": "1.4.9",
-    "mod_id": "testmod",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-02-22T05:22:04Z",
-    "stars": 29,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
     "repo": "K103908/Exotic-Mod",
@@ -409,7 +409,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-05-28T18:40:07Z",
-    "stars": 18,
+    "stars": 19,
     "minGameVersion": "126.1",
     "hasScripts": false,
     "hasJava": false,
@@ -642,7 +642,7 @@
     "version": "0.3.8",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-05-29T23:33:02Z",
+    "lastUpdated": "2021-05-30T00:49:18Z",
     "stars": 11,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1040,6 +1040,19 @@
     "description": "random ideas"
   },
   {
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.2",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2021-05-21T09:41:25Z",
+    "stars": 6,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
     "repo": "ZoGGerS-cc/Major",
     "name": "Major",
     "version": "2.2",
@@ -1170,19 +1183,6 @@
     "description": "adds a bunch of stuff"
   },
   {
-    "repo": "Vandomas/bad_tr",
-    "name": "Bad TR",
-    "version": "6.2",
-    "mod_id": "bad_tr",
-    "author": "Vandomas",
-    "lastUpdated": "2021-02-01T11:39:06Z",
-    "stars": 5,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Очень странный перевод для игры... \nГоворят он может убить..."
-  },
-  {
     "repo": "WilloIzCitron/alex-dustry",
     "name": "Alexdustry",
     "version": "1.0.0",
@@ -1235,19 +1235,6 @@
     "description": "Unicorp presents to you their various units (and some more stuff) for different stages of the game. All funds does not go to charity, rather to the CEO's wallet.\n                  Also implements and reworks some content from discontinued AdvanceCombat.\n                   The unicorp reconstructor line was deleted in update 1.5."
   },
   {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.2",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2021-05-21T09:41:25Z",
-    "stars": 5,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
     "repo": "skykatik/PaperMod",
     "name": "PaperMod",
     "version": "0.3",
@@ -1298,6 +1285,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "the"
+  },
+  {
+    "repo": "Vandomas/bad_tr",
+    "name": "Bad TR",
+    "version": "6.2",
+    "mod_id": "bad_tr",
+    "author": "Vandomas",
+    "lastUpdated": "2021-05-30T00:24:03Z",
+    "stars": 5,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Очень странный перевод для игры... \nГоворят он может убить..."
   },
   {
     "repo": "DeltaNedas/mobile-ui",
@@ -1482,19 +1482,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-29T20:36:49Z",
-    "stars": 4,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -1506,6 +1493,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A kotlin mod."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-30T01:14:28Z",
+    "stars": 4,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/radar",
@@ -2286,19 +2286,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
-    "repo": "RebornTrack970/moonmod",
-    "name": "MoonMod",
-    "version": "0.1",
-    "mod_id": "moonmod",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-31T07:59:05Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds moon"
   },
   {
     "repo": "Xusk947/NeoTech",
