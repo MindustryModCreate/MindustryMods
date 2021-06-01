@@ -57,10 +57,10 @@
     "version": "0",
     "mod_id": "shadow-mod",
     "author": "Pietro303HD",
-    "lastUpdated": "2021-05-31T02:23:15Z",
-    "stars": 62,
+    "lastUpdated": "2021-06-01T19:42:41Z",
+    "stars": 63,
     "minGameVersion": "126.2",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "no content yet, stay tuned though."
   },
@@ -221,17 +221,17 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "K103908/Exotic-Mod",
+    "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
-    "version": "0.4 Alpha",
+    "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
-    "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-06-01T05:57:04Z",
+    "author": "BlueWolf",
+    "lastUpdated": "2021-06-01T20:53:24Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nWe got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  you should have run when you could have.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
+    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -655,7 +655,7 @@
     "version": "0.4.0",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-06-01T17:33:13Z",
+    "lastUpdated": "2021-06-01T21:02:45Z",
     "stars": 11,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1747,7 +1747,7 @@
     "version": "0.9",
     "mod_id": "MOARdustry",
     "author": "Jhrushbe",
-    "lastUpdated": "2021-06-01T18:02:45Z",
+    "lastUpdated": "2021-06-01T20:53:12Z",
     "stars": 3,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -2028,19 +2028,6 @@
     "description": "Some strange mod, which there some metals."
   },
   {
-    "repo": "Sirvoid/MindustryVCode",
-    "name": "VCode Compiler",
-    "version": "0.2.2",
-    "mod_id": "VCode Compiler",
-    "author": "Sirvoid",
-    "lastUpdated": "2021-06-01T02:19:07Z",
-    "stars": 2,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,while,break,end,cmd\nSee example: https://pastebin.com/3vTgba6k"
-  },
-  {
     "repo": "YSpoof/mindustry-zmod",
     "name": "ZMod",
     "version": "1.0.4d",
@@ -2052,6 +2039,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "Sirvoid/MindustryVCode",
+    "name": "VCode Compiler",
+    "version": "0.4.0",
+    "mod_id": "VCode Compiler",
+    "author": "Sirvoid",
+    "lastUpdated": "2021-06-01T20:18:58Z",
+    "stars": 2,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
     "repo": "2938137849/MindustryMod",
