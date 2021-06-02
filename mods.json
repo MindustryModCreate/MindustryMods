@@ -226,7 +226,7 @@
     "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-06-02T07:31:51Z",
+    "lastUpdated": "2021-06-02T17:28:08Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "1.2",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-06-02T03:14:26Z",
+    "lastUpdated": "2021-06-02T17:26:26Z",
     "stars": 23,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -431,15 +431,15 @@
   {
     "repo": "NickName73/Gravillaso",
     "name": "Gravillaso Mod",
-    "version": "0.13.9",
+    "version": "1.0.0beta",
     "mod_id": "gravillaso",
     "author": "NickName73",
-    "lastUpdated": "2021-06-01T16:56:47Z",
+    "lastUpdated": "2021-06-02T17:08:03Z",
     "stars": 17,
-    "minGameVersion": "125",
+    "minGameVersion": "126.3",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Mod disabled or not working"
+    "description": "Gravillaso - mod based on magnetic materials"
   },
   {
     "repo": "sk7725/Testers",
@@ -1123,7 +1123,7 @@
     "version": "0.1.0",
     "mod_id": "diversetech",
     "author": "Flin",
-    "lastUpdated": "2021-06-02T14:43:36Z",
+    "lastUpdated": "2021-06-02T15:49:46Z",
     "stars": 6,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1482,19 +1482,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-30T01:14:28Z",
-    "stars": 4,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "version": "7.0",
@@ -1519,6 +1506,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A kotlin mod."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-06-02T17:48:55Z",
+    "stars": 4,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/radar",
@@ -1740,19 +1740,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A vanilla friendly lore mod."
-  },
-  {
-    "repo": "Meltdown-Altair/RoombanDustry",
-    "name": "RoombanDustry ",
-    "version": "Beta CSSS",
-    "mod_id": "RoombanDustry ",
-    "author": "Meltdown-Altair",
-    "lastUpdated": "2021-06-01T11:22:17Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": " Adds some very purple units , alongside a host of other units , buildings and a new planet that might be added soon . "
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2119,19 +2106,6 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "version": "0",
-    "mod_id": "newhorizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-01-31T02:15:33Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
-  },
-  {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
     "name": "UnDeRtHeWaTeR",
     "version": "0.2.2",
@@ -2301,19 +2275,6 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "version": "1.0",
-    "mod_id": "more-batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
-  },
-  {
     "repo": "AlbinoGeek/modFoo",
     "name": "Mod Template //the displayed mod name",
     "version": "1.4.7 //this mod version",
@@ -2351,6 +2312,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
+  },
+  {
+    "repo": "RebornTrack970/moonmod",
+    "name": "MoonMod",
+    "version": "0.1",
+    "mod_id": "moonmod",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-31T07:59:05Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds moon"
   },
   {
     "repo": "Xusk947/NeoTech",
