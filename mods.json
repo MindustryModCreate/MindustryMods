@@ -408,7 +408,7 @@
     "version": "2.8.1",
     "mod_id": "Invincible Cheat Mod v6",
     "author": "滞人",
-    "lastUpdated": "2021-03-31T03:25:15Z",
+    "lastUpdated": "2021-06-03T12:27:30Z",
     "stars": 21,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1482,6 +1482,19 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2021-05-24T18:13:44Z",
+    "stars": 4,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "version": "7.0",
@@ -1727,6 +1740,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
+  },
+  {
+    "repo": "Meltdown-Altair/RoombanDustry",
+    "name": "RoombanDustry ",
+    "version": "Beta CSSS",
+    "mod_id": "RoombanDustry ",
+    "author": "Meltdown-Altair",
+    "lastUpdated": "2021-06-01T11:22:17Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " Adds some very purple units , alongside a host of other units , buildings and a new planet that might be added soon . "
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2054,19 +2080,6 @@
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
-    "repo": "4156/Infintory",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-10-03T12:14:03Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -2117,6 +2130,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "version": "0",
+    "mod_id": "newhorizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-01-31T02:15:33Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
   },
   {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
@@ -2286,6 +2312,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "Destrux/mega-battery-mod",
+    "name": "More Batteries",
+    "version": "1.0",
+    "mod_id": "more-batteries",
+    "author": "Destrux",
+    "lastUpdated": "2021-01-23T17:08:16Z",
+    "stars": 0,
+    "minGameVersion": "123.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "AlbinoGeek/modFoo",
