@@ -226,7 +226,7 @@
     "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-06-03T20:56:22Z",
+    "lastUpdated": "2021-06-03T21:41:43Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -247,6 +247,19 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
+    "repo": "Sharlottes/sharustry",
+    "name": "Sharustry",
+    "version": "0.1",
+    "mod_id": "shar",
+    "author": "Sharlottes",
+    "lastUpdated": "2021-05-04T07:09:40Z",
+    "stars": 30,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
+  },
+  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "version": "1.8 beta",
@@ -258,19 +271,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
-  },
-  {
-    "repo": "Sharlottes/sharustry",
-    "name": "Sharustry",
-    "version": "0.1",
-    "mod_id": "shar",
-    "author": "Sharlottes",
-    "lastUpdated": "2021-05-04T07:09:40Z",
-    "stars": 29,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
     "repo": "Gdeft/portal",
@@ -382,7 +382,7 @@
     "version": "1.2",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-06-02T17:26:26Z",
+    "lastUpdated": "2021-06-03T22:08:54Z",
     "stars": 23,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -785,7 +785,7 @@
     "version": "1.0",
     "mod_id": "more-defences-ivyx",
     "author": "IvyX",
-    "lastUpdated": "2021-06-03T19:15:12Z",
+    "lastUpdated": "2021-06-03T22:17:35Z",
     "stars": 9,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -845,12 +845,25 @@
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
   },
   {
+    "repo": "FlinTyX/DiverseTech",
+    "name": "DiverseTech",
+    "version": "0.1.0",
+    "mod_id": "diversetech",
+    "author": "Flin",
+    "lastUpdated": "2021-06-03T17:45:19Z",
+    "stars": 8,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "the"
+  },
+  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "8 Pre-release 16",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-06-03T07:53:08Z",
+    "lastUpdated": "2021-06-03T22:00:59Z",
     "stars": 8,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -895,6 +908,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
+  },
+  {
+    "repo": "bloool/CobaltMod",
+    "name": "Cobalt Mod",
+    "version": "0.8",
+    "mod_id": "cobaltmod",
+    "author": "blool",
+    "lastUpdated": "2021-02-19T17:09:29Z",
+    "stars": 7,
+    "minGameVersion": "122.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
     "repo": "bluehouse-studios/Dark-Life",
@@ -975,19 +1001,6 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
-    "repo": "FlinTyX/DiverseTech",
-    "name": "DiverseTech",
-    "version": "0.1.0",
-    "mod_id": "diversetech",
-    "author": "Flin",
-    "lastUpdated": "2021-06-03T17:45:19Z",
-    "stars": 7,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the"
-  },
-  {
     "repo": "DeltaNedas/speed",
     "name": "Speed",
     "version": "2.2.1",
@@ -1012,19 +1025,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "One should do what one enjoys, and won't harm anyone else."
-  },
-  {
-    "repo": "bloool/CobaltMod",
-    "name": "Cobalt Mod",
-    "version": "0.8",
-    "mod_id": "cobaltmod",
-    "author": "blool",
-    "lastUpdated": "2021-02-19T17:09:29Z",
-    "stars": 6,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
     "repo": "valtsu41/bundle-chaos",
@@ -1742,17 +1742,17 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
   },
   {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "version": "0.9",
-    "mod_id": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-06-03T03:39:02Z",
+    "repo": "Meltdown-Altair/RoombanDustry",
+    "name": "RoombanDustry ",
+    "version": "Beta CSSS",
+    "mod_id": "RoombanDustry ",
+    "author": "Meltdown-Altair",
+    "lastUpdated": "2021-06-01T11:22:17Z",
     "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.9 on 4-25-2021"
+    "description": " Adds some very purple units , alongside a host of other units , buildings and a new planet that might be added soon . "
   },
   {
     "repo": "THEGAMER-10n/New-Era",
@@ -1779,6 +1779,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
+  },
+  {
+    "repo": "jhrushbe/MOARdustry",
+    "name": "MOARdustry",
+    "version": "0.9",
+    "mod_id": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2021-06-03T22:49:15Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.9 on 4-25-2021"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2119,6 +2132,19 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
+    "repo": "Sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "version": "0",
+    "mod_id": "newhorizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-01-31T02:15:33Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
+  },
+  {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
     "name": "UnDeRtHeWaTeR",
     "version": "0.2.2",
@@ -2262,19 +2288,6 @@
     "description": "much ruoter very ruoter"
   },
   {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -2286,6 +2299,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "Destrux/mega-battery-mod",
+    "name": "More Batteries",
+    "version": "1.0",
+    "mod_id": "more-batteries",
+    "author": "Destrux",
+    "lastUpdated": "2021-01-23T17:08:16Z",
+    "stars": 0,
+    "minGameVersion": "123.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "AlbinoGeek/modFoo",
