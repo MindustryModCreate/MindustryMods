@@ -6,7 +6,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 147,
+    "stars": 148,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -19,7 +19,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2021-03-28T06:14:44Z",
-    "stars": 112,
+    "stars": 113,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -45,7 +45,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2021-05-23T07:57:25Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "routorio",
     "author": "DeltaNedas",
     "lastUpdated": "2021-01-26T21:21:18Z",
-    "stars": 50,
+    "stars": 51,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
@@ -117,6 +117,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "HolyHades/VanillaEnhanced",
+    "name": "VanillaEnhanced",
+    "version": "2.1",
+    "mod_id": "Vanilla Enhanced",
+    "author": "HolyHades",
+    "lastUpdated": "2021-03-27T02:08:28Z",
+    "stars": 49,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few things that enhance the vanilla experience."
+  },
+  {
     "repo": "TheSlaylord/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b14",
@@ -130,26 +143,13 @@
     "description": "This mod adds new items, blocks, turrets, units and zones to the game. Includes a custom expanding lore!\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
-    "repo": "HolyHades/VanillaEnhanced",
-    "name": "VanillaEnhanced",
-    "version": "2.1",
-    "mod_id": "Vanilla Enhanced",
-    "author": "HolyHades",
-    "lastUpdated": "2021-03-27T02:08:28Z",
-    "stars": 48,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few things that enhance the vanilla experience."
-  },
-  {
     "repo": "Sh1penfire/pixelcraft",
     "name": "Pixelcraft: The endless rust",
     "version": "0.9.85",
     "mod_id": "pixelcraft",
     "author": "Sh1penfire and pankiwi",
     "lastUpdated": "2021-06-04T01:21:39Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
@@ -1638,6 +1638,19 @@
     "description": "Mod that targets on visual effects and sprites."
   },
   {
+    "repo": "TheSaus/DubiousWhiteLiquidustry",
+    "name": "DubiousWhiteLiquidustry",
+    "version": "1.0.1",
+    "mod_id": "dubiouswhiteliquidustry",
+    "author": "The-Saus#1038",
+    "lastUpdated": "2021-04-21T04:21:43Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
+  },
+  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -1760,7 +1773,7 @@
     "version": "0.10",
     "mod_id": "MOARdustry",
     "author": "Jhrushbe",
-    "lastUpdated": "2021-06-04T17:54:01Z",
+    "lastUpdated": "2021-06-04T18:03:08Z",
     "stars": 3,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -2043,10 +2056,10 @@
   {
     "repo": "YSpoof/mindustry-zmod",
     "name": "ZMod",
-    "version": "1.0.4d",
+    "version": "1.0.4e",
     "mod_id": "ZMod",
     "author": "N0TZ3R0",
-    "lastUpdated": "2021-06-01T12:45:16Z",
+    "lastUpdated": "2021-06-04T19:43:31Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -2104,6 +2117,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "version": "0",
+    "mod_id": "newhorizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-01-31T02:15:33Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
   },
   {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
@@ -2275,6 +2301,19 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
+    "repo": "Destrux/mega-battery-mod",
+    "name": "More Batteries",
+    "version": "1.0",
+    "mod_id": "more-batteries",
+    "author": "Destrux",
+    "lastUpdated": "2021-01-23T17:08:16Z",
+    "stars": 0,
+    "minGameVersion": "123.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod adding multiple tiers of more powerful batteries"
+  },
+  {
     "repo": "AlbinoGeek/modFoo",
     "name": "Mod Template //the displayed mod name",
     "version": "1.4.7 //this mod version",
@@ -2312,19 +2351,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
-    "repo": "KotMilkMeoW/Milkmod",
-    "name": "MilkMod",
-    "version": "0.0.1",
-    "mod_id": "milkmod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod for Mindustry"
   },
   {
     "repo": "Xusk947/NeoTech",
