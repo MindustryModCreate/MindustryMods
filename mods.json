@@ -364,19 +364,6 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
-    "repo": "AureusStratus/ExoGenesis",
-    "name": "Exogenesis",
-    "version": "1.2",
-    "mod_id": "exogenesis",
-    "author": "AureusStratus",
-    "lastUpdated": "2021-06-03T22:08:54Z",
-    "stars": 23,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds in a butt load of content"
-  },
-  {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "version": "1.11.1",
@@ -388,6 +375,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "AureusStratus/ExoGenesis",
+    "name": "Exogenesis",
+    "version": "1.2",
+    "mod_id": "exogenesis",
+    "author": "AureusStratus",
+    "lastUpdated": "2021-06-04T22:13:27Z",
+    "stars": 23,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds in a butt load of content"
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -798,12 +798,25 @@
     "version": "0.1.0",
     "mod_id": "diversetech",
     "author": "Flin",
-    "lastUpdated": "2021-06-04T20:20:09Z",
+    "lastUpdated": "2021-06-04T21:27:33Z",
     "stars": 9,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
     "description": "the"
+  },
+  {
+    "repo": "sk7725/Immundustry",
+    "name": "Immundustry",
+    "version": "0.1",
+    "mod_id": "immune",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-21T17:51:55Z",
+    "stars": 8,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The immune system in Mindustry. WIP!\nSprites and content helped by EyeofDarkness; temporary!"
   },
   {
     "repo": "Solokil/V6AdventureU",
@@ -1625,19 +1638,6 @@
     "description": "Mod that targets on visual effects and sprites."
   },
   {
-    "repo": "TheSaus/DubiousWhiteLiquidustry",
-    "name": "DubiousWhiteLiquidustry",
-    "version": "1.0.1",
-    "mod_id": "dubiouswhiteliquidustry",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-04-21T04:21:43Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
-  },
-  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -1760,7 +1760,7 @@
     "version": "0.10",
     "mod_id": "MOARdustry",
     "author": "Jhrushbe",
-    "lastUpdated": "2021-06-04T21:05:08Z",
+    "lastUpdated": "2021-06-04T22:45:02Z",
     "stars": 3,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -2106,19 +2106,6 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "version": "0",
-    "mod_id": "newhorizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-01-31T02:15:33Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
-  },
-  {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
     "name": "UnDeRtHeWaTeR",
     "version": "0.2.2",
@@ -2286,19 +2273,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
-  },
-  {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "version": "1.0",
-    "mod_id": "more-batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "AlbinoGeek/modFoo",
