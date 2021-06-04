@@ -52,6 +52,19 @@
     "description": "The other way around"
   },
   {
+    "repo": "Eschatologue/Heavy-Armaments-Industries",
+    "name": "Heavy Armaments Industries",
+    "version": "2.6",
+    "mod_id": "Heavy Armaments",
+    "author": "[#386dff]Eschatologue[]",
+    "lastUpdated": "2021-06-01T02:07:03Z",
+    "stars": 64,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unlimited Armament Works"
+  },
+  {
     "repo": "Pietro303HD/ShadowMod",
     "name": "ShadowMod v6 [WIP]",
     "version": "0",
@@ -63,19 +76,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "no content yet, stay tuned though."
-  },
-  {
-    "repo": "Eschatologue/Heavy-Armaments-Industries",
-    "name": "Heavy Armaments Industries",
-    "version": "2.6",
-    "mod_id": "Heavy Armaments",
-    "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2021-06-01T02:07:03Z",
-    "stars": 63,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Unlimited Armament Works"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -226,7 +226,7 @@
     "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-06-04T05:21:43Z",
+    "lastUpdated": "2021-06-04T07:51:04Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -1300,19 +1300,6 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "GenericSomeone/air-support",
-    "name": "Air Support",
-    "version": "1.0 beta",
-    "mod_id": "unbalance-mod-rebirth",
-    "author": "Inconsequential",
-    "lastUpdated": "2021-05-23T00:46:13Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new branch of support units and single use weapons for payload units."
-  },
-  {
     "repo": "Vandomas/bad_tr",
     "name": "Bad TR",
     "version": "6.2",
@@ -1324,6 +1311,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Очень странный перевод для игры... \nГоворят он может убить..."
+  },
+  {
+    "repo": "GenericSomeone/air-support",
+    "name": "Air Support",
+    "version": "1.0 beta",
+    "mod_id": "unbalance-mod-rebirth",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-06-04T05:57:57Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new branch of support units and single use weapons for payload units."
   },
   {
     "repo": "DeltaNedas/mobile-ui",
@@ -1651,19 +1651,6 @@
     "description": "Mod that targets on visual effects and sprites."
   },
   {
-    "repo": "TheSaus/DubiousWhiteLiquidustry",
-    "name": "DubiousWhiteLiquidustry",
-    "version": "1.0.1",
-    "mod_id": "dubiouswhiteliquidustry",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-04-21T04:21:43Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
-  },
-  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -1742,19 +1729,6 @@
     "description": "Adds 2 new water unit paths"
   },
   {
-    "repo": "receptea/mind-util",
-    "name": "mind-util - Utility Mod",
-    "version": "1.1.3",
-    "mod_id": "mutl",
-    "author": "iarkn",
-    "lastUpdated": "2021-05-30T06:13:27Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
-  },
-  {
     "repo": "THEGAMER-10n/New-Era",
     "name": "NEW-ERA: alpha 0.1",
     "version": "0.1.2",
@@ -1792,6 +1766,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
+  },
+  {
+    "repo": "receptea/mind-util",
+    "name": "mind-util - Utility Mod",
+    "version": "1.2.0",
+    "mod_id": "mutl",
+    "author": "iarkn",
+    "lastUpdated": "2021-06-04T07:47:34Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2132,19 +2119,6 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "version": "0",
-    "mod_id": "newhorizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-01-31T02:15:33Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
-  },
-  {
     "repo": "thunder4lpha/UnDeRtHeWaTeR",
     "name": "UnDeRtHeWaTeR",
     "version": "0.2.2",
@@ -2312,19 +2286,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
-  },
-  {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "version": "1.0",
-    "mod_id": "more-batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "AlbinoGeek/modFoo",
