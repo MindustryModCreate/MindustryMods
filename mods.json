@@ -1495,19 +1495,6 @@
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-06-05T00:59:33Z",
-    "stars": 4,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -1545,6 +1532,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A kotlin mod."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-06-07T21:09:32Z",
+    "stars": 4,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/radar",
@@ -2351,5 +2351,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
+  },
+  {
+    "repo": "gamerred/killer-drills",
+    "name": "Killer Drill",
+    "version": "2",
+    "mod_id": "killer-drill",
+    "author": "gamerredx",
+    "lastUpdated": "2021-06-07T18:27:27Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds small drills. A part of my elementary mod."
   }
 ]
