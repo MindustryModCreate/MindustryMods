@@ -434,9 +434,9 @@
     "version": "1.0.0beta",
     "mod_id": "gravillaso",
     "author": "NickName73",
-    "lastUpdated": "2021-06-06T14:38:06Z",
+    "lastUpdated": "2021-06-07T19:01:31Z",
     "stars": 19,
-    "minGameVersion": "126.3",
+    "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
     "description": "Gravillaso - mod based on magnetic materials"
@@ -1482,19 +1482,6 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
-    "repo": "NiChrosia/Acceleration",
-    "name": "Acceleration",
-    "version": "0.2",
-    "mod_id": "acceleration",
-    "author": "NiChrosia",
-    "lastUpdated": "2021-05-31T23:04:16Z",
-    "stars": 4,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A kotlin mod."
-  },
-  {
     "repo": "Sirvoid/MindustryVCode",
     "name": "VCode Compiler",
     "version": "0.5.0",
@@ -1545,6 +1532,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
+    "repo": "NiChrosia/Acceleration",
+    "name": "Acceleration",
+    "version": "0.2",
+    "mod_id": "acceleration",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-06-07T17:52:33Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A kotlin mod."
   },
   {
     "repo": "DeltaNedas/radar",
