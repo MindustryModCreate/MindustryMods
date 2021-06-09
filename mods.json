@@ -208,19 +208,6 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "version": "0.5 Alpha",
-    "mod_id": "exotic-mod",
-    "author": "BlueWolf",
-    "lastUpdated": "2021-06-09T05:06:42Z",
-    "stars": 35,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
-  },
-  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "version": "1.5.7",
@@ -1755,6 +1742,19 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
   },
   {
+    "repo": "Meltdown-Altair/RoombanDustry",
+    "name": "RoombanDustry ",
+    "version": "Beta CSSS",
+    "mod_id": "RoombanDustry ",
+    "author": "Meltdown-Altair",
+    "lastUpdated": "2021-06-06T12:15:28Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " Adds some very purple units , alongside a host of other units , buildings and a new planet that might be added soon . "
+  },
+  {
     "repo": "THEGAMER-10n/New-Era",
     "name": "NEW-ERA: alpha 0.1",
     "version": "0.1.2",
@@ -2351,5 +2351,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
+  },
+  {
+    "repo": "gamerred/killer-drills",
+    "name": "Killer Drill",
+    "version": "3",
+    "mod_id": "killer-drill",
+    "author": "gamerredx",
+    "lastUpdated": "2021-06-08T17:38:22Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds small drills. A part of my elementary mod."
   }
 ]
