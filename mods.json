@@ -318,7 +318,7 @@
     "mod_id": "amogus",
     "author": "Goober",
     "lastUpdated": "2021-05-11T15:45:49Z",
-    "stars": 26,
+    "stars": 27,
     "minGameVersion": "125",
     "hasScripts": true,
     "hasJava": false,
@@ -572,19 +572,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-05T06:07:43Z",
-    "stars": 12,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "genNAowl/Upgraded-Factories",
     "name": "Upgraded Factories",
     "version": "2.0.1",
@@ -609,6 +596,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-06-10T19:04:54Z",
+    "stars": 12,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -707,7 +707,7 @@
     "version": "0.14",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2021-06-10T17:26:21Z",
+    "lastUpdated": "2021-06-10T19:21:35Z",
     "stars": 10,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2340,19 +2340,6 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
     "repo": "Xusk947/NeoTech",
     "name": "NeoTech",
     "version": "1.0",
@@ -2364,5 +2351,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
+  },
+  {
+    "repo": "gamerred/killer-drills",
+    "name": "Killer Drill",
+    "version": "3",
+    "mod_id": "killer-drill",
+    "author": "gamerredx",
+    "lastUpdated": "2021-06-08T17:38:22Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds small drills. A part of my elementary mod."
   }
 ]
