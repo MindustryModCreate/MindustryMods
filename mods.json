@@ -1773,7 +1773,7 @@
     "version": "0.25.9",
     "mod_id": "etigeox",
     "author": "Superwibr & Miter",
-    "lastUpdated": "2021-06-10T22:10:55Z",
+    "lastUpdated": "2021-06-10T23:19:10Z",
     "stars": 3,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -1896,6 +1896,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
+  },
+  {
+    "repo": "txomon/MindustryClientHostPauseMod",
+    "name": "Client host pause mod",
+    "version": "1.0",
+    "mod_id": "client-host-pause",
+    "author": "Javier Domingo Cansino",
+    "lastUpdated": "2021-03-04T20:24:02Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to allow the host to pause the game."
   },
   {
     "repo": "Austin5003/mohole",
