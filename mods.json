@@ -1495,19 +1495,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-06-10T00:40:49Z",
-    "stars": 4,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "GameSearcher/S-Edition",
     "name": "S-Edition",
     "version": "2.5",
@@ -1545,6 +1532,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A kotlin mod."
+  },
+  {
+    "repo": "Blerp23/Blerptest-mod",
+    "name": "BlerpTestMod",
+    "version": "0.92 Beta",
+    "mod_id": "test-mod",
+    "author": "Blerp23: creator, meep: small amount of content, adenator09: soon to be spriter",
+    "lastUpdated": "2021-06-16T19:19:20Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Our first mod, we are working on making the sprites less... heresy...  (We have a discord server, https://discord.gg/EEn5nWactX)"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-06-17T00:36:40Z",
+    "stars": 4,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/radar",
@@ -1768,27 +1781,14 @@
     "description": "A vanilla friendly lore mod."
   },
   {
-    "repo": "Blerp23/Blerptest-mod",
-    "name": "BlerpTestMod",
-    "version": "0.92 Beta",
-    "mod_id": "test-mod",
-    "author": "Blerp23: creator, meep: small amount of content, adenator09: soon to be spriter",
-    "lastUpdated": "2021-06-16T19:19:20Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Our first mod, we are working on making the sprites less... heresy...  (We have a discord server, https://discord.gg/EEn5nWactX)"
-  },
-  {
     "repo": "receptea/mind-util",
     "name": "mind-util - Utility Mod",
-    "version": "2.0.0-dev",
+    "version": "1.2.0",
     "mod_id": "mutl",
     "author": "iarkn",
-    "lastUpdated": "2021-06-16T19:45:55Z",
+    "lastUpdated": "2021-06-17T00:02:57Z",
     "stars": 3,
-    "minGameVersion": "126.3",
+    "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
     "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
@@ -2377,18 +2377,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/mintchocotexture",
-    "name": "Mint Choco Texture",
-    "version": "1.01",
-    "mod_id": "mintchocotexture",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-05T11:29:19Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   }
 ]
