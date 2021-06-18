@@ -19,7 +19,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2021-03-28T06:14:44Z",
-    "stars": 121,
+    "stars": 123,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2021-06-17T23:53:35Z",
-    "stars": 101,
+    "stars": 102,
     "minGameVersion": "123",
     "hasScripts": false,
     "hasJava": true,
@@ -213,7 +213,7 @@
     "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-06-18T05:42:56Z",
+    "lastUpdated": "2021-06-18T08:19:55Z",
     "stars": 36,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -388,6 +388,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "xamionex/Opore-Mod",
+    "name": "Opore-Mod",
+    "version": "69",
+    "mod_id": "Opore Mod",
+    "author": "amione#0663",
+    "lastUpdated": "2021-03-09T21:35:24Z",
+    "stars": 22,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -2080,6 +2093,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -2145,19 +2171,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "thunder4lpha/UnDeRtHeWaTeR",
-    "name": "UnDeRtHeWaTeR",
-    "version": "0.2.2",
-    "mod_id": "UnDeRtHeWaTeR",
-    "author": "thunder4lpha",
-    "lastUpdated": "2021-02-19T09:16:11Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description."
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.5",
@@ -2210,6 +2223,19 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "Divarion-D/Technology",
+    "name": "Technology",
+    "version": "1.3",
+    "mod_id": "Technology",
+    "author": "Deletron247",
+    "lastUpdated": "2021-05-12T08:00:19Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
+  },
+  {
     "repo": "FreezeMandu/infinite-processor",
     "name": "Infinite Processor",
     "version": "0.76.1",
@@ -2221,19 +2247,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nsearch 'Logic Bench' in schematics!\n"
-  },
-  {
-    "repo": "RebornTrack970/Destroyer",
-    "name": "Destroyer",
-    "version": "1.0",
-    "mod_id": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2021-06-07T09:26:32Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
   },
   {
     "repo": "FreezeMandu/invisibleblocks",
@@ -2314,19 +2327,6 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
-    "repo": "AlbinoGeek/modFoo",
-    "name": "Mod Template //the displayed mod name",
-    "version": "1.4.7 //this mod version",
-    "mod_id": "mod //real mod name",
-    "author": "Sharlotte //you",
-    "lastUpdated": "2021-02-01T11:28:11Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the template for mods. //mod description"
-  },
-  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -2340,17 +2340,17 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
-    "repo": "KotMilkMeoW/Milkmod",
-    "name": "MilkMod",
-    "version": "0.0.1",
-    "mod_id": "milkmod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
+    "repo": "RebornTrack970/Multiplayerntnt",
+    "name": "Multiplayern'tn't",
+    "version": "1.0",
+    "mod_id": "multiplayerntnt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-02T06:13:05Z",
     "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
+    "minGameVersion": "122",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "mod for Mindustry"
+    "description": "A Mindustry Mod that Reverts Multiplayernt"
   },
   {
     "repo": "Xusk947/NeoTech",
@@ -2364,18 +2364,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/mintchocotexture",
-    "name": "Mint Choco Texture",
-    "version": "1.01",
-    "mod_id": "mintchocotexture",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-05T11:29:19Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   }
 ]
