@@ -1118,19 +1118,6 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.0alpha",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-16T15:02:42Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "TheSlaylord/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
@@ -1142,6 +1129,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
+  },
+  {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.0alpha",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-24T09:08:13Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2119,6 +2119,19 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -2184,19 +2197,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "thunder4lpha/UnDeRtHeWaTeR",
-    "name": "UnDeRtHeWaTeR",
-    "version": "0.2.2",
-    "mod_id": "UnDeRtHeWaTeR",
-    "author": "thunder4lpha",
-    "lastUpdated": "2021-02-19T09:16:11Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description."
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.5",
@@ -2249,6 +2249,19 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "Divarion-D/Technology",
+    "name": "Technology",
+    "version": "1.3",
+    "mod_id": "Technology",
+    "author": "Deletron247",
+    "lastUpdated": "2021-05-12T08:00:19Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
+  },
+  {
     "repo": "FreezeMandu/infinite-processor",
     "name": "Infinite Processor",
     "version": "0.76.1",
@@ -2260,19 +2273,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nsearch 'Logic Bench' in schematics!\n"
-  },
-  {
-    "repo": "RebornTrack970/Destroyer",
-    "name": "Destroyer",
-    "version": "1.0",
-    "mod_id": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2021-06-07T09:26:32Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
   },
   {
     "repo": "FreezeMandu/invisibleblocks",
@@ -2314,32 +2314,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "Kyllingene/ruoter-legacy",
-    "name": "ruoter",
-    "version": "1.2",
-    "mod_id": "ruoter",
-    "author": "Kyllingene",
-    "lastUpdated": "2020-12-14T06:18:29Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "much ruoter very ruoter"
-  },
-  {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -2351,19 +2325,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
-  },
-  {
-    "repo": "AlbinoGeek/modFoo",
-    "name": "Mod Template //the displayed mod name",
-    "version": "1.4.7 //this mod version",
-    "mod_id": "mod //real mod name",
-    "author": "Sharlotte //you",
-    "lastUpdated": "2021-02-01T11:28:11Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the template for mods. //mod description"
   },
   {
     "repo": "oguh43/quantumReactor",
@@ -2379,17 +2340,17 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
+    "repo": "KotMilkMeoW/Milkmod",
+    "name": "MilkMod",
+    "version": "0.0.1",
+    "mod_id": "milkmod",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2021-05-14T05:34:51Z",
     "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
+    "minGameVersion": "126",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
+    "description": "mod for Mindustry"
   },
   {
     "repo": "Xusk947/NeoTech",
