@@ -886,10 +886,10 @@
   {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
-    "version": "8",
+    "version": "9 Pre-release 1",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-06-25T04:15:25Z",
+    "lastUpdated": "2021-06-25T06:26:14Z",
     "stars": 8,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -1467,6 +1467,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2021-05-24T18:13:44Z",
+    "stars": 4,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "3Snake3/Units-mod",
@@ -2111,7 +2124,7 @@
     "version": "0.25",
     "mod_id": "justmod",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-06-24T19:08:35Z",
+    "lastUpdated": "2021-06-25T06:01:02Z",
     "stars": 2,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -2379,17 +2392,17 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
+    "repo": "KotMilkMeoW/Milkmod",
+    "name": "MilkMod",
+    "version": "0.0.1",
+    "mod_id": "milkmod",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2021-05-14T05:34:51Z",
     "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
+    "minGameVersion": "126",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
+    "description": "mod for Mindustry"
   },
   {
     "repo": "Xusk947/NeoTech",
