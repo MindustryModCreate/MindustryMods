@@ -1898,19 +1898,6 @@
     "description": "A simple mod allowing trading one metal for the next"
   },
   {
-    "repo": "paulieg626/MindOfMagic",
-    "name": "MindOfMagic",
-    "version": "0.2 alpha",
-    "mod_id": "mindofmagic",
-    "author": "TheSkyFather and paulieg626",
-    "lastUpdated": "2020-12-30T20:08:56Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Pre-alpha version of mod"
-  },
-  {
     "repo": "Volas171/nekodustry",
     "name": "Template",
     "version": "0",
@@ -2364,6 +2351,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "AlbinoGeek/modFoo",
+    "name": "Mod Template //the displayed mod name",
+    "version": "1.4.7 //this mod version",
+    "mod_id": "mod //real mod name",
+    "author": "Sharlotte //you",
+    "lastUpdated": "2021-02-01T11:28:11Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "the template for mods. //mod description"
   },
   {
     "repo": "oguh43/quantumReactor",
