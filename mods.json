@@ -52,19 +52,6 @@
     "description": "The other way around"
   },
   {
-    "repo": "Eschatologue/Heavy-Armaments-Industries",
-    "name": "Heavy Armaments Industries",
-    "version": "2.6",
-    "mod_id": "Heavy Armaments",
-    "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2021-06-28T02:12:32Z",
-    "stars": 67,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is now discontinued, other than compatibility to v7 later, no new content will be added. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
-  },
-  {
     "repo": "Pietro303HD/ShadowMod",
     "name": "ShadowMod v6 [WIP]",
     "version": "0",
@@ -76,6 +63,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "no content yet, stay tuned though."
+  },
+  {
+    "repo": "Eschatologue/Heavy-Armaments-Industries",
+    "name": "Heavy Armaments Industries",
+    "version": "2.6",
+    "mod_id": "Heavy Armaments",
+    "author": "[#386dff]Eschatologue[]",
+    "lastUpdated": "2021-06-28T02:12:32Z",
+    "stars": 66,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is now discontinued, other than compatibility to v7 later, no new content will be added. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -195,6 +195,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "BlueWolf3682/Exotic-Mod",
+    "name": "Exotic Mod",
+    "version": "0.5 Alpha",
+    "mod_id": "exotic-mod",
+    "author": "BlueWolf",
+    "lastUpdated": "2021-07-04T16:04:06Z",
+    "stars": 40,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
+  },
+  {
     "repo": "DeltaNedas/ui-lib",
     "name": "UI Lib",
     "version": "2.16.6",
@@ -206,19 +219,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "version": "0.5 Alpha",
-    "mod_id": "exotic-mod",
-    "author": "BlueWolf",
-    "lastUpdated": "2021-07-04T16:04:06Z",
-    "stars": 39,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "DeltaNedas/pictologic",
@@ -1586,19 +1586,6 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
-    "name": "Legendary Rainbow Mod",
-    "version": "1",
-    "mod_id": "Legendary Rainbow Mod",
-    "author": "Mikamolimo",
-    "lastUpdated": "2021-07-04T18:59:27Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
-  },
-  {
     "repo": "Blerp23/Blerptest-mod",
     "name": "BlerpTestMod",
     "version": "0.94 Beta",
@@ -1623,6 +1610,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \nCrae, and Mhem."
+  },
+  {
+    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
+    "name": "Legendary Rainbow Mod",
+    "version": "1",
+    "mod_id": "Legendary Rainbow Mod",
+    "author": "Mikamolimo",
+    "lastUpdated": "2021-07-05T18:24:19Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
   },
   {
     "repo": "DeltaNedas/radar",
