@@ -1,5 +1,18 @@
 [
   {
+    "repo": "Mesokrix/Vanilla-Upgraded",
+    "name": "Vanilla Upgraded",
+    "version": "1.0",
+    "mod_id": "vu",
+    "author": "Mesokrix",
+    "lastUpdated": "2020-12-18T12:58:41Z",
+    "stars": 148,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
+  },
+  {
     "repo": "Xeloboyo/Factoriodustry",
     "name": "FactoryDustry - TexturePack",
     "version": "0.4.1",
@@ -182,19 +195,6 @@
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
-    "repo": "DeltaNedas/rtfm",
-    "name": "RTFM",
-    "version": "2.14.10",
-    "mod_id": "rtfm",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-22T15:00:49Z",
-    "stars": 40,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
     "repo": "DeltaNedas/ui-lib",
     "name": "UI Lib",
     "version": "2.16.6",
@@ -325,6 +325,19 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
+    "repo": "Goobrr/amogus",
+    "name": "amogus",
+    "version": "ery sus",
+    "mod_id": "amogus",
+    "author": "Goober",
+    "lastUpdated": "2021-06-17T01:02:28Z",
+    "stars": 27,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "amogus"
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "version": "1.11.2",
@@ -336,19 +349,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2021-05-06T08:32:26Z",
-    "stars": 24,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -429,6 +429,19 @@
     "description": "\nMindustry Extended! Mission Strahl! Mission HIVE!\n\nA mod that focuses on adding cool but not op content.\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too)."
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4-official-edition",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2021-07-06T01:21:13Z",
+    "stars": 17,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "sk7725/Testers",
     "name": "Testers",
     "version": "0.25",
@@ -442,17 +455,17 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4-official-edition",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2021-07-06T01:21:13Z",
-    "stars": 16,
-    "minGameVersion": "127",
-    "hasScripts": true,
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "version": "1.7",
+    "mod_id": "Vanilla Extended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2021-04-15T20:49:50Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -572,6 +585,19 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
+    "repo": "sk7725/EXP-lib",
+    "name": "EXP Library",
+    "version": "3.0",
+    "mod_id": "exp-lib",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-27T03:50:40Z",
+    "stars": 11,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "EXP Library for 6.0!"
+  },
+  {
     "repo": "xjamiex/infinite-program",
     "name": "Infinite Program",
     "version": "1.2.2 alpha",
@@ -661,19 +687,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds shitass to the game"
-  },
-  {
-    "repo": "o7-Fire/Mindustry-Ozone",
-    "name": "Ozone Mindustry",
-    "version": "0.24.2:0.19.0",
-    "mod_id": "Ozone-Mindustry",
-    "author": "o7-Fire",
-    "lastUpdated": "2021-03-31T23:01:22Z",
-    "stars": 10,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -843,19 +856,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
-  },
-  {
-    "repo": "MEEPofFaith/anuke-approaching",
-    "name": "Do not the Anuke",
-    "version": "oh no",
-    "mod_id": "do-not-the-cat",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-01-30T05:27:15Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do not the Anuke"
   },
   {
     "repo": "TheSlaylord/Basic-Schematics",
@@ -1285,19 +1285,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new branch of support units and single use weapons for payload units."
-  },
-  {
-    "repo": "DeltaNedas/mobile-ui",
-    "name": "Mobile UI",
-    "version": "2.0.0",
-    "mod_id": "mobile-ui",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:37Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "TheSlaylord/hard-mode-mod",
@@ -1963,19 +1950,6 @@
     "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
-    "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
-    "name": "save The NEXUS",
-    "version": "1.0",
-    "mod_id": "NEXUS",
-    "author": "Gamer123-games",
-    "lastUpdated": "2021-03-23T12:06:44Z",
-    "stars": 2,
-    "minGameVersion": "106.5",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "NEXUS has exploded!! YOU must harness the power of NEXIUM(ALPHA 0.1)"
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-MEME-units",
     "name": "MEMES",
     "version": "0.1",
@@ -2195,6 +2169,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Download this Mindustry Mod NOW!"
+  },
+  {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor",
+    "version": "0.76.1",
+    "mod_id": "infiniteProcessor",
+    "author": "Mandu",
+    "lastUpdated": "2021-06-01T16:20:06Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nsearch 'Logic Bench' in schematics!\n"
   },
   {
     "repo": "Timshh/MBT",
