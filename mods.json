@@ -2158,19 +2158,6 @@
     "description": "Little fun mod with some op stuff."
   },
   {
-    "repo": "4156/Infintory",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-10-03T12:14:03Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -2299,6 +2286,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that gives tons of space parts"
+  },
+  {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor",
+    "version": "0.76.2",
+    "mod_id": "infiniteProcessor",
+    "author": "Mandu",
+    "lastUpdated": "2021-07-14T08:20:20Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "FreezeMandu/invisibleblocks",
