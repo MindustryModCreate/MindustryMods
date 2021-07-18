@@ -6,7 +6,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 149,
+    "stars": 148,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -312,6 +312,19 @@
     "description": "  Adds units for missing categories of units,\n  Purple Air, Green Naval, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "version": "12.0",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2021-07-18T01:20:08Z",
+    "stars": 28,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "younggam/multi-lib",
     "name": "Multi Lib",
     "version": "1.0.7",
@@ -336,19 +349,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "version": "12.0",
-    "mod_id": "prog-mats",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-07-18T01:20:08Z",
-    "stars": 27,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "abomb4/super-cheat",
@@ -444,10 +444,10 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.21",
+    "version": "2.4.30",
     "mod_id": "btm",
     "author": "guiY & Carrot",
-    "lastUpdated": "2021-07-14T15:02:03Z",
+    "lastUpdated": "2021-07-18T10:57:21Z",
     "stars": 18,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -850,7 +850,7 @@
     "version": "0.9",
     "mod_id": "auto-updater",
     "author": "Skat",
-    "lastUpdated": "2021-07-17T17:12:56Z",
+    "lastUpdated": "2021-07-18T11:04:54Z",
     "stars": 9,
     "minGameVersion": "120",
     "hasScripts": false,
@@ -2429,18 +2429,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.3",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius(Mandu)",
-    "lastUpdated": "2021-07-18T05:11:47Z",
-    "stars": 0,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
