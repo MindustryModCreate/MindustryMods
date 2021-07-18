@@ -616,7 +616,7 @@
     "version": "0.5 beta",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-07-18T09:22:29Z",
+    "lastUpdated": "2021-07-18T12:18:14Z",
     "stars": 12,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -767,6 +767,19 @@
     "description": "Alerts you to enemy tech progression and unit production"
   },
   {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "version": "0.9",
+    "mod_id": "auto-updater",
+    "author": "Skat",
+    "lastUpdated": "2021-07-18T11:04:54Z",
+    "stars": 10,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -843,19 +856,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "version": "0.9",
-    "mod_id": "auto-updater",
-    "author": "Skat",
-    "lastUpdated": "2021-07-18T11:04:54Z",
-    "stars": 9,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
   },
   {
     "repo": "sk7725/Immundustry",
@@ -1573,19 +1573,6 @@
     "description": "A kotlin mod."
   },
   {
-    "repo": "Blerp23/Blerptest-mod",
-    "name": "BlerpTestMod",
-    "version": "0.94 Beta",
-    "mod_id": "test-mod",
-    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter",
-    "lastUpdated": "2021-07-05T13:29:46Z",
-    "stars": 4,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX)"
-  },
-  {
     "repo": "Mikamolimo/Legendary-Rainbow-Mod",
     "name": "Legendary Rainbow Mod",
     "version": "1",
@@ -1610,6 +1597,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Blerp23/Blerptest-mod",
+    "name": "BlerpTestMod",
+    "version": "0.94 Beta",
+    "mod_id": "test-mod",
+    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter",
+    "lastUpdated": "2021-07-18T12:21:03Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX)"
   },
   {
     "repo": "DeltaNedas/radar",
@@ -2429,5 +2429,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
+  },
+  {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "version": "0.3",
+    "mod_id": "siriuschem-v7",
+    "author": "Sirius(Mandu)",
+    "lastUpdated": "2021-07-18T05:11:47Z",
+    "stars": 0,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
