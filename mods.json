@@ -19,7 +19,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2021-03-28T06:14:44Z",
-    "stars": 131,
+    "stars": 132,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2021-07-18T06:59:13Z",
-    "stars": 120,
+    "stars": 121,
     "minGameVersion": "123",
     "hasScripts": false,
     "hasJava": true,
@@ -442,6 +442,19 @@
     "description": "Gravillaso - mod based on magnetic materials"
   },
   {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Infomation",
+    "version": "1.2",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-07-18T10:14:27Z",
+    "stars": 18,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
+  },
+  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "version": "2.4.30",
@@ -492,19 +505,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Infomation",
-    "version": "1.2",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-07-18T10:14:27Z",
-    "stars": 16,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -616,7 +616,7 @@
     "version": "0.5 beta",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-07-18T12:18:14Z",
+    "lastUpdated": "2021-07-18T13:02:23Z",
     "stars": 12,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -2288,19 +2288,6 @@
     "description": "Mod that gives tons of space parts"
   },
   {
-    "repo": "FreezeMandu/infinite-processor",
-    "name": "Infinite Processor",
-    "version": "0.76.2",
-    "mod_id": "infiniteProcessor",
-    "author": "Mandu",
-    "lastUpdated": "2021-07-14T08:20:20Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
-  },
-  {
     "repo": "Timshh/MBT",
     "name": "MBT",
     "version": "0.6",
@@ -2418,6 +2405,19 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
+    "repo": "RebornTrack970/Multiplayerntnt",
+    "name": "Multiplayern'tn't",
+    "version": "1.0",
+    "mod_id": "multiplayerntnt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-02T06:13:05Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mindustry Mod that Reverts Multiplayernt"
+  },
+  {
     "repo": "Xusk947/NeoTech",
     "name": "NeoTech",
     "version": "1.0",
@@ -2429,18 +2429,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.3",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius(Mandu)",
-    "lastUpdated": "2021-07-18T05:11:47Z",
-    "stars": 0,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
