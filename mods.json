@@ -135,12 +135,12 @@
     "version": "0.5 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-07-08T21:53:33Z",
+    "lastUpdated": "2021-07-19T08:19:35Z",
     "stars": 46,
-    "minGameVersion": "126.2",
+    "minGameVersion": "128",
     "hasScripts": false,
     "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
+    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 128.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "Sh1penfire/pixelcraft",
@@ -442,19 +442,6 @@
     "description": "Gravillaso - mod based on magnetic materials"
   },
   {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Infomation",
-    "version": "1.2",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-07-18T10:14:27Z",
-    "stars": 18,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
-  },
-  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "version": "2.4.30",
@@ -466,6 +453,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Infomation",
+    "version": "1.2",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-07-19T07:52:32Z",
+    "stars": 18,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc"
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -611,6 +611,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "version": "0.9",
+    "mod_id": "auto-updater",
+    "author": "Skat",
+    "lastUpdated": "2021-07-18T11:04:54Z",
+    "stars": 12,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.5 beta",
@@ -687,19 +700,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
-  },
-  {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "version": "0.9",
-    "mod_id": "auto-updater",
-    "author": "Skat",
-    "lastUpdated": "2021-07-18T11:04:54Z",
-    "stars": 11,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1430,6 +1430,19 @@
     "description": "Raw materials processing"
   },
   {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
+  },
+  {
     "repo": "bloool/SolarWorks",
     "name": "Solar Works",
     "version": "0.8",
@@ -1454,19 +1467,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
-    "repo": "Slava0135/Seadustry",
-    "name": "Seadustry",
-    "version": "0.1",
-    "mod_id": "seadustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-04-04T20:30:09Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Skyblock but in sea"
   },
   {
     "repo": "DeltaNedas/modding-toolbox",
@@ -1989,19 +1989,6 @@
     "description": "A mod to allow the host to pause the game."
   },
   {
-    "repo": "Austin5003/mohole",
-    "name": "Mohole (and more)",
-    "version": "0.2",
-    "mod_id": "Mohole (and more)",
-    "author": "Austin5003",
-    "lastUpdated": "2021-03-05T22:40:43Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New blocks:\r\nMohole: slag drill\r\nSmall thermal generator: a smaller thermal generator\r\nChanges:\r\nSand water can be mined\r\nExperimental blocks enabled\r\nSand water variants have oil attribute"
-  },
-  {
     "repo": "VladTheEvilCat/Electro-Magnetic-Weaponry",
     "name": "Electro-Magnetic Weaponry",
     "version": "1.8.11",
@@ -2156,19 +2143,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Little fun mod with some op stuff."
-  },
-  {
-    "repo": "4156/Infintory",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-10-03T12:14:03Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -2332,7 +2306,7 @@
     "version": "0.6",
     "mod_id": "MBT",
     "author": "Timshh",
-    "lastUpdated": "2021-07-18T21:34:22Z",
+    "lastUpdated": "2021-07-19T08:22:34Z",
     "stars": 1,
     "minGameVersion": "128.1",
     "hasScripts": true,
