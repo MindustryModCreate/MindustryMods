@@ -616,7 +616,7 @@
     "version": "0.5 beta",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-07-18T13:02:23Z",
+    "lastUpdated": "2021-07-19T03:38:01Z",
     "stars": 12,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -1430,19 +1430,6 @@
     "description": "Raw materials processing"
   },
   {
-    "repo": "SpaceEarthEX/letter-sound-effect",
-    "name": "Letter sound effect",
-    "version": "0.1",
-    "mod_id": "letter-sound-effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
     "repo": "bloool/SolarWorks",
     "name": "Solar Works",
     "version": "0.8",
@@ -1467,6 +1454,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
+    "repo": "Slava0135/Seadustry",
+    "name": "Seadustry",
+    "version": "0.1",
+    "mod_id": "seadustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-04-04T20:30:09Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Skyblock but in sea"
   },
   {
     "repo": "DeltaNedas/modding-toolbox",
@@ -2418,19 +2418,6 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
     "repo": "Xusk947/NeoTech",
     "name": "NeoTech",
     "version": "1.0",
@@ -2442,5 +2429,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
+  },
+  {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "version": "0.3",
+    "mod_id": "siriuschem-v7",
+    "author": "Sirius(Mandu)",
+    "lastUpdated": "2021-07-18T05:11:47Z",
+    "stars": 0,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
