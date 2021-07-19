@@ -585,19 +585,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-06-10T19:04:54Z",
-    "stars": 12,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "z0mbiesrock/Larger-Cores",
     "name": "Larger Cores",
     "version": "1.0",
@@ -635,6 +622,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
+  },
+  {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T15:15:20Z",
+    "stars": 12,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -2249,6 +2249,19 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "RebornTrack970/Destroyer",
+    "name": "Destroyer",
+    "version": "1.0",
+    "mod_id": "Destroyer",
+    "author": "RebornTrack970",
+    "lastUpdated": "2021-06-07T09:26:32Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is just a simple Mindustry mod."
+  },
+  {
     "repo": "staticvoidliam7/MindustrySpaceMod",
     "name": "Mindustry Space Expansion Pack",
     "version": "0.1 Alpha",
@@ -2366,6 +2379,19 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
+    "repo": "AlbinoGeek/modFoo",
+    "name": "Mod Template //the displayed mod name",
+    "version": "1.4.7 //this mod version",
+    "mod_id": "mod //real mod name",
+    "author": "Sharlotte //you",
+    "lastUpdated": "2021-02-01T11:28:11Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "the template for mods. //mod description"
+  },
+  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -2403,18 +2429,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.3",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius(Mandu)",
-    "lastUpdated": "2021-07-18T05:11:47Z",
-    "stars": 0,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
