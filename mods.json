@@ -58,7 +58,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2021-06-28T02:12:32Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -338,19 +338,6 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
-    "repo": "Goobrr/amogus",
-    "name": "amogus",
-    "version": "ery sus",
-    "mod_id": "amogus",
-    "author": "Goober",
-    "lastUpdated": "2021-06-17T01:02:28Z",
-    "stars": 27,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "amogus"
-  },
-  {
     "repo": "abomb4/super-cheat",
     "name": "(v6) Invincible Cheat 无敌作弊",
     "version": "2.8.2",
@@ -460,7 +447,7 @@
     "version": "1.2",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2021-07-19T10:58:07Z",
+    "lastUpdated": "2021-07-20T05:37:05Z",
     "stars": 18,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -507,19 +494,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "version": "1.7",
-    "mod_id": "Vanilla Extended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2021-04-15T20:49:50Z",
-    "stars": 15,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -557,6 +531,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry auto updater"
+  },
+  {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.5 beta",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2021-07-20T06:02:52Z",
+    "stars": 13,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
   },
   {
     "repo": "sk7725/Commands",
@@ -622,19 +609,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.5 beta",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2021-07-20T04:21:16Z",
-    "stars": 12,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -921,19 +895,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
-  },
-  {
-    "repo": "MEEPofFaith/anuke-approaching",
-    "name": "Do not the Anuke",
-    "version": "oh no",
-    "mod_id": "do-not-the-cat",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-01-30T05:27:15Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do not the Anuke"
   },
   {
     "repo": "TheSlaylord/Basic-Schematics",
@@ -2158,6 +2119,19 @@
     "description": "Little fun mod with some op stuff."
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -2377,18 +2351,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add new Unit's and fractions"
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.3",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius(Mandu)",
-    "lastUpdated": "2021-07-18T05:11:47Z",
-    "stars": 0,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   }
 ]
