@@ -291,7 +291,7 @@
     "version": "12.1",
     "mod_id": "prog-mats",
     "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-07-27T08:30:55Z",
+    "lastUpdated": "2021-07-27T18:46:30Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -429,6 +429,19 @@
     "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too)."
   },
   {
+    "repo": "NickName73/Gravillaso",
+    "name": "Gravillaso Mod",
+    "version": "1.0.1beta",
+    "mod_id": "gravillaso",
+    "author": "NickName73",
+    "lastUpdated": "2021-07-10T09:26:08Z",
+    "stars": 20,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Gravillaso - mod based on magnetic materials"
+  },
+  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "version": "2.4.40-t2",
@@ -440,19 +453,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
-  },
-  {
-    "repo": "NickName73/Gravillaso",
-    "name": "Gravillaso Mod",
-    "version": "1.0.1beta",
-    "mod_id": "gravillaso",
-    "author": "NickName73",
-    "lastUpdated": "2021-07-10T09:26:08Z",
-    "stars": 19,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Gravillaso - mod based on magnetic materials"
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -1586,19 +1586,6 @@
     "description": "A kotlin mod."
   },
   {
-    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
-    "name": "Legendary Rainbow Mod",
-    "version": "1",
-    "mod_id": "Legendary Rainbow Mod",
-    "author": "Mikamolimo",
-    "lastUpdated": "2021-07-05T19:07:12Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
-  },
-  {
     "repo": "ice100k/prismatic",
     "name": "Prismatic",
     "version": "1.8.123",
@@ -1636,6 +1623,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
+    "name": "Legendary Rainbow Mod",
+    "version": "1",
+    "mod_id": "Legendary Rainbow Mod",
+    "author": "Mikamolimo",
+    "lastUpdated": "2021-07-27T19:15:43Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
   },
   {
     "repo": "DeltaNedas/radar",
