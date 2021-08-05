@@ -20,7 +20,7 @@ import static arc.struct.StringMap.*;
 
 public class ModUpdater{
     static final String api = "https://api.github.com", searchTerm = "mindustry mod";
-    static final int perPage = 300;
+    static final int perPage = 150;
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod","pixaxeofpixie/Braindustry-Mod","MoTRona/Colloseus-Mod");
