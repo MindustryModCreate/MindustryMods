@@ -195,21 +195,4 @@ public class ModUpdater{
     void handleError(Throwable error){
         Log.err(error);
     }
-
-    static Net makeNet(){
-        Net net = new Net();
-        //use blocking requests
-        Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1){
-            public <T> AsyncResult<T> submit(final AsyncTask<T> task){
-                try{
-                    task.call();
-                }catch(Exception e){
-                    throw new RuntimeException(e);
-                }
-                return null;
-            }
-        });
-
-        return net;
-    }
 }
