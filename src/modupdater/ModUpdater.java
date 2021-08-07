@@ -1,13 +1,12 @@
 package modupdater;
 
-import arc.*;
-import arc.Net.*;
 import arc.files.*;
 import arc.func.*;
 import arc.graphics.*;
 import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
+import arc.util.Http.*;
 import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
@@ -27,7 +26,6 @@ public class ModUpdater{
     static final int iconSize = 64;
 
     public static void main(String[] args){
-        Core.net = makeNet();
         new ModUpdater();
     }
 
@@ -157,11 +155,9 @@ public class ModUpdater{
         Jval[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
-                if(out.getStatus() == HttpStatus.OK){
-                    result[0] = Jval.read(out.getResultAsString());
-                }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + str)
+				.error(this::simpleError)
+            .block(out -> result[0] = Jval.read(out.getResultAsString()));
         }
         return result[0];
     }
@@ -170,35 +166,34 @@ public class ModUpdater{
         BufferedImage[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
-                try{
-                    if(out.getStatus() == HttpStatus.OK){
-                        result[0] = ImageIO.read(out.getResultAsStream());
-                    }
-                }catch(Exception e){
-                    throw new RuntimeException(e);
-                }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + str)
+				.error(this::simpleError)
+            .block(out -> result[0] = ImageIO.read(out.getResultAsStream()));
         }
         return result[0];
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
-        Core.net.http(new HttpRequest()
-            .timeout(10000)
-            .method(HttpMethod.GET)
-            .url(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&"))), response -> {
+        Http.get(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&")))
+        .timeout(10000)
+			.method(HttpMethod.GET)
+			.header("authorization", githubToken)
+			.header("accept", "application/vnd.github.baptiste-preview+json")
+			.error(this::handleError)
+        .block(response -> {
             Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
-            try{
-                cons.get(Jval.read(response.getResultAsString()));
-            }catch(Throwable error){
-                handleError(error);
-            }
-        }, this::handleError);
+            cons.get(Jval.read(response.getResultAsString()));
+        });
+    }
+
+    void simpleError(Throwable error){
+        if(!(error instanceof HttpStatusException)){
+            Log.info("&lc |&lr" + Strings.getSimpleMessage(error));
+        }
     }
 
     void handleError(Throwable error){
-        error.printStackTrace();
+        Log.err(error);
     }
 
     static Net makeNet(){
