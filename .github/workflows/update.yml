@@ -2,7 +2,7 @@ name: Automatic Updates
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */5 * * *"
   push:
     branches:
       - master
@@ -20,7 +20,7 @@ jobs:
       with:
         java-version: 16
     - name: Build with Gradle
-      run: ./gradlew run -Dorg.gradle.daemon=false
+      run: ./gradlew run -Dorg.gradle.daemon=false -Dgithubtoken="Bearer ${{ secrets.GITHUB_TOKEN }}"
     - name: Push changes
       run: |
         git config --global user.email "cli@github.com"
@@ -28,5 +28,5 @@ jobs:
         git add mods.json
         git add icons/*
         git commit --allow-empty -m "[auto-update]"
-        git push https://MindustryModCreate:${{ secrets.API_TOKEN_GITHUB }}@github.com/MindustryModCreate/MindustryMods
-      
+        git push https://Anuken:${{ secrets.API_TOKEN_GITHUB }}@github.com/Anuken/MindustryMods
+

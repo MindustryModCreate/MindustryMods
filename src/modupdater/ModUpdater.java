@@ -24,7 +24,9 @@ public class ModUpdater{
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod","pixaxeofpixie/Braindustry-Mod","MoTRona/Colloseus-Mod");
     static final int iconSize = 64;
-
+	
+	static final String githubToken = OS.prop("githubtoken");
+	
     public static void main(String[] args){
         new ModUpdater();
     }
