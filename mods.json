@@ -5,7 +5,7 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2021-11-13T23:39:20Z",
+    "lastUpdated": "2021-11-15T15:23:56Z",
     "stars": 165,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -104,6 +104,19 @@
     "description": "This mod is now discontinued, other than compatibility to v7 later, no new content will be added. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
+    "repo": "Sh1penfire/pixelcraft",
+    "name": "Pixelcraft: The endless rust",
+    "version": "0.9.85",
+    "mod_id": "pixelcraft",
+    "author": "Sh1penfire and pankiwi",
+    "lastUpdated": "2021-11-15T18:53:03Z",
+    "stars": 62,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
+  },
+  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "version": "2.6.0",
@@ -115,19 +128,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "Sh1penfire/pixelcraft",
-    "name": "Pixelcraft: The endless rust",
-    "version": "0.9.85",
-    "mod_id": "pixelcraft",
-    "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2021-11-03T10:14:28Z",
-    "stars": 61,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -188,7 +188,7 @@
     "mod_id": "ui-lib",
     "author": "DeltaNedas",
     "lastUpdated": "2021-05-17T19:01:47Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "108",
     "hasScripts": true,
     "hasJava": false,
@@ -574,15 +574,15 @@
   {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
-    "version": "0.7.3",
+    "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-11-15T13:52:25Z",
+    "lastUpdated": "2021-11-15T17:00:18Z",
     "stars": 17,
-    "minGameVersion": "132",
+    "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your mindustry arsenal"
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
   },
   {
     "repo": "FlinTyX/DiverseTech",
@@ -733,7 +733,7 @@
     "version": "0.2.4.5",
     "mod_id": "industrial",
     "author": "Eclipse",
-    "lastUpdated": "2021-11-15T02:27:24Z",
+    "lastUpdated": "2021-11-15T16:19:31Z",
     "stars": 13,
     "minGameVersion": "131",
     "hasScripts": true,
@@ -1664,19 +1664,6 @@
     "description": "pain and suffering"
   },
   {
-    "repo": "Blerp23/Blerptest-mod",
-    "name": "Blerp's Content Mod",
-    "version": "0.95 Beta",
-    "mod_id": "test-mod",
-    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter (all of the bad sprites were probably made by Blerp23)",
-    "lastUpdated": "2021-09-08T16:31:38Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX)"
-  },
-  {
     "repo": "MHeMoTexHuK/CKAT",
     "name": "скат",
     "version": "1.64",
@@ -1755,17 +1742,43 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "Blerp23/Blerptest-mod",
+    "name": "Blerp's Content Mod",
+    "version": "0.95 Beta",
+    "mod_id": "test-mod",
+    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter (all of the bad sprites were probably made by Blerp23)",
+    "lastUpdated": "2021-11-15T15:40:52Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX)"
+  },
+  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
-    "version": "1.2 Full",
+    "version": "1.2.5.5",
     "mod_id": "Expanded Industries",
     "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-11-10T11:05:36Z",
+    "lastUpdated": "2021-11-15T16:55:11Z",
     "stars": 5,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
     "description": "Chaos."
+  },
+  {
+    "repo": "uujuju1/randomStuff",
+    "name": "Random Stuff",
+    "version": "0.6",
+    "mod_id": "random-stuff",
+    "author": "Uujuju",
+    "lastUpdated": "2021-11-15T19:00:02Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2039,19 +2052,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
-  },
-  {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "version": "0.6",
-    "mod_id": "random-stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-10-21T14:07:57Z",
-    "stars": 4,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "DeltaNedas/anuke-logic",
@@ -2969,7 +2969,7 @@
     "version": "0.2",
     "mod_id": "creatiive",
     "author": "Uujuju",
-    "lastUpdated": "2021-11-15T15:07:01Z",
+    "lastUpdated": "2021-11-15T15:08:47Z",
     "stars": 2,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -3614,19 +3614,6 @@
     "description": "cheat mod."
   },
   {
-    "repo": "avocado5182/FirstMindustryMod",
-    "name": "Epic Mindustry Mod",
-    "version": "1.5",
-    "mod_id": "firstmod-a5182",
-    "author": "avocado5182",
-    "lastUpdated": "2020-12-12T12:48:22Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dumb mod that does dumb stuff."
-  },
-  {
     "repo": "Kyllingene/ruoter-legacy",
     "name": "ruoter",
     "version": "1.2",
@@ -3794,6 +3781,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "FIRE-WATER799/mindustry-milatry-mod",
+    "name": "USA-Militray",
+    "version": "0.1",
+    "mod_id": "UsA-Military",
+    "author": "fire",
+    "lastUpdated": "2021-02-16T02:45:32Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is my first mod."
   },
   {
     "repo": "oguh43/quantumReactor",
