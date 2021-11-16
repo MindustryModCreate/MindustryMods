@@ -5,7 +5,7 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2021-11-15T15:23:56Z",
+    "lastUpdated": "2021-11-16T04:15:23Z",
     "stars": 165,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -70,7 +70,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-11-15T22:25:22Z",
+    "lastUpdated": "2021-11-16T01:54:43Z",
     "stars": 85,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -273,19 +273,6 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.63",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2021-10-06T03:18:00Z",
-    "stars": 33,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
-  },
-  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -310,6 +297,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.64",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2021-11-16T03:54:53Z",
+    "stars": 33,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "Gdeft/portal",
@@ -1417,6 +1417,19 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-11-02T00:44:36Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "Goobrr/Goobriculture",
     "name": "Goobriculture",
     "version": "1.0",
@@ -1688,19 +1701,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod dat wepwaces da Engwish wocawization with da UwU wanguage.\nI'm weawwy suwpwised dat somye peopwe awe using it! \n\nSuppowts v7 now!"
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-11-02T00:44:36Z",
-    "stars": 5,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
   },
   {
     "repo": "EB-wilson/Singularity",
@@ -2052,19 +2052,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
-    "repo": "Zelaux/GasLibrary",
-    "name": "GasLibrary",
-    "version": "1.4",
-    "mod_id": "gas-library-java",
-    "author": "Zelaux",
-    "lastUpdated": "2021-10-29T14:12:20Z",
-    "stars": 4,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
   },
   {
     "repo": "King-Silicon/Music-remixes-and-new",
@@ -3432,19 +3419,6 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
-    "repo": "MrAntlrr/dryehm-corvus",
-    "name": "Dryehm Corvus",
-    "version": "1.0",
-    "mod_id": "dryehm-corvus",
-    "author": "Antlrr, Dryehm",
-    "lastUpdated": "2021-11-09T23:37:58Z",
-    "stars": 1,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Turns Corvus op"
-  },
-  {
     "repo": "EntExists/AWP",
     "name": "Advanced Weapons Platform",
     "version": "2.0",
@@ -3482,6 +3456,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
+  },
+  {
+    "repo": "MrAntlrr/dryehm-corvus",
+    "name": "Dryehm Corvus",
+    "version": "1.0",
+    "mod_id": "dryehm-corvus",
+    "author": "Antlrr, Dryehm",
+    "lastUpdated": "2021-11-16T04:19:59Z",
+    "stars": 1,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns Corvus op"
   },
   {
     "repo": "Nikisos/TheBattleMod",
