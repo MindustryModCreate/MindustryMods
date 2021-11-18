@@ -474,7 +474,7 @@
     "mod_id": "endless-rusting-demo",
     "author": "Sh1penfire",
     "lastUpdated": "2021-11-13T09:30:48Z",
-    "stars": 21,
+    "stars": 22,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": true,
@@ -702,6 +702,19 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Scrap",
+    "name": "Project Scrap",
+    "version": "0.2.4.5",
+    "mod_id": "industrial",
+    "author": "Eclipse",
+    "lastUpdated": "2021-11-18T05:53:00Z",
+    "stars": 14,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
     "repo": "DaGamerFiles/classic-music",
     "name": "<Mindustry> Classic Music",
     "version": "2.0",
@@ -726,19 +739,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Scrap",
-    "name": "Project Scrap",
-    "version": "0.2.4.5",
-    "mod_id": "industrial",
-    "author": "Eclipse",
-    "lastUpdated": "2021-11-18T05:53:00Z",
-    "stars": 13,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "sk7725/Commands",
@@ -847,10 +847,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.1.0",
+    "version": "2.1.2",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-11-16T16:29:15Z",
+    "lastUpdated": "2021-11-18T16:38:03Z",
     "stars": 11,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -2956,7 +2956,7 @@
     "version": "0.2",
     "mod_id": "creatiive",
     "author": "Uujuju",
-    "lastUpdated": "2021-11-17T22:34:27Z",
+    "lastUpdated": "2021-11-18T17:52:29Z",
     "stars": 2,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -3198,6 +3198,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "Sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "version": "0",
+    "mod_id": "newhorizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-08T21:44:54Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
+  },
+  {
     "repo": "FreezeMandu/infinite-processor",
     "name": "Infinite Processor",
     "version": "0.76.2",
@@ -3248,6 +3261,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
+  },
+  {
+    "repo": "pixecoz/better-menders",
+    "name": "Better menders",
+    "version": "1.0",
+    "mod_id": "better-menders",
+    "author": "pixecoz",
+    "lastUpdated": "2021-09-12T18:06:03Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "SrOtaku/ModNathilha",
@@ -3482,6 +3508,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.0",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2021-11-18T19:41:06Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4106,19 +4145,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "pixecoz/better-menders",
-    "name": "Better menders",
-    "version": "1.0",
-    "mod_id": "better-menders",
-    "author": "pixecoz",
-    "lastUpdated": "2021-09-12T18:06:03Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "Pietro303HD/Esoterum-Solutions",
