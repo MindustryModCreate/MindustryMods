@@ -71,7 +71,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-11-19T02:58:34Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -486,7 +486,7 @@
     "version": "21.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2021-11-18T07:52:26Z",
+    "lastUpdated": "2021-11-19T07:35:15Z",
     "stars": 21,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -590,7 +590,7 @@
     "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-11-18T13:25:42Z",
+    "lastUpdated": "2021-11-19T05:29:50Z",
     "stars": 17,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -845,6 +845,19 @@
     "description": "hehe angish go nrrrt"
   },
   {
+    "repo": "ThirstyBoi/Abominations",
+    "name": "Abominations - TexturePack",
+    "version": "0.2",
+    "mod_id": "abom-pack",
+    "author": "Thristy",
+    "lastUpdated": "2021-10-23T12:37:01Z",
+    "stars": 11,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns everything into disgusting organic beings"
+  },
+  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.1.2",
@@ -960,19 +973,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Немного читов"
-  },
-  {
-    "repo": "ThirstyBoi/Abominations",
-    "name": "Abominations - TexturePack",
-    "version": "0.2",
-    "mod_id": "abom-pack",
-    "author": "Thristy",
-    "lastUpdated": "2021-10-23T12:37:01Z",
-    "stars": 10,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Turns everything into disgusting organic beings"
   },
   {
     "repo": "Slotterleet/fictional-octo-system",
@@ -1417,19 +1417,6 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
-    "repo": "Goobrr/Goobriculture",
-    "name": "Goobriculture",
-    "version": "1.0",
-    "mod_id": "goobriculture",
-    "author": "Goober",
-    "lastUpdated": "2021-11-05T14:41:06Z",
-    "stars": 6,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Janssendel/Opposing-Front",
     "name": "Opposing Front",
     "version": "ask Jans",
@@ -1454,6 +1441,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Goobrr/Goobriculture",
+    "name": "Goobriculture",
+    "version": "1.0",
+    "mod_id": "goobriculture",
+    "author": "Goober",
+    "lastUpdated": "2021-11-19T06:13:05Z",
+    "stars": 6,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2457,19 +2457,6 @@
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "LottieVixen/1-tile-drills",
-    "name": "1 Tile Drills",
-    "version": "0.0.1",
-    "mod_id": "1-tile-drills",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-06T23:48:03Z",
-    "stars": 2,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
-  },
-  {
     "repo": "RebornTrack970/OmegaCursed",
     "name": "Omega-Cursed.bat",
     "version": "0.3",
@@ -2756,19 +2743,6 @@
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
   },
   {
-    "repo": "amg2048/saphatax",
-    "name": "Saphatax",
-    "version": "0.1.5 test build 1/3",
-    "mod_id": "saphatax",
-    "author": "aden8r",
-    "lastUpdated": "2021-06-27T15:36:10Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
-  },
-  {
     "repo": "BlueTechnoCat/Galaxite-Mod",
     "name": "Galaxite Mod",
     "version": "0.5",
@@ -2832,6 +2806,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Automatically checks for updates everytime you start the game"
+  },
+  {
+    "repo": "pixecoz/better-menders",
+    "name": "Better menders",
+    "version": "1.0",
+    "mod_id": "better-menders",
+    "author": "pixecoz",
+    "lastUpdated": "2021-09-12T18:06:03Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "FreezeMandu/routertexturepack",
@@ -2975,6 +2962,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.0",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2021-11-18T20:16:10Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "uujuju1/creatiive-mod",
@@ -3289,19 +3289,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "pixecoz/better-menders",
-    "name": "Better menders",
-    "version": "1.0",
-    "mod_id": "better-menders",
-    "author": "pixecoz",
-    "lastUpdated": "2021-09-12T18:06:03Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
-  },
-  {
     "repo": "SrOtaku/ModNathilha",
     "name": "NathilhaMod",
     "version": "1.71(Public-Beta)",
@@ -3534,19 +3521,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
-  },
-  {
-    "repo": "pixecoz/better-vaults",
-    "name": "Better vaults",
-    "version": "1.0",
-    "mod_id": "better-vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2021-11-18T20:16:10Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "Nikisos/TheBattleMod",
