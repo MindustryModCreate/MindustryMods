@@ -590,7 +590,7 @@
     "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-11-21T08:10:29Z",
+    "lastUpdated": "2021-11-21T12:55:54Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -609,6 +609,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
+  },
+  {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 16,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -635,19 +648,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
-  },
-  {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "version": "0.1",
-    "mod_id": "pvpnotifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
-    "stars": 15,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "WMF-Industries/NeonNights",
@@ -1729,19 +1729,6 @@
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX)"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.2.5.5",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-11-15T16:55:11Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "uujuju1/randomStuff",
     "name": "Random Stuff",
     "version": "0.6",
@@ -1760,12 +1747,25 @@
     "version": "1.64",
     "mod_id": "ckat-stingray",
     "author": "Мнемотехник",
-    "lastUpdated": "2021-11-21T08:56:03Z",
+    "lastUpdated": "2021-11-21T14:09:38Z",
     "stars": 5,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a unique скат unit branch.\n\nNow with extra js stuff!"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.2.5.5",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2021-11-21T14:52:35Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1922,6 +1922,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2964,19 +2977,6 @@
     "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
-    "repo": "uujuju1/creatiive-mod",
-    "name": "creatiive mod.",
-    "version": "0.2",
-    "mod_id": "creatiive",
-    "author": "Uujuju",
-    "lastUpdated": "2021-11-20T23:59:49Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "creative stuff"
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "The GG Mod",
     "version": "BETA v0.1.2",
@@ -2988,6 +2988,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a small mod"
+  },
+  {
+    "repo": "uujuju1/creatiive-mod",
+    "name": "creatiive mod.",
+    "version": "0.2",
+    "mod_id": "creatiive",
+    "author": "Uujuju",
+    "lastUpdated": "2021-11-21T14:25:53Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "creative stuff"
   },
   {
     "repo": "4156/Infintory",
