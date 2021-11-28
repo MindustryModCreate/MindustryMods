@@ -67,12 +67,12 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.10.1 Beta",
+    "version": "1.10.1.5 Beta",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2021-11-21T02:56:55Z",
+    "lastUpdated": "2021-11-28T01:44:02Z",
     "stars": 90,
-    "minGameVersion": "134.1",
+    "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
@@ -923,6 +923,19 @@
     "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
+    "repo": "Drullkus/Unnerf-Core-Units",
+    "name": "Unnerf Core Units",
+    "version": "1.1",
+    "mod_id": "unnerf_core_units",
+    "author": "Drullkus",
+    "lastUpdated": "2021-04-22T05:20:45Z",
+    "stars": 10,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.0",
@@ -999,19 +1012,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
-  },
-  {
-    "repo": "Drullkus/Unnerf-Core-Units",
-    "name": "Unnerf Core Units",
-    "version": "1.1",
-    "mod_id": "unnerf_core_units",
-    "author": "Drullkus",
-    "lastUpdated": "2021-04-22T05:20:45Z",
-    "stars": 9,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1773,7 +1773,7 @@
     "version": "0.95 Beta",
     "mod_id": "test-mod",
     "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter (all of the bad sprites were probably made by Blerp23)",
-    "lastUpdated": "2021-11-27T15:00:31Z",
+    "lastUpdated": "2021-11-28T02:51:11Z",
     "stars": 5,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -3497,19 +3497,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "2.4-beta",
-    "mod_id": "mod tools",
-    "author": "I hope...",
-    "lastUpdated": "2021-10-30T11:41:59Z",
-    "stars": 1,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -3573,6 +3560,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "2.4-beta",
+    "mod_id": "mod tools",
+    "author": "I hope...",
+    "lastUpdated": "2021-11-28T01:03:10Z",
+    "stars": 1,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4381,19 +4381,6 @@
     "description": "is this a mod about tanks?"
   },
   {
-    "repo": "MountLava/SolarMod",
-    "name": "Solar Mod",
-    "version": "0.3 Alpha",
-    "mod_id": "solarmod",
-    "author": "MountLava",
-    "lastUpdated": "2021-11-12T20:56:05Z",
-    "stars": 0,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds tons of useful content. Mostly adds turrets."
-  },
-  {
     "repo": "Boople-Beep/untiled-mindustry-mod",
     "name": "Boo's Mod.",
     "version": "1.0",
@@ -4418,5 +4405,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description yet."
+  },
+  {
+    "repo": "MountLava/SolarMod",
+    "name": "Solar Mod",
+    "version": "0.3 Alpha",
+    "mod_id": "solarmod",
+    "author": "MountLava",
+    "lastUpdated": "2021-11-28T01:53:02Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds tons of useful content. Mostly adds turrets."
   }
 ]
