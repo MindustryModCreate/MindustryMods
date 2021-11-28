@@ -171,10 +171,10 @@
   {
     "repo": "DeltaNedas/rtfm",
     "name": "RTFM",
-    "version": "2.14.10",
+    "version": "2.15.0",
     "mod_id": "rtfm",
     "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:07:15Z",
+    "lastUpdated": "2021-11-27T20:09:04Z",
     "stars": 46,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -486,7 +486,7 @@
     "version": "21.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2021-11-26T00:26:49Z",
+    "lastUpdated": "2021-11-28T00:07:05Z",
     "stars": 21,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -689,19 +689,6 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
-    "repo": "DeltaNedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "2.4.2",
-    "mod_id": "unit-factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-01-08T09:33:18Z",
-    "stars": 14,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "version": "8.0",
@@ -713,6 +700,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
+  },
+  {
+    "repo": "DeltaNedas/unit-factory",
+    "name": "Unit Factory",
+    "version": "2.5.0",
+    "mod_id": "unit-factory",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T20:32:30Z",
+    "stars": 14,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -780,19 +780,6 @@
     "description": "a mod that adds more content wich is a great example for noobies to modding :D"
   },
   {
-    "repo": "DeltaNedas/ldb",
-    "name": "Logic Debugger",
-    "version": "1.3.2",
-    "mod_id": "ldb",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-10-21T19:25:51Z",
-    "stars": 12,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.1.2+0.0.3",
@@ -804,6 +791,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that could... Increases the maximum size of schemes to 512 blocks!\nVanilla Only!"
+  },
+  {
+    "repo": "DeltaNedas/ldb",
+    "name": "Logic Debugger",
+    "version": "1.3.3",
+    "mod_id": "ldb",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T20:30:51Z",
+    "stars": 12,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -2054,19 +2054,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
-    "repo": "DeltaNedas/anuke-logic",
-    "name": "Anuke Logic",
-    "version": "1.9.4",
-    "mod_id": "anuke-logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-10-21T19:24:34Z",
-    "stars": 4,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
     "repo": "King-Silicon/Music-remixes-and-new",
     "name": "Music remixes and new",
     "version": "1.2",
@@ -2143,6 +2130,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "DeltaNedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.5",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T22:15:21Z",
+    "stars": 4,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2494,6 +2494,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "DeltaNedas/item-grabber",
+    "name": "Item Grabber",
+    "version": "1.0.2",
+    "mod_id": "item-grabber",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:13Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
