@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2021-11-16T10:07:09Z",
-    "stars": 167,
+    "stars": 168,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -58,7 +58,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-11-27T15:17:48Z",
-    "stars": 91,
+    "stars": 92,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -71,7 +71,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2021-11-28T01:44:02Z",
-    "stars": 90,
+    "stars": 92,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2021-10-20T18:12:28Z",
-    "stars": 79,
+    "stars": 80,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -702,6 +702,19 @@
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
   },
   {
+    "repo": "z0mbiesrock/Larger-Cores",
+    "name": "Larger Cores",
+    "version": "1.0",
+    "mod_id": "larger-cores",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2021-09-06T13:47:34Z",
+    "stars": 14,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds T4 and T5 Cores."
+  },
+  {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
     "version": "2.5.0",
@@ -726,19 +739,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
-  },
-  {
-    "repo": "z0mbiesrock/Larger-Cores",
-    "name": "Larger Cores",
-    "version": "1.0",
-    "mod_id": "larger-cores",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2021-09-06T13:47:34Z",
-    "stars": 13,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds T4 and T5 Cores."
   },
   {
     "repo": "sk7725/Commands",
@@ -2405,6 +2405,19 @@
     "description": "Adds Graphene to the game, along with several turrets, units, and materials."
   },
   {
+    "repo": "breadbug23/Somas",
+    "name": "Somas",
+    "version": "1.4",
+    "mod_id": "somas",
+    "author": "piksqu",
+    "lastUpdated": "2021-09-28T06:52:26Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
+  },
+  {
     "repo": "paulieg626/MindOfMagic",
     "name": "MindOfMagic",
     "version": "0.3 alpha",
@@ -2470,6 +2483,19 @@
     "description": "Welcome to KENGINTERWORLD.There are lots of materials,ores,machines,turrets,transport and units,now in testing."
   },
   {
+    "repo": "MHeMoTexHuK/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.0.4",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-11-28T14:50:28Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -2494,19 +2520,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "LottieVixen/1-tile-drills",
-    "name": "1 Tile Drills",
-    "version": "0.0.1",
-    "mod_id": "1-tile-drills",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-06T23:48:03Z",
-    "stars": 2,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
   },
   {
     "repo": "DeltaNedas/item-grabber",
@@ -2782,19 +2795,6 @@
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
   },
   {
-    "repo": "amg2048/saphatax",
-    "name": "Saphatax",
-    "version": "0.1.5 test build 1/3",
-    "mod_id": "saphatax",
-    "author": "aden8r",
-    "lastUpdated": "2021-06-27T15:36:10Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
-  },
-  {
     "repo": "BlueTechnoCat/Galaxite-Mod",
     "name": "Galaxite Mod",
     "version": "0.5",
@@ -2884,19 +2884,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
-  },
-  {
-    "repo": "breadbug23/Somas",
-    "name": "Somas",
-    "version": "1.4",
-    "mod_id": "somas",
-    "author": "piksqu",
-    "lastUpdated": "2021-09-28T06:52:26Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
     "repo": "MrAntlrr/normal-mod",
@@ -4438,7 +4425,7 @@
     "version": "0.3 Alpha",
     "mod_id": "solarmod",
     "author": "MountLava",
-    "lastUpdated": "2021-11-28T01:53:02Z",
+    "lastUpdated": "2021-11-28T18:47:49Z",
     "stars": 0,
     "minGameVersion": "130.1",
     "hasScripts": false,
