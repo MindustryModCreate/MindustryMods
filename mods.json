@@ -299,6 +299,19 @@
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2021-11-22T20:31:26Z",
+    "stars": 34,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Gdeft/portal",
     "name": "Portal",
     "version": "0.1.0",
@@ -310,19 +323,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-11-22T20:31:26Z",
-    "stars": 33,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "DeltaNedas/dev-mode",
@@ -378,15 +378,15 @@
   },
   {
     "repo": "NickName73/Gravillaso",
-    "name": "Gravillaso Mod",
-    "version": "2.0.4 OBSOLETE",
+    "name": "Gravillaso Java",
+    "version": "2.1.4",
     "mod_id": "gravillaso",
     "author": "NickName73",
-    "lastUpdated": "2021-11-28T09:45:17Z",
+    "lastUpdated": "2021-11-28T11:12:12Z",
     "stars": 28,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
     "description": "Gravillaso will improve your game content by adding more block and turret items. Version for Mindustry V7 You can download the version for V6 on the GitHub page"
   },
   {
@@ -681,7 +681,7 @@
     "version": "11.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2021-11-26T10:29:00Z",
+    "lastUpdated": "2021-11-28T10:56:36Z",
     "stars": 15,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -2496,6 +2496,19 @@
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "LottieVixen/1-tile-drills",
+    "name": "1 Tile Drills",
+    "version": "0.0.1",
+    "mod_id": "1-tile-drills",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-06T23:48:03Z",
+    "stars": 2,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
+  },
+  {
     "repo": "DeltaNedas/item-grabber",
     "name": "Item Grabber",
     "version": "1.0.2",
@@ -2767,6 +2780,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
+  },
+  {
+    "repo": "amg2048/saphatax",
+    "name": "Saphatax",
+    "version": "0.1.5 test build 1/3",
+    "mod_id": "saphatax",
+    "author": "aden8r",
+    "lastUpdated": "2021-06-27T15:36:10Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
   },
   {
     "repo": "BlueTechnoCat/Galaxite-Mod",
