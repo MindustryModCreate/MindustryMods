@@ -58,7 +58,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-11-27T15:17:48Z",
-    "stars": 94,
+    "stars": 95,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -1729,19 +1729,6 @@
     "description": "Adds a unique скат unit branch.\n\nNow with extra js stuff!"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.3",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-11-22T17:51:07Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "Industry-test pre-v0.1",
@@ -1766,6 +1753,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.3",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2021-11-29T17:20:30Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2470,19 +2470,6 @@
     "description": "Welcome to KENGINTERWORLD.There are lots of materials,ores,machines,turrets,transport and units,now in testing."
   },
   {
-    "repo": "MHeMoTexHuK/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.0.4",
-    "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-11-28T14:50:28Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -3034,7 +3021,7 @@
     "version": "0.1 Alpha",
     "mod_id": "mindustry-plus-plus",
     "author": "Staticalliam7",
-    "lastUpdated": "2021-11-27T04:47:53Z",
+    "lastUpdated": "2021-11-29T16:04:32Z",
     "stars": 2,
     "minGameVersion": "121.4",
     "hasScripts": true,
@@ -4251,19 +4238,6 @@
     "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
   },
   {
-    "repo": "mrcactiseed21/ultranium-mod-mindustry",
-    "name": "ultranium mod",
-    "version": "0",
-    "mod_id": "ultranium",
-    "author": "mrcactiseed21",
-    "lastUpdated": "2021-10-20T08:29:38Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "wip content mod"
-  },
-  {
     "repo": "MissAmity/Singabana",
     "name": "Singabana",
     "version": "0.1",
@@ -4418,5 +4392,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds tons of useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "pixecoz/maps-pack",
+    "name": "Maps Pack",
+    "version": "1.0",
+    "mod_id": "maps-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2021-11-29T16:07:51Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Upload your maps:\nDiscord pixecoz#3275"
   }
 ]
