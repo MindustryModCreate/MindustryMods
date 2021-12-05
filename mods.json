@@ -590,7 +590,7 @@
     "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-05T09:50:54Z",
+    "lastUpdated": "2021-12-05T10:50:08Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -798,7 +798,7 @@
     "version": "2.1.2+0.1.4",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-04T13:23:15Z",
+    "lastUpdated": "2021-12-05T14:30:12Z",
     "stars": 12,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1924,19 +1924,6 @@
     "description": "этот мод заставит тебя попыхтеть"
   },
   {
-    "repo": "Goobrr/toxodrip",
-    "name": "Toxodrip",
-    "version": "69.420",
-    "mod_id": "toxodrip",
-    "author": "Goober",
-    "lastUpdated": "2021-05-03T02:13:24Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Big man doing big man things"
-  },
-  {
     "repo": "MindustryInside/ClassicMusic",
     "name": "Mindustry Classic Music",
     "version": "1.5",
@@ -2145,19 +2132,6 @@
     "description": "Java library for java mods"
   },
   {
-    "repo": "DeltaNedas/modding-toolbox",
-    "name": "Modding Toolbox",
-    "version": "3.7.3",
-    "mod_id": "modding-toolbox",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T19:11:16Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "DeltaNedas/anuke-logic",
     "name": "Anuke Logic",
     "version": "1.9.5",
@@ -2182,6 +2156,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "creative stuff"
+  },
+  {
+    "repo": "DeltaNedas/modding-toolbox",
+    "name": "Modding Toolbox",
+    "version": "3.7.3",
+    "mod_id": "modding-toolbox",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-12-05T14:29:35Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3047,7 +3034,7 @@
     "version": "1.3",
     "mod_id": "newconsole",
     "author": "Мнемотехник",
-    "lastUpdated": "2021-12-05T09:59:23Z",
+    "lastUpdated": "2021-12-05T12:30:14Z",
     "stars": 2,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -3575,19 +3562,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "2.4-beta",
-    "mod_id": "mod tools",
-    "author": "I hope...",
-    "lastUpdated": "2021-12-02T13:44:38Z",
-    "stars": 1,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "EmanuelG-Gaming/barrier",
     "name": "Barrier",
     "version": "1.0, the Final Update...?",
@@ -3612,6 +3586,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "2.4-beta",
+    "mod_id": "mod tools",
+    "author": "I hope...",
+    "lastUpdated": "2021-12-05T12:27:05Z",
+    "stars": 1,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4483,5 +4470,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
+  },
+  {
+    "repo": "MinDoUser/ExtendedMind",
+    "name": "ExtendedMind",
+    "version": "1.0.0",
+    "mod_id": "extended-mind",
+    "author": "lol02",
+    "lastUpdated": "2021-12-05T11:44:59Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds some content. \n Not finished yet!"
   }
 ]
