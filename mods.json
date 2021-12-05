@@ -5,8 +5,8 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2021-12-04T15:07:19Z",
-    "stars": 169,
+    "lastUpdated": "2021-12-05T08:53:22Z",
+    "stars": 170,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -234,6 +234,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Information",
+    "version": "1.5.3",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-11-18T21:06:13Z",
+    "stars": 41,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "Sharlottes/sharustry",
     "name": "Sharustry",
     "version": "0.1",
@@ -245,19 +258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
-  },
-  {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Information",
-    "version": "1.5.3",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-11-18T21:06:13Z",
-    "stars": 40,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -590,7 +590,7 @@
     "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-11-27T15:47:38Z",
+    "lastUpdated": "2021-12-05T09:50:54Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -650,6 +650,19 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
+    "repo": "pixecoz/MindustrySchematics",
+    "name": "Schematics Pack",
+    "version": "8.0",
+    "mod_id": "schematics-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2021-07-07T17:18:58Z",
+    "stars": 15,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
+  },
+  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -674,19 +687,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "pixecoz/MindustrySchematics",
-    "name": "Schematics Pack",
-    "version": "8.0",
-    "mod_id": "schematics-pack",
-    "author": "pixecoz",
-    "lastUpdated": "2021-07-07T17:18:58Z",
-    "stars": 14,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -975,6 +975,19 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.3",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2021-10-04T04:23:03Z",
+    "stars": 10,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "SnakkiZXZ/Coppermod",
     "name": "Coppermod",
     "version": "2.4.1",
@@ -1012,19 +1025,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.3",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2021-10-04T04:23:03Z",
-    "stars": 9,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "SupremeTurtle/DuoEnhanced",
@@ -1755,19 +1755,6 @@
     "description": "Adds a unique скат unit branch.\n\nNow with extra js stuff!"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "Industry-test pre-v0.1",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2021-11-24T16:55:50Z",
-    "stars": 5,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "Blerp23/Blerptest-mod",
     "name": "Blerp's Content Mod",
     "version": "0.98 Beta",
@@ -1792,6 +1779,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Chaos."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.5.1_industry-test",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2021-12-05T04:28:17Z",
+    "stars": 5,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2106,6 +2106,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "PiGPiG2048/KENGINTERmod",
+    "name": "KENGINTERmod",
+    "version": "KENG01-testNEW",
+    "mod_id": "KENGINTER-WORLD",
+    "author": "PiGPiG2048",
+    "lastUpdated": "2021-11-19T10:55:37Z",
+    "stars": 4,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to KENGINTERWORLD.There are lots of materials,ores,machines,turrets,transport and units,now in testing."
+  },
+  {
     "repo": "Kingfrankbob/Extra-Support",
     "name": "Extra Support",
     "version": "1.0",
@@ -2163,7 +2176,7 @@
     "version": "0.3",
     "mod_id": "creatiive",
     "author": "Uujuju",
-    "lastUpdated": "2021-12-05T00:27:55Z",
+    "lastUpdated": "2021-12-05T00:43:26Z",
     "stars": 4,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2442,19 +2455,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
-    "repo": "PiGPiG2048/KENGINTERmod",
-    "name": "KENGINTERmod",
-    "version": "KENG01-testNEW",
-    "mod_id": "KENGINTER-WORLD",
-    "author": "PiGPiG2048",
-    "lastUpdated": "2021-11-19T10:55:37Z",
-    "stars": 3,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to KENGINTERWORLD.There are lots of materials,ores,machines,turrets,transport and units,now in testing."
   },
   {
     "repo": "HappyGingerWolf/Small-Drill",
@@ -3029,19 +3029,6 @@
     "description": ""
   },
   {
-    "repo": "MHeMoTexHuK/new-console",
-    "name": "New Console",
-    "version": "1.3",
-    "mod_id": "newconsole",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-11-30T18:12:51Z",
-    "stars": 2,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a much better console ui.\n\nSee README.md for more info."
-  },
-  {
     "repo": "staticalliam7/MindustryPlusPlus",
     "name": "MindustryPlusPlus",
     "version": "0.1 Alpha",
@@ -3053,6 +3040,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry Overhaul"
+  },
+  {
+    "repo": "MHeMoTexHuK/new-console",
+    "name": "New Console",
+    "version": "1.3",
+    "mod_id": "newconsole",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-05T09:59:23Z",
+    "stars": 2,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a much better console ui.\n\nSee README.md for more info."
   },
   {
     "repo": "4156/Infintory",
@@ -3601,6 +3601,19 @@
     "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
   },
   {
+    "repo": "CBMShadowGD/terrariamod",
+    "name": "terarria Mod",
+    "version": "3.1",
+    "mod_id": "Shadows-First-Mod",
+    "author": "CBMShadowGD",
+    "lastUpdated": "2021-12-05T09:59:09Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "my first mod."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -3677,19 +3690,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
-  },
-  {
-    "repo": "avocado5182/FirstMindustryMod",
-    "name": "Epic Mindustry Mod",
-    "version": "1.5",
-    "mod_id": "firstmod-a5182",
-    "author": "avocado5182",
-    "lastUpdated": "2020-12-12T12:48:22Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dumb mod that does dumb stuff."
   },
   {
     "repo": "Kyllingene/ruoter-legacy",
@@ -3911,19 +3911,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Niezależny mod kompatybilny z G-Modem"
-  },
-  {
-    "repo": "THCworkshopCN/KeepStar-War",
-    "name": "KeepStar-War",
-    "version": "0.0.0",
-    "mod_id": "KeepStar War",
-    "author": "THC Workshop CN",
-    "lastUpdated": "2021-04-09T12:41:18Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod making EVE KeepStar combats into Mindustry.Support 简体中文 and English now."
   },
   {
     "repo": "Daves1245/Mindustry_Mod",
@@ -4394,19 +4381,6 @@
     "description": "is this a mod about tanks?"
   },
   {
-    "repo": "Boople-Beep/untiled-mindustry-mod",
-    "name": "Boo's Mod.",
-    "version": "1.0",
-    "mod_id": "boo's mod",
-    "author": "Yourself",
-    "lastUpdated": "2021-11-13T20:11:22Z",
-    "stars": 0,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "IGNORE IF SEEN- i'm learning to mod"
-  },
-  {
     "repo": "greenbush5/duplicator-mod",
     "name": "Duplicator Mod",
     "version": "0.1",
@@ -4496,5 +4470,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
+    "repo": "MrAntlrr/duo",
+    "name": "Duo",
+    "version": "1.0",
+    "mod_id": "duo",
+    "author": "Antlrr",
+    "lastUpdated": "2021-12-05T09:57:49Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "duo"
   }
 ]
