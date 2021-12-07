@@ -483,10 +483,10 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
-    "version": "21.4",
+    "version": "22.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2021-12-05T20:09:45Z",
+    "lastUpdated": "2021-12-07T18:33:57Z",
     "stars": 22,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -590,7 +590,7 @@
     "version": "0.7.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-07T15:03:22Z",
+    "lastUpdated": "2021-12-07T15:30:26Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -795,10 +795,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.1.2+0.1.4",
+    "version": "2.1.2+0.1.5",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-07T12:05:13Z",
+    "lastUpdated": "2021-12-07T19:03:28Z",
     "stars": 12,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1755,19 +1755,6 @@
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.3",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-12-03T12:31:58Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "0.5.1_industry-test",
@@ -1792,6 +1779,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.3",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2021-12-07T19:31:38Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1948,19 +1948,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3083,10 +3070,10 @@
   {
     "repo": "MHeMoTexHuK/new-console",
     "name": "New Console",
-    "version": "1.4",
+    "version": "1.41",
     "mod_id": "newconsole",
     "author": "Мнемотехник",
-    "lastUpdated": "2021-12-07T10:31:41Z",
+    "lastUpdated": "2021-12-07T15:58:39Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3627,19 +3614,6 @@
     "description": "my first mod."
   },
   {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-06T19:20:01Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
-  },
-  {
     "repo": "I-hope1/mod.make",
     "name": "mod.make",
     "version": "2.4-beta",
@@ -3651,6 +3625,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2021-12-07T16:03:50Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "Error-In-Code/MindustryNuclearMod",
+    "name": "Nuclear Mines",
+    "version": "1.0",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2021-12-07T18:05:13Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radioactive items."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4516,24 +4516,11 @@
     "version": "1.0.0",
     "mod_id": "extended-mind",
     "author": "lol02",
-    "lastUpdated": "2021-12-05T11:44:59Z",
+    "lastUpdated": "2021-12-07T17:00:42Z",
     "stars": 0,
     "minGameVersion": "130",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
-  },
-  {
-    "repo": "Error-In-Code/MindustryNuclearMod",
-    "name": "Nuclear Mines",
-    "version": "1.0",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2021-12-06T19:38:38Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radioactive items."
   }
 ]
