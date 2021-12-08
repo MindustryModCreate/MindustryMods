@@ -460,7 +460,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2021-12-08T15:07:43Z",
+    "lastUpdated": "2021-12-08T17:42:38Z",
     "stars": 24,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1430,7 +1430,7 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
-    "repo": "MrAntlrr/basement",
+    "repo": "Antlrr/basement",
     "name": "Antlrr's Basement",
     "version": "1.0",
     "mod_id": "basement",
@@ -1677,7 +1677,7 @@
     "description": "A kotlin mod."
   },
   {
-    "repo": "MrAntlrr/best-texture-pack",
+    "repo": "Antlrr/best-texture-pack",
     "name": "The Best Texture Pack",
     "version": "0.3",
     "mod_id": "The Best Texture Pack",
@@ -1950,6 +1950,19 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2028,7 +2041,7 @@
     "description": "A template for Java mods for Mindustry."
   },
   {
-    "repo": "MrAntlrr/route",
+    "repo": "Antlrr/route",
     "name": "route 246",
     "version": "acuum cleaner",
     "mod_id": "route-246",
@@ -2470,7 +2483,7 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
-    "repo": "MrAntlrr/thorium-thorium-walls",
+    "repo": "Antlrr/thorium-thorium-walls",
     "name": "Thorium Thorium Walls",
     "version": "1.0",
     "mod_id": "thoriumThoriumWalls",
@@ -2899,7 +2912,7 @@
     "description": "Use mod with router language setting"
   },
   {
-    "repo": "MrAntlrr/normal-mod",
+    "repo": "Antlrr/normal-mod",
     "name": "A Normal Mod",
     "version": "1.0",
     "mod_id": "normal",
@@ -2938,7 +2951,7 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
-    "repo": "MrAntlrr/seitumbra",
+    "repo": "Antlrr/seitumbra",
     "name": "Seitumbra",
     "version": "1.0",
     "mod_id": "seitumbra",
@@ -3562,7 +3575,7 @@
     "description": "Adds an advanced weapons platform. Dread it. \n\n[ SANDBOX ONLY ]"
   },
   {
-    "repo": "MrAntlrr/dryehm-corvus",
+    "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
     "mod_id": "dryehm-corvus",
@@ -4381,7 +4394,7 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
-    "repo": "MrAntlrr/anuke-bundle",
+    "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
     "mod_id": "anuke",
@@ -4485,7 +4498,7 @@
     "description": "Adds some magic to mindustry... soon"
   },
   {
-    "repo": "MrAntlrr/atrac",
+    "repo": "Antlrr/atrac",
     "name": "Atrac",
     "version": "1.0",
     "mod_id": "atrac",
@@ -4498,7 +4511,7 @@
     "description": "atrac"
   },
   {
-    "repo": "MrAntlrr/duo",
+    "repo": "Antlrr/duo",
     "name": "Duo",
     "version": "1.0",
     "mod_id": "duo",
@@ -4516,11 +4529,24 @@
     "version": "1.0.0",
     "mod_id": "extended-mind",
     "author": "lol02",
-    "lastUpdated": "2021-12-08T14:54:37Z",
+    "lastUpdated": "2021-12-08T15:46:27Z",
     "stars": 0,
     "minGameVersion": "130",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
+  },
+  {
+    "repo": "SomeCoder1/MindustryMod",
+    "name": "Mindustry Mod",
+    "version": "0.1",
+    "mod_id": "mindustry-mod-somecoder",
+    "author": "idk you tell me",
+    "lastUpdated": "2021-12-08T17:01:59Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
