@@ -292,7 +292,7 @@
     "mod_id": "btm",
     "author": "guiY & Carrot",
     "lastUpdated": "2021-11-17T12:17:00Z",
-    "stars": 34,
+    "stars": 35,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
@@ -377,6 +377,19 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
+    "repo": "Goobrr/Esoterum",
+    "name": "Esoterum",
+    "version": "2.11",
+    "mod_id": "esoterum",
+    "author": "Goober, Meep, Python, Eldoofus",
+    "lastUpdated": "2021-11-09T07:18:26Z",
+    "stars": 28,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
+  },
+  {
     "repo": "NickName73/Gravillaso",
     "name": "Gravillaso Java",
     "version": "2.1.4",
@@ -401,19 +414,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "Goobrr/Esoterum",
-    "name": "Esoterum",
-    "version": "2.11",
-    "mod_id": "esoterum",
-    "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2021-11-09T07:18:26Z",
-    "stars": 27,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
     "repo": "Gdeft/substructure",
@@ -585,6 +585,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 18,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.5",
@@ -596,19 +609,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
-  },
-  {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "version": "0.1",
-    "mod_id": "pvpnotifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
-    "stars": 17,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1240,7 +1240,7 @@
     "version": "ask Jans",
     "mod_id": "opposing-front",
     "author": "Janssendel",
-    "lastUpdated": "2021-12-09T02:27:56Z",
+    "lastUpdated": "2021-12-10T08:46:17Z",
     "stars": 7,
     "minGameVersion": "129.2",
     "hasScripts": false,
@@ -1948,19 +1948,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3640,19 +3627,6 @@
     "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-08T13:57:19Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
-  },
-  {
     "repo": "Error-In-Code/MindustryNuclearMod",
     "name": "Nuclear Mines",
     "version": "0.1",
@@ -3664,6 +3638,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\nNot yet finished. Some Sprites are missing and many things still need balance."
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2021-12-10T05:12:40Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Nikisos/TheBattleMod",
