@@ -603,7 +603,7 @@
     "version": "0.7.5",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-12T09:36:49Z",
+    "lastUpdated": "2021-12-12T15:06:56Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -798,7 +798,7 @@
     "version": "2.2.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-11T15:33:58Z",
+    "lastUpdated": "2021-12-12T12:03:51Z",
     "stars": 12,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3068,19 +3068,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.32",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-06T03:35:58Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Comeback."
-  },
-  {
     "repo": "MHeMoTexHuK/new-console",
     "name": "New Console",
     "version": "1.41",
@@ -3105,6 +3092,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.32",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-12T13:17:16Z",
+    "stars": 2,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Comeback."
   },
   {
     "repo": "4156/Infintory",
@@ -4548,5 +4548,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "FreezeMandu/QA-Schemic",
+    "name": "Q&A Schemic",
+    "version": "1.0",
+    "mod_id": "QA-Schemic",
+    "author": "Qwertynoob&Anchovy&Mandu",
+    "lastUpdated": "2021-12-12T14:44:19Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   }
 ]
