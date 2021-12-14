@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2021-10-20T18:12:28Z",
-    "stars": 80,
+    "stars": 81,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -245,19 +245,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "Sharlottes/sharustry",
-    "name": "Sharustry",
-    "version": "0.2v",
-    "mod_id": "shar",
-    "author": "Sharlottes",
-    "lastUpdated": "2021-12-08T08:24:47Z",
-    "stars": 40,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -460,7 +447,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2021-12-09T09:25:04Z",
+    "lastUpdated": "2021-12-14T17:11:22Z",
     "stars": 24,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -611,6 +598,19 @@
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
   },
   {
+    "repo": "3Snake3/ADC",
+    "name": "ADC",
+    "version": "11.0",
+    "mod_id": "adc",
+    "author": "Snake & SuperJaba2000",
+    "lastUpdated": "2021-12-12T16:28:46Z",
+    "stars": 17,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of additional content like turrets, factories and other."
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -648,19 +648,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "3Snake3/ADC",
-    "name": "ADC",
-    "version": "11.0",
-    "mod_id": "adc",
-    "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2021-12-12T16:28:46Z",
-    "stars": 16,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
     "repo": "pixecoz/MindustrySchematics",
@@ -1287,6 +1274,19 @@
     "description": "One should do what one enjoys, and won't harm anyone else."
   },
   {
+    "repo": "valtsu41/bundle-chaos",
+    "name": "Bundle chaos",
+    "version": "4.2",
+    "mod_id": "bundle-chaos",
+    "author": "valtsu41",
+    "lastUpdated": "2021-03-04T16:38:43Z",
+    "stars": 6,
+    "minGameVersion": "107",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod replaces all texts in the game with random ones."
+  },
+  {
     "repo": "1qwaka/Thorium-Evolution-6.0",
     "name": "Thorium Evolution",
     "version": "1",
@@ -1768,19 +1768,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.3",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-12-07T19:31:38Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "MHeMoTexHuK/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.0",
@@ -1792,6 +1779,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a unique скат unit branch.\n\nNow in Kotlin!"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.3",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2021-12-14T17:21:27Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
