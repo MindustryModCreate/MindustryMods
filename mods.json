@@ -884,19 +884,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "TheRealIvyX/MoreDefences",
-    "name": "MoreDefences",
-    "version": "1.0",
-    "mod_id": "more-defences-ivyx",
-    "author": "IvyX",
-    "lastUpdated": "2021-12-06T18:35:08Z",
-    "stars": 11,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -908,6 +895,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
+  },
+  {
+    "repo": "TheRealIvyX/MoreDefences",
+    "name": "MoreDefences",
+    "version": "1.0",
+    "mod_id": "more-defences-ivyx",
+    "author": "IvyX",
+    "lastUpdated": "2021-12-15T01:20:14Z",
+    "stars": 11,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -3112,7 +3112,7 @@
     "version": "0.4",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-14T12:44:27Z",
+    "lastUpdated": "2021-12-15T03:47:09Z",
     "stars": 2,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -3664,6 +3664,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "SomeCoder1/MindustryMod",
+    "name": "Mindustry Mod",
+    "version": "0.1",
+    "mod_id": "mindustry-mod-somecoder",
+    "author": "This mod doesn't have a theme, I just add random cool things.",
+    "lastUpdated": "2021-12-15T00:14:03Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod with random things."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4552,27 +4565,14 @@
   {
     "repo": "EclipseTheOldOne/Project-Eclipse",
     "name": "Project Eclipse",
-    "version": "0.1",
+    "version": "0.1.0.1",
     "mod_id": "mindus",
     "author": "Eclipse",
-    "lastUpdated": "2021-12-14T06:08:59Z",
+    "lastUpdated": "2021-12-15T04:25:24Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": true,
     "hasJava": false,
     "description": "A"
-  },
-  {
-    "repo": "SomeCoder1/MindustryMod",
-    "name": "Mindustry Mod",
-    "version": "0.1",
-    "mod_id": "mindustry-mod-somecoder",
-    "author": "This mod doesn't have a theme, I just add random cool things.",
-    "lastUpdated": "2021-12-15T00:14:03Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod with random things."
   }
 ]
