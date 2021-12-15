@@ -902,7 +902,7 @@
     "version": "1.0",
     "mod_id": "more-defences-ivyx",
     "author": "IvyX",
-    "lastUpdated": "2021-12-15T01:20:14Z",
+    "lastUpdated": "2021-12-15T19:04:38Z",
     "stars": 11,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1794,19 +1794,6 @@
     "description": "Adds a unique скат unit branch.\n\nNow in Kotlin!"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.3",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2021-12-14T17:21:27Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "uujuju1/creatiive-mod",
     "name": "creatiive mod.",
     "version": "0.3",
@@ -1818,6 +1805,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "creative stuff"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.3",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2021-12-15T16:40:20Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2522,6 +2522,19 @@
     "description": "Mod based on units"
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.4",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-15T03:47:09Z",
+    "stars": 3,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Comeback."
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -3107,19 +3120,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.4",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-15T03:47:09Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Comeback."
-  },
-  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -3653,17 +3653,17 @@
     "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-14T20:20:02Z",
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.1",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-15T16:28:31Z",
     "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A"
   },
   {
     "repo": "SomeCoder1/MindustryMod",
@@ -3671,7 +3671,7 @@
     "version": "0.1",
     "mod_id": "mindustry-mod-somecoder",
     "author": "This mod doesn't have a theme, I just add random cool things.",
-    "lastUpdated": "2021-12-15T00:14:03Z",
+    "lastUpdated": "2021-12-15T17:12:35Z",
     "stars": 1,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3679,17 +3679,17 @@
     "description": "A Mindustry Java mod with random things."
   },
   {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.1",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-15T07:30:37Z",
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2021-12-15T20:01:30Z",
     "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A"
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Nikisos/TheBattleMod",
