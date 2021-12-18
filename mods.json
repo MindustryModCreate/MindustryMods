@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2021-12-11T15:46:02Z",
-    "stars": 172,
+    "stars": 173,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -208,6 +208,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "PetruCHIOrus/lead_ind",
+    "name": "Lead Industries",
+    "version": "1.5.1",
+    "mod_id": "lead_ind",
+    "author": "PetruCHIOrus",
+    "lastUpdated": "2021-01-17T18:21:16Z",
+    "stars": 43,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -219,19 +232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
-    "repo": "PetruCHIOrus/lead_ind",
-    "name": "Lead Industries",
-    "version": "1.5.1",
-    "mod_id": "lead_ind",
-    "author": "PetruCHIOrus",
-    "lastUpdated": "2021-01-17T18:21:16Z",
-    "stars": 42,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -351,6 +351,19 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
+    "repo": "Goobrr/Esoterum",
+    "name": "Esoterum",
+    "version": "2.11",
+    "mod_id": "esoterum",
+    "author": "Goober, Meep, Python, Eldoofus",
+    "lastUpdated": "2021-11-09T07:18:26Z",
+    "stars": 29,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
+  },
+  {
     "repo": "abomb4/super-cheat",
     "name": "(v6) Invincible Cheat 无敌作弊",
     "version": "2.8.3",
@@ -375,19 +388,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "Goobrr/Esoterum",
-    "name": "Esoterum",
-    "version": "2.11",
-    "mod_id": "esoterum",
-    "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2021-11-09T07:18:26Z",
-    "stars": 28,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
     "repo": "NickName73/Gravillaso",
@@ -442,6 +442,19 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting Demo, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. This is the oficial demo for it's v8 update. Maps are unfinished, so you should probibly wait for a bit before using the mod. I hope that you have a good time playing, and I'll cya in the past."
   },
   {
+    "repo": "Fresh791/mindustry-extended",
+    "name": "Mindustry-Extended",
+    "version": "1.09",
+    "mod_id": "me",
+    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
+    "lastUpdated": "2021-12-14T17:11:22Z",
+    "stars": 25,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -453,19 +466,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
-  },
-  {
-    "repo": "Fresh791/mindustry-extended",
-    "name": "Mindustry-Extended",
-    "version": "1.09",
-    "mod_id": "me",
-    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2021-12-14T17:11:22Z",
-    "stars": 24,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -507,6 +507,19 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
+    "repo": "HappyGingerWolf/Inverted-Machines",
+    "name": "Inverted Machines",
+    "version": "1.4",
+    "mod_id": "inverted-machines",
+    "author": "GingerWolf and MEEPofFaith",
+    "lastUpdated": "2021-09-26T15:21:08Z",
+    "stars": 20,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds inverted versions of crafters."
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "version": "1",
@@ -544,19 +557,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds upgraded versions of existing factories."
-  },
-  {
-    "repo": "HappyGingerWolf/Inverted-Machines",
-    "name": "Inverted Machines",
-    "version": "1.4",
-    "mod_id": "inverted-machines",
-    "author": "GingerWolf and MEEPofFaith",
-    "lastUpdated": "2021-09-26T15:21:08Z",
-    "stars": 19,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds inverted versions of crafters."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -603,7 +603,7 @@
     "version": "0.7.5",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-18T04:23:55Z",
+    "lastUpdated": "2021-12-18T09:48:47Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -720,7 +720,7 @@
     "version": "1.0",
     "mod_id": "larger-cores",
     "author": "z0mbiesrock",
-    "lastUpdated": "2021-12-13T23:32:09Z",
+    "lastUpdated": "2021-12-18T08:53:30Z",
     "stars": 14,
     "minGameVersion": "112",
     "hasScripts": false,
@@ -962,6 +962,19 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
+    "repo": "ThatOneBepis/Infinitodustry",
+    "name": "Infinitodustry",
+    "version": "2",
+    "mod_id": "Infinitodustry",
+    "author": "Bepis",
+    "lastUpdated": "2021-05-29T15:24:21Z",
+    "stars": 10,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Attempt at prosperity."
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.0",
@@ -1025,19 +1038,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
-  },
-  {
-    "repo": "ThatOneBepis/Infinitodustry",
-    "name": "Infinitodustry",
-    "version": "2",
-    "mod_id": "Infinitodustry",
-    "author": "Bepis",
-    "lastUpdated": "2021-05-29T15:24:21Z",
-    "stars": 9,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Attempt at prosperity."
   },
   {
     "repo": "SupremeTurtle/DuoEnhanced",
@@ -1240,7 +1240,7 @@
     "version": "1.14",
     "mod_id": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2021-12-18T05:07:15Z",
+    "lastUpdated": "2021-12-18T10:00:18Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1976,6 +1976,19 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2455,6 +2468,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
+    "repo": "HolyHades/VanillaEnhanced",
+    "name": "VanillaEnhanced",
+    "version": "2.3",
+    "mod_id": "Vanilla Enhanced",
+    "author": "HolyHades",
+    "lastUpdated": "2021-11-03T22:50:50Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few things that enhance the vanilla experience."
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -2975,19 +3001,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "HolyHades/VanillaEnhanced",
-    "name": "VanillaEnhanced",
-    "version": "2.3",
-    "mod_id": "Vanilla Enhanced",
-    "author": "HolyHades",
-    "lastUpdated": "2021-11-03T22:50:50Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few things that enhance the vanilla experience."
   },
   {
     "repo": "YSpoof/mindustry-zmod",
@@ -3653,19 +3666,6 @@
     "description": "A Mindustry Java mod with random things."
   },
   {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.1",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-17T11:56:55Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A"
-  },
-  {
     "repo": "EmanuelG-Gaming/barrier",
     "name": "Barrier",
     "version": "1.0, the Final Update...?",
@@ -3677,6 +3677,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.1",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-18T07:47:15Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A"
   },
   {
     "repo": "Nikisos/TheBattleMod",
