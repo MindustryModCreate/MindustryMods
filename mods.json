@@ -260,6 +260,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2021-10-21T19:22:58Z",
+    "stars": 36,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "Sharlottes/ExampleMod",
     "name": "Example Mod",
     "version": "1.4.9",
@@ -271,19 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2021-10-21T19:22:58Z",
-    "stars": 35,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
@@ -395,7 +395,7 @@
     "version": "2.1.4",
     "mod_id": "gravillaso",
     "author": "NickName73",
-    "lastUpdated": "2021-12-18T16:23:27Z",
+    "lastUpdated": "2021-12-19T09:06:13Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1045,7 +1045,7 @@
     "version": "0.8.3",
     "mod_id": "DuoEnhanced",
     "author": "Gwapo",
-    "lastUpdated": "2021-10-16T07:04:45Z",
+    "lastUpdated": "2021-12-19T08:35:19Z",
     "stars": 9,
     "minGameVersion": "126.1",
     "hasScripts": true,
@@ -1352,19 +1352,6 @@
     "description": "random ideas"
   },
   {
-    "repo": "iarkn/mind-util",
-    "name": "mind-util - Utility Mod",
-    "version": "1.3.0",
-    "mod_id": "mind-util",
-    "author": "iarkn",
-    "lastUpdated": "2021-09-26T04:47:15Z",
-    "stars": 6,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
-  },
-  {
     "repo": "Slotterleet/distributor",
     "name": "Distributor",
     "version": "1.0.1",
@@ -1428,6 +1415,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "iarkn/mind-util",
+    "name": "mind-util - Utility Mod",
+    "version": "1.3.0",
+    "mod_id": "mind-util",
+    "author": "iarkn",
+    "lastUpdated": "2021-12-19T06:07:25Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2184,6 +2184,19 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.41",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-19T07:36:04Z",
+    "stars": 4,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Comeback."
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -2533,19 +2546,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod based on units"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.41",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-19T04:41:42Z",
-    "stars": 3,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Comeback."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3120,6 +3120,19 @@
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
   },
   {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.1",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-19T06:51:05Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -3651,19 +3664,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod with random things."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.1",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-18T14:00:02Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A"
   },
   {
     "repo": "EmanuelG-Gaming/barrier",
