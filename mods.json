@@ -32,7 +32,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2021-03-28T06:14:44Z",
-    "stars": 144,
+    "stars": 143,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -45,7 +45,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2021-12-01T17:54:01Z",
-    "stars": 99,
+    "stars": 100,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -58,7 +58,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-12-19T20:21:50Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -71,7 +71,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2021-12-19T05:02:10Z",
-    "stars": 95,
+    "stars": 96,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2021-10-20T18:12:28Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -97,7 +97,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2021-12-12T05:33:40Z",
-    "stars": 76,
+    "stars": 77,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -741,6 +741,19 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.2.10hf",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2021-12-13T06:29:11Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that could... Increases the maximum size of schemes to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "sk7725/Commands",
     "name": "Commands",
     "version": "0.2",
@@ -791,19 +804,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.2.10hf",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-13T06:29:11Z",
-    "stars": 12,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that could... Increases the maximum size of schemes to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1781,19 +1781,6 @@
     "description": "Chaos."
   },
   {
-    "repo": "uujuju1/creatiive-mod",
-    "name": "creatiive mod.",
-    "version": "0.4",
-    "mod_id": "creatiive",
-    "author": "Uujuju",
-    "lastUpdated": "2021-12-19T00:55:48Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "creative stuff"
-  },
-  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2189,12 +2176,25 @@
     "version": "0.41",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-19T07:36:04Z",
+    "lastUpdated": "2021-12-20T15:50:52Z",
     "stars": 4,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
     "description": "Comeback."
+  },
+  {
+    "repo": "uujuju1/creatiive-mod",
+    "name": "creatiive mod.",
+    "version": "0.4",
+    "mod_id": "creatiive",
+    "author": "Uujuju",
+    "lastUpdated": "2021-12-20T16:51:49Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "creative stuff"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3419,19 +3419,6 @@
     "description": "death awaits me"
   },
   {
-    "repo": "FreezeMandu/invisibleblocks",
-    "name": "Invisible Blocks",
-    "version": "1.8",
-    "mod_id": "invisibleblocks",
-    "author": "Mandu",
-    "lastUpdated": "2021-09-12T04:14:56Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
-  },
-  {
     "repo": "SrOtaku/ModNathilha",
     "name": "NathilhaMod",
     "version": "1.71(Public-Beta)",
@@ -3692,6 +3679,19 @@
     "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
+    "repo": "FreezeMandu/invisibleblocks",
+    "name": "Invisible Blocks",
+    "version": "1.9",
+    "mod_id": "invisibleblocks",
+    "author": "Mandu",
+    "lastUpdated": "2021-12-20T17:26:27Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -3807,19 +3807,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
-    "name": "Mindustry Java mod Template",
-    "version": "2",
-    "mod_id": "mindustry-jm-template",
-    "author": "AmateurPotion",
-    "lastUpdated": "2020-12-27T16:38:32Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
   },
   {
     "repo": "Sonnicon/GroovyModMod",
@@ -4186,6 +4173,19 @@
     "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
   },
   {
+    "repo": "middlewhite/Mindustry_powerdrill_mod",
+    "name": "Mindustry_powerdrill_mod",
+    "version": "1.0",
+    "mod_id": "电动钻头 by mid",
+    "author": "中白",
+    "lastUpdated": "2021-08-27T15:42:30Z",
+    "stars": 0,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "使用电力驱动的钻头"
+  },
+  {
     "repo": "iwantmods82/NimbusDustry",
     "name": "NimbusDustry",
     "version": "No version provided.",
@@ -4301,6 +4301,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made to add more plants into Mindustry"
+  },
+  {
+    "repo": "mrcactiseed21/ultranium-mod-mindustry",
+    "name": "ultranium mod",
+    "version": "0",
+    "mod_id": "ultranium",
+    "author": "mrcactiseed21",
+    "lastUpdated": "2021-10-20T08:29:38Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wip content mod"
   },
   {
     "repo": "MissAmity/Singabana",
