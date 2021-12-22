@@ -57,7 +57,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-12-20T20:24:48Z",
+    "lastUpdated": "2021-12-21T21:11:57Z",
     "stars": 97,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -156,6 +156,19 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
+    "repo": "DeltaNedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.5.7",
+    "mod_id": "pictologic",
+    "author": "DeltaNedas, Router and another guy",
+    "lastUpdated": "2021-05-15T09:37:44Z",
+    "stars": 47,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "DeltaNedas/routorio",
     "name": "routorio",
     "version": "2.36.3",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "DeltaNedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.5.7",
-    "mod_id": "pictologic",
-    "author": "DeltaNedas, Router and another guy",
-    "lastUpdated": "2021-05-15T09:37:44Z",
-    "stars": 46,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/rtfm",
@@ -4184,6 +4184,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
+  },
+  {
+    "repo": "middlewhite/Mindustry_powerdrill_mod",
+    "name": "Mindustry_powerdrill_mod",
+    "version": "1.0",
+    "mod_id": "电动钻头 by mid",
+    "author": "中白",
+    "lastUpdated": "2021-08-27T15:42:30Z",
+    "stars": 0,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "使用电力驱动的钻头"
   },
   {
     "repo": "iwantmods82/NimbusDustry",
