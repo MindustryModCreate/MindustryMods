@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-12-23T22:03:47Z",
-    "stars": 101,
+    "stars": 102,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -603,7 +603,7 @@
     "version": "0.7.5",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-22T15:41:06Z",
+    "lastUpdated": "2021-12-24T12:58:31Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -730,10 +730,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.2.14",
+    "version": "2.2.15",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-23T19:43:33Z",
+    "lastUpdated": "2021-12-24T14:40:12Z",
     "stars": 13,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "1.0",
     "mod_id": "more-defences-ivyx",
     "author": "IvyX",
-    "lastUpdated": "2021-12-24T01:05:33Z",
+    "lastUpdated": "2021-12-24T14:30:52Z",
     "stars": 11,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -2847,6 +2847,19 @@
     "description": "A small yet advanced corporation, from the Andromeda Galaxy"
   },
   {
+    "repo": "FreezeMandu/minZoom",
+    "name": "minZoom",
+    "version": "1.52",
+    "mod_id": "minzoom",
+    "author": "Mandu",
+    "lastUpdated": "2021-06-26T07:21:34Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
     "name": "Diamond Mod",
     "version": "2.4",
@@ -2884,6 +2897,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Some strange mod, which there some metals."
+  },
+  {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor",
+    "version": "0.76.2",
+    "mod_id": "infiniteProcessor",
+    "author": "Mandu",
+    "lastUpdated": "2021-07-14T08:20:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "Austin5003/mohole",
@@ -2949,6 +2975,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
+  },
+  {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "version": "0.42",
+    "mod_id": "siriuschem-v7",
+    "author": "Sirius&Mandu",
+    "lastUpdated": "2021-09-22T04:53:04Z",
+    "stars": 2,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "Antlrr/normal-mod",
@@ -3133,12 +3172,25 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
+    "repo": "FreezeMandu/invisibleblocks",
+    "name": "Invisible Blocks",
+    "version": "1.9",
+    "mod_id": "invisibleblocks",
+    "author": "Mandu",
+    "lastUpdated": "2021-12-20T17:26:27Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
+  },
+  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "mod_id": "MI2-Utilities",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2021-12-23T14:04:29Z",
+    "lastUpdated": "2021-12-24T14:03:15Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -3367,19 +3419,6 @@
     "description": "The addition for mindustry. Out there to teach noobs how to mod, useless for scripting mentors."
   },
   {
-    "repo": "FreezeMandu/minZoom",
-    "name": "minZoom",
-    "version": "1.52",
-    "mod_id": "minzoom",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-26T07:21:34Z",
-    "stars": 1,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Sonnicon/mindustry-newhorizons",
     "name": "New Horizons",
     "version": "0",
@@ -3391,19 +3430,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
-  },
-  {
-    "repo": "FreezeMandu/infinite-processor",
-    "name": "Infinite Processor",
-    "version": "0.76.2",
-    "mod_id": "infiniteProcessor",
-    "author": "Mandu",
-    "lastUpdated": "2021-07-14T08:20:20Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "VaporSpaceYT/endrium",
@@ -3456,19 +3482,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds colored walls and conveyors."
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.42",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius&Mandu",
-    "lastUpdated": "2021-09-22T04:53:04Z",
-    "stars": 1,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "TheEE145/ohNoNooh",
@@ -3653,6 +3666,19 @@
     "description": "my first mod."
   },
   {
+    "repo": "FreezeMandu/QA-Schemic",
+    "name": "Q&A Schemic",
+    "version": "1.0",
+    "mod_id": "QA-Schemic",
+    "author": "Qwertynoob&Anchovy&Mandu",
+    "lastUpdated": "2021-12-12T14:44:19Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
+  },
+  {
     "repo": "SomeCoder1/MindustryMod",
     "name": "Mindustry Mod",
     "version": "0.1",
@@ -3677,32 +3703,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
-    "repo": "FreezeMandu/invisibleblocks",
-    "name": "Invisible Blocks",
-    "version": "1.9",
-    "mod_id": "invisibleblocks",
-    "author": "Mandu",
-    "lastUpdated": "2021-12-20T17:26:27Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
-  },
-  {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-22T20:42:01Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Goobrr/Finality",
@@ -3731,12 +3731,25 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2021-12-24T11:34:19Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+  },
+  {
     "repo": "12fd1m/MindustryModTemplate",
     "name": "MindustryModTemplate",
     "version": "1.0",
     "mod_id": "",
     "author": "",
-    "lastUpdated": "2021-12-24T08:39:59Z",
+    "lastUpdated": "2021-12-24T12:50:12Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": false,
@@ -4548,19 +4561,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "FreezeMandu/QA-Schemic",
-    "name": "Q&A Schemic",
-    "version": "1.0",
-    "mod_id": "QA-Schemic",
-    "author": "Qwertynoob&Anchovy&Mandu",
-    "lastUpdated": "2021-12-12T14:44:19Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
