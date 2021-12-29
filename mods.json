@@ -730,10 +730,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.2.20 + 0.0.2",
+    "version": "2.2.20 + 0.0.4",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-29T15:01:19Z",
+    "lastUpdated": "2021-12-29T18:01:34Z",
     "stars": 14,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1019,7 +1019,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-12-29T05:57:36Z",
+    "lastUpdated": "2021-12-29T19:34:22Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -4446,19 +4446,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "Zelaux/ZelauxMindustryModTamplate",
-    "name": "Your mod name",
-    "version": "0.1",
-    "mod_id": "your-mod",
-    "author": "YourNickName",
-    "lastUpdated": "2021-11-01T18:51:04Z",
-    "stars": 0,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Your own mod"
-  },
-  {
     "repo": "zio-coder/mindustry_mods",
     "name": "Template",
     "version": "0",
@@ -4626,5 +4613,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some extra logging for debugging purposes.\n\nFeatures:\n    - Enables the in-game console.\n    - Sets log level to debug.\n    - Adds timestamps for console messages.\n    - Listens to events and prints them to the console.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "Zelaux/ZelauxMindustryModTamplate",
+    "name": "Your mod name",
+    "version": "0.1",
+    "mod_id": "your-mod",
+    "author": "YourNickName",
+    "lastUpdated": "2021-12-29T18:16:45Z",
+    "stars": 0,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Your own mod"
   }
 ]
