@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-12-28T19:48:39Z",
-    "stars": 105,
+    "stars": 106,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -110,7 +110,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2021-10-27T16:46:48Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -266,7 +266,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2021-10-21T19:22:58Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "108",
     "hasScripts": true,
     "hasJava": false,
@@ -746,7 +746,7 @@
     "version": "1.0",
     "mod_id": "more-defences-ivyx",
     "author": "IvyX",
-    "lastUpdated": "2021-12-29T23:02:11Z",
+    "lastUpdated": "2021-12-30T08:56:42Z",
     "stars": 13,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1066,6 +1066,19 @@
     "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.42",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-30T09:46:00Z",
+    "stars": 9,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1233,19 +1246,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.42",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-29T13:07:53Z",
-    "stars": 7,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -2470,6 +2470,19 @@
     "description": "Pre-alpha version of mod"
   },
   {
+    "repo": "ax-nikita/uranium-mod",
+    "name": "Uranium Global Survival Mod.",
+    "version": "3.2",
+    "mod_id": "Uranium-Mod",
+    "author": "AX",
+    "lastUpdated": "2021-10-26T16:27:33Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
     "repo": "HolyHades/VanillaEnhanced",
     "name": "VanillaEnhanced",
     "version": "2.3",
@@ -2663,19 +2676,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "1qwaka/Item-transfer",
-    "name": "Item Transfer",
-    "version": "1",
-    "mod_id": "item-transfer",
-    "author": "code: Qwaka\nsprites: Gorilla Glue",
-    "lastUpdated": "2021-02-02T12:45:56Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
     "repo": "Volas171/nekodustry",
@@ -3053,19 +3053,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ax-nikita/uranium-mod",
-    "name": "Uranium Global Survival Mod.",
-    "version": "3.2",
-    "mod_id": "Uranium-Mod",
-    "author": "AX",
-    "lastUpdated": "2021-10-26T16:27:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
     "repo": "Antlrr/seitumbra",
@@ -3770,19 +3757,6 @@
     "description": ""
   },
   {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-26T06:30:05Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
-  },
-  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -3794,6 +3768,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2021-12-30T07:16:24Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -3911,19 +3898,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
-    "name": "Mindustry Java mod Template",
-    "version": "2",
-    "mod_id": "mindustry-jm-template",
-    "author": "AmateurPotion",
-    "lastUpdated": "2020-12-27T16:38:32Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
   },
   {
     "repo": "Sonnicon/GroovyModMod",
