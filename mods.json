@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-12-28T19:48:39Z",
+    "lastUpdated": "2021-12-31T08:53:50Z",
     "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -305,7 +305,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2021-11-22T20:31:26Z",
-    "stars": 34,
+    "stars": 35,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -1014,12 +1014,25 @@
     "description": "A space-related mod."
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.43",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-30T11:00:47Z",
+    "stars": 10,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-12-31T05:08:51Z",
+    "lastUpdated": "2021-12-31T05:20:47Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1064,19 +1077,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.43",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-30T11:00:47Z",
-    "stars": 9,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
   },
   {
     "repo": "Slotterleet/Basic-Schematics",
@@ -1677,7 +1677,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
   },
   {
-    "repo": "MHeMoTexHuK/UwUBundles",
+    "repo": "Mnemotechnician/UwUBundles",
     "name": "UwU bundles",
     "version": "1.3",
     "mod_id": "uwubundles",
@@ -1781,7 +1781,7 @@
     "description": "Chaos."
   },
   {
-    "repo": "MHeMoTexHuK/CKAT",
+    "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.1",
     "mod_id": "ckat-stingray",
@@ -2197,6 +2197,19 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
+    "repo": "p101q/Snowdustry",
+    "name": "Snowydustry",
+    "version": "1",
+    "mod_id": "snow",
+    "author": "Mindustry [RU] inc.",
+    "lastUpdated": "2021-12-30T12:54:28Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A fun mod for a fun New Year's event"
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -2585,19 +2598,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
-    "repo": "p101q/Snowdustry",
-    "name": "Snowydustry",
-    "version": "1",
-    "mod_id": "snow",
-    "author": "Mindustry [RU] inc.",
-    "lastUpdated": "2021-12-30T12:54:28Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3133,7 +3133,7 @@
     "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
-    "repo": "MHeMoTexHuK/New-Controls-Public",
+    "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.0.4",
     "mod_id": "newcontrols",
@@ -3159,7 +3159,7 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "MHeMoTexHuK/new-console",
+    "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.41",
     "mod_id": "newconsole",
@@ -3471,6 +3471,19 @@
     "description": "Epic mindustry mod"
   },
   {
+    "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
+    "name": "Mindustry+ BetaMindy Compatibility",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-plus-betamindy",
+    "author": "Auseawesome",
+    "lastUpdated": "2021-08-26T14:39:46Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
+  },
+  {
     "repo": "VaporSpaceYT/endrium",
     "name": "EndriumMod",
     "version": "1.1",
@@ -3573,6 +3586,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first Java mod."
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
+    "name": "Mindustry+ Agriculture Addon",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-plus-agriculture",
+    "author": "Auseawesome",
+    "lastUpdated": "2021-10-16T09:00:11Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made to add more plants into Mindustry"
   },
   {
     "repo": "abaines/Kizraks-Radar",
@@ -3788,7 +3814,7 @@
     "version": "1.0, the Final Update...?",
     "mod_id": "barrier",
     "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2021-12-30T14:48:05Z",
+    "lastUpdated": "2021-12-31T09:51:13Z",
     "stars": 1,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -4264,19 +4290,6 @@
     "description": "snad"
   },
   {
-    "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
-    "name": "Mindustry+ BetaMindy Compatibility",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-plus-betamindy",
-    "author": "Auseawesome",
-    "lastUpdated": "2021-08-26T14:39:46Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
-  },
-  {
     "repo": "iwantmods82/NimbusDustry",
     "name": "NimbusDustry",
     "version": "No version provided.",
@@ -4379,19 +4392,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
-  },
-  {
-    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
-    "name": "Mindustry+ Agriculture Addon",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-plus-agriculture",
-    "author": "Auseawesome",
-    "lastUpdated": "2021-10-16T09:00:11Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made to add more plants into Mindustry"
   },
   {
     "repo": "MissAmity/Singabana",
