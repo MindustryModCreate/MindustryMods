@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-12-31T15:56:01Z",
+    "lastUpdated": "2021-12-31T23:13:00Z",
     "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -1032,7 +1032,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-12-31T19:47:23Z",
+    "lastUpdated": "2022-01-01T00:00:38Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -2702,19 +2702,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "1qwaka/Item-transfer",
-    "name": "Item Transfer",
-    "version": "1",
-    "mod_id": "item-transfer",
-    "author": "code: Qwaka\nsprites: Gorilla Glue",
-    "lastUpdated": "2021-02-02T12:45:56Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
     "repo": "Volas171/nekodustry",
@@ -4626,5 +4613,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-31T21:30:38Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
   }
 ]
