@@ -19,7 +19,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 158,
+    "stars": 159,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -1045,7 +1045,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-01-01T20:03:36Z",
+    "lastUpdated": "2022-01-01T22:27:39Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1625,7 +1625,7 @@
     "description": "Adds 2 new water unit paths"
   },
   {
-    "repo": "Evilrein/Unit-Turrets",
+    "repo": "selrut/Unit-Turrets",
     "name": "Unit Turrets",
     "version": "0.5",
     "mod_id": "unit-turrets",
@@ -3939,19 +3939,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
-    "name": "Mindustry Java mod Template",
-    "version": "2",
-    "mod_id": "mindustry-jm-template",
-    "author": "AmateurPotion",
-    "lastUpdated": "2020-12-27T16:38:32Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
     "repo": "Sonnicon/GroovyModMod",
     "name": "Groovy Mod Mod",
     "version": "0.2",
@@ -4626,5 +4613,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-01-01T15:41:08Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
   }
 ]
