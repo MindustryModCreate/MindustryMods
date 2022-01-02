@@ -548,10 +548,10 @@
   {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
-    "version": "0.7.5",
+    "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-02T04:21:46Z",
+    "lastUpdated": "2022-01-02T07:11:39Z",
     "stars": 20,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1976,19 +1976,6 @@
     "description": "A mod to return the music to 3.5."
   },
   {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -3237,6 +3224,19 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.9 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-01-01T19:19:01Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following mindustry style.\r\nThis is under development, i will update it SLOWLY pobably once a month\r\n"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -3939,6 +3939,19 @@
     "description": "An example to help respriting"
   },
   {
+    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
+    "name": "Mindustry Java mod Template",
+    "version": "2",
+    "mod_id": "mindustry-jm-template",
+    "author": "AmateurPotion",
+    "lastUpdated": "2020-12-27T16:38:32Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "Sonnicon/GroovyModMod",
     "name": "Groovy Mod Mod",
     "version": "0.2",
@@ -4613,18 +4626,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
-  },
-  {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-01-01T15:41:08Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
   }
 ]
