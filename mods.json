@@ -71,7 +71,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-01-01T03:46:59Z",
-    "stars": 98,
+    "stars": 99,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -219,19 +219,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "AeronGreva/AeroMindustry",
-    "name": "AeroMindustry",
-    "version": "1.0",
-    "mod_id": "aeromindustry",
-    "author": "AeronGreva",
-    "lastUpdated": "2021-01-05T16:55:46Z",
-    "stars": 42,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -551,7 +538,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-02T07:11:39Z",
+    "lastUpdated": "2022-01-02T10:07:32Z",
     "stars": 20,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1976,6 +1963,19 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2951,19 +2951,6 @@
     "description": "After conquering Serpulo and unable to leave the planet, you decide to search for new materials and technologies. Soon you find a brand new and unestable material, now is just figuring out what to do with it..."
   },
   {
-    "repo": "xzxADIxzx/JustMod",
-    "name": "JustMod",
-    "version": "0.3",
-    "mod_id": "justmod",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2021-07-11T14:19:30Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Some strange mod, which there some metals."
-  },
-  {
     "repo": "FreezeMandu/infinite-processor",
     "name": "Infinite Processor",
     "version": "0.76.2",
@@ -3001,6 +2988,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a faster Duo (and other stuff)"
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
+    "name": "Mindustry+ BetaMindy Compatibility",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-plus-betamindy",
+    "author": "Auseawesome",
+    "lastUpdated": "2021-08-26T14:39:46Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
   },
   {
     "repo": "L0615T1C5-216AC-9437/AutomaticModUpdator",
@@ -3224,17 +3224,30 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
-    "repo": "Lepisma-0/Extended-Tech",
-    "name": "Extended Tech",
-    "version": "0.9 Under develop",
-    "mod_id": "exttech",
-    "author": "Lepisma & Manezoid",
-    "lastUpdated": "2022-01-01T19:19:01Z",
+    "repo": "xzxADIxzx/JustMod",
+    "name": "JustMod",
+    "version": "0.3",
+    "mod_id": "justmod",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-01-02T13:42:40Z",
     "stars": 2,
-    "minGameVersion": "126.2",
+    "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\r\nAdds blocks, units and materials following mindustry style.\r\nThis is under development, i will update it SLOWLY pobably once a month\r\n"
+    "description": "Some strange mod, which there some metals."
+  },
+  {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-01-02T14:34:26Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
   },
   {
     "repo": "4156/Infintory",
@@ -3469,19 +3482,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
-  },
-  {
-    "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
-    "name": "Mindustry+ BetaMindy Compatibility",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-plus-betamindy",
-    "author": "Auseawesome",
-    "lastUpdated": "2021-08-26T14:39:46Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
   },
   {
     "repo": "VaporSpaceYT/endrium",
@@ -3937,19 +3937,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
-    "name": "Mindustry Java mod Template",
-    "version": "2",
-    "mod_id": "mindustry-jm-template",
-    "author": "AmateurPotion",
-    "lastUpdated": "2020-12-27T16:38:32Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
   },
   {
     "repo": "Sonnicon/GroovyModMod",
@@ -4626,5 +4613,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-01-01T15:41:08Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
   }
 ]
