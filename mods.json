@@ -65,6 +65,19 @@
     "description": "The other way around"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "New Horizon",
+    "version": "1.10.3 Beta",
+    "mod_id": "new-horizon",
+    "author": "Yuria",
+    "lastUpdated": "2022-01-01T03:46:59Z",
+    "stars": 99,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
+  },
+  {
     "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
     "version": "0.7 Alpha",
@@ -1019,7 +1032,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-01-02T05:06:13Z",
+    "lastUpdated": "2022-01-03T04:41:30Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1948,6 +1961,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3627,19 +3653,6 @@
     "description": "This mod add three ores  and too many things"
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2021-10-29T10:46:25Z",
-    "stars": 1,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -3794,6 +3807,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod with random things."
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-01-03T04:34:21Z",
+    "stars": 1,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4199,19 +4225,6 @@
     "description": "Fight fire with fire in this small (WIP) content mod! Handle with care. (Requires BE to function)"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-abcde-whiteplanet",
-    "name": "abcde",
-    "version": "0.0.0",
-    "mod_id": "abcde",
-    "author": "initiate",
-    "lastUpdated": "2021-07-10T14:56:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "planet test"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -4613,5 +4626,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-01-02T20:04:39Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
   }
 ]
