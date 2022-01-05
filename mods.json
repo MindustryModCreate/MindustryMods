@@ -44,12 +44,25 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-05T04:38:49Z",
-    "stars": 107,
+    "lastUpdated": "2022-01-05T19:53:54Z",
+    "stars": 108,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in a butt load of content"
+  },
+  {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "New Horizon",
+    "version": "1.10.3 Beta",
+    "mod_id": "new-horizon",
+    "author": "Yuria",
+    "lastUpdated": "2022-01-01T03:46:59Z",
+    "stars": 101,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "Slava0135/reVision",
@@ -63,19 +76,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The other way around"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "New Horizon",
-    "version": "1.10.3 Beta",
-    "mod_id": "new-horizon",
-    "author": "Yuria",
-    "lastUpdated": "2022-01-01T03:46:59Z",
-    "stars": 100,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "BlueWolf3682/Exotic-Mod",
@@ -1885,6 +1885,19 @@
     "description": ""
   },
   {
+    "repo": "ice100k/prismatic",
+    "name": "Prismatic",
+    "version": "1.10.124",
+    "mod_id": "prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2022-01-04T12:54:55Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.."
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -2210,19 +2223,6 @@
     "description": "creative stuff"
   },
   {
-    "repo": "ice100k/prismatic",
-    "name": "Prismatic",
-    "version": "1.10.124",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2022-01-04T12:54:55Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.."
-  },
-  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -2403,6 +2403,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod about the Etigeox Universe , don't look it up , it is all in our heads for now. <UNDER CONSTRUCTION. USE AT YOUR OWN RISK.>"
+  },
+  {
+    "repo": "bloool/SpecialWorks",
+    "name": "SpecialWorks",
+    "version": "0.1",
+    "mod_id": "spec",
+    "author": "blool",
+    "lastUpdated": "2021-08-18T18:15:45Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "work in progress mod that adds cool stuff"
   },
   {
     "repo": "AzhurniyBaklan/commically-large-units",
@@ -2600,19 +2613,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-01-02T17:56:36Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.1.0",
@@ -2624,6 +2624,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-01-05T17:38:08Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3242,7 +3255,7 @@
     "version": "0.91 Under develop",
     "mod_id": "exttech",
     "author": "Lepisma & Manezoid",
-    "lastUpdated": "2022-01-05T11:30:45Z",
+    "lastUpdated": "2022-01-05T19:16:18Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -3814,7 +3827,7 @@
     "version": "1.0, the Final Update...?",
     "mod_id": "barrier",
     "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2022-01-05T05:25:24Z",
+    "lastUpdated": "2022-01-05T20:01:27Z",
     "stars": 1,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -4589,6 +4602,19 @@
     "description": "Your own mod"
   },
   {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-01-02T20:04:39Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
+  },
+  {
     "repo": "SMOLKEYS/cursed-units",
     "name": "Cursed Units",
     "version": "0",
@@ -4617,10 +4643,10 @@
   {
     "repo": "ice100k/prismaticExperimental",
     "name": "Prismatic",
-    "version": "1.12.135",
+    "version": "1.13.158",
     "mod_id": "prism",
     "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-01-05T15:07:10Z",
+    "lastUpdated": "2022-01-05T19:32:06Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
