@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-04T07:38:25Z",
+    "lastUpdated": "2022-01-04T22:48:28Z",
     "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -507,6 +507,19 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.7.6",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-01-05T00:06:37Z",
+    "stars": 22,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -518,19 +531,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.7.6",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-01-04T12:23:06Z",
-    "stars": 21,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -832,19 +832,6 @@
     "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
   },
   {
-    "repo": "TheSkyFather/Minerals",
-    "name": "Minerals",
-    "version": "0.9.6.1 Final",
-    "mod_id": "mineralmod",
-    "author": "TheSkyFather",
-    "lastUpdated": "2021-09-02T05:33:54Z",
-    "stars": 11,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Explore minerals and mechanisms."
-  },
-  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.3",
@@ -856,19 +843,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "ThirstyBoi/Abominations",
-    "name": "Abominations - TexturePack",
-    "version": "0.2",
-    "mod_id": "abom-pack",
-    "author": "Thristy",
-    "lastUpdated": "2021-10-23T12:37:01Z",
-    "stars": 11,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Turns everything into disgusting organic beings"
   },
   {
     "repo": "SMOLKEYS/bundles",
@@ -1443,6 +1417,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-12-20T12:21:43Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "iarkn/mind-util",
     "name": "mind-util - Utility Mod",
     "version": "1.3.0",
@@ -1493,19 +1480,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
-  },
-  {
-    "repo": "DeltaNedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 5,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "DeltaNedas/mobile-ui",
@@ -2013,19 +1987,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2873,19 +2834,6 @@
     "description": "Adds router planet. Yes, this is a mindustry mod."
   },
   {
-    "repo": "MrDuck557/HomebrewMindustry",
-    "name": "Duck Homebrew",
-    "version": "1.0",
-    "mod_id": "homebrew",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-08T23:43:23Z",
-    "stars": 2,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "April Fools!"
-  },
-  {
     "repo": "bloool/aquarium",
     "name": "Aquarium",
     "version": "0.01",
@@ -3523,19 +3471,6 @@
     "description": "death awaits me"
   },
   {
-    "repo": "SrOtaku/ModNathilha",
-    "name": "NathilhaMod",
-    "version": "1.71(Public-Beta)",
-    "mod_id": "nathilhamod",
-    "author": "RedGame",
-    "lastUpdated": "2021-09-19T14:22:06Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
-  },
-  {
     "repo": "FelixHelixihare/mindustrypaintmod",
     "name": "mindustrypaintmod",
     "version": "1.1",
@@ -3744,19 +3679,6 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "2.4-beta",
-    "mod_id": "mod tools",
-    "author": "I hope...",
-    "lastUpdated": "2021-12-19T03:54:29Z",
-    "stars": 1,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "WARNING: 此mod仍在测试中，bug很多\n如果发现bug，可以反馈给作者\n-----------------------\n2.4-beta更新内容:\n1. 优化ui.\n2. 修复bug.\n3. 完善select.\n目前还没完善\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "Goobrr/Finality",
     "name": "Finality",
     "version": "0",
@@ -3796,19 +3718,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2022-01-01T16:04:12Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
-  },
-  {
     "repo": "SomeCoder1/MindustryMod",
     "name": "Mindustry Mod",
     "version": "0.1",
@@ -3833,6 +3742,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2022-01-04T20:35:17Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4015,19 +3937,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is a mod adding multiple tiers of more powerful batteries"
-  },
-  {
-    "repo": "MemFaceGo/mod",
-    "name": "mod",
-    "version": "1.0.3",
-    "mod_id": "better-blocks-mod",
-    "author": "",
-    "lastUpdated": "2021-01-31T01:42:24Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "AlbinoGeek/modFoo",
@@ -4249,19 +4158,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "????"
-  },
-  {
-    "repo": "SakuraLilly/Trade-It",
-    "name": "Trade it",
-    "version": "2.2",
-    "mod_id": "Trade it",
-    "author": "SakuraLilly",
-    "lastUpdated": "2021-08-13T15:44:58Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working. "
   },
   {
     "repo": "haywyre124/Diamond-Mod-Naub",
@@ -4563,19 +4459,6 @@
     "description": "atrac"
   },
   {
-    "repo": "Antlrr/duo",
-    "name": "Duo",
-    "version": "1.0",
-    "mod_id": "duo",
-    "author": "Antlrr",
-    "lastUpdated": "2021-12-08T11:52:59Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "duo"
-  },
-  {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
     "name": "scrapdustry",
     "version": "0.0 build 2 alpha",
@@ -4602,19 +4485,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.1.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-01-03T19:16:24Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures include:\n    - Enables the in-game console.\n    - Adds customisable log level.\n    - Adds timestamps for console messages.\n    - Listens to events and prints them to the console.\n\nSee README.md for more information."
-  },
-  {
     "repo": "SMOLKEYS/cursed-units",
     "name": "Cursed Units",
     "version": "0",
@@ -4639,5 +4509,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technolicy capable of bending the very fabrics of reality.. \n \n - Made in Hjson \n - "
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.3.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-01-05T00:23:26Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Adds timestamps for console messages.\n    - Reenables colored Java console for Windows and Android.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   }
 ]
