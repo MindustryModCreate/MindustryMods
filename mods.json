@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-01-05T04:38:49Z",
-    "stars": 106,
+    "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -180,6 +180,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "UI Lib",
+    "version": "2.16.6",
+    "mod_id": "ui-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-05-17T19:01:47Z",
+    "stars": 46,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "DeltaNedas/rtfm",
@@ -988,19 +1001,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "NewestGitHubber/Commandustry",
-    "name": "Commandustry",
-    "version": "0.75",
-    "mod_id": "commandustry",
-    "author": "RandomRA2",
-    "lastUpdated": "2022-01-01T05:26:50Z",
-    "stars": 10,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.43",
@@ -1014,12 +1014,25 @@
     "description": "Very pog."
   },
   {
+    "repo": "NewestGitHubber/Commandustry",
+    "name": "Commandustry",
+    "version": "0.75",
+    "mod_id": "commandustry",
+    "author": "RandomRA2",
+    "lastUpdated": "2022-01-05T06:54:45Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-01-05T04:16:46Z",
+    "lastUpdated": "2022-01-05T07:05:11Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1064,6 +1077,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-05T08:54:36Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "valtsu41/bundle-chaos",
@@ -1142,19 +1168,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod has been merged with TheRealIvyX/MoreDefences now"
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.3",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2022-01-04T15:45:54Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "MEEPofFaith/anuke-approaching",
@@ -2013,6 +2026,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3445,19 +3471,6 @@
     "description": "This is just a simple Mindustry mod."
   },
   {
-    "repo": "Delourians/Mindustry-mod",
-    "name": "Mindustry-mod",
-    "version": "0.1",
-    "mod_id": "OP mod to finish the campaign",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
-  },
-  {
     "repo": "iwantmods82/revampedDustry",
     "name": "Revamped Industry",
     "version": "No version provided.",
@@ -3814,7 +3827,7 @@
     "version": "1.0, the Final Update...?",
     "mod_id": "barrier",
     "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2022-01-04T20:35:17Z",
+    "lastUpdated": "2022-01-05T05:25:24Z",
     "stars": 1,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -4602,19 +4615,6 @@
     "description": "brain die"
   },
   {
-    "repo": "ice100k/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.10.124",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2022-01-04T19:28:57Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technolicy capable of bending the very fabrics of reality.. \n \n - Made in Hjson \n - "
-  },
-  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "version": "1.3.0",
@@ -4626,5 +4626,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Adds timestamps for console messages.\n    - Reenables colored Java console for Windows and Android.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "ice100k/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.10.129",
+    "mod_id": "prismatic",
+    "author": "ice100k & thecrisperson",
+    "lastUpdated": "2022-01-05T08:49:52Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   }
 ]
