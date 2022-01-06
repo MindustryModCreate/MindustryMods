@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2021-12-11T15:46:02Z",
-    "stars": 176,
+    "stars": 177,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-05T19:53:54Z",
+    "lastUpdated": "2022-01-05T20:27:16Z",
     "stars": 108,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -297,19 +297,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-11-22T20:31:26Z",
-    "stars": 35,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Gdeft/portal",
@@ -702,19 +689,6 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
-    "repo": "DeltaNedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "2.5.0",
-    "mod_id": "unit-factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:32:30Z",
-    "stars": 14,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "z0mbiesrock/Larger-Cores",
     "name": "Larger Cores",
     "version": "1.0",
@@ -1027,12 +1001,25 @@
     "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
   },
   {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-05T08:54:36Z",
+    "stars": 10,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-01-05T07:05:11Z",
+    "lastUpdated": "2022-01-06T00:25:46Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1077,19 +1064,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.3",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2022-01-05T08:54:36Z",
-    "stars": 9,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "valtsu41/bundle-chaos",
@@ -1508,19 +1482,6 @@
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
   },
   {
-    "repo": "DeltaNedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 5,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
-  },
-  {
     "repo": "DeltaNedas/mobile-ui",
     "name": "Mobile UI",
     "version": "2.0.0",
@@ -1612,19 +1573,6 @@
     "description": "Enables the cliff button and any map size in the editor."
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -1675,19 +1623,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is the v6 version of a mod called S-Pack.This mod adds new cores as well as S-Class items and buildings."
-  },
-  {
-    "repo": "QmelZ/launchpad-redirect",
-    "name": "Launchpad Redirect",
-    "version": "2",
-    "mod_id": "launchpad-redirect",
-    "author": "QmelZ",
-    "lastUpdated": "2021-06-23T17:36:58Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "NiChrosia/Acceleration",
@@ -1924,19 +1859,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "1qwaka/DPS-meter",
-    "name": "DPS-meter",
-    "version": "1.1",
-    "mod_id": "DPS meter",
-    "author": "Qwaka",
-    "lastUpdated": "2021-01-25T06:15:39Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
     "repo": "Cherriodude/jac",
     "name": "Just Another Crafter",
     "version": "1.0",
@@ -1987,19 +1909,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
-    "repo": "bloool/SolarWorks",
-    "name": "Solar Works",
-    "version": "0.8",
-    "mod_id": "solar-works",
-    "author": "blool",
-    "lastUpdated": "2021-03-16T20:03:58Z",
-    "stars": 4,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
     "repo": "sergeyoshpo/avaritia",
@@ -2457,6 +2366,19 @@
     "description": "amogus"
   },
   {
+    "repo": "FarmerThanos/Music-Replacer",
+    "name": "Music Replacer",
+    "version": "1.1",
+    "mod_id": "music-replacer",
+    "author": "Farmer Thanos",
+    "lastUpdated": "2021-09-11T12:48:33Z",
+    "stars": 3,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces all music with some of my remixes."
+  },
+  {
     "repo": "KayWasTaken/Graphene-Age",
     "name": "The Graphene Age",
     "version": "1.5.6",
@@ -2587,19 +2509,6 @@
     "description": "A Mindustry Mod That Adds Useful Vanilla Utilities. \nFormerly MI2-Client.\n\nMindustry模组，添加一些有意思的原版辅助。前身是MI2端。"
   },
   {
-    "repo": "Vernaon/mindustry-admin-button",
-    "name": "Admin button",
-    "version": "1.3.2",
-    "mod_id": "admin-icon-in-chat",
-    "author": "NothingImportant",
-    "lastUpdated": "2021-12-29T22:30:41Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.0.4",
@@ -2626,6 +2535,19 @@
     "description": ""
   },
   {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.7",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-01-05T05:04:55Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
+  },
+  {
     "repo": "Error-In-Code/Nuclear-Mines-Mod",
     "name": "Nuclear Mines",
     "version": "0.1",
@@ -2650,19 +2572,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes you sandbox."
-  },
-  {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/item-grabber",
@@ -3081,19 +2990,6 @@
     "description": "A Normal Mindustry Mod, nothing special"
   },
   {
-    "repo": "Gitsans66/BruhMod",
-    "name": "Bruh Mod",
-    "version": "1.0",
-    "mod_id": "Bruh",
-    "author": "[MTF_OMEGA-7]nova",
-    "lastUpdated": "2021-10-26T15:43:10Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Antlrr/seitumbra",
     "name": "Seitumbra",
     "version": "1.0",
@@ -3456,19 +3352,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is just a simple Mindustry mod."
-  },
-  {
-    "repo": "Delourians/Mindustry-mod",
-    "name": "Mindustry-mod",
-    "version": "0.1",
-    "mod_id": "OP mod to finish the campaign",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
   },
   {
     "repo": "iwantmods82/revampedDustry",
@@ -4030,19 +3913,6 @@
     "description": ""
   },
   {
-    "repo": "AlbinoGeek/modFoo",
-    "name": "Mod Template //the displayed mod name",
-    "version": "1.4.7 //this mod version",
-    "mod_id": "mod //real mod name",
-    "author": "Sharlotte //you",
-    "lastUpdated": "2021-02-01T11:28:11Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the template for mods. //mod description"
-  },
-  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "version": "2.3.4",
@@ -4602,19 +4472,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-01-02T20:04:39Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin and uses kotlin dsl.\n\nIf you're viewing this mod via mod browser, do not install this. This mod doesn't add anything to the game, nor does it change anything."
-  },
-  {
     "repo": "SMOLKEYS/cursed-units",
     "name": "Cursed Units",
     "version": "0",
@@ -4626,19 +4483,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "brain die"
-  },
-  {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.3.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-01-05T00:45:13Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Adds timestamps for console messages.\n    - Reenables colored Java console for Windows and Android.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "ice100k/prismaticExperimental",
