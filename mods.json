@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-08T00:26:58Z",
+    "lastUpdated": "2022-01-08T03:55:47Z",
     "stars": 111,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -58,11 +58,24 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-01-01T03:46:59Z",
-    "stars": 102,
+    "stars": 103,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
+  },
+  {
+    "repo": "Slava0135/reVision",
+    "name": "reVision",
+    "version": "12.4",
+    "mod_id": "revision",
+    "author": "Slava0135",
+    "lastUpdated": "2021-12-01T17:54:01Z",
+    "stars": 101,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The other way around"
   },
   {
     "repo": "BlueWolf3682/Exotic-Mod",
@@ -390,6 +403,19 @@
     "description": "Gravillaso will improve your game content by adding more block and turret items. Version for Mindustry V7 You can download the version for V6 on the GitHub page"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "version": "23.3",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2022-01-06T09:12:49Z",
+    "stars": 28,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
     "name": "Endless Rusting Demo",
     "version": "_i_ co__u__s a__ 7.1",
@@ -401,19 +427,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting Demo, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. This is the oficial demo for it's v8 update. Maps are unfinished, so you should probibly wait for a bit before using the mod. I hope that you have a good time playing, and I'll cya in the past."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "version": "23.3",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-06T09:12:49Z",
-    "stars": 27,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "Gdeft/substructure",
@@ -473,7 +486,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-07T23:19:35Z",
+    "lastUpdated": "2022-01-08T05:00:40Z",
     "stars": 24,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -494,6 +507,19 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
+    "repo": "FlinTyX/DiverseTech",
+    "name": "DiverseTech",
+    "version": "0.2.2",
+    "mod_id": "diversetech",
+    "author": "Flin",
+    "lastUpdated": "2021-12-10T20:17:23Z",
+    "stars": 23,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -507,6 +533,19 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 21,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -518,19 +557,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds inverted versions of crafters."
-  },
-  {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "version": "0.1",
-    "mod_id": "pvpnotifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
-    "stars": 20,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -616,7 +642,7 @@
     "version": "12.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-01-07T19:09:30Z",
+    "lastUpdated": "2022-01-08T01:30:11Z",
     "stars": 17,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1287,6 +1313,19 @@
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
   },
   {
+    "repo": "DeltaNedas/override-lib",
+    "name": "Override Lib",
+    "version": "1.0.1",
+    "mod_id": "override-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-20T01:10:00Z",
+    "stars": 6,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
     "repo": "Gdeft/hackdustry",
     "name": "Hackdustry",
     "version": "1.0.0",
@@ -1898,6 +1937,19 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "version": "0.1",
+    "mod_id": "abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-01-08T05:00:06Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -2093,6 +2145,19 @@
     "description": "A template for Java mods for Mindustry."
   },
   {
+    "repo": "Antlrr/route",
+    "name": "route 246",
+    "version": "acuum cleaner",
+    "mod_id": "route-246",
+    "author": "Antlrr",
+    "lastUpdated": "2021-08-27T04:32:44Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the funni units mod"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "1.5.1",
@@ -2171,17 +2236,17 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "version": "0.1",
-    "mod_id": "abyss",
+    "repo": "uujuju1/creatiive-mod",
+    "name": "creatiive mod.",
+    "version": "0.4",
+    "mod_id": "creatiive",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-07T18:17:44Z",
+    "lastUpdated": "2021-12-22T00:37:46Z",
     "stars": 4,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
+    "description": "creative stuff"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -2600,6 +2665,19 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2020-10-29T15:34:46Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -2793,6 +2871,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
+    "name": "save The NEXUS",
+    "version": "1.0",
+    "mod_id": "NEXUS",
+    "author": "Gamer123-games",
+    "lastUpdated": "2021-03-23T12:06:44Z",
+    "stars": 2,
+    "minGameVersion": "106.5",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "NEXUS has exploded!! YOU must harness the power of NEXIUM(ALPHA 0.1)"
   },
   {
     "repo": "RebornTrack970/routerplanet",
@@ -3157,6 +3248,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "xzxADIxzx/JustMod",
+    "name": "JustMod",
+    "version": "0.3",
+    "mod_id": "justmod",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-01-02T13:42:40Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Some strange mod, which there some metals."
   },
   {
     "repo": "Alexander397172YT/Alex39-Mod",
@@ -3729,6 +3833,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "12three7/MindustryModTemplate",
+    "name": "MindustryModTemplate",
+    "version": "1.0",
+    "mod_id": "",
+    "author": "",
+    "lastUpdated": "2022-01-06T11:35:10Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "MinDoUser/ExtendedMind",
