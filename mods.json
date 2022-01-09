@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-08T19:41:49Z",
+    "lastUpdated": "2022-01-08T23:41:15Z",
     "stars": 112,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -141,19 +141,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
-  },
-  {
-    "repo": "Slotterleet/GoldMod",
-    "name": "Gold Mod",
-    "version": "2.0 alpha b19",
-    "mod_id": "goldmod",
-    "author": "The Slaylord",
-    "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 56,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
     "repo": "DeltaNedas/pictologic",
@@ -624,19 +611,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.2.20 + 0.0.4",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-01-05T14:20:34Z",
-    "stars": 17,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
-  },
-  {
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "version": "12.0",
@@ -687,19 +661,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
-  },
-  {
-    "repo": "DeltaNedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "2.5.0",
-    "mod_id": "unit-factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:32:30Z",
-    "stars": 15,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -1032,25 +993,12 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-01-08T07:14:42Z",
+    "lastUpdated": "2022-01-09T00:04:27Z",
     "stars": 10,
     "minGameVersion": "122",
     "hasScripts": true,
     "hasJava": false,
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
-  },
-  {
-    "repo": "NewestGitHubber/Commandustry",
-    "name": "Commandustry",
-    "version": "0.75",
-    "mod_id": "commandustry",
-    "author": "RandomRA2",
-    "lastUpdated": "2022-01-08T12:11:41Z",
-    "stars": 10,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1077,19 +1025,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
-  },
-  {
-    "repo": "SupremeTurtle/DuoEnhanced",
-    "name": "DuoEnhanced",
-    "version": "0.8.3",
-    "mod_id": "DuoEnhanced",
-    "author": "Gwapo",
-    "lastUpdated": "2021-12-22T07:12:45Z",
-    "stars": 9,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
   },
   {
     "repo": "valtsu41/bundle-chaos",
@@ -1482,19 +1417,6 @@
     "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "28",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-12-06T19:22:16Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1690,19 +1612,6 @@
     "description": "Raw materials processing"
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -1714,19 +1623,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds Dubious White Liquid. Oddly good as a coolant"
-  },
-  {
-    "repo": "MrDuck557/MoarWaterUnits",
-    "name": "Moar Water Units",
-    "version": "1.3",
-    "mod_id": "moar-water-units",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-27T18:36:15Z",
-    "stars": 5,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds 2 new water unit paths"
   },
   {
     "repo": "Selrut/Unit-Turrets",
@@ -1942,7 +1838,7 @@
     "version": "0.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-08T16:02:38Z",
+    "lastUpdated": "2022-01-08T22:41:32Z",
     "stars": 5,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2143,19 +2039,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Java mods for Mindustry."
-  },
-  {
-    "repo": "Antlrr/route",
-    "name": "route 246",
-    "version": "acuum cleaner",
-    "mod_id": "route-246",
-    "author": "Antlrr",
-    "lastUpdated": "2021-08-27T04:32:44Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the funni units mod"
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -2392,19 +2275,6 @@
     "description": "Lets you travel to the sun in mindustry"
   },
   {
-    "repo": "MindustryInside/AdvancedDevMode",
-    "name": "Advanced Developer Mode",
-    "version": "1.2",
-    "mod_id": "advanced-dev-mode",
-    "author": "Summet",
-    "lastUpdated": "2021-06-14T15:27:24Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that enables developer console and removes restrictions on access of classes."
-  },
-  {
     "repo": "superwibr/etigeox-mod",
     "name": "ETG Circsus",
     "version": "0.25.11",
@@ -2455,19 +2325,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "FarmerThanos/Music-Replacer",
-    "name": "Music Replacer",
-    "version": "1.1",
-    "mod_id": "music-replacer",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-09-11T12:48:33Z",
-    "stars": 3,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces all music with some of my remixes."
   },
   {
     "repo": "KayWasTaken/Graphene-Age",
@@ -2756,19 +2613,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "DeltaNedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "1.0.3",
@@ -2858,19 +2702,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Powerful weapons that use electromagnetism to make big pew."
-  },
-  {
-    "repo": "VladTheEvilCat/Extended-Zoom",
-    "name": "Extended Zoom",
-    "version": "1.3",
-    "mod_id": "extended-zoom",
-    "author": "Vlad The Evil Cat",
-    "lastUpdated": "2021-03-10T13:33:00Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
@@ -3081,19 +2912,6 @@
     "description": "Use mod with router language setting"
   },
   {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.42",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius&Mandu",
-    "lastUpdated": "2021-09-22T04:53:04Z",
-    "stars": 2,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
     "repo": "Antlrr/normal-mod",
     "name": "A Normal Mod",
     "version": "1.0",
@@ -3289,6 +3107,19 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -3326,6 +3157,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
@@ -4134,19 +3978,6 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
-    "repo": "qwertyQ1234-programming/QQ-Mod",
-    "name": "QQ-Mod",
-    "version": "1.0.1b alpha [bugfixy]",
-    "mod_id": "QQ-Mod/Poland",
-    "author": "QwertyQ1234",
-    "lastUpdated": "2021-04-07T17:04:02Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Niezależny mod kompatybilny z G-Modem"
-  },
-  {
     "repo": "Daves1245/Mindustry_Mod",
     "name": "Test Mod",
     "version": "1.0",
@@ -4342,19 +4173,6 @@
     "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
-    "repo": "Potato-Man1/ZyganMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-09-06T08:06:15Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Pietro303HD/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -4496,19 +4314,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A vanilla Mindustry Enhancement."
-  },
-  {
-    "repo": "little-evil-thing/tanks",
-    "name": "Tanks",
-    "version": "0.1",
-    "mod_id": "tanks",
-    "author": "little evil thing#8291",
-    "lastUpdated": "2021-11-11T00:11:55Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "is this a mod about tanks?"
   },
   {
     "repo": "greenbush5/duplicator-mod",
