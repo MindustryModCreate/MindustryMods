@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-09T00:35:40Z",
+    "lastUpdated": "2022-01-10T07:08:19Z",
     "stars": 114,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -1045,7 +1045,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-09T18:09:55Z",
+    "lastUpdated": "2022-01-10T09:34:01Z",
     "stars": 10,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "1.0",
     "mod_id": "goobriculture",
     "author": "Goober",
-    "lastUpdated": "2022-01-09T04:46:46Z",
+    "lastUpdated": "2022-01-10T06:17:44Z",
     "stars": 8,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -2442,6 +2442,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
+  },
+  {
+    "repo": "FarmerThanos/Music-Replacer",
+    "name": "Music Replacer",
+    "version": "1.1",
+    "mod_id": "music-replacer",
+    "author": "Farmer Thanos",
+    "lastUpdated": "2021-09-11T12:48:33Z",
+    "stars": 3,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces all music with some of my remixes."
   },
   {
     "repo": "KayWasTaken/Graphene-Age",
@@ -4004,19 +4017,6 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "version": "1.0",
-    "mod_id": "MusicMod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
-  },
-  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -4225,19 +4225,6 @@
     "description": "Fight fire with fire in this small (WIP) content mod! Handle with care. (Requires BE to function)"
   },
   {
-    "repo": "dashmaster-c/DS-Industry",
-    "name": "DS Industry",
-    "version": "0.2",
-    "mod_id": "DS-Industry",
-    "author": "dashmaster",
-    "lastUpdated": "2021-08-11T01:32:34Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Yagoi23/Yagois-Mindustry-Mod",
     "name": "Yagois-Mindustry-Mod",
     "version": "2.1",
@@ -4353,19 +4340,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "Poisoned-Honey/MindustryModTest",
-    "name": "Java Mod Test",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-09-30T05:29:56Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ZZY2357/super-mecha",
@@ -4639,5 +4613,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "dashmaster-c/DS-Industry",
+    "name": "DS Industry",
+    "version": "0.2",
+    "mod_id": "DS-Industry",
+    "author": "dashmaster",
+    "lastUpdated": "2022-01-10T08:40:48Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   }
 ]
