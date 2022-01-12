@@ -253,7 +253,7 @@
     "mod_id": "shar",
     "author": "Sharlottes",
     "lastUpdated": "2022-01-07T05:51:02Z",
-    "stars": 41,
+    "stars": 42,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -455,19 +455,6 @@
     "description": "amogus"
   },
   {
-    "repo": "Fresh791/mindustry-extended",
-    "name": "Mindustry-Extended",
-    "version": "1.09",
-    "mod_id": "me",
-    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2021-12-14T17:11:22Z",
-    "stars": 26,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
-  },
-  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -557,6 +544,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
+  },
+  {
+    "repo": "HappyGingerWolf/Inverted-Machines",
+    "name": "Inverted Machines",
+    "version": "1.4",
+    "mod_id": "inverted-machines",
+    "author": "GingerWolf and MEEPofFaith",
+    "lastUpdated": "2021-09-26T15:21:08Z",
+    "stars": 20,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds inverted versions of crafters."
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -733,7 +733,7 @@
     "version": "0.1.0.3",
     "mod_id": "mindus",
     "author": "Eclipse",
-    "lastUpdated": "2022-01-12T13:57:09Z",
+    "lastUpdated": "2022-01-12T16:47:28Z",
     "stars": 14,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -767,19 +767,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "xjamiex/infinite-program",
-    "name": "Infinite Program",
-    "version": "1.2.2 alpha",
-    "mod_id": "infiniteprogram",
-    "author": "xJamix",
-    "lastUpdated": "2021-10-05T13:05:19Z",
-    "stars": 12,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "a mod that adds more content wich is a great example for noobies to modding :D"
-  },
-  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -793,6 +780,19 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
+    "repo": "DeltaNedas/ldb",
+    "name": "Logic Debugger",
+    "version": "1.3.3",
+    "mod_id": "ldb",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T20:30:51Z",
+    "stars": 12,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -804,19 +804,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
-  },
-  {
-    "repo": "sk7725/EXP-lib",
-    "name": "EXP Library",
-    "version": "3.0",
-    "mod_id": "exp-lib",
-    "author": "sk7725",
-    "lastUpdated": "2020-10-27T03:50:40Z",
-    "stars": 11,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "EXP Library for 6.0!"
   },
   {
     "repo": "Gdeft/bleach",
@@ -1534,6 +1521,19 @@
     "description": "Chaos."
   },
   {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "version": "0.1",
+    "mod_id": "abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-01-12T19:30:18Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -1833,19 +1833,6 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
-    "repo": "Blerp23/Blerptest-mod",
-    "name": "Blerp's Content Mod",
-    "version": "0.98 Beta",
-    "mod_id": "test-mod",
-    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter (all of the bad sprites were probably made by Blerp23)",
-    "lastUpdated": "2021-11-28T23:53:38Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
-  },
-  {
     "repo": "Mak992/Future-Technologies-mod",
     "name": "Future technologies mod",
     "version": "0.0.5 alpha",
@@ -1896,19 +1883,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
-  },
-  {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "version": "0.1",
-    "mod_id": "abyss",
-    "author": "Uujuju",
-    "lastUpdated": "2022-01-12T00:33:54Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2052,6 +2026,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2509,19 +2496,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Rex-Hm/Better-Distribution-Mod",
-    "name": "Better Distribution",
-    "version": "1.0",
-    "mod_id": "better-distr",
-    "author": "RexHm (Discord ID:612122239428722720)",
-    "lastUpdated": "2021-12-04T19:34:02Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
-  },
-  {
     "repo": "Timshh/MBT",
     "name": "MBT",
     "version": "1.3",
@@ -2741,6 +2715,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "souvikpodder/Mindustry-souvy-mod",
+    "name": "Souvy Help Block",
+    "version": "1.6",
+    "mod_id": "souvy-help-block",
+    "author": "Souvy",
+    "lastUpdated": "2021-02-25T18:50:22Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
   },
   {
     "repo": "FarmerThanos/Jukeustry",
@@ -3094,6 +3081,19 @@
     "description": "Mindustry Overhaul"
   },
   {
+    "repo": "Rex-Hm/Better-Distribution-Mod",
+    "name": "Better Distribution",
+    "version": "1.0",
+    "mod_id": "better-distr",
+    "author": "RexHm (Discord ID:612122239428722720)",
+    "lastUpdated": "2021-12-04T19:34:02Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
     "repo": "SMOLKEYS/random-stuff",
     "name": "Random Stuff",
     "version": "ela 5",
@@ -3131,6 +3131,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+  },
+  {
+    "repo": "FreezeMandu/invisibleblocks",
+    "name": "Invisible Blocks",
+    "version": "1.9",
+    "mod_id": "invisibleblocks",
+    "author": "Mandu",
+    "lastUpdated": "2021-12-20T17:26:27Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -3261,6 +3274,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
