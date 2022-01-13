@@ -408,7 +408,7 @@
     "version": "23.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-12T08:56:25Z",
+    "lastUpdated": "2022-01-13T01:56:49Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -486,7 +486,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-12T14:32:55Z",
+    "lastUpdated": "2022-01-13T02:14:04Z",
     "stars": 25,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -531,6 +531,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
+  },
+  {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 21,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -585,6 +598,19 @@
     "description": "Adds a lot of ABOBA additional content like turrets, factories and other."
   },
   {
+    "repo": "abomb4/dimension-shard",
+    "name": "Dimension Shard",
+    "version": "0.24.2",
+    "mod_id": "Dimension Shard",
+    "author": "滞人",
+    "lastUpdated": "2021-06-27T13:12:02Z",
+    "stars": 18,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "version": "8.0",
@@ -596,6 +622,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
+  },
+  {
+    "repo": "sk7725/Testers",
+    "name": "Testers",
+    "version": "0.25",
+    "mod_id": "testers",
+    "author": "sk7725",
+    "lastUpdated": "2021-09-02T11:59:23Z",
+    "stars": 18,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
     "repo": "xzxADIxzx/Scheme-Size",
@@ -856,6 +895,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.3",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2021-10-04T04:23:03Z",
+    "stars": 11,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1612,6 +1664,19 @@
     "description": "A mod that thats various factorio things"
   },
   {
+    "repo": "EmanuelG-Gaming/emanuels-mod",
+    "name": "Emanuel's Mod",
+    "version": "0.7 pre alpha",
+    "mod_id": "Emanuel's Mod",
+    "author": "Emanuel G",
+    "lastUpdated": "2021-01-05T19:54:27Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds a bunch of stuff"
+  },
+  {
     "repo": "TheSaus/SimpleAdditions",
     "name": "Simple Additions",
     "version": "1.3.7",
@@ -2002,6 +2067,32 @@
     "description": "Big man doing big man things"
   },
   {
+    "repo": "MindustryInside/ClassicMusic",
+    "name": "Mindustry Classic Music",
+    "version": "1.5",
+    "mod_id": "classic-music",
+    "author": "Summet, A Drop A Day (music)",
+    "lastUpdated": "2021-05-13T20:25:24Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2262,6 +2353,19 @@
     "description": "Mod that targets on visual effects and sprites."
   },
   {
+    "repo": "Vladislav117/RPW",
+    "name": "КР RolePlay",
+    "version": "1.5",
+    "mod_id": "kr-rp",
+    "author": "Vladislav117, ne-pomidorka, Zelaux, Blab, Wikomir, CoCuCka",
+    "lastUpdated": "2021-04-25T13:31:30Z",
+    "stars": 3,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Мод для РП сервера по миндастри. \nDiscord: discord.gg/JHAp8qt"
+  },
+  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -2481,6 +2585,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.0.4",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-31T10:17:23Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -2938,6 +3055,19 @@
     "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
+    "repo": "Antlrr/normal-mod",
+    "name": "A Normal Mod",
+    "version": "1.0",
+    "mod_id": "normal",
+    "author": "Antlrr",
+    "lastUpdated": "2021-10-11T06:18:54Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Normal Mindustry Mod, nothing special"
+  },
+  {
     "repo": "Gitsans66/BruhMod",
     "name": "Bruh Mod",
     "version": "1.0",
@@ -3040,6 +3170,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
+  },
+  {
+    "repo": "MQ-1175/flarogus",
+    "name": "Flarogus",
+    "version": "1.0",
+    "mod_id": "Flarogus",
+    "author": "MQ1337",
+    "lastUpdated": "2021-12-20T08:31:57Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "FreezeMandu/invisibleblocks",
@@ -3289,6 +3432,19 @@
     "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
   },
   {
+    "repo": "Divarion-D/Technology",
+    "name": "Technology",
+    "version": "1.3",
+    "mod_id": "Technology",
+    "author": "Deletron247",
+    "lastUpdated": "2021-05-12T08:00:19Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
+  },
+  {
     "repo": "TheBabinator/Toaster",
     "name": "Toaster",
     "version": "1.2.2",
@@ -3406,6 +3562,19 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
+    "repo": "FelixHelixihare/mindustrypaintmod",
+    "name": "mindustrypaintmod",
+    "version": "1.1",
+    "mod_id": "Fil's Paint Mod",
+    "author": "FelixHelixihare",
+    "lastUpdated": "2021-09-20T01:03:06Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds colored walls and conveyors."
+  },
+  {
     "repo": "TheEE145/ohNoNooh",
     "name": "ohNoNooh",
     "version": "6",
@@ -3471,6 +3640,19 @@
     "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
   },
   {
+    "repo": "NewJumper/Futurdustry",
+    "name": "Futurdustry",
+    "version": "0.2.3",
+    "mod_id": "futurdustry",
+    "author": "NewJumper",
+    "lastUpdated": "2021-10-22T02:31:51Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
+  },
+  {
     "repo": "Ilya246/quoteStrings",
     "name": "Quoted Strings",
     "version": "1.6",
@@ -3534,6 +3716,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns Corvus op"
+  },
+  {
+    "repo": "Serg230/Overdustry",
+    "name": "Overdustry",
+    "version": "2.0 — production update",
+    "mod_id": "overdustry",
+    "author": "Serg230",
+    "lastUpdated": "2021-11-16T18:53:17Z",
+    "stars": 1,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "7.0 vanila-like mod"
   },
   {
     "repo": "CBMShadowGD/terrariamod",
@@ -4147,6 +4342,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "Pietro303HD/Esoterum-Solutions",
+    "name": "Esoterum Solutions",
+    "version": "1.1",
+    "mod_id": "eso",
+    "author": "Goober",
+    "lastUpdated": "2021-09-20T05:46:49Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Poisoned-Honey/MindustryModTest",
     "name": "Java Mod Test",
     "version": "1.0",
@@ -4210,6 +4418,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a few content."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "1.2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT",
+    "lastUpdated": "2021-10-30T01:56:09Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New units and defenses for  all stages of the game. \n Not complete also Looking for spriter!\nSprite overhaul update"
   },
   {
     "repo": "NemesisTheory/wort-wort-wort",
@@ -4314,6 +4535,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds faster and better logic blocks"
+  },
+  {
+    "repo": "BalaM314/mindustry-magic-mod",
+    "name": "Mindustry Magic Mod",
+    "version": "1.0",
+    "mod_id": "mindustry-magic-mod",
+    "author": "BalaM314",
+    "lastUpdated": "2021-12-04T08:14:09Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some magic to mindustry... soon"
   },
   {
     "repo": "Antlrr/atrac",
