@@ -31,7 +31,7 @@
     "version": "0.4.1",
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
-    "lastUpdated": "2021-03-28T06:14:44Z",
+    "lastUpdated": "2022-01-13T22:13:56Z",
     "stars": 147,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-13T07:28:02Z",
+    "lastUpdated": "2022-01-13T22:11:24Z",
     "stars": 115,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-13T02:14:04Z",
+    "lastUpdated": "2022-01-14T00:26:44Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -3055,19 +3055,6 @@
     "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
-    "repo": "Antlrr/normal-mod",
-    "name": "A Normal Mod",
-    "version": "1.0",
-    "mod_id": "normal",
-    "author": "Antlrr",
-    "lastUpdated": "2021-10-11T06:18:54Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Normal Mindustry Mod, nothing special"
-  },
-  {
     "repo": "Gitsans66/BruhMod",
     "name": "Bruh Mod",
     "version": "1.0",
@@ -4628,19 +4615,6 @@
     "description": "Made in Russia."
   },
   {
-    "repo": "ice100k/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.187 -PRE ALPHA",
-    "mod_id": "prism",
-    "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-01-09T18:39:33Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -4665,5 +4639,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "ice100k/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.192 -PRE ALPHA",
+    "mod_id": "prism",
+    "author": "ice100k & thecrisperson",
+    "lastUpdated": "2022-01-13T22:00:27Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "Error-In-Code/Relics-Mod",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2022-01-13T22:24:33Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   }
 ]
