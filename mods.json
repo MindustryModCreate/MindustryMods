@@ -19,7 +19,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 159,
+    "stars": 160,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -31,7 +31,7 @@
     "version": "0.4.1",
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
-    "lastUpdated": "2022-01-13T22:13:56Z",
+    "lastUpdated": "2022-01-15T10:48:43Z",
     "stars": 147,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-15T06:24:38Z",
+    "lastUpdated": "2022-01-15T12:57:35Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -910,19 +910,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "Zeniku/HeavyMachinery",
-    "name": "Heavy Machinery",
-    "version": "1.0",
-    "mod_id": "heavymachinery",
-    "author": "Zen",
-    "lastUpdated": "2021-12-16T11:29:46Z",
-    "stars": 11,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.5",
@@ -934,6 +921,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "Zeniku/HeavyMachinery",
+    "name": "Heavy Machinery",
+    "version": "1.0",
+    "mod_id": "heavymachinery",
+    "author": "Zen",
+    "lastUpdated": "2022-01-15T11:11:07Z",
+    "stars": 11,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-01-15T00:45:49Z",
+    "lastUpdated": "2022-01-15T12:20:43Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2052,19 +2052,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
-    "repo": "Goobrr/toxodrip",
-    "name": "Toxodrip",
-    "version": "69.420",
-    "mod_id": "toxodrip",
-    "author": "Goober",
-    "lastUpdated": "2021-05-03T02:13:24Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Big man doing big man things"
   },
   {
     "repo": "MindustryInside/ClassicMusic",
@@ -2631,7 +2618,7 @@
     "version": "0.7",
     "mod_id": "oer",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-15T09:56:31Z",
+    "lastUpdated": "2022-01-15T13:24:00Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3679,6 +3666,19 @@
     "description": "Observation is prohibited."
   },
   {
+    "repo": "CalibriLight/MoreOresMDmod",
+    "name": "More Ores Mod",
+    "version": "0.7.5",
+    "mod_id": "more-mod",
+    "author": "CalibriLighYT",
+    "lastUpdated": "2021-10-28T09:34:47Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod add three ores  and too many things"
+  },
+  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -4093,6 +4093,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "oguh43/quantumReactor",
+    "name": "Quantum Reactor ",
+    "version": "1",
+    "mod_id": "QuantumReactor",
+    "author": "oguh43/ Len_Luk",
+    "lastUpdated": "2021-03-01T16:56:30Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reactor based on quantum mechanics."
   },
   {
     "repo": "RebornTrack970/moonmod",
@@ -4643,10 +4656,10 @@
   {
     "repo": "ice100k/prismaticExperimental",
     "name": "Prismatic",
-    "version": "1.16.198 -PRE ALPHA",
+    "version": "1.16.200 -PRE ALPHA",
     "mod_id": "prism",
     "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-01-14T21:43:28Z",
+    "lastUpdated": "2022-01-15T13:00:17Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
