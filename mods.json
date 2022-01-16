@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2021-10-20T18:12:28Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -260,6 +260,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.65-optimized-re",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2022-01-14T07:07:22Z",
+    "stars": 39,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -271,19 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.65-optimized-re",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-01-14T07:07:22Z",
-    "stars": 38,
-    "minGameVersion": "133",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -317,7 +317,7 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2021-11-22T20:31:26Z",
+    "lastUpdated": "2022-01-16T03:33:52Z",
     "stars": 35,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-15T12:57:35Z",
+    "lastUpdated": "2022-01-16T03:02:42Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1292,12 +1292,25 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-15T23:46:00Z",
+    "lastUpdated": "2022-01-16T01:05:01Z",
     "stars": 7,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that im working on."
+  },
+  {
+    "repo": "LottieVixen/2xConveyors",
+    "name": "2X Conveyors",
+    "version": "0.2",
+    "mod_id": "2xconveyors",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-03T04:18:24Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Two (2) times faster conveyors, at twice the cost"
   },
   {
     "repo": "DeltaNedas/speed",
@@ -2618,7 +2631,7 @@
     "version": "0.7",
     "mod_id": "oer",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-15T13:24:00Z",
+    "lastUpdated": "2022-01-16T04:57:24Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3118,19 +3131,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry Overhaul"
-  },
-  {
-    "repo": "Rex-Hm/Better-Distribution-Mod",
-    "name": "Better Distribution",
-    "version": "1.0",
-    "mod_id": "better-distr",
-    "author": "RexHm (Discord ID:612122239428722720)",
-    "lastUpdated": "2021-12-04T19:34:02Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "SMOLKEYS/random-stuff",
@@ -3729,6 +3729,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
+  },
+  {
+    "repo": "Rex-Hm/Better-Distribution-Mod",
+    "name": "Better Distribution",
+    "version": "1.0",
+    "mod_id": "better-distr",
+    "author": "RexHm (Discord ID:612122239428722720)",
+    "lastUpdated": "2021-12-04T19:34:02Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "CBMShadowGD/terrariamod",
