@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-01-17T01:12:21Z",
-    "stars": 183,
+    "stars": 184,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -598,6 +598,19 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.2.20 + 0.1.7",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-01-13T19:31:46Z",
+    "stars": 19,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -635,19 +648,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.2.20 + 0.1.7",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-01-13T19:31:46Z",
-    "stars": 18,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -739,6 +739,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-16T12:59:32Z",
+    "stars": 14,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "sk7725/Commands",
@@ -1162,7 +1175,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-18T14:49:45Z",
+    "lastUpdated": "2022-01-18T16:33:26Z",
     "stars": 8,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1324,6 +1337,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
+    "repo": "Vixelot/Facdustrio",
+    "name": "Facdustrio",
+    "version": "0.1",
+    "mod_id": "facdustrio",
+    "author": "Charlotte, Xelo",
+    "lastUpdated": "2021-01-03T16:23:53Z",
+    "stars": 6,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that thats various factorio things"
   },
   {
     "repo": "Gdeft/hackdustry",
@@ -1922,19 +1948,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
-  },
-  {
-    "repo": "DeltaNedas/radar",
-    "name": "Radar",
-    "version": "2.10.5",
-    "mod_id": "radar",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:50Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a block detecting radar.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/waisa",
@@ -3094,6 +3107,19 @@
     "description": "Mindustry Overhaul"
   },
   {
+    "repo": "FreezeMandu/QA-Schemic",
+    "name": "Q&A Schemic",
+    "version": "1.0",
+    "mod_id": "QA-Schemic",
+    "author": "Qwertynoob&Anchovy&Mandu",
+    "lastUpdated": "2021-12-12T14:44:19Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
+  },
+  {
     "repo": "SMOLKEYS/random-stuff",
     "name": "Random Stuff",
     "version": "ela 5",
@@ -3198,19 +3224,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "LightAndTime/Block-Placer",
-    "name": "Block placer",
-    "version": " your iq",
-    "mod_id": "block placer",
-    "author": "Light",
-    "lastUpdated": "2022-01-13T15:05:23Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that places blocks (from mods too) using js"
-  },
-  {
     "repo": "Lepisma-0/Extended-Tech",
     "name": "Extended Tech",
     "version": "0.91 Under develop",
@@ -3261,6 +3274,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a small mod"
+  },
+  {
+    "repo": "LightAndTime/Block-Placer",
+    "name": "Block placer",
+    "version": " your iq",
+    "mod_id": "block placer",
+    "author": "Light",
+    "lastUpdated": "2022-01-18T18:40:53Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that places blocks (from mods too) using js"
   },
   {
     "repo": "4156/Infintory",
@@ -3742,19 +3768,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
-  },
-  {
-    "repo": "FreezeMandu/QA-Schemic",
-    "name": "Q&A Schemic",
-    "version": "1.0",
-    "mod_id": "QA-Schemic",
-    "author": "Qwertynoob&Anchovy&Mandu",
-    "lastUpdated": "2021-12-12T14:44:19Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
     "repo": "I-hope1/mod.make",
@@ -4561,6 +4574,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "atrac"
+  },
+  {
+    "repo": "Antlrr/duo",
+    "name": "Duo",
+    "version": "1.0",
+    "mod_id": "duo",
+    "author": "Antlrr",
+    "lastUpdated": "2021-12-08T11:52:59Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "duo"
   },
   {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
