@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-14T11:34:05Z",
+    "lastUpdated": "2022-01-18T01:53:21Z",
     "stars": 119,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-01-16T05:20:37Z",
-    "stars": 105,
+    "stars": 106,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -1175,7 +1175,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-18T00:20:31Z",
+    "lastUpdated": "2022-01-18T00:56:05Z",
     "stars": 8,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1389,6 +1389,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Очень странный перевод для игры... \nГоворят он может убить..."
+  },
+  {
+    "repo": "Selrut/Unit-Turrets",
+    "name": "Unit Turrets",
+    "version": "0.5",
+    "mod_id": "unit-turrets",
+    "author": "NeutrO_",
+    "lastUpdated": "2021-06-07T06:01:19Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
     "repo": "QmelZ/launchpad-redirect",
@@ -4665,5 +4678,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "ExplerHD/OldEraJava",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-01-18T03:27:05Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
