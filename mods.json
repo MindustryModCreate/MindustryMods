@@ -1175,7 +1175,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-18T16:33:26Z",
+    "lastUpdated": "2022-01-18T23:39:34Z",
     "stars": 8,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1948,6 +1948,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
+  },
+  {
+    "repo": "DeltaNedas/radar",
+    "name": "Radar",
+    "version": "2.10.5",
+    "mod_id": "radar",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:38:50Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a block detecting radar.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/waisa",
@@ -4017,19 +4030,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "Sonnicon/GroovyModMod",
-    "name": "Groovy Mod Mod",
-    "version": "0.2",
-    "mod_id": "groovymodmod",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2020-12-28T01:11:25Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
-  },
-  {
     "repo": "DvNamedo/world-war-2",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4589,19 +4589,6 @@
     "description": "duo"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
     "repo": "SMOLKEYS/cursed-units",
     "name": "Cursed Units",
     "version": "0",
@@ -4678,5 +4665,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-01-18T23:06:21Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
   }
 ]
