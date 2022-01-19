@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-19T02:00:54Z",
+    "lastUpdated": "2022-01-19T12:32:53Z",
     "stars": 119,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.10.4 Beta",
+    "version": "1.10.4.5 Beta",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-01-16T05:20:37Z",
+    "lastUpdated": "2022-01-19T14:12:08Z",
     "stars": 106,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-16T03:02:42Z",
+    "lastUpdated": "2022-01-19T14:24:41Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1092,6 +1092,19 @@
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
   },
   {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "version": "0.3",
+    "mod_id": "abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-01-19T13:48:07Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
+  },
+  {
     "repo": "valtsu41/bundle-chaos",
     "name": "Bundle chaos",
     "version": "4.2",
@@ -1168,19 +1181,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "version": "0.3",
-    "mod_id": "abyss",
-    "author": "Uujuju",
-    "lastUpdated": "2022-01-19T00:39:18Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
   },
   {
     "repo": "MEEPofFaith/anuke-approaching",
@@ -1337,19 +1337,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library mod that allows multiple mods to override the same content."
-  },
-  {
-    "repo": "Vixelot/Facdustrio",
-    "name": "Facdustrio",
-    "version": "0.1",
-    "mod_id": "facdustrio",
-    "author": "Charlotte, Xelo",
-    "lastUpdated": "2021-01-03T16:23:53Z",
-    "stars": 6,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that thats various factorio things"
   },
   {
     "repo": "Gdeft/hackdustry",
@@ -2639,6 +2626,19 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
+    "repo": "ExplerHD/OldEraJava",
+    "name": "Old Era Revival (Java)",
+    "version": "1.0",
+    "mod_id": "OldEraJava",
+    "author": "ExplerHD, 12three7",
+    "lastUpdated": "2022-01-19T13:45:04Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that added maybe lot of content."
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -3261,19 +3261,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
-    "repo": "ExplerHD/OldEraJava",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-01-18T03:27:05Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "LightAndTime/Block-Placer",
