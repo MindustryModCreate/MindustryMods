@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-19T12:32:53Z",
+    "lastUpdated": "2022-01-19T15:53:12Z",
     "stars": 119,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -325,19 +325,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "DeltaNedas/dev-mode",
-    "name": "Developer Mode",
-    "version": "2.3.2",
-    "mod_id": "dev-mode",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-17T07:10:09Z",
-    "stars": 30,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
-  },
-  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "version": "0.2.2",
@@ -408,7 +395,7 @@
     "version": "23.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-19T07:17:31Z",
+    "lastUpdated": "2022-01-19T18:42:22Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1339,6 +1326,19 @@
     "description": "Library mod that allows multiple mods to override the same content."
   },
   {
+    "repo": "Vixelot/Facdustrio",
+    "name": "Facdustrio",
+    "version": "0.1",
+    "mod_id": "facdustrio",
+    "author": "Charlotte, Xelo",
+    "lastUpdated": "2021-01-03T16:23:53Z",
+    "stars": 6,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that thats various factorio things"
+  },
+  {
     "repo": "Gdeft/hackdustry",
     "name": "Hackdustry",
     "version": "1.0.0",
@@ -2249,6 +2249,19 @@
     "description": ""
   },
   {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-01-16T19:24:11Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -2611,19 +2624,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-01-16T19:24:11Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "ExplerHD/OldEraJava",
@@ -3263,6 +3263,19 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
+    "repo": "Error-In-Code/Relics-Mod",
+    "name": "Relics",
+    "version": "0.2",
+    "mod_id": "relics-mod",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-01-16T19:21:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
     "repo": "LightAndTime/Block-Placer",
     "name": "Block placer",
     "version": " your iq",
@@ -3822,19 +3835,6 @@
     "description": "My first Java mod."
   },
   {
-    "repo": "Error-In-Code/Relics-Mod",
-    "name": "Relics",
-    "version": "0.2",
-    "mod_id": "relics-mod",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-01-16T19:21:20Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
-  },
-  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -3846,19 +3846,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
-  },
-  {
-    "repo": "EmanuelG-Gaming/barrier",
-    "name": "Barrier",
-    "version": "1.0, the Final Update...?",
-    "mod_id": "barrier",
-    "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2022-01-17T12:44:04Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "SomeCoder1/MindustryMod",
@@ -3898,6 +3885,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2022-01-19T18:29:21Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4015,19 +4015,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "Sonnicon/GroovyModMod",
-    "name": "Groovy Mod Mod",
-    "version": "0.2",
-    "mod_id": "groovymodmod",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2020-12-28T01:11:25Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
   },
   {
     "repo": "DvNamedo/world-war-2",
@@ -4680,16 +4667,16 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
-    "repo": "sebmeister2077/Advanced-Refinement",
-    "name": "Advanced refinement",
-    "version": "2.6.0",
-    "mod_id": "advanced-refinement",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-01-18T23:06:21Z",
+    "repo": "Miniontoby/mindustrirc",
+    "name": "MindustrIRC",
+    "version": "1.1.0",
+    "mod_id": "mindustrirc",
+    "author": "Miniontoby",
+    "lastUpdated": "2022-01-19T14:44:37Z",
     "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Still in development(only started since Ian 2022)"
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "IRC Mod for Mindustry"
   }
 ]
