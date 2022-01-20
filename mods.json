@@ -1097,7 +1097,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-19T13:48:07Z",
+    "lastUpdated": "2022-01-20T13:35:45Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1963,6 +1963,19 @@
     "description": "Adds a block detecting radar.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "DeltaNedas/waisa",
+    "name": "WAISA",
+    "version": "2.3.3",
+    "mod_id": "waisa",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:39:22Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "1qwaka/DPS-meter",
     "name": "DPS-meter",
     "version": "1.1",
@@ -2065,6 +2078,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2221,6 +2247,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "creative stuff"
+  },
+  {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.0.4",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-31T10:17:23Z",
+    "stars": 4,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -2587,19 +2626,6 @@
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.0.4",
-    "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-31T10:17:23Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
     "repo": "ExplerHD/Old-Era-Revival",
     "name": "Old Era Revival",
     "version": "0.7",
@@ -2618,7 +2644,7 @@
     "version": "1.0",
     "mod_id": "OldEraJava",
     "author": "ExplerHD, 12three7",
-    "lastUpdated": "2022-01-19T13:45:04Z",
+    "lastUpdated": "2022-01-20T12:39:10Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3248,19 +3274,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
-  },
-  {
-    "repo": "LightAndTime/Block-Placer",
-    "name": "Block placer",
-    "version": " your iq",
-    "mod_id": "block placer",
-    "author": "Light",
-    "lastUpdated": "2022-01-18T18:40:53Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that places blocks (from mods too) using js"
   },
   {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
