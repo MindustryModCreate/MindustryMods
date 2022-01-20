@@ -130,6 +130,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "Sh1penfire/pixelcraft",
+    "name": "Pixelcraft: The endless rust",
+    "version": "0.9.85",
+    "mod_id": "pixelcraft",
+    "author": "Sh1penfire and pankiwi",
+    "lastUpdated": "2021-12-22T12:05:28Z",
+    "stars": 60,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -395,7 +408,7 @@
     "version": "23.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-19T18:42:22Z",
+    "lastUpdated": "2022-01-20T08:07:30Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -741,6 +754,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-07T02:25:38Z",
+    "stars": 13,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
+  },
+  {
     "repo": "sk7725/Commands",
     "name": "Commands",
     "version": "0.2",
@@ -804,19 +830,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-12-07T02:25:38Z",
-    "stars": 12,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1534,6 +1547,19 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
+    "repo": "p101q/Snowdustry",
+    "name": "Snowydustry",
+    "version": "1",
+    "mod_id": "snow",
+    "author": "Mindustry [RU] inc.",
+    "lastUpdated": "2021-12-30T12:54:28Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A fun mod for a fun New Year's event"
+  },
+  {
     "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.1",
@@ -1937,19 +1963,6 @@
     "description": "Adds a block detecting radar.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "DeltaNedas/waisa",
-    "name": "WAISA",
-    "version": "2.3.3",
-    "mod_id": "waisa",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:39:22Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "1qwaka/DPS-meter",
     "name": "DPS-meter",
     "version": "1.1",
@@ -2052,19 +2065,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3268,7 +3268,7 @@
     "version": "0.1.4",
     "mod_id": "Mindustry-GG-Mod",
     "author": "Duvent",
-    "lastUpdated": "2022-01-20T03:20:20Z",
+    "lastUpdated": "2022-01-20T08:44:17Z",
     "stars": 2,
     "minGameVersion": "124",
     "hasScripts": false,
