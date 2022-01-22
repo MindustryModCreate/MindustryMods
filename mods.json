@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-20T03:25:38Z",
+    "lastUpdated": "2022-01-22T10:05:05Z",
     "stars": 120,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -408,7 +408,7 @@
     "version": "23.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-21T07:33:17Z",
+    "lastUpdated": "2022-01-22T07:38:48Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -421,7 +421,7 @@
     "version": "_i_ co__u__s a__ 7.1",
     "mod_id": "endless-rusting-demo",
     "author": "Sh1penfire",
-    "lastUpdated": "2022-01-22T04:08:13Z",
+    "lastUpdated": "2022-01-22T09:24:32Z",
     "stars": 27,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-21T14:23:52Z",
+    "lastUpdated": "2022-01-22T09:50:31Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -572,6 +572,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-01-22T03:08:42Z",
+    "stars": 21,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -609,19 +622,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-01-22T03:08:42Z",
-    "stars": 19,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -2639,19 +2639,6 @@
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.7",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-16T05:41:59Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
     "repo": "ExplerHD/OldEraJava",
     "name": "Old Era Revival (Java)",
     "version": "1.0",
@@ -2663,6 +2650,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mods that added maybe lot of content."
+  },
+  {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.7",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-01-22T06:35:20Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3892,7 +3892,7 @@
     "version": "1.0, the Final Update...?",
     "mod_id": "barrier",
     "author": "Emanuel G or Antumbra",
-    "lastUpdated": "2022-01-21T18:25:40Z",
+    "lastUpdated": "2022-01-22T07:42:28Z",
     "stars": 1,
     "minGameVersion": "129",
     "hasScripts": false,
