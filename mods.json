@@ -338,6 +338,19 @@
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "version": "23.3",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2022-01-24T00:30:04Z",
+    "stars": 30,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "version": "0.2.2",
@@ -401,19 +414,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "version": "23.3",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-23T00:28:57Z",
-    "stars": 28,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
@@ -486,7 +486,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-24T00:18:11Z",
+    "lastUpdated": "2022-01-24T01:19:22Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -3783,19 +3783,6 @@
     "description": "7.0 vanila-like mod"
   },
   {
-    "repo": "Rex-Hm/Better-Distribution-Mod",
-    "name": "Better Distribution",
-    "version": "1.0",
-    "mod_id": "better-distr",
-    "author": "RexHm (Discord ID:612122239428722720)",
-    "lastUpdated": "2021-12-04T19:34:02Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
-  },
-  {
     "repo": "CBMShadowGD/terrariamod",
     "name": "terarria Mod",
     "version": "3.1",
@@ -3924,6 +3911,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "Rex-Hm/Quality-Implementations-Mod",
+    "name": "Quality Implementations",
+    "version": "1.1",
+    "mod_id": "q-impl",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-01-24T03:48:56Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "Nikisos/TheBattleMod",
