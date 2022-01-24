@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-23T11:17:24Z",
+    "lastUpdated": "2022-01-24T14:39:08Z",
     "stars": 120,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -351,6 +351,19 @@
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
+    "repo": "Goobrr/Esoterum",
+    "name": "Esoterum",
+    "version": "2.11",
+    "mod_id": "esoterum",
+    "author": "Goober, Meep, Python, Eldoofus",
+    "lastUpdated": "2022-01-24T05:54:00Z",
+    "stars": 30,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
+  },
+  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "version": "0.2.2",
@@ -375,19 +388,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "Goobrr/Esoterum",
-    "name": "Esoterum",
-    "version": "2.11",
-    "mod_id": "esoterum",
-    "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2022-01-24T05:54:00Z",
-    "stars": 29,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
     "repo": "NickName73/Gravillaso",
@@ -1110,7 +1110,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-22T17:29:30Z",
+    "lastUpdated": "2022-01-24T12:39:27Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1547,6 +1547,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "iarkn/mind-util",
+    "name": "mind-util - Utility Mod",
+    "version": "1.3.0",
+    "mod_id": "mind-util",
+    "author": "iarkn",
+    "lastUpdated": "2021-12-25T10:45:38Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
+  },
+  {
     "repo": "p101q/Snowdustry",
     "name": "Snowydustry",
     "version": "1",
@@ -1584,6 +1597,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Upload your maps:\nDiscord pixecoz#3275"
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.5.1_industry-test",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-01-04T11:28:50Z",
+    "stars": 6,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "ice100k/prismatic",
@@ -2644,7 +2670,7 @@
     "version": "0.7",
     "mod_id": "oer",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-22T06:35:20Z",
+    "lastUpdated": "2022-01-24T13:28:12Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3289,6 +3315,19 @@
     "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
   },
   {
+    "repo": "Rex-Hm/Quality-Implementations-Mod",
+    "name": "Quality Implementations",
+    "version": "1.1",
+    "mod_id": "q-impl",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-01-24T03:48:56Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -3885,19 +3924,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
-  },
-  {
-    "repo": "Rex-Hm/Quality-Implementations-Mod",
-    "name": "Quality Implementations",
-    "version": "1.1",
-    "mod_id": "q-impl",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-01-24T03:48:56Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "Nikisos/TheBattleMod",
