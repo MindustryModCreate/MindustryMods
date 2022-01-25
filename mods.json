@@ -325,6 +325,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "version": "23.4",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2022-01-24T19:17:06Z",
+    "stars": 31,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "DeltaNedas/dev-mode",
     "name": "Developer Mode",
     "version": "2.3.2",
@@ -349,19 +362,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "version": "23.4",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-24T19:17:06Z",
-    "stars": 30,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "MEEPofFaith/missing-category-units",
@@ -486,7 +486,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-24T01:19:22Z",
+    "lastUpdated": "2022-01-24T22:23:53Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1110,7 +1110,7 @@
     "version": "0.3",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-24T15:29:40Z",
+    "lastUpdated": "2022-01-24T23:38:40Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3276,19 +3276,6 @@
     "description": "a small mod"
   },
   {
-    "repo": "LightAndTime/Block-Placer",
-    "name": "Block placer",
-    "version": " your iq",
-    "mod_id": "block placer",
-    "author": "Light",
-    "lastUpdated": "2022-01-21T20:03:10Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that places blocks (from mods too) using js"
-  },
-  {
     "repo": "MQ-1175/flarogus",
     "name": "Flarogus",
     "version": "1.0",
@@ -3326,6 +3313,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
+    "repo": "LightAndTime/Block-Placer",
+    "name": "Block Placer",
+    "version": "irtual reality",
+    "mod_id": "blockPlacer",
+    "author": "Light",
+    "lastUpdated": "2022-01-25T00:27:44Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod that places blocks using js, is compatable with modded blocks too"
   },
   {
     "repo": "4156/Infintory",
