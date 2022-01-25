@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-24T14:39:08Z",
+    "lastUpdated": "2022-01-25T10:05:00Z",
     "stars": 120,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -273,6 +273,19 @@
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
+    "repo": "Sharlottes/ExampleMod",
+    "name": "Example Mod",
+    "version": "1.4.9",
+    "mod_id": "testmod",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-08-21T09:35:11Z",
+    "stars": 38,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -284,19 +297,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "Sharlottes/ExampleMod",
-    "name": "Example Mod",
-    "version": "1.4.9",
-    "mod_id": "testmod",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-08-21T09:35:11Z",
-    "stars": 37,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
     "repo": "Gdeft/portal",
@@ -325,12 +325,51 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
+    "name": "Progressed Materials (Java)",
+    "version": "14.1",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:12:43Z",
+    "stars": 33,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-js",
+    "name": "Progressed Materials (JS)",
+    "version": "0.40 FINAL JS UPDATE",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n    MEEP of Faith\n\nContributors:\n    ThirstyBoi (Eruptor sprite)\n    Goober (Kugelblitz and Popeshadow sprites)\n    VozDuh (Missile turret sprites, new icon)\n    Ilya246 (Luminocity damage ramping)\n    Younggam (Multi Lib)\n    Kapzduke (Tinker sprites)\n    Some sounds from Freesound.\n    Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:15:19Z",
+    "stars": 33,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-01-25T07:16:46Z",
+    "stars": 31,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "version": "23.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-24T19:17:06Z",
+    "lastUpdated": "2022-01-25T07:31:22Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -416,19 +455,6 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-01-23T16:22:57Z",
-    "stars": 28,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
     "name": "Endless Rusting Demo",
     "version": "_i_ co__u__s a__ 7.1",
@@ -455,19 +481,6 @@
     "description": "JavaScript only mindustry mod."
   },
   {
-    "repo": "Goobrr/amogus",
-    "name": "amogus",
-    "version": "ery sus",
-    "mod_id": "amogus",
-    "author": "Goober",
-    "lastUpdated": "2021-06-17T01:02:28Z",
-    "stars": 26,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "amogus"
-  },
-  {
     "repo": "Fresh791/mindustry-extended",
     "name": "Mindustry-Extended",
     "version": "1.09",
@@ -492,6 +505,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your Mindustry arsenal"
+  },
+  {
+    "repo": "Goobrr/amogus",
+    "name": "amogus",
+    "version": "ery sus",
+    "mod_id": "amogus",
+    "author": "Goober",
+    "lastUpdated": "2022-01-25T09:00:29Z",
+    "stars": 26,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "amogus"
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -687,6 +713,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-js",
+    "name": "Testing Utilities",
+    "version": "0.17",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-01-25T06:14:01Z",
+    "stars": 16,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -923,30 +962,30 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "Zeniku/HeavyMachinery",
-    "name": "Heavy Machinery",
-    "version": "1.0",
-    "mod_id": "heavymachinery",
-    "author": "Zen",
-    "lastUpdated": "2022-01-15T11:11:07Z",
-    "stars": 11,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-23T03:16:16Z",
+    "lastUpdated": "2022-01-25T07:24:15Z",
     "stars": 11,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "Zeniku/HeavyMachinery",
+    "name": "Heavy Machinery",
+    "version": "1.0",
+    "mod_id": "heavymachinery",
+    "author": "Zen",
+    "lastUpdated": "2022-01-25T09:13:59Z",
+    "stars": 11,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1090,19 +1129,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
-  },
-  {
-    "repo": "SupremeTurtle/DuoEnhanced",
-    "name": "DuoEnhanced",
-    "version": "0.8.3",
-    "mod_id": "DuoEnhanced",
-    "author": "Gwapo",
-    "lastUpdated": "2021-12-22T07:12:45Z",
-    "stars": 9,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
   },
   {
     "repo": "uujuju1/project-abyss",
@@ -2091,19 +2117,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
