@@ -2691,19 +2691,6 @@
     "description": "Makes you sandbox."
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "RebornTrack970/OmegaCursed",
     "name": "Omega-Cursed.bat",
     "version": "0.3",
@@ -3320,7 +3307,7 @@
     "version": "irtual reality",
     "mod_id": "blockPlacer",
     "author": "Light",
-    "lastUpdated": "2022-01-25T00:27:44Z",
+    "lastUpdated": "2022-01-25T00:31:32Z",
     "stars": 2,
     "minGameVersion": "105",
     "hasScripts": true,
@@ -4485,19 +4472,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -4717,5 +4691,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A QOL mod.\nAdds: Revamped Junction"
+  },
+  {
+    "repo": "GameStuffOffical/morebulletsmodforhjson",
+    "name": "More Bullets Extension",
+    "version": "1.0",
+    "mod_id": "more-bullets-extenison",
+    "author": "GameStuff",
+    "lastUpdated": "2022-01-25T02:46:52Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more bullets to mindustry mods."
   }
 ]
