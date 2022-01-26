@@ -317,7 +317,7 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2022-01-16T03:33:52Z",
+    "lastUpdated": "2022-01-26T14:49:50Z",
     "stars": 35,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -356,8 +356,8 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-01-25T07:16:46Z",
-    "stars": 31,
+    "lastUpdated": "2022-01-26T13:40:10Z",
+    "stars": 32,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -512,7 +512,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-25T20:17:08Z",
+    "lastUpdated": "2022-01-26T14:40:17Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -882,6 +882,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
+    "name": "Spore Biomechs",
+    "version": "1.0.0",
+    "mod_id": "sporepod",
+    "author": "Hydroabyss",
+    "lastUpdated": "2022-01-26T10:47:35Z",
+    "stars": 12,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1664,19 +1677,6 @@
     "description": "Chaos."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-01-15T12:20:43Z",
-    "stars": 6,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "breadbug23/Somas",
     "name": "Somas",
     "version": "1.4",
@@ -1688,6 +1688,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-01-26T12:18:57Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1976,19 +1989,6 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
-    "name": "Spore Biomechs",
-    "version": "0.9",
-    "mod_id": "sporepod",
-    "author": "Hydroabyss",
-    "lastUpdated": "2022-01-25T13:58:01Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
-  },
-  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -2130,19 +2130,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3757,19 +3744,6 @@
     "description": "Observation is prohibited."
   },
   {
-    "repo": "CalibriLight/MoreOresMDmod",
-    "name": "More Ores Mod",
-    "version": "0.7.5",
-    "mod_id": "more-mod",
-    "author": "CalibriLighYT",
-    "lastUpdated": "2021-10-28T09:34:47Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod add three ores  and too many things"
-  },
-  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -3950,6 +3924,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "CalibriLight/MoreZmod",
+    "name": "Ulybaka's MoreZ Mod",
+    "version": "0.7.6",
+    "mod_id": "more-mod",
+    "author": "CalibriLighYT/Ulybaka",
+    "lastUpdated": "2022-01-26T13:25:20Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod add three ores  and too many things"
   },
   {
     "repo": "Nikisos/TheBattleMod",
