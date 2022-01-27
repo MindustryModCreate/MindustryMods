@@ -5,7 +5,7 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-01-26T19:25:14Z",
+    "lastUpdated": "2022-01-26T23:34:46Z",
     "stars": 187,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -70,7 +70,7 @@
     "version": "12.4",
     "mod_id": "revision",
     "author": "Slava0135",
-    "lastUpdated": "2021-12-01T17:54:01Z",
+    "lastUpdated": "2022-01-26T20:08:52Z",
     "stars": 101,
     "minGameVersion": "120",
     "hasScripts": false,
@@ -162,11 +162,24 @@
     "mod_id": "pictologic",
     "author": "DeltaNedas, Router and another guy",
     "lastUpdated": "2021-05-15T09:37:44Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "UI Lib",
+    "version": "2.16.6",
+    "mod_id": "ui-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-05-17T19:01:47Z",
+    "stars": 49,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "DeltaNedas/routorio",
@@ -180,19 +193,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "DeltaNedas/ui-lib",
-    "name": "UI Lib",
-    "version": "2.16.6",
-    "mod_id": "ui-lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-05-17T19:01:47Z",
-    "stars": 48,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "DeltaNedas/rtfm",
@@ -512,7 +512,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-26T15:19:32Z",
+    "lastUpdated": "2022-01-27T00:07:17Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -3250,6 +3250,19 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "Alexander397172YT/Alex39-Mod",
+    "name": "Alex39 Mod",
+    "version": "1.1",
+    "mod_id": "Alex39 Mod",
+    "author": "Alexander39",
+    "lastUpdated": "2022-01-03T21:56:17Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod for mindustry"
+  },
+  {
     "repo": "DeltaNedas/item-grabber",
     "name": "Item Grabber",
     "version": "1.0.3",
@@ -4030,19 +4043,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "Sonnicon/GroovyModMod",
-    "name": "Groovy Mod Mod",
-    "version": "0.2",
-    "mod_id": "groovymodmod",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2020-12-28T01:11:25Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
-  },
-  {
     "repo": "DvNamedo/world-war-2",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4173,19 +4173,6 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
-    "repo": "rumulus/Mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-01T18:22:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -4275,6 +4262,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An unstable Mindustry mod only used for testing"
+  },
+  {
+    "repo": "knacko/MindustryMods",
+    "name": "Radar mod",
+    "version": "1.0",
+    "mod_id": "Radar mod",
+    "author": "Yourself",
+    "lastUpdated": "2021-06-30T01:52:18Z",
+    "stars": 0,
+    "minGameVersion": "126.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
     "repo": "Yagoi23/Yagois-Mindustry-Mod",
@@ -4483,6 +4483,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
