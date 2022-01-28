@@ -366,10 +366,10 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
-    "version": "23.4",
+    "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-28T09:55:12Z",
+    "lastUpdated": "2022-01-28T18:16:42Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1136,7 +1136,7 @@
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-27T16:49:26Z",
+    "lastUpdated": "2022-01-28T18:47:27Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2691,19 +2691,6 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
-    "repo": "LightAndTime/Block-Placer",
-    "name": "Block Placer",
-    "version": "irtual reality",
-    "mod_id": "blockPlacer",
-    "author": "Light",
-    "lastUpdated": "2022-01-25T16:03:06Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod that places blocks using js, is compatable with modded blocks too"
-  },
-  {
     "repo": "ExplerHD/Old-Era-Revival",
     "name": "Old Era Revival",
     "version": "0.7",
@@ -2715,6 +2702,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
+  },
+  {
+    "repo": "LightAndTime/Block-Placer",
+    "name": "Block Placer",
+    "version": "irtual box",
+    "mod_id": "blockPlacer",
+    "author": "Light",
+    "lastUpdated": "2022-01-28T19:05:18Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod that places blocks or floors using js, the mod is compatable with modded content too"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3235,6 +3235,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Some strange mod, which there some metals."
+  },
+  {
+    "repo": "Alexander397172YT/Alex39-Mod",
+    "name": "Alex39 Mod",
+    "version": "1.1",
+    "mod_id": "Alex39 Mod",
+    "author": "Alexander39",
+    "lastUpdated": "2022-01-03T21:56:17Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod for mindustry"
   },
   {
     "repo": "DeltaNedas/item-grabber",
@@ -4459,6 +4472,19 @@
     "description": "wort wort wort."
   },
   {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -4550,19 +4576,6 @@
     "description": "duo"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
     "repo": "SMOLKEYS/cursed-units",
     "name": "Cursed Units",
     "version": "0",
@@ -4613,6 +4626,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "MountLava/SolarMod",
+    "name": "Solar Mod",
+    "version": "0.3 Alpha",
+    "mod_id": "solarmod",
+    "author": "MountLava",
+    "lastUpdated": "2022-01-14T02:22:54Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
     "repo": "Miniontoby/mindustrirc",
