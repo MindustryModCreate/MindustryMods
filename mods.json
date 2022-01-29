@@ -5,7 +5,7 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-01-29T01:16:28Z",
+    "lastUpdated": "2022-01-29T09:30:32Z",
     "stars": 187,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-28T21:21:27Z",
+    "lastUpdated": "2022-01-29T06:35:43Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-29T04:49:35Z",
+    "lastUpdated": "2022-01-29T09:55:53Z",
     "stars": 27,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1339,19 +1339,6 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
-    "repo": "newB7140/duomod",
-    "name": "duomod",
-    "version": "1.14",
-    "mod_id": "duomod",
-    "author": "뉴B",
-    "lastUpdated": "2022-01-28T02:12:01Z",
-    "stars": 7,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
-  },
-  {
     "repo": "MEEPofFaith/anuke-approaching",
     "name": "Do not the Anuke",
     "version": "oh no",
@@ -1363,6 +1350,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Do not the Anuke"
+  },
+  {
+    "repo": "newB7140/duomod",
+    "name": "duomod",
+    "version": "1.14",
+    "mod_id": "duomod",
+    "author": "뉴B",
+    "lastUpdated": "2022-01-29T08:48:28Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1950,6 +1950,19 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.1.0",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-01-04T11:23:03Z",
+    "stars": 5,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "version": "2.1",
@@ -2132,6 +2145,19 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2312,19 +2338,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.1.0",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-01-04T11:23:03Z",
-    "stars": 4,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "Error-In-Code/Nuclear-Mines-Mod",
@@ -3341,6 +3354,19 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "1.0",
+    "mod_id": "cyber-io",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-01-29T08:02:52Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -3926,19 +3952,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "1.0",
-    "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-27T21:52:18Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
-  },
-  {
     "repo": "12three7/MindustryModTemplate",
     "name": "MindustryModTemplate",
     "version": "1.0",
@@ -4056,6 +4069,19 @@
     "description": "An example to help respriting"
   },
   {
+    "repo": "Sonnicon/GroovyModMod",
+    "name": "Groovy Mod Mod",
+    "version": "0.2",
+    "mod_id": "groovymodmod",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2020-12-28T01:11:25Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
+  },
+  {
     "repo": "DvNamedo/world-war-2",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4080,6 +4106,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
@@ -4249,19 +4288,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
-  },
-  {
-    "repo": "KerbalBoy/mindustry-test-mod",
-    "name": "TestMod",
-    "version": "1.0.1",
-    "mod_id": "test-mod",
-    "author": "KerbalBoy",
-    "lastUpdated": "2021-06-13T09:18:28Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An unstable Mindustry mod only used for testing"
   },
   {
     "repo": "knacko/MindustryMods",
