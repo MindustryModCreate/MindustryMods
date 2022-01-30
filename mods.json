@@ -5,7 +5,7 @@
     "version": "1.07",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-01-30T11:58:19Z",
+    "lastUpdated": "2022-01-30T17:03:32Z",
     "stars": 187,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.10.6 Beta",
+    "version": "v1.10.6",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-01-30T14:35:31Z",
+    "lastUpdated": "2022-01-30T17:09:55Z",
     "stars": 107,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1118,6 +1118,19 @@
     "description": "A space-related mod."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-01-29T14:02:35Z",
+    "stars": 10,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1144,25 +1157,12 @@
     "description": "Harness the power of dreams in this content mod."
   },
   {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-01-29T14:02:35Z",
-    "stars": 9,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-30T15:05:26Z",
+    "lastUpdated": "2022-01-30T19:36:39Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2145,19 +2145,6 @@
     "description": "A mod to return the music to 3.5."
   },
   {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2821,6 +2808,19 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3343,10 +3343,10 @@
   {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
-    "version": "1.0",
+    "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-30T10:17:29Z",
+    "lastUpdated": "2022-01-30T19:47:26Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3638,19 +3638,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "death awaits me"
-  },
-  {
-    "repo": "SrOtaku/ModNathilha",
-    "name": "NathilhaMod",
-    "version": "1.71(Public-Beta)",
-    "mod_id": "nathilhamod",
-    "author": "RedGame",
-    "lastUpdated": "2021-09-19T14:22:06Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
     "repo": "FelixHelixihare/mindustrypaintmod",
@@ -3952,6 +3939,19 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
+    "repo": "SrOtaku/ModNathilha",
+    "name": "NathilhaMod",
+    "version": "1.71(Public-Beta)",
+    "mod_id": "nathilhamod",
+    "author": "RedGame",
+    "lastUpdated": "2022-01-30T18:33:29Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -4082,6 +4082,19 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
+  },
+  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -4171,19 +4184,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
-    "repo": "rumulus/Mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-01T18:22:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
