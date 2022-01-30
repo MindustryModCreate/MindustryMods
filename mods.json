@@ -265,7 +265,7 @@
     "version": "2.4.7",
     "mod_id": "btm",
     "author": "guiY & Carrot",
-    "lastUpdated": "2022-01-30T05:06:05Z",
+    "lastUpdated": "2022-01-30T05:22:42Z",
     "stars": 42,
     "minGameVersion": "133",
     "hasScripts": true,
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-30T00:33:42Z",
+    "lastUpdated": "2022-01-30T06:28:34Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-30T01:34:49Z",
+    "lastUpdated": "2022-01-30T09:36:35Z",
     "stars": 27,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "1.0",
     "mod_id": "heavymachinery",
     "author": "Zen",
-    "lastUpdated": "2022-01-25T11:40:05Z",
+    "lastUpdated": "2022-01-30T07:59:37Z",
     "stars": 12,
     "minGameVersion": "123",
     "hasScripts": true,
@@ -1144,12 +1144,25 @@
     "description": "Harness the power of dreams in this content mod."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-01-29T14:02:35Z",
+    "stars": 9,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-30T04:59:35Z",
+    "lastUpdated": "2022-01-30T07:53:30Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1233,19 +1246,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-01-29T14:02:35Z",
-    "stars": 8,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "bloool/CobaltMod",
@@ -1560,19 +1560,6 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
-    "repo": "THCworkshopCN/THC-Industry",
-    "name": "THC-Industry",
-    "version": "0.4.8.0_dev_legacy",
-    "mod_id": "THC Industry",
-    "author": "THC Workshop CN. uujuju",
-    "lastUpdated": "2021-11-05T11:57:11Z",
-    "stars": 6,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
     "repo": "Antlrr/basement",
     "name": "Antlrr's Basement",
     "version": "1.0",
@@ -1701,6 +1688,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "THCworkshopCN/THC-Industry",
+    "name": "THC-Industry",
+    "version": "0.4.8.0_dev_legacy",
+    "mod_id": "THC Industry",
+    "author": "THC Workshop CN. uujuju",
+    "lastUpdated": "2022-01-30T08:46:24Z",
+    "stars": 6,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2143,6 +2143,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2808,19 +2821,6 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3248,6 +3248,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Some strange mod, which there some metals."
+  },
+  {
+    "repo": "Alexander397172YT/Alex39-Mod",
+    "name": "Alex39 Mod",
+    "version": "1.1",
+    "mod_id": "Alex39 Mod",
+    "author": "Alexander39",
+    "lastUpdated": "2022-01-03T21:56:17Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod for mindustry"
   },
   {
     "repo": "DeltaNedas/item-grabber",
@@ -4251,6 +4264,19 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
+    "repo": "KerbalBoy/mindustry-test-mod",
+    "name": "TestMod",
+    "version": "1.0.1",
+    "mod_id": "test-mod",
+    "author": "KerbalBoy",
+    "lastUpdated": "2021-06-13T09:18:28Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An unstable Mindustry mod only used for testing"
+  },
+  {
     "repo": "knacko/MindustryMods",
     "name": "Radar mod",
     "version": "1.0",
@@ -4561,19 +4587,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
   },
   {
     "repo": "SMOLKEYS/cursed-units",
