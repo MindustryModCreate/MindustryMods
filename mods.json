@@ -2,10 +2,10 @@
   {
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
-    "version": "1.07",
+    "version": "1.08",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-01-30T17:03:32Z",
+    "lastUpdated": "2022-01-31T14:31:10Z",
     "stars": 187,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2022-01-26T16:11:07Z",
+    "lastUpdated": "2022-01-31T14:53:46Z",
     "stars": 35,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1001,6 +1001,19 @@
     "description": "Very pog."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-01-29T14:02:35Z",
+    "stars": 11,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "version": "1.7.0",
@@ -1118,19 +1131,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-01-29T14:02:35Z",
-    "stars": 10,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1162,7 +1162,7 @@
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-31T01:52:01Z",
+    "lastUpdated": "2022-01-31T14:31:08Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1396,7 +1396,7 @@
     "version": "1.14",
     "mod_id": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2022-01-31T06:53:04Z",
+    "lastUpdated": "2022-01-31T14:48:43Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -2808,6 +2808,19 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -4082,6 +4095,19 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
+  },
+  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -4249,19 +4275,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
-  },
-  {
-    "repo": "KerbalBoy/mindustry-test-mod",
-    "name": "TestMod",
-    "version": "1.0.1",
-    "mod_id": "test-mod",
-    "author": "KerbalBoy",
-    "lastUpdated": "2021-06-13T09:18:28Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An unstable Mindustry mod only used for testing"
   },
   {
     "repo": "knacko/MindustryMods",
@@ -4483,19 +4496,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
-  },
-  {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
@@ -4730,5 +4730,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
+  },
+  {
+    "repo": "Jacobs-Develop/MindustryCommunityEditionMod",
+    "name": "Your mod name",
+    "version": "0.1",
+    "mod_id": "your-mod",
+    "author": "YourNickName",
+    "lastUpdated": "2022-01-31T12:47:13Z",
+    "stars": 0,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Your own mod"
   }
 ]
