@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-30T06:28:34Z",
+    "lastUpdated": "2022-01-30T21:18:08Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-30T19:36:39Z",
+    "lastUpdated": "2022-01-30T23:49:10Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3346,7 +3346,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-30T19:47:26Z",
+    "lastUpdated": "2022-01-30T23:23:35Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -4264,19 +4264,6 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
-    "repo": "KerbalBoy/mindustry-test-mod",
-    "name": "TestMod",
-    "version": "1.0.1",
-    "mod_id": "test-mod",
-    "author": "KerbalBoy",
-    "lastUpdated": "2021-06-13T09:18:28Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An unstable Mindustry mod only used for testing"
-  },
-  {
     "repo": "knacko/MindustryMods",
     "name": "Radar mod",
     "version": "1.0",
@@ -4730,5 +4717,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
+  },
+  {
+    "repo": "Auseawesome/Mindustry-GameBreaker",
+    "name": "Mindustry Gamebreaker",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-gamebreaker",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-01-30T21:13:50Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to break mindustry"
   }
 ]
