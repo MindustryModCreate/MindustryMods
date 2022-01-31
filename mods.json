@@ -473,7 +473,7 @@
     "version": "0.7.6",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-30T11:19:48Z",
+    "lastUpdated": "2022-01-31T01:29:30Z",
     "stars": 27,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-30T23:49:10Z",
+    "lastUpdated": "2022-01-31T01:52:01Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1396,7 +1396,7 @@
     "version": "1.14",
     "mod_id": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2022-01-30T12:00:52Z",
+    "lastUpdated": "2022-01-31T02:58:18Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -2145,6 +2145,19 @@
     "description": "A mod to return the music to 3.5."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2808,19 +2821,6 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3346,7 +3346,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-30T23:23:35Z",
+    "lastUpdated": "2022-01-31T01:05:10Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -4082,19 +4082,6 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "version": "1.0",
-    "mod_id": "MusicMod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
-  },
-  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -4262,6 +4249,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
+  },
+  {
+    "repo": "KerbalBoy/mindustry-test-mod",
+    "name": "TestMod",
+    "version": "1.0.1",
+    "mod_id": "test-mod",
+    "author": "KerbalBoy",
+    "lastUpdated": "2021-06-13T09:18:28Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An unstable Mindustry mod only used for testing"
   },
   {
     "repo": "knacko/MindustryMods",
