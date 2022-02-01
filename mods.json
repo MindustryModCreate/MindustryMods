@@ -5,7 +5,7 @@
     "version": "1.08",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-01-31T14:31:10Z",
+    "lastUpdated": "2022-02-01T02:46:18Z",
     "stars": 187,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-31T07:02:11Z",
+    "lastUpdated": "2022-02-01T04:59:22Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -962,6 +962,19 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "version": "0.9",
+    "mod_id": "auto-updater",
+    "author": "Skat",
+    "lastUpdated": "2021-08-13T16:05:47Z",
+    "stars": 11,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "TheSkyFather/Minerals",
     "name": "Minerals",
     "version": "0.9.6.1 Final",
@@ -1064,19 +1077,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
-  },
-  {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "version": "0.9",
-    "mod_id": "auto-updater",
-    "author": "Skat",
-    "lastUpdated": "2021-08-13T16:05:47Z",
-    "stars": 10,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
   },
   {
     "repo": "SnakkiZXZ/Coppermod",
@@ -1396,7 +1396,7 @@
     "version": "1.14",
     "mod_id": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2022-01-31T14:48:43Z",
+    "lastUpdated": "2022-02-01T02:33:59Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -2730,6 +2730,19 @@
     "description": "A mindustry mod that places blocks or floors using js, the mod is compatable with modded content too"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "1",
+    "mod_id": "cyber-io",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-01-31T17:54:43Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -2806,19 +2819,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "souvikpodder/Mindustry-souvy-mod",
@@ -3339,19 +3339,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "1",
-    "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-31T17:54:43Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "4156/Infintory",
@@ -3900,19 +3887,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "12three7/MindustryModTemplate",
-    "name": "MindustryModTemplate",
-    "version": "1.0",
-    "mod_id": "",
-    "author": "",
-    "lastUpdated": "2022-01-28T06:10:26Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
     "name": "Mindustry+ Agriculture Addon",
     "version": "Alpha 0.1",
@@ -3963,6 +3937,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to alter vanilla progression"
+  },
+  {
+    "repo": "12three7/MindustryModTemplate",
+    "name": "MindustryModTemplate",
+    "version": "1.0",
+    "mod_id": "",
+    "author": "",
+    "lastUpdated": "2022-02-01T04:43:09Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4093,6 +4080,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
