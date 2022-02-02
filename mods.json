@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-10-20T18:12:28Z",
+    "lastUpdated": "2022-02-02T19:45:43Z",
     "stars": 89,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-02T08:30:26Z",
+    "lastUpdated": "2022-02-02T18:47:29Z",
     "stars": 27,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1963,6 +1963,19 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities",
+    "name": "MI2 Utilities",
+    "version": "0.3.1",
+    "mod_id": "MI2-Utilities",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-01-22T13:50:41Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mindustry Mod That Adds Useful Vanilla Utilities. \nMI2-Client Transplantation.\n\nMindustry模组，添加一些实用原版辅助。MI2端移植。"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "version": "2.1",
@@ -2353,19 +2366,6 @@
     "description": "Added new hidden content :eyes:"
   },
   {
-    "repo": "BlackDeluxeCat/MI2-Utilities",
-    "name": "MI2 Utilities",
-    "version": "0.3.1",
-    "mod_id": "MI2-Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-01-22T13:50:41Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod That Adds Useful Vanilla Utilities. \nMI2-Client Transplantation.\n\nMindustry模组，添加一些实用原版辅助。MI2端移植。"
-  },
-  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -2735,7 +2735,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-01T15:55:34Z",
+    "lastUpdated": "2022-02-02T18:09:08Z",
     "stars": 3,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3887,19 +3887,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
-    "name": "Mindustry+ Agriculture Addon",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-plus-agriculture",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-01-29T11:03:23Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made to add more plants into Mindustry"
-  },
-  {
     "repo": "SrOtaku/ModNathilha",
     "name": "NathilhaMod",
     "version": "1.71(Public-Beta)",
@@ -3911,19 +3898,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
-  },
-  {
-    "repo": "Auseawesome/Mindustry-GameBreaker",
-    "name": "Mindustry Gamebreaker",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-gamebreaker",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-01-31T07:10:36Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to break mindustry"
   },
   {
     "repo": "12three7/MindustryModTemplate",
@@ -3952,12 +3926,38 @@
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
+    "repo": "Auseawesome/Mindustry-GameBreaker",
+    "name": "Mindustry Gamebreaker",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-gamebreaker",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-02-02T16:41:22Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to break mindustry"
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
+    "name": "Mindustry+ Agriculture Addon",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-plus-agriculture",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-02-02T16:41:48Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made to add more plants into Mindustry"
+  },
+  {
     "repo": "Auseawesome/MindustryPlus",
     "name": "Mindustry+ Core",
     "version": "Alpha 0.4",
     "mod_id": "mindustry-plus",
     "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T07:45:58Z",
+    "lastUpdated": "2022-02-02T17:44:37Z",
     "stars": 1,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -4093,6 +4093,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
