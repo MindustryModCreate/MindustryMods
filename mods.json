@@ -57,7 +57,7 @@
     "version": "1.10.8",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-02-03T06:13:28Z",
+    "lastUpdated": "2022-02-03T13:25:21Z",
     "stars": 107,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-02-02T20:55:26Z",
+    "lastUpdated": "2022-02-03T13:39:30Z",
     "stars": 89,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -819,6 +819,19 @@
     "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
   },
   {
+    "repo": "DeltaNedas/ldb",
+    "name": "Logic Debugger",
+    "version": "1.3.3",
+    "mod_id": "ldb",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T20:30:51Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -882,19 +895,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns everything into disgusting organic beings"
-  },
-  {
-    "repo": "DeltaNedas/ldb",
-    "name": "Logic Debugger",
-    "version": "1.3.3",
-    "mod_id": "ldb",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:30:51Z",
-    "stars": 12,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1001,19 +1001,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.5",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-27T03:58:30Z",
-    "stars": 11,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
-  },
-  {
     "repo": "FlinTyX/Animalia",
     "name": "Animalia",
     "version": "0.1",
@@ -1025,6 +1012,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.5",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-02-03T12:45:38Z",
+    "stars": 11,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1162,7 +1162,7 @@
     "version": "0.3.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-03T00:44:56Z",
+    "lastUpdated": "2022-02-03T12:40:39Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1677,19 +1677,6 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-01-30T00:44:15Z",
-    "stars": 6,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "THCworkshopCN/THC-Industry",
     "name": "THC-Industry",
     "version": "0.4.8.0_dev_legacy",
@@ -1701,6 +1688,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-02-03T12:19:15Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2158,19 +2158,6 @@
     "description": "A mod to return the music to 3.5."
   },
   {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2377,6 +2364,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added new hidden content :eyes:"
+  },
+  {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.7",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-01-27T10:21:11Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -2717,19 +2717,6 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.7",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-27T10:21:11Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
     "repo": "LightAndTime/Block-Placer",
     "name": "Block Placer",
     "version": "irtual box",
@@ -2748,7 +2735,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-02T18:09:08Z",
+    "lastUpdated": "2022-02-03T12:50:55Z",
     "stars": 3,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3276,19 +3263,6 @@
     "description": "Some strange mod, which there some metals."
   },
   {
-    "repo": "Alexander397172YT/Alex39-Mod",
-    "name": "Alex39 Mod",
-    "version": "1.1",
-    "mod_id": "Alex39 Mod",
-    "author": "Alexander39",
-    "lastUpdated": "2022-01-03T21:56:17Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My first mod for mindustry"
-  },
-  {
     "repo": "DeltaNedas/item-grabber",
     "name": "Item Grabber",
     "version": "1.0.3",
@@ -3384,8 +3358,8 @@
     "name": "Project EPL",
     "version": "0.4",
     "mod_id": "project-epl",
-    "author": "ExplerHD",
-    "lastUpdated": "2022-02-03T10:00:38Z",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-02-03T14:28:58Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4119,6 +4093,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
