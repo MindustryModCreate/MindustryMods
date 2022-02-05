@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.10.8",
+    "version": "1.10.9",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-02-03T13:25:21Z",
+    "lastUpdated": "2022-02-05T09:26:05Z",
     "stars": 107,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -286,6 +286,19 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-01-31T07:02:07Z",
+    "stars": 39,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -297,19 +310,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-01-31T07:02:07Z",
-    "stars": 38,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-02-05T02:09:00Z",
+    "lastUpdated": "2022-02-05T06:16:18Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-05T02:49:32Z",
+    "lastUpdated": "2022-02-05T08:10:29Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -811,7 +811,7 @@
     "version": "1.0.0",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-02-04T13:24:39Z",
+    "lastUpdated": "2022-02-05T06:16:37Z",
     "stars": 14,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2717,19 +2717,6 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "version": "0.7",
-    "mod_id": "calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-01-26T22:22:48Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "LightAndTime/Block-Placer",
     "name": "Block Placer",
     "version": "irtual box",
@@ -2754,6 +2741,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "version": "0.8",
+    "mod_id": "calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-02-05T08:09:15Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3385,7 +3385,7 @@
     "version": "0.4",
     "mod_id": "project-epl",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-02-04T05:26:41Z",
+    "lastUpdated": "2022-02-05T07:39:09Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3978,6 +3978,19 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "1.2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT",
+    "lastUpdated": "2022-02-05T08:33:23Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New units and defenses for  all stages of the game. \n Not complete also Looking for spriter!\nSprite overhaul update"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -4106,6 +4119,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SVR mod, Just a normal mod. "
+  },
+  {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
@@ -4459,19 +4485,6 @@
     "description": "Add a few content."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "1.2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT",
-    "lastUpdated": "2021-10-30T01:56:09Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New units and defenses for  all stages of the game. \n Not complete also Looking for spriter!\nSprite overhaul update"
-  },
-  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -4483,19 +4496,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
-  },
-  {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
