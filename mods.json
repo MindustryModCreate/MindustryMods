@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-02-04T20:47:47Z",
+    "lastUpdated": "2022-02-05T02:09:00Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-04T15:01:26Z",
+    "lastUpdated": "2022-02-05T02:49:32Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -2834,6 +2834,19 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3263,6 +3276,19 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "Alexander397172YT/Alex39-Mod",
+    "name": "Alex39 Mod",
+    "version": "1.1",
+    "mod_id": "Alex39 Mod",
+    "author": "Alexander39",
+    "lastUpdated": "2022-01-03T21:56:17Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod for mindustry"
+  },
+  {
     "repo": "DeltaNedas/item-grabber",
     "name": "Item Grabber",
     "version": "1.0.3",
@@ -3599,19 +3625,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Finish the campaign....NOW"
-  },
-  {
-    "repo": "iwantmods82/revampedDustry",
-    "name": "Revamped Industry",
-    "version": "No version provided.",
-    "mod_id": "Revamped Mindustry",
-    "author": "Thinking Cat",
-    "lastUpdated": "2021-06-12T21:56:46Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The addition for mindustry. Out there to teach noobs how to mod, useless for scripting mentors."
   },
   {
     "repo": "Sonnicon/mindustry-newhorizons",
@@ -4329,19 +4342,6 @@
     "description": "snad"
   },
   {
-    "repo": "iwantmods82/NimbusDustry",
-    "name": "NimbusDustry",
-    "version": "No version provided.",
-    "mod_id": "NimbusDustry",
-    "author": "Wasted",
-    "lastUpdated": "2021-08-28T03:23:21Z",
-    "stars": 0,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Refirbished variantation of the normal game, includes many additions to the game, and may supprass that of my rival wolf."
-  },
-  {
     "repo": "wilfulsummer/New-mod",
     "name": "Wilfulsummers mod",
     "version": "1.0",
@@ -4483,6 +4483,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
