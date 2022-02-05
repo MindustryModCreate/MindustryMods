@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-02-05T09:26:05Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -234,6 +234,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.71-official",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2022-01-31T06:25:15Z",
+    "stars": 43,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -258,19 +271,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.71-official",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-01-31T06:25:15Z",
-    "stars": 42,
-    "minGameVersion": "133",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -910,6 +910,19 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-02-03T00:47:40Z",
+    "stars": 12,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -999,19 +1012,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-02-03T00:47:40Z",
-    "stars": 11,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "SMOLKEYS/yellow-java",
@@ -1300,6 +1300,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "pixecoz/better-menders",
+    "name": "Better menders",
+    "version": "1.0",
+    "mod_id": "better-menders",
+    "author": "pixecoz",
+    "lastUpdated": "2021-09-12T18:06:03Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
+  },
+  {
     "repo": "3Snake3/Units-mod",
     "name": "Units Mod",
     "version": "1.0",
@@ -1337,6 +1350,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.0",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2021-11-23T16:55:56Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "iarkn/mind-util",
@@ -1396,7 +1422,7 @@
     "version": "1.14",
     "mod_id": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2022-02-01T13:59:13Z",
+    "lastUpdated": "2022-02-05T13:50:24Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1534,19 +1560,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "pixecoz/better-menders",
-    "name": "Better menders",
-    "version": "1.0",
-    "mod_id": "better-menders",
-    "author": "pixecoz",
-    "lastUpdated": "2021-09-12T18:06:03Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
-  },
-  {
     "repo": "GenericSomeone/dead-repo",
     "name": "Air Support",
     "version": "1.0 beta",
@@ -1584,19 +1597,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "aaaaa"
-  },
-  {
-    "repo": "pixecoz/better-vaults",
-    "name": "Better vaults",
-    "version": "1.0",
-    "mod_id": "better-vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2021-11-23T16:55:56Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
     "repo": "p101q/Snowdustry",
@@ -2730,19 +2730,6 @@
     "description": "A mindustry mod that places blocks or floors using js, the mod is compatable with modded content too"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "1",
-    "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-04T18:18:36Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "0.8",
@@ -2754,6 +2741,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "1",
+    "mod_id": "cyber-io",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-02-05T13:58:32Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
