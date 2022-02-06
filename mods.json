@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-02-05T19:53:16Z",
+    "lastUpdated": "2022-02-06T06:44:26Z",
     "stars": 122,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.10.9",
+    "version": "1.10.9.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-02-05T09:26:05Z",
+    "lastUpdated": "2022-02-06T07:48:15Z",
     "stars": 109,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-05T08:10:29Z",
+    "lastUpdated": "2022-02-06T05:51:10Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -4121,19 +4121,6 @@
     "description": "SVR mod, Just a normal mod. "
   },
   {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "version": "1.0",
-    "mod_id": "MusicMod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
-  },
-  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -4496,6 +4483,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
