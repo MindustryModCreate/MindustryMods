@@ -278,7 +278,7 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-01-31T07:02:07Z",
+    "lastUpdated": "2022-02-06T17:12:15Z",
     "stars": 41,
     "minGameVersion": "135.0",
     "hasScripts": false,
@@ -1019,7 +1019,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-02-04T10:34:45Z",
+    "lastUpdated": "2022-02-06T15:35:31Z",
     "stars": 11,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -2730,30 +2730,30 @@
     "description": "A mindustry mod that places blocks or floors using js, the mod is compatable with modded content too"
   },
   {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "version": "0.8",
-    "mod_id": "calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-02-05T08:09:15Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-06T00:30:59Z",
+    "lastUpdated": "2022-02-06T15:54:35Z",
     "stars": 3,
     "minGameVersion": "126",
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "version": "1.0",
+    "mod_id": "calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-02-06T17:39:10Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3378,6 +3378,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mods that I working on"
+  },
+  {
+    "repo": "Skrrby/Community-Mod",
+    "name": "CommunityMod",
+    "version": "0.1",
+    "mod_id": "communitymod",
+    "author": "The Mindustry Community",
+    "lastUpdated": "2022-02-06T18:50:14Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
   },
   {
     "repo": "4156/Infintory",
@@ -4472,19 +4485,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -4628,19 +4628,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "MountLava/SolarMod",
-    "name": "Solar Mod",
-    "version": "0.3 Alpha",
-    "mod_id": "solarmod",
-    "author": "MountLava",
-    "lastUpdated": "2022-01-14T02:22:54Z",
-    "stars": 0,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds tons of useful content. Mostly adds turrets."
-  },
-  {
     "repo": "Miniontoby/mindustrirc",
     "name": "MindustrIRC",
     "version": "1.1.0",
@@ -4719,19 +4706,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "Sheep-Hugger/Unit-Equipment",
-    "name": "Unit Equipment",
-    "version": "0.1",
-    "mod_id": "unit equipment",
-    "author": "Radiance of Dove",
-    "lastUpdated": "2022-02-06T01:52:36Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A unit upgradeing mod about small sub units that you Equip to bigger units"
-  },
-  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -4743,5 +4717,31 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Still in development(only started since Ian 2022)"
+  },
+  {
+    "repo": "MountLava/SolarMod",
+    "name": "Solar Mod",
+    "version": "0.3 Alpha",
+    "mod_id": "solarmod",
+    "author": "MountLava",
+    "lastUpdated": "2022-02-06T17:43:25Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds tons of useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "Sheep-Hugger/Unit-Equipment",
+    "name": "Unit Equipment",
+    "version": "0.1",
+    "mod_id": "unit equipment",
+    "author": "Radiance of Dove",
+    "lastUpdated": "2022-02-06T19:02:54Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A unit upgradeing mod about small sub units that you Equip to bigger units"
   }
 ]
