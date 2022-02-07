@@ -32,7 +32,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-01-17T08:20:21Z",
-    "stars": 151,
+    "stars": 152,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-02-06T07:48:15Z",
-    "stars": 109,
+    "stars": 110,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2021-12-12T05:33:40Z",
-    "stars": 78,
+    "stars": 79,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -240,7 +240,7 @@
     "mod_id": "btm",
     "author": "guiY & Carrot",
     "lastUpdated": "2022-01-31T06:25:15Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
@@ -2834,6 +2834,19 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3926,19 +3939,6 @@
     "description": "A mod made to add more plants into Mindustry"
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "0.1",
-    "mod_id": "VanillaPlus",
-    "author": "Dagger(Кинжал)",
-    "lastUpdated": "2022-02-03T04:54:15Z",
-    "stars": 1,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
-  },
-  {
     "repo": "Auseawesome/MindustryPlus",
     "name": "Mindustry+ Core",
     "version": "Alpha 0.4",
@@ -3976,6 +3976,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New units and defenses for  all stages of the game. \n Not complete also Looking for spriter!\nSprite overhaul update"
+  },
+  {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "0.1",
+    "mod_id": "VanillaPlus",
+    "author": "Dagger(Кинжал)",
+    "lastUpdated": "2022-02-07T04:46:17Z",
+    "stars": 1,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
     "repo": "Nikisos/TheBattleMod",
