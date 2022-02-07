@@ -44,8 +44,8 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-02-06T23:22:31Z",
-    "stars": 122,
+    "lastUpdated": "2022-02-07T16:38:49Z",
+    "stars": 123,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-02-06T07:48:15Z",
-    "stars": 110,
+    "stars": 111,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-02-05T06:16:18Z",
+    "lastUpdated": "2022-02-07T18:40:22Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-07T07:11:22Z",
+    "lastUpdated": "2022-02-07T15:59:28Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1690,6 +1690,19 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.2.0",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-02-01T18:28:39Z",
+    "stars": 6,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2013,19 +2026,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.2.0",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-02-01T18:28:39Z",
-    "stars": 5,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2730,19 +2730,6 @@
     "description": "A mindustry mod that places blocks or floors using js, the mod is compatable with modded content too"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "1",
-    "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-06T15:54:35Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.0",
@@ -2754,6 +2741,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "1",
+    "mod_id": "cyber-io",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-02-07T15:12:01Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3398,7 +3398,7 @@
     "version": "0.2",
     "mod_id": "communitymod",
     "author": "The Mindustry Community",
-    "lastUpdated": "2022-02-07T15:01:58Z",
+    "lastUpdated": "2022-02-07T16:47:11Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3983,7 +3983,7 @@
     "version": "1.2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT",
-    "lastUpdated": "2022-02-07T05:26:33Z",
+    "lastUpdated": "2022-02-07T17:52:42Z",
     "stars": 1,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -4734,14 +4734,14 @@
   {
     "repo": "Sheep-Hugger/Unit-Equipment",
     "name": "Unit Equipment",
-    "version": "0.1",
+    "version": "0.5",
     "mod_id": "unit equipment",
     "author": "Radiance of Dove",
-    "lastUpdated": "2022-02-06T23:23:47Z",
+    "lastUpdated": "2022-02-07T19:54:04Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A unit upgradeing mod about small sub units that you Equip to bigger units"
+    "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
   }
 ]
