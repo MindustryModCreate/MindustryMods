@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-02-07T16:38:49Z",
+    "lastUpdated": "2022-02-08T07:46:26Z",
     "stars": 125,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -92,11 +92,11 @@
   },
   {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
-    "name": "Heavy Armaments Industries",
+    "name": "Heavy Armaments Industries [DISCONTINUED]",
     "version": "2.6",
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2021-12-12T05:33:40Z",
+    "lastUpdated": "2022-02-08T09:34:31Z",
     "stars": 79,
     "minGameVersion": "125.1",
     "hasScripts": true,
@@ -221,6 +221,19 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.71-official",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2022-01-31T06:25:15Z",
+    "stars": 45,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.5.1",
@@ -232,19 +245,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.71-official",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-01-31T06:25:15Z",
-    "stars": 44,
-    "minGameVersion": "133",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "AvantTeam/ProjectUnityPublic",
@@ -369,7 +369,7 @@
     "version": "23.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-02-08T02:36:36Z",
+    "lastUpdated": "2022-02-08T08:34:57Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "0.7.7",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-07T15:59:28Z",
+    "lastUpdated": "2022-02-08T08:10:13Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -2834,19 +2834,6 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -2949,19 +2936,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "April Fools!"
-  },
-  {
-    "repo": "bloool/aquarium",
-    "name": "Aquarium",
-    "version": "0.01",
-    "mod_id": "aquarium",
-    "author": "blool",
-    "lastUpdated": "2021-05-17T21:29:14Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Small mod that currently only adds turrets focused on scripting."
   },
   {
     "repo": "INSANEANDSAD/generic-mod",
@@ -3983,7 +3957,7 @@
     "version": "1.2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT",
-    "lastUpdated": "2022-02-08T02:49:23Z",
+    "lastUpdated": "2022-02-08T08:56:58Z",
     "stars": 1,
     "minGameVersion": "126",
     "hasScripts": false,
