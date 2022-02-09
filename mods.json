@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-02-08T07:46:26Z",
-    "stars": 125,
+    "stars": 126,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -208,6 +208,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.71-official",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2022-01-31T06:25:15Z",
+    "stars": 46,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Information",
     "version": "1.5.3",
@@ -219,19 +232,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.71-official",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-01-31T06:25:15Z",
-    "stars": 45,
-    "minGameVersion": "133",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -252,7 +252,7 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-02-09T04:23:03Z",
+    "lastUpdated": "2022-02-09T06:31:02Z",
     "stars": 44,
     "minGameVersion": "135.0",
     "hasScripts": false,
@@ -369,8 +369,8 @@
     "version": "23.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-02-09T04:04:38Z",
-    "stars": 31,
+    "lastUpdated": "2022-02-09T09:21:04Z",
+    "stars": 32,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -715,6 +715,19 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "DeltaNedas/unit-factory",
+    "name": "Unit Factory",
+    "version": "2.5.0",
+    "mod_id": "unit-factory",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-11-27T20:32:30Z",
+    "stars": 16,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -739,19 +752,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
-  },
-  {
-    "repo": "DeltaNedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "2.5.0",
-    "mod_id": "unit-factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:32:30Z",
-    "stars": 15,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -1417,19 +1417,6 @@
     "description": "Do not the Anuke"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "29",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-01-30T00:34:05Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easily. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.2.0",
@@ -1454,6 +1441,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "30",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-02-09T09:13:02Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2845,19 +2845,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "souvikpodder/Mindustry-souvy-mod",
@@ -4756,5 +4743,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
+  },
+  {
+    "repo": "SkyDraco-8bit/Mindustry-Extended",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-09T08:59:41Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
