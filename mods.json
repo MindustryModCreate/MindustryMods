@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-02-09T19:38:02Z",
-    "stars": 126,
+    "stars": 127,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-02-06T07:48:15Z",
-    "stars": 111,
+    "stars": 112,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -110,7 +110,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2021-10-27T16:46:48Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -213,7 +213,7 @@
     "version": "2.4.71-official",
     "mod_id": "btm",
     "author": "guiY & Carrot",
-    "lastUpdated": "2022-02-09T10:56:37Z",
+    "lastUpdated": "2022-02-10T02:00:41Z",
     "stars": 46,
     "minGameVersion": "133",
     "hasScripts": true,
@@ -2847,19 +2847,6 @@
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "souvikpodder/Mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "version": "1.6",
@@ -3983,7 +3970,7 @@
     "version": "1.2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-02-09T00:51:03Z",
+    "lastUpdated": "2022-02-10T02:03:09Z",
     "stars": 1,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -4719,19 +4706,6 @@
     "description": "Still in development(only started since Ian 2022)"
   },
   {
-    "repo": "Sheep-Hugger/Unit-Equipment",
-    "name": "Unit Equipment",
-    "version": "0.5",
-    "mod_id": "unit equipment",
-    "author": "Radiance of Dove",
-    "lastUpdated": "2022-02-08T23:34:11Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
-  },
-  {
     "repo": "SkyDraco-8bit/Mindustry-Extended",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -4756,5 +4730,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds tons of useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "Sheep-Hugger/Unit-Equipment",
+    "name": "Unit Equipment",
+    "version": "0.5",
+    "mod_id": "unit equipment",
+    "author": "Radiance of Dove",
+    "lastUpdated": "2022-02-10T03:52:12Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
   }
 ]
