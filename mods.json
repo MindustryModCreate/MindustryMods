@@ -169,6 +169,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-02-16T11:51:15Z",
+    "stars": 51,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "version": "2.4.8",
@@ -180,19 +193,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-02-16T11:51:15Z",
-    "stars": 50,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "DeltaNedas/ui-lib",
@@ -473,7 +473,7 @@
     "version": "1",
     "mod_id": "gravillaso",
     "author": "NiTiS (NickName73)",
-    "lastUpdated": "2022-02-10T10:45:40Z",
+    "lastUpdated": "2022-02-16T17:26:08Z",
     "stars": 28,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1105,6 +1105,19 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
+    "repo": "NewestGitHubber/Commandustry",
+    "name": "Commandustry",
+    "version": "0.75",
+    "mod_id": "commandustry",
+    "author": "RandomRA2",
+    "lastUpdated": "2022-01-09T02:44:18Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny"
+  },
+  {
     "repo": "Slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
@@ -1123,7 +1136,7 @@
     "version": "0.4",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-16T00:01:49Z",
+    "lastUpdated": "2022-02-16T15:33:13Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1690,19 +1703,6 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "BlackDeluxeCat/MI2-Utilities",
-    "name": "MI2 Utilities",
-    "version": "0.6.2",
-    "mod_id": "MI2-Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-16T10:16:07Z",
-    "stars": 6,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 Beta",
@@ -1714,6 +1714,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
+  },
+  {
+    "repo": "BlackDeluxeCat/MI2-Utilities",
+    "name": "MI2 Utilities",
+    "version": "0.6.2",
+    "mod_id": "MI2-Utilities",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-02-16T16:24:32Z",
+    "stars": 6,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2013,6 +2026,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "version": "1.0",
+    "mod_id": "calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-02-06T17:39:10Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2364,19 +2390,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "version": "1.0",
-    "mod_id": "calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-02-06T17:39:10Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -2761,7 +2774,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-16T15:07:45Z",
+    "lastUpdated": "2022-02-16T15:09:37Z",
     "stars": 3,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3970,7 +3983,7 @@
     "version": "1.0.0",
     "mod_id": "extended-mind",
     "author": "lol02",
-    "lastUpdated": "2022-02-16T12:51:51Z",
+    "lastUpdated": "2022-02-16T16:35:28Z",
     "stars": 1,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -4691,6 +4704,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "MountLava/SolarMod",
+    "name": "Solar Mod",
+    "version": "0.4 Alpha",
+    "mod_id": "solarmod",
+    "author": "MountLava",
+    "lastUpdated": "2022-02-10T00:01:52Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
     "repo": "SummerPain/Aruita-master",
