@@ -382,7 +382,7 @@
     "version": "0.7.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-17T16:05:47Z",
+    "lastUpdated": "2022-02-18T16:06:33Z",
     "stars": 31,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -481,19 +481,6 @@
     "description": "amogus"
   },
   {
-    "repo": "NickName73/Gravillaso",
-    "name": "Gravillaso",
-    "version": "2 b34",
-    "mod_id": "gravillaso",
-    "author": "NiTiS (NickName73)",
-    "lastUpdated": "2022-02-17T15:23:12Z",
-    "stars": 27,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRMod"
-  },
-  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -505,6 +492,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JavaScript only mindustry mod."
+  },
+  {
+    "repo": "NickName73/Gravillaso",
+    "name": "Gravillaso",
+    "version": "2 b34",
+    "mod_id": "gravillaso",
+    "author": "NiTiS (NickName73)",
+    "lastUpdated": "2022-02-17T15:23:12Z",
+    "stars": 26,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRMod"
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -767,6 +767,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-02-03T00:47:40Z",
+    "stars": 15,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -804,19 +817,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-02-03T00:47:40Z",
-    "stars": 14,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
@@ -1136,7 +1136,7 @@
     "version": "0.4.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-18T13:37:32Z",
+    "lastUpdated": "2022-02-18T16:18:20Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1950,6 +1950,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "FreezeMandu/Siriuschem",
+    "name": "Siriuschem",
+    "version": "1.32",
+    "mod_id": "siriuschem",
+    "author": "Sirius&NothingToDo&Mandu",
+    "lastUpdated": "2021-09-22T04:26:22Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
+  },
+  {
     "repo": "Mnemotechnician/UwUBundles",
     "name": "UwU bundles",
     "version": "1.3",
@@ -2275,19 +2288,6 @@
     "description": "random ideas"
   },
   {
-    "repo": "FreezeMandu/Siriuschem",
-    "name": "Siriuschem",
-    "version": "1.32",
-    "mod_id": "siriuschem",
-    "author": "Sirius&NothingToDo&Mandu",
-    "lastUpdated": "2021-09-22T04:26:22Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
     "repo": "King-Silicon/Music-remixes-and-new",
     "name": "Music remixes and new",
     "version": "1.2",
@@ -2397,7 +2397,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-18T10:33:09Z",
+    "lastUpdated": "2022-02-18T15:56:20Z",
     "stars": 4,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2624,6 +2624,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds Graphene to the game, along with several turrets, units, and materials."
+  },
+  {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "version": "0.42",
+    "mod_id": "siriuschem-v7",
+    "author": "Sirius&Mandu",
+    "lastUpdated": "2021-09-22T04:53:04Z",
+    "stars": 3,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "paulieg626/MindOfMagic",
@@ -3118,19 +3131,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
-  },
-  {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "version": "0.42",
-    "mod_id": "siriuschem-v7",
-    "author": "Sirius&Mandu",
-    "lastUpdated": "2021-09-22T04:53:04Z",
-    "stars": 2,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "Antlrr/normal-mod",
@@ -4732,19 +4732,6 @@
     "description": "Mod with nice weapons"
   },
   {
-    "repo": "sebmeister2077/Advanced-Refinement",
-    "name": "Advanced refinement",
-    "version": "2.6.0",
-    "mod_id": "advanced-refinement",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-02-13T14:22:13Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Still in development(only started since Ian 2022)"
-  },
-  {
     "repo": "SkyDraco-8bit/Mindustry-Extended",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -4769,5 +4756,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-18T19:06:57Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
   }
 ]
