@@ -156,6 +156,19 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-02-17T21:03:00Z",
+    "stars": 54,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "version": "1.5.7",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-02-17T21:03:00Z",
-    "stars": 53,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "DeltaNedas/ui-lib",
@@ -382,7 +382,7 @@
     "version": "0.7.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-18T16:06:33Z",
+    "lastUpdated": "2022-02-19T10:07:36Z",
     "stars": 31,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -780,6 +780,19 @@
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
+    "name": "Spore Biomechs",
+    "version": "1.0.0",
+    "mod_id": "sporepod",
+    "author": "Hydroabyss",
+    "lastUpdated": "2022-02-19T04:10:25Z",
+    "stars": 15,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -817,19 +830,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
-    "name": "Spore Biomechs",
-    "version": "1.0.0",
-    "mod_id": "sporepod",
-    "author": "Hydroabyss",
-    "lastUpdated": "2022-02-19T04:10:25Z",
-    "stars": 14,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
   },
   {
     "repo": "DeltaNedas/ldb",
@@ -2379,30 +2379,30 @@
     "description": "Added new hidden content :eyes:"
   },
   {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.7",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-01-27T10:21:11Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-18T15:56:20Z",
+    "lastUpdated": "2022-02-19T06:36:39Z",
     "stars": 4,
     "minGameVersion": "126",
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.7",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-02-19T07:18:30Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3328,19 +3328,6 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-01-17T22:50:02Z",
-    "stars": 2,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -3404,6 +3391,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A factional mod focused on fortifaction, units and unit equipment.\r\n\r\nThis mod also includes the content of Unit Equipment Stand Alone."
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-02-19T07:28:18Z",
+    "stars": 2,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "4156/Infintory",
