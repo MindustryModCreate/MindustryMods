@@ -123,7 +123,7 @@
     "mod_id": "diamond-ore",
     "author": "z0mbiesrock",
     "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
@@ -161,8 +161,8 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-02-17T21:03:00Z",
-    "stars": 54,
+    "lastUpdated": "2022-02-20T10:26:50Z",
+    "stars": 55,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -382,9 +382,9 @@
     "version": "0.7.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-20T04:38:14Z",
+    "lastUpdated": "2022-02-20T14:46:23Z",
     "stars": 32,
-    "minGameVersion": "134",
+    "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and much more that meant to be played side by side with vanilla Mindustry.\n\n    These new content includes but not limited to:\n        - More unit types, such as; Attack Helicopters, Main Battle Tanks, Torpedo Destroyers, and more!\n        - More Turrets such as Shot-cannon, Gatling Gun, Railguns, Heavy Artillery, Landmine Deployer, etc.\n        - More uses for Oil! Most content in UAW relies heavily on the usage of 'Oil', make sure you have loads of them stored!\n        - More Crafters and Factories\n        - and more!\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
@@ -496,10 +496,10 @@
   {
     "repo": "NickName73/Gravillaso",
     "name": "Gravillaso",
-    "version": "2 b34",
+    "version": "2 b35",
     "mod_id": "gravillaso",
     "author": "NiTiS (NickName73)",
-    "lastUpdated": "2022-02-17T15:23:12Z",
+    "lastUpdated": "2022-02-20T14:44:19Z",
     "stars": 26,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -531,6 +531,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
+  },
+  {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 24,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "FlinTyX/DiverseTech",
@@ -570,19 +583,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
-  },
-  {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "version": "0.1",
-    "mod_id": "pvpnotifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
-    "stars": 23,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -655,7 +655,7 @@
     "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2022-02-20T09:04:40Z",
+    "lastUpdated": "2022-02-20T11:51:23Z",
     "stars": 19,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -715,6 +715,19 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-02-03T00:47:40Z",
+    "stars": 17,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -739,19 +752,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-02-03T00:47:40Z",
-    "stars": 16,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -785,7 +785,7 @@
     "version": "1.0.0",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-02-19T04:10:25Z",
+    "lastUpdated": "2022-02-20T11:36:01Z",
     "stars": 15,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -1136,7 +1136,7 @@
     "version": "0.4.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-19T22:05:26Z",
+    "lastUpdated": "2022-02-20T12:40:54Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1285,6 +1285,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.1",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2022-02-20T08:51:34Z",
+    "stars": 8,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
     "repo": "bloool/CobaltMod",
@@ -1441,19 +1454,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "pixecoz/better-vaults",
-    "name": "Better vaults",
-    "version": "1.1",
-    "mod_id": "better-vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2022-02-20T08:51:34Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1721,7 +1721,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-02-20T00:53:51Z",
+    "lastUpdated": "2022-02-20T12:19:31Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2015,19 +2015,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.0.4",
-    "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-31T10:17:23Z",
-    "stars": 5,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "version": "2.1",
@@ -2065,6 +2052,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.0.4",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-02-20T13:36:07Z",
+    "stars": 5,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2381,10 +2381,10 @@
   {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
-    "version": "1.4",
+    "version": "1.6.02",
     "mod_id": "gas-library-java",
     "author": "Zelaux",
-    "lastUpdated": "2022-02-20T00:44:13Z",
+    "lastUpdated": "2022-02-20T11:44:13Z",
     "stars": 4,
     "minGameVersion": "133",
     "hasScripts": false,
@@ -2397,7 +2397,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-20T00:51:06Z",
+    "lastUpdated": "2022-02-20T14:28:26Z",
     "stars": 4,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3965,19 +3965,6 @@
     "description": "A Mindustry Java mod with random things."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "2.4-beta",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2022-02-19T12:03:17Z",
-    "stars": 1,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1.0\n修复bug.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -3989,6 +3976,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "2.4-beta",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2022-02-20T11:07:14Z",
+    "stars": 1,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1.0\n修复bug.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
     "repo": "Nikisos/TheBattleMod",
