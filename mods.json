@@ -652,15 +652,15 @@
   {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
-    "version": "8.0",
+    "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2022-02-13T12:56:42Z",
+    "lastUpdated": "2022-02-20T09:04:40Z",
     "stars": 19,
-    "minGameVersion": "126",
+    "minGameVersion": "135",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -741,6 +741,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-02-03T00:47:40Z",
+    "stars": 16,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -765,19 +778,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-02-03T00:47:40Z",
-    "stars": 15,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
@@ -1378,19 +1378,6 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
-    "repo": "pixecoz/better-vaults",
-    "name": "Better vaults",
-    "version": "1.0",
-    "mod_id": "better-vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2021-11-23T16:55:56Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds more storages, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
-  },
-  {
     "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.2",
@@ -1454,6 +1441,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.1",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2022-02-20T08:51:34Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -4756,5 +4756,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.0",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-02-20T08:24:44Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   }
 ]
