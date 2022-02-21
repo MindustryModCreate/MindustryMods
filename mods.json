@@ -143,6 +143,19 @@
     "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-02-20T21:39:50Z",
+    "stars": 57,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -154,19 +167,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-02-20T21:39:50Z",
-    "stars": 56,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "DeltaNedas/pictologic",
@@ -382,7 +382,7 @@
     "version": "0.7.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-21T06:26:54Z",
+    "lastUpdated": "2022-02-21T13:11:29Z",
     "stars": 32,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -533,6 +533,19 @@
     "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "12.0",
+    "mod_id": "adc",
+    "author": "Snake & SuperJaba2000 ABOBA",
+    "lastUpdated": "2022-02-21T08:47:24Z",
+    "stars": 25,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of ABOBA additional content like turrets, factories and other."
+  },
+  {
     "repo": "Xeloboyo/PvP-Notifs",
     "name": "PvP notifs",
     "version": "0.1",
@@ -557,19 +570,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "12.0",
-    "mod_id": "adc",
-    "author": "Snake & SuperJaba2000 ABOBA",
-    "lastUpdated": "2022-02-21T08:47:24Z",
-    "stars": 24,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of ABOBA additional content like turrets, factories and other."
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -1136,7 +1136,7 @@
     "version": "0.4.1",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-20T17:48:03Z",
+    "lastUpdated": "2022-02-21T14:58:57Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1703,19 +1703,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-02-21T00:47:41Z",
-    "stars": 6,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 Beta",
@@ -1727,6 +1714,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-02-21T12:21:34Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2379,19 +2379,6 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "1",
-    "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-20T14:28:26Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.03",
@@ -2403,6 +2390,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "1",
+    "mod_id": "cyber-io",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-02-21T15:00:03Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -2793,6 +2793,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod. Content was be here."
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-02-21T06:24:35Z",
+    "stars": 3,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3404,19 +3417,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New units and defenses for  all stages of the game. \n Not complete also Looking for spriter!\nSprite overhaul update"
-  },
-  {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-02-21T06:24:35Z",
-    "stars": 2,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "4156/Infintory",
