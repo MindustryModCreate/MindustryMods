@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-02-28T05:07:32Z",
+    "lastUpdated": "2022-02-28T17:40:18Z",
     "stars": 128,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -1690,17 +1690,17 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.4 Beta",
-    "mod_id": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2022-02-27T20:56:44Z",
+    "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
+    "name": "Max Rate Calculator",
+    "version": "2.1",
+    "mod_id": "MaxRateCalculator",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-02-26T23:46:45Z",
     "stars": 6,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Industrializing is easy."
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
     "repo": "MindustryInside/L1337n",
@@ -1714,6 +1714,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
+    "name": "Max Rate Calculator (V6 v126.2)",
+    "version": "3.0-pa-0.1",
+    "mod_id": "MaxRateCalculatorV6",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-02-28T15:15:39Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.4 Beta",
+    "mod_id": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2022-02-28T20:05:33Z",
+    "stars": 6,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Industrializing is easy."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2028,32 +2054,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
-    "name": "Max Rate Calculator",
-    "version": "2.1",
-    "mod_id": "MaxRateCalculator",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-02-26T23:46:45Z",
-    "stars": 5,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
-    "name": "Max Rate Calculator (V6 v126.2)",
-    "version": "3.0-pa-0.1",
-    "mod_id": "MaxRateCalculatorV6",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-02-26T23:57:14Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting",
     "name": "Endless Rusting",
     "version": "_i_ co__u__s a__ 7.1",
@@ -2072,7 +2072,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-02-28T14:01:13Z",
+    "lastUpdated": "2022-02-28T15:12:30Z",
     "stars": 5,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2195,6 +2195,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
+    "repo": "Goobrr/toxodrip",
+    "name": "Toxodrip",
+    "version": "69.420",
+    "mod_id": "toxodrip",
+    "author": "Goober",
+    "lastUpdated": "2021-05-03T02:13:24Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Big man doing big man things"
   },
   {
     "repo": "MindustryInside/ClassicMusic",
