@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-03-03T02:39:40Z",
+    "lastUpdated": "2022-03-03T06:14:00Z",
     "stars": 128,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -149,7 +149,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-03-02T17:39:45Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -1313,6 +1313,19 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "version": "1.0",
+    "mod_id": "advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-03-03T02:10:01Z",
+    "stars": 8,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "bloool/CobaltMod",
     "name": "Cobalt Mod",
     "version": "0.8",
@@ -1547,6 +1560,19 @@
     "description": "One should do what one enjoys, and won't harm anyone else."
   },
   {
+    "repo": "DeltaNedas/cliff",
+    "name": "cliff",
+    "version": "1.1.0",
+    "mod_id": "cliff",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-03T13:17:34Z",
+    "stars": 6,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
     "repo": "1qwaka/Thorium-Evolution-6.0",
     "name": "Thorium Evolution",
     "version": "1",
@@ -1755,19 +1781,6 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "version": "1.0",
-    "mod_id": "advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-03-03T02:10:01Z",
-    "stars": 6,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
-  },
-  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -1857,19 +1870,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds simple things, like the ability to build Huge and Gigantic walls, a new resource, an upgraded launch pad and more"
-  },
-  {
-    "repo": "DeltaNedas/cliff",
-    "name": "cliff",
-    "version": "1.1.0",
-    "mod_id": "cliff",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-03T13:17:34Z",
-    "stars": 5,
-    "minGameVersion": "111",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables the cliff button and any map size in the editor."
   },
   {
     "repo": "Slava0135/reFine",
@@ -2442,6 +2442,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
+  },
+  {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 3,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -3450,12 +3463,25 @@
     "version": "0.0.3",
     "mod_id": "binary0011",
     "author": "1237",
-    "lastUpdated": "2022-03-03T04:43:14Z",
+    "lastUpdated": "2022-03-03T08:38:04Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "An Example of a Simple Java Mod for Mindustry V7."
+    "description": "An Example of a Simple Java Mod for Mindustry V7. \n\nThanks to ExplerHD"
+  },
+  {
+    "repo": "ExplerHD/EnerLect-tech",
+    "name": "EnerLect Industries",
+    "version": "1.0",
+    "mod_id": "enerlect",
+    "author": "ExplerHD",
+    "lastUpdated": "2022-03-03T10:03:50Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that provides an content"
   },
   {
     "repo": "4156/Infintory",
@@ -4030,17 +4056,30 @@
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1.0\n修复bug.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "ExplerHD/EnerLect-tech",
-    "name": "EnerLect Industries",
-    "version": "1.0",
-    "mod_id": "enerlect",
-    "author": "ExplerHD",
-    "lastUpdated": "2022-03-03T03:16:49Z",
+    "repo": "6666dustry/more-separator",
+    "name": "more-separator",
+    "version": "0.1",
+    "mod_id": "separatormod",
+    "author": "many bear",
+    "lastUpdated": "2022-03-02T23:45:44Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add 0 separator"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.4",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-03-03T10:01:35Z",
     "stars": 1,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mindustry mods that provides an content"
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4797,19 +4836,6 @@
     "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.32",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-03-02T13:33:17Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "GlennFolker/Confictura",
     "name": "Confictura",
     "version": "0.1",
@@ -4821,18 +4847,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
-  },
-  {
-    "repo": "6666dustry/more-separator",
-    "name": "more-separator",
-    "version": "0.1",
-    "mod_id": "separatormod",
-    "author": "many bear",
-    "lastUpdated": "2022-03-02T23:45:44Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add 0 separator"
   }
 ]
