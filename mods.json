@@ -273,6 +273,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "Sharlottes/sharustry",
+    "name": "Sharustry",
+    "version": "0.2v",
+    "mod_id": "shar",
+    "author": "Sharlottes",
+    "lastUpdated": "2022-01-07T05:51:02Z",
+    "stars": 42,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
+  },
+  {
     "repo": "Sharlottes/ExampleMod",
     "name": "Example Mod",
     "version": "1.4.9",
@@ -897,19 +910,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "xjamiex/infinite-program",
-    "name": "Infinite Program",
-    "version": "1.2.2 alpha",
-    "mod_id": "infiniteprogram",
-    "author": "xJamix",
-    "lastUpdated": "2021-10-05T13:05:19Z",
-    "stars": 12,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "a mod that adds more content wich is a great example for noobies to modding :D"
-  },
-  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1474,7 +1474,7 @@
     "version": "1.4 Beta",
     "mod_id": "Expanded Industries",
     "author": "WMF Industries Mod Team",
-    "lastUpdated": "2022-03-02T19:50:58Z",
+    "lastUpdated": "2022-03-02T23:15:34Z",
     "stars": 7,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -1716,19 +1716,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
-    "name": "Max Rate Calculator (V6 v126.2)",
-    "version": "3.0-pa-0.1",
-    "mod_id": "MaxRateCalculatorV6",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-02-28T15:15:39Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1753,6 +1740,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
+    "name": "Max Rate Calculator (V6 v126.2)",
+    "version": "3.0-pa-0.1",
+    "mod_id": "MaxRateCalculatorV6",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-03-02T21:04:49Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2119,19 +2119,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "1qwaka/DPS-meter",
-    "name": "DPS-meter",
-    "version": "1.1",
-    "mod_id": "DPS meter",
-    "author": "Qwaka",
-    "lastUpdated": "2021-01-25T06:15:39Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
     "repo": "Cherriodude/jac",
     "name": "Just Another Crafter",
     "version": "1.0",
@@ -2195,6 +2182,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
+    "repo": "Goobrr/toxodrip",
+    "name": "Toxodrip",
+    "version": "69.420",
+    "mod_id": "toxodrip",
+    "author": "Goober",
+    "lastUpdated": "2021-05-03T02:13:24Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Big man doing big man things"
   },
   {
     "repo": "MindustryInside/ClassicMusic",
@@ -2800,7 +2800,7 @@
     "version": "0.1-pre-alpha",
     "mod_id": "MBT",
     "author": "Timshh",
-    "lastUpdated": "2022-02-28T14:40:07Z",
+    "lastUpdated": "2022-03-02T22:00:01Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -2813,7 +2813,7 @@
     "version": "2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-03-02T17:16:42Z",
+    "lastUpdated": "2022-03-02T22:00:24Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -3424,7 +3424,7 @@
     "version": "0.0.3",
     "mod_id": "binary0011",
     "author": "1237",
-    "lastUpdated": "2022-03-02T12:55:00Z",
+    "lastUpdated": "2022-03-03T00:19:53Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4009,7 +4009,7 @@
     "version": "1.0",
     "mod_id": "enerlect",
     "author": "ExplerHD",
-    "lastUpdated": "2022-03-02T10:48:34Z",
+    "lastUpdated": "2022-03-03T00:13:30Z",
     "stars": 1,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4771,19 +4771,6 @@
     "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
   },
   {
-    "repo": "6666dustry/more-separator",
-    "name": "more-separator",
-    "version": "0.1",
-    "mod_id": "separatormod",
-    "author": "many bear",
-    "lastUpdated": "2022-03-02T10:57:12Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add 0 separator"
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "version": "1.32",
@@ -4808,5 +4795,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
+  },
+  {
+    "repo": "6666dustry/more-separator",
+    "name": "more-separator",
+    "version": "0.1",
+    "mod_id": "separatormod",
+    "author": "many bear",
+    "lastUpdated": "2022-03-02T23:45:44Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add 0 separator"
   }
 ]
