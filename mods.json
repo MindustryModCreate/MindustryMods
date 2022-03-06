@@ -201,7 +201,7 @@
     "mod_id": "routorio",
     "author": "DeltaNedas",
     "lastUpdated": "2022-03-05T15:21:07Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "131",
     "hasScripts": true,
     "hasJava": false,
@@ -330,7 +330,7 @@
     "version": "0.7.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-03-06T09:56:22Z",
+    "lastUpdated": "2022-03-06T15:05:50Z",
     "stars": 36,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -785,7 +785,7 @@
     "version": "1.1.1",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-03-05T02:48:21Z",
+    "lastUpdated": "2022-03-06T13:58:24Z",
     "stars": 15,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1760,7 +1760,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-06T00:52:28Z",
+    "lastUpdated": "2022-03-06T12:20:16Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3536,19 +3536,6 @@
     "description": "A custom mod for 2r2t, I would suggest getting the brother mod '2r2t Utility Extension' \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "MQ-1175/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2022-01-27T04:34:40Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
     "version": "0.1",
@@ -3638,6 +3625,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mods that provides an content"
+  },
+  {
+    "repo": "936338156/mindustry-xingjigongye",
+    "name": "星际工业",
+    "version": "0.8.1",
+    "mod_id": "星际工业",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-03-06T09:40:41Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "一个普通的MOD"
+  },
+  {
+    "repo": "MQ-1175/flarogus",
+    "name": "Flarogus",
+    "version": "1.1",
+    "mod_id": "Flarogus",
+    "author": "MQ1337",
+    "lastUpdated": "2022-03-06T13:57:34Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "4156/Infintory",
@@ -4249,19 +4262,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "add many separator"
-  },
-  {
-    "repo": "936338156/mindustry-xingjigongye",
-    "name": "星际工业",
-    "version": "0.8.1",
-    "mod_id": "星际工业",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-03-06T09:40:41Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "一个普通的MOD"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5224,6 +5224,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds tons of useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "efim-sys/mindustry-flying-crawlers",
+    "name": "Flying Crawlers Mod",
+    "version": "1.0",
+    "mod_id": "flying-crawlers",
+    "author": "esys",
+    "lastUpdated": "2022-02-10T13:13:11Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes crawlers fly to the sky. AI controller in your schematic menu! Сделано в России"
   },
   {
     "repo": "JHdreemurr/Mindustry-Mod-V2",
