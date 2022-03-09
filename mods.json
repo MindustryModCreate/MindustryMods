@@ -325,19 +325,6 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "version": "23.6",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-03-08T03:43:03Z",
-    "stars": 36,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8",
@@ -349,6 +336,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and much more that meant to be played side by side with vanilla Mindustry.\n\n    These new content includes but not limited to:\n        - More unit types, such as; Attack Helicopters, Main Battle Tanks, Torpedo Destroyers, and more!\n        - More Turrets such as Shot-cannon, Gatling Gun, Railguns, Heavy Artillery, Landmine Deployer, etc.\n        - More uses for Oil! Most content in UAW relies heavily on the usage of 'Oil', make sure you have loads of them stored!\n        - More Crafters and Factories\n        - and more!\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "version": "23.6",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2022-03-08T21:12:35Z",
+    "stars": 36,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "Gdeft/portal",
@@ -1118,19 +1118,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "version": "1.0",
-    "mod_id": "advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-03-05T02:47:39Z",
-    "stars": 10,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
-  },
-  {
     "repo": "NewestGitHubber/Commandustry",
     "name": "Commandustry",
     "version": "0.75",
@@ -1142,6 +1129,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny \nWarning! This mod currently dosen't have any content right now"
+  },
+  {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "version": "1.0",
+    "mod_id": "advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-03-09T00:12:51Z",
+    "stars": 10,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "spmlk/DreamscapeMod",
@@ -1188,7 +1188,7 @@
     "version": "0.4.4",
     "mod_id": "abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-03-07T20:32:46Z",
+    "lastUpdated": "2022-03-08T23:05:46Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2865,7 +2865,7 @@
     "version": "2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-03-06T21:52:39Z",
+    "lastUpdated": "2022-03-09T00:15:03Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -5198,6 +5198,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds tons of useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "efim-sys/mindustry-flying-crawlers",
+    "name": "Flying Crawlers Mod",
+    "version": "1.0",
+    "mod_id": "flying-crawlers",
+    "author": "esys",
+    "lastUpdated": "2022-02-10T13:13:11Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes crawlers fly to the sky. AI controller in your schematic menu! Сделано в России"
   },
   {
     "repo": "JHdreemurr/Mindustry-Mod-V2",
