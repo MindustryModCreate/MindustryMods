@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-02-07T13:38:34Z",
-    "stars": 189,
+    "stars": 190,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -32,7 +32,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-01-17T08:20:21Z",
-    "stars": 158,
+    "stars": 159,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-02-15T12:02:15Z",
-    "stars": 117,
+    "stars": 119,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -135,7 +135,7 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-03-09T14:49:37Z",
+    "lastUpdated": "2022-03-12T11:05:32Z",
     "stars": 62,
     "minGameVersion": "135.0",
     "hasScripts": false,
@@ -331,7 +331,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-03-12T06:20:11Z",
-    "stars": 37,
+    "stars": 38,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -728,6 +728,19 @@
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "version": "1.4",
+    "mod_id": "classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2021-08-19T20:40:31Z",
+    "stars": 16,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -765,19 +778,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A fucking portal made out of thin air yeet The swarm into mindustry."
-  },
-  {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "version": "1.4",
-    "mod_id": "classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2021-08-19T20:40:31Z",
-    "stars": 15,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "EclipseTheOldOne/Project-Eclipse",
@@ -1747,7 +1747,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-12T00:51:27Z",
+    "lastUpdated": "2022-03-12T12:20:11Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2158,6 +2158,19 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
+    "repo": "sergeyoshpo/avaritia",
+    "name": "avaritia",
+    "version": "2.0",
+    "mod_id": "avaritia",
+    "author": "CAT",
+    "lastUpdated": "2021-03-29T16:03:24Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
     "repo": "Goobrr/toxodrip",
     "name": "Toxodrip",
     "version": "69.420",
@@ -2182,19 +2195,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2858,6 +2858,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "Cry0flu1d/Project-Frost",
+    "name": "Project Frost",
+    "version": "0.1-alpha",
+    "mod_id": "pf",
+    "author": "Cry0flu1d",
+    "lastUpdated": "2022-03-12T06:24:08Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A vanilla expansion mod that add a new system"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3588,45 +3601,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "ExplerHD/EnerLect-tech",
-    "name": "EnerLect Industries",
-    "version": "1.0",
-    "mod_id": "enerlect",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-03-09T15:35:33Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mods that provides an content"
-  },
-  {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.45",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-03-10T13:25:01Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
-    "repo": "Cry0flu1d/Project-Frost",
-    "name": "Project Frost",
-    "version": "0.1-alpha",
-    "mod_id": "pf",
-    "author": "Cry0flu1d",
-    "lastUpdated": "2022-03-12T06:24:08Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla expansion mod that add a new system"
-  },
-  {
     "repo": "12three7/Binary0011Java",
     "name": "Binary 0011",
     "version": "0.0.4",
@@ -3638,6 +3612,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Example of a Simple Java Mod for Mindustry V7. \n\nThanks to ExplerHD"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.46",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-03-12T11:17:25Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "ExplerHD/EnerLect-tech",
+    "name": "EnerLect Industries",
+    "version": "1.0",
+    "mod_id": "enerlect",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-03-12T11:39:01Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that provides an content"
   },
   {
     "repo": "4156/Infintory",
