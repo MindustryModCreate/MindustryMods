@@ -135,8 +135,8 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-03-12T16:11:33Z",
-    "stars": 62,
+    "lastUpdated": "2022-03-14T18:01:16Z",
+    "stars": 63,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -468,19 +468,6 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
-    "repo": "Goobrr/amogus",
-    "name": "amogus",
-    "version": "ery sus",
-    "mod_id": "amogus",
-    "author": "Goober",
-    "lastUpdated": "2022-01-25T09:00:29Z",
-    "stars": 27,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "amogus"
-  },
-  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -505,6 +492,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
+  },
+  {
+    "repo": "Goobrr/amogus",
+    "name": "amogus",
+    "version": "ery sus",
+    "mod_id": "amogus",
+    "author": "Goober",
+    "lastUpdated": "2022-01-25T09:00:29Z",
+    "stars": 26,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "amogus"
   },
   {
     "repo": "NickName73/Gravillaso",
@@ -1131,6 +1131,19 @@
     "description": "A space-related mod."
   },
   {
+    "repo": "NewestGitHubber/Commandustry",
+    "name": "Commandustry",
+    "version": "0.75",
+    "mod_id": "commandustry",
+    "author": "RandomRA2",
+    "lastUpdated": "2022-03-07T10:51:54Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny \nWarning! This mod currently dosen't have any content right now"
+  },
+  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "0.6.0",
@@ -1734,7 +1747,7 @@
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-03-13T15:55:01Z",
+    "lastUpdated": "2022-03-14T15:24:27Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2420,10 +2433,10 @@
   {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
-    "version": "0.25",
+    "version": "0.3",
     "mod_id": "extended-ui",
     "author": "wizer",
-    "lastUpdated": "2022-03-13T14:45:51Z",
+    "lastUpdated": "2022-03-14T19:49:55Z",
     "stars": 4,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -3913,19 +3926,6 @@
     "description": "7.0 vanila-like mod"
   },
   {
-    "repo": "CBMShadowGD/terrariamod",
-    "name": "terarria Mod",
-    "version": "3.1",
-    "mod_id": "Shadows-First-Mod",
-    "author": "CBMShadowGD",
-    "lastUpdated": "2021-12-05T09:59:09Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "my first mod."
-  },
-  {
     "repo": "Goobrr/Finality",
     "name": "Finality",
     "version": "0",
@@ -4834,5 +4834,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "Fabizocker456/test",
+    "name": "Just testing...",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-03-14T18:30:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nabd therefore will not\nwrite a long description"
   }
 ]
