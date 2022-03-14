@@ -871,6 +871,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "Anuken/wind3",
+    "name": "wind3",
+    "version": "No version provided.",
+    "mod_id": "wind3",
+    "author": "Anuke (real)",
+    "lastUpdated": "2022-03-14T03:42:28Z",
+    "stars": 13,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "sk7725/Commands",
     "name": "Commands",
     "version": "0.2",
@@ -921,19 +934,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns everything into disgusting organic beings"
-  },
-  {
-    "repo": "Anuken/wind3",
-    "name": "wind3",
-    "version": "No version provided.",
-    "mod_id": "wind3",
-    "author": "Anuke (real)",
-    "lastUpdated": "2022-03-11T17:27:09Z",
-    "stars": 12,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1014,19 +1014,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "version": "0.9",
-    "mod_id": "auto-updater",
-    "author": "Skat",
-    "lastUpdated": "2021-08-13T16:05:47Z",
-    "stars": 11,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
-  },
-  {
     "repo": "TheSkyFather/Minerals",
     "name": "Minerals",
     "version": "0.9.6.1 Final",
@@ -1092,6 +1079,19 @@
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
   },
   {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "version": "0.9",
+    "mod_id": "auto-updater",
+    "author": "Skat",
+    "lastUpdated": "2021-08-13T16:05:47Z",
+    "stars": 10,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "SnakkiZXZ/Coppermod",
     "name": "Coppermod",
     "version": "2.4.1",
@@ -1129,6 +1129,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
+  },
+  {
+    "repo": "NewestGitHubber/Commandustry",
+    "name": "Commandustry",
+    "version": "0.75",
+    "mod_id": "commandustry",
+    "author": "RandomRA2",
+    "lastUpdated": "2022-03-07T10:51:54Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny \nWarning! This mod currently dosen't have any content right now"
   },
   {
     "repo": "EB-wilson/Singularity",
@@ -1487,7 +1500,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-13T12:20:31Z",
+    "lastUpdated": "2022-03-14T00:55:42Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3471,19 +3484,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.47",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-03-13T02:39:35Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "12three7/Binary0011Java",
     "name": "Binary 0011",
     "version": "0.0.4",
@@ -3502,12 +3502,25 @@
     "version": "1.0",
     "mod_id": "enerlect",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-03-13T15:37:33Z",
+    "lastUpdated": "2022-03-14T01:24:40Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mods that provides an content"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.47",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-03-14T01:27:40Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "4156/Infintory",
