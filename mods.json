@@ -772,7 +772,7 @@
     "version": "1.2.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-03-10T14:08:36Z",
+    "lastUpdated": "2022-03-15T10:02:50Z",
     "stars": 16,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -791,6 +791,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.3",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2021-10-04T04:23:03Z",
+    "stars": 14,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -830,19 +843,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.3",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2021-10-04T04:23:03Z",
-    "stars": 13,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "SMOLKEYS/bundles",
@@ -1131,6 +1131,19 @@
     "description": "A space-related mod."
   },
   {
+    "repo": "NewestGitHubber/Commandustry",
+    "name": "Commandustry",
+    "version": "0.75",
+    "mod_id": "commandustry",
+    "author": "RandomRA2",
+    "lastUpdated": "2022-03-07T10:51:54Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "basically features almost all vehicles from both Generals and Red Alert 2 \nContributors: SMOLKEYS, JrTRinny \nWarning! This mod currently dosen't have any content right now"
+  },
+  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "0.6.0",
@@ -1313,6 +1326,19 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "36",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-03-10T08:25:04Z",
+    "stars": 8,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "bloool/CobaltMod",
     "name": "Cobalt Mod",
     "version": "0.8",
@@ -1456,19 +1482,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "36",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-03-10T08:25:04Z",
-    "stars": 7,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 Beta",
@@ -1487,7 +1500,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-14T12:21:56Z",
+    "lastUpdated": "2022-03-15T00:56:25Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1729,12 +1742,25 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
+    "repo": "Sh1penfire/Endless-Rusting",
+    "name": "Endless Rusting",
+    "version": "_i_ co__u__s a__ 7.1",
+    "mod_id": "endless-rusting",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-03-15T06:06:38Z",
+    "stars": 6,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "1",
     "mod_id": "cyber-io",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-03-14T15:24:27Z",
+    "lastUpdated": "2022-03-15T06:45:02Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2028,17 +2054,17 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Endless Rusting",
-    "version": "_i_ co__u__s a__ 7.1",
-    "mod_id": "endless-rusting",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-03-13T02:11:06Z",
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-03-06T09:37:02Z",
     "stars": 5,
-    "minGameVersion": "126.2",
+    "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2143,19 +2169,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
   },
   {
     "repo": "Goobrr/toxodrip",
@@ -2403,19 +2416,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
-  },
-  {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-03-06T09:37:02Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Ferlern/extended-UI",
@@ -3471,19 +3471,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.48",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-03-14T09:51:12Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "12three7/Binary0011Java",
     "name": "Binary 0011",
     "version": "0.0.4",
@@ -3497,12 +3484,25 @@
     "description": "An Example of a Simple Java Mod for Mindustry V7. \n\nThanks to ExplerHD"
   },
   {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.48",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-03-15T08:43:18Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
+  },
+  {
     "repo": "ExplerHD/EnerLect-tech",
     "name": "EnerLect Industries",
     "version": "1.0",
     "mod_id": "enerlect",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-03-14T14:51:16Z",
+    "lastUpdated": "2022-03-15T09:10:51Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3705,6 +3705,19 @@
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
   },
   {
+    "repo": "pavel-8516/upLevel",
+    "name": "uplevel",
+    "version": "0.5.3",
+    "mod_id": "uplevel",
+    "author": "pavel8516",
+    "lastUpdated": "2021-06-06T04:45:29Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
+  },
+  {
     "repo": "RebornTrack970/Destroyer",
     "name": "Destroyer",
     "version": "1.0",
@@ -3898,19 +3911,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
-  },
-  {
-    "repo": "CBMShadowGD/terrariamod",
-    "name": "terarria Mod",
-    "version": "3.1",
-    "mod_id": "Shadows-First-Mod",
-    "author": "CBMShadowGD",
-    "lastUpdated": "2021-12-05T09:59:09Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "my first mod."
   },
   {
     "repo": "Goobrr/Finality",
