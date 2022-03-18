@@ -1235,6 +1235,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "Sh1penfire/Endless-Rusting",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-03-17T04:25:41Z",
+    "stars": 9,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1337,19 +1350,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-03-17T04:25:41Z",
-    "stars": 8,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "bloool/CobaltMod",
@@ -1526,7 +1526,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-18T00:54:22Z",
+    "lastUpdated": "2022-03-18T12:22:05Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1770,15 +1770,15 @@
   {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
-    "version": "1",
+    "version": "2",
     "mod_id": "cyber-io",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-03-18T06:32:27Z",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-03-18T14:39:23Z",
     "stars": 6,
-    "minGameVersion": "126",
+    "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
+    "description": "Provides lots of cybernetic things!!!"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3718,19 +3718,6 @@
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
   },
   {
-    "repo": "pavel-8516/upLevel",
-    "name": "uplevel",
-    "version": "0.5.3",
-    "mod_id": "uplevel",
-    "author": "pavel8516",
-    "lastUpdated": "2021-06-06T04:45:29Z",
-    "stars": 1,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
-  },
-  {
     "repo": "RebornTrack970/Destroyer",
     "name": "Destroyer",
     "version": "1.0",
@@ -4847,5 +4834,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nabd therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "PAP6/AUM",
+    "name": "Another Useless Mod",
+    "version": "CT0.0.11b",
+    "mod_id": "AUM",
+    "author": "PAOI, Xto_Ya#3098",
+    "lastUpdated": "2022-03-18T15:01:19Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is no more useless!"
   }
 ]
