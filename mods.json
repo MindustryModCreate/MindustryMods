@@ -772,12 +772,25 @@
     "version": "1.2.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-03-15T10:25:36Z",
+    "lastUpdated": "2022-03-19T08:54:15Z",
     "stars": 16,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
     "description": "A fucking portal made out of thin air yeet The swarm into mindustry."
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Scrap",
+    "name": "Project Scrap",
+    "version": "0.2.4.5",
+    "mod_id": "industrial",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-02T03:00:27Z",
+    "stars": 15,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "EclipseTheOldOne/Project-Eclipse",
@@ -804,19 +817,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Scrap",
-    "name": "Project Scrap",
-    "version": "0.2.4.5",
-    "mod_id": "industrial",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-02T03:00:27Z",
-    "stars": 14,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -2184,19 +2184,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
     "repo": "Goobrr/toxodrip",
     "name": "Toxodrip",
     "version": "69.420",
@@ -2873,6 +2860,19 @@
     "description": "A mod. Content was be here."
   },
   {
+    "repo": "RebornTrack970/GigaFortSector",
+    "name": "GigaFort Sector",
+    "version": "1.0",
+    "mod_id": "gigafortsector",
+    "author": "RTOmega",
+    "lastUpdated": "2022-03-07T14:07:49Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Replaces sector 0 (next to PLT with GigaFort."
+  },
+  {
     "repo": "Cry0flu1d/Project-Frost",
     "name": "Project Frost",
     "version": "0.1-alpha",
@@ -3419,6 +3419,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-01-14T17:51:16Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+  },
+  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -3515,7 +3528,7 @@
     "version": "0.0.4",
     "mod_id": "binary0011",
     "author": "1237",
-    "lastUpdated": "2022-03-19T03:48:41Z",
+    "lastUpdated": "2022-03-19T09:11:25Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4847,18 +4860,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod is no more useless!"
-  },
-  {
-    "repo": "12three7/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-03-19T05:07:02Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   }
 ]
