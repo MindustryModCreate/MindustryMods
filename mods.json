@@ -330,7 +330,7 @@
     "version": "0.7.8.1",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-03-20T04:17:28Z",
+    "lastUpdated": "2022-03-20T05:35:48Z",
     "stars": 38,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1339,6 +1339,19 @@
     "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities",
+    "name": "MI2 Utilities",
+    "version": "0.6.2",
+    "mod_id": "MI2-Utilities",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-02-20T15:23:31Z",
+    "stars": 8,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
+  },
+  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.2.0",
@@ -1467,19 +1480,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities",
-    "name": "MI2 Utilities",
-    "version": "0.6.2",
-    "mod_id": "MI2-Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-20T15:23:31Z",
-    "stars": 7,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "THCworkshopCN/THC-Industry",
@@ -3658,7 +3658,7 @@
     "version": "0.0.4",
     "mod_id": "binary0011",
     "author": "1237",
-    "lastUpdated": "2022-03-20T04:10:40Z",
+    "lastUpdated": "2022-03-20T07:57:06Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
