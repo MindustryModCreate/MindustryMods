@@ -123,7 +123,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-03-18T18:40:13Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -182,6 +182,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "Extra Utilities Mod(更多实用设备)",
+    "version": "2.4.8",
+    "mod_id": "btm",
+    "author": "guiY & Carrot",
+    "lastUpdated": "2022-03-10T11:11:59Z",
+    "stars": 51,
+    "minGameVersion": "133",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+  },
+  {
     "repo": "DeltaNedas/routorio",
     "name": "routorio",
     "version": "2.36.4",
@@ -193,19 +206,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.8",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-03-10T11:11:59Z",
-    "stars": 50,
-    "minGameVersion": "133",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "DeltaNedas/ui-lib",
@@ -551,7 +551,7 @@
     "version": "13.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-03-19T03:06:55Z",
+    "lastUpdated": "2022-03-20T18:26:27Z",
     "stars": 25,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -1773,7 +1773,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-03-19T12:35:31Z",
+    "lastUpdated": "2022-03-20T15:36:27Z",
     "stars": 6,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2182,19 +2182,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
   },
   {
     "repo": "Goobrr/toxodrip",
@@ -2891,7 +2878,7 @@
     "version": "2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-03-20T14:19:56Z",
+    "lastUpdated": "2022-03-20T18:49:25Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -3653,19 +3640,6 @@
     "description": "A mindustry mods that provides an content"
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.51",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-03-19T14:47:14Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "12three7/Binary0011Java",
     "name": "Binary 0011",
     "version": "0.0.4",
@@ -3677,6 +3651,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Example of a Simple Java Mod for Mindustry V7. \n\nThanks to ExplerHD"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.51",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-03-20T15:40:54Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "4156/Infintory",
