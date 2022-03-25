@@ -343,7 +343,7 @@
     "version": "23.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-03-24T01:37:56Z",
+    "lastUpdated": "2022-03-25T01:06:22Z",
     "stars": 36,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1508,19 +1508,6 @@
     "description": "Industrializing is easy."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-24T12:23:50Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "2",
@@ -1532,6 +1519,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of cybernetic things!!!"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-03-25T00:55:45Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -3419,6 +3419,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-01-14T17:51:16Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+  },
+  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -4496,19 +4509,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "ZZY2357/super-mecha",
-    "name": "Super Mecha",
-    "version": "1.0",
-    "mod_id": "super-mecha",
-    "author": "zzy2357@outlook.com",
-    "lastUpdated": "2021-10-05T09:16:42Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Super Mecha. 一个超强的机甲"
   },
   {
     "repo": "THEGAMER-10n/NewEra",
