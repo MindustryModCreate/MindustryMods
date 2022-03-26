@@ -110,7 +110,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2021-10-27T16:46:48Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -1391,6 +1391,19 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "DeltaNedas/override-lib",
+    "name": "Override Lib",
+    "version": "1.0.1",
+    "mod_id": "override-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-20T01:10:00Z",
+    "stars": 7,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
     "repo": "bloool/CobaltMod",
     "name": "Cobalt Mod",
     "version": "0.8",
@@ -1571,19 +1584,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
-  },
-  {
-    "repo": "DeltaNedas/override-lib",
-    "name": "Override Lib",
-    "version": "1.0.1",
-    "mod_id": "override-lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-20T01:10:00Z",
-    "stars": 6,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library mod that allows multiple mods to override the same content."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -2085,7 +2085,7 @@
     "version": "0.8.1",
     "mod_id": "Simplistic",
     "author": "EchoVespy",
-    "lastUpdated": "2022-03-24T14:22:57Z",
+    "lastUpdated": "2022-03-26T09:32:20Z",
     "stars": 5,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -2195,6 +2195,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "sergeyoshpo/avaritia",
+    "name": "avaritia",
+    "version": "2.0",
+    "mod_id": "avaritia",
+    "author": "CAT",
+    "lastUpdated": "2021-03-29T16:03:24Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод заставит тебя попыхтеть"
   },
   {
     "repo": "Goobrr/toxodrip",
@@ -2442,6 +2455,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
+  },
+  {
+    "repo": "DeltaNedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3458,6 +3484,19 @@
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
+    "repo": "sebmeister2077/GifToLogic",
+    "name": "GifToLogic",
+    "version": "2.6.0",
+    "mod_id": "giftologic",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-14T18:08:13Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
+  },
+  {
     "repo": "Sheep-Hugger/Frozen-Silver-Fortress",
     "name": "Frozen Silver Fortress",
     "version": "0.25",
@@ -3508,19 +3547,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mods that provides an content"
-  },
-  {
-    "repo": "12three7/Binary0011Java",
-    "name": "Binary 0011",
-    "version": "0.0.4",
-    "mod_id": "binary0011",
-    "author": "1237",
-    "lastUpdated": "2022-03-23T10:21:31Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An Example of a Simple Java Mod for Mindustry V7. \n\nThanks to ExplerHD"
   },
   {
     "repo": "hortiSquash/hortiblocks",
@@ -3705,6 +3731,19 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "HuanSen233/-INDUSTRIAL-INNOVATION-",
+    "name": "-INDUSTRIAL-INNOVATION-",
+    "version": "LV19  更新啥的去他妈",
+    "mod_id": "工业革新重制版",
+    "author": "幻森233_(虽然你看见我我不会承认)",
+    "lastUpdated": "2021-05-11T14:37:37Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
+  },
+  {
     "repo": "Divarion-D/Technology",
     "name": "Technology",
     "version": "1.3",
@@ -3729,19 +3768,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "pavel-8516/upLevel",
-    "name": "uplevel",
-    "version": "0.5.3",
-    "mod_id": "uplevel",
-    "author": "pavel8516",
-    "lastUpdated": "2021-06-06T04:45:29Z",
-    "stars": 1,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
   },
   {
     "repo": "RebornTrack970/Destroyer",
@@ -3950,6 +3976,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first Java mod."
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2022-01-27T14:02:39Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "SrOtaku/ModNathilha",
@@ -4730,6 +4769,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
+  },
+  {
+    "repo": "TechFish3000/Techfish-Innovations",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-16T13:04:00Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "sebmeister2077/Advanced-Refinement",
