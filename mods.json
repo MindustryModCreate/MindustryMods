@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.11.0.6, Interrupted until the release of v7",
+    "version": "1.11.0.6.1, Interrupted Content Update until the Release of v7",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-03-20T01:32:10Z",
+    "lastUpdated": "2022-03-26T14:46:12Z",
     "stars": 122,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -564,7 +564,7 @@
     "version": "13.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-03-21T09:04:08Z",
+    "lastUpdated": "2022-03-26T11:00:54Z",
     "stars": 25,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -1552,7 +1552,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-26T00:55:59Z",
+    "lastUpdated": "2022-03-26T12:20:45Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2444,19 +2444,6 @@
     "description": "Java library for java mods"
   },
   {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.75",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-02-27T09:38:00Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
     "repo": "DeltaNedas/mindustry-2",
     "name": "Mindustry 2",
     "version": "0.0.2",
@@ -2468,6 +2455,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
+  },
+  {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.75",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-03-26T14:15:33Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -2832,6 +2832,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
+    "repo": "Radio-Silence-1/2r2tUtilitesMod",
+    "name": "2R2T Mod",
+    "version": "You Dont See This",
+    "mod_id": "2r2t utilty mod",
+    "author": "No",
+    "lastUpdated": "2022-01-26T02:32:07Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A custom mod for 2r2t, I would suggest getting the brother mod '2r2t Utility Extension' \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
     "repo": "LightAndTime/Block-Placer",
@@ -3567,7 +3580,7 @@
     "version": "1.5.4.2",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-03-26T00:33:28Z",
+    "lastUpdated": "2022-03-26T13:17:48Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4769,19 +4782,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
-  },
-  {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "sebmeister2077/Advanced-Refinement",
