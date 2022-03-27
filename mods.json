@@ -234,19 +234,6 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Information",
-    "version": "1.5.3",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-01-10T21:41:47Z",
-    "stars": 45,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.5.1",
@@ -258,6 +245,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Information",
+    "version": "1.5.3",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-01-10T21:41:47Z",
+    "stars": 44,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "AeronGreva/AeroMindustry",
@@ -370,7 +370,7 @@
     "mod_id": "prog-mats",
     "author": "Creator:\n    MEEP of Faith\n\nContributors:\n    ThirstyBoi (Eruptor sprite)\n    Goober (Kugelblitz and Popeshadow sprites)\n    VozDuh (Missile turret sprites, new icon)\n    Ilya246 (Luminocity damage ramping)\n    Younggam (Multi Lib)\n    Kapzduke (Tinker sprites)\n    Some sounds from Freesound.\n    Anyone I stole code from.",
     "lastUpdated": "2022-01-25T06:15:19Z",
-    "stars": 33,
+    "stars": 34,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
@@ -564,7 +564,7 @@
     "version": "13.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-03-26T11:00:54Z",
+    "lastUpdated": "2022-03-27T10:14:04Z",
     "stars": 25,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -1552,7 +1552,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-27T01:00:05Z",
+    "lastUpdated": "2022-03-27T12:21:00Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3593,7 +3593,7 @@
     "version": "0.0.5",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-03-27T09:05:34Z",
+    "lastUpdated": "2022-03-27T13:18:25Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4498,19 +4498,6 @@
     "description": "Building."
   },
   {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
-  },
-  {
     "repo": "Potato-Man1/ZyganMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -4797,6 +4784,19 @@
     "description": "Mod with nice weapons"
   },
   {
+    "repo": "TechFish3000/Techfish-Innovations",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-16T13:04:00Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -4888,19 +4888,6 @@
     "description": "This mod is no more useless!"
   },
   {
-    "repo": "laok233/h",
-    "name": "h",
-    "version": "0.1",
-    "mod_id": "h",
-    "author": "end",
-    "lastUpdated": "2022-03-22T21:23:36Z",
-    "stars": 0,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "h"
-  },
-  {
     "repo": "TippierPark8961/Green-Void",
     "name": "Green Void",
     "version": "1",
@@ -4912,5 +4899,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
+  },
+  {
+    "repo": "laok233/h",
+    "name": "h",
+    "version": "0.1",
+    "mod_id": "h",
+    "author": "end",
+    "lastUpdated": "2022-03-27T10:20:00Z",
+    "stars": 0,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "h"
   }
 ]
