@@ -806,6 +806,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "Anuken/wind3",
+    "name": "wind3",
+    "version": "No version provided.",
+    "mod_id": "wind3",
+    "author": "Anuke (real)",
+    "lastUpdated": "2022-03-17T13:24:04Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.3",
@@ -843,19 +856,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "Anuken/wind3",
-    "name": "wind3",
-    "version": "No version provided.",
-    "mod_id": "wind3",
-    "author": "Anuke (real)",
-    "lastUpdated": "2022-03-17T13:24:04Z",
-    "stars": 14,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "DeltaNedas/ldb",
@@ -1552,7 +1552,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-27T12:21:00Z",
+    "lastUpdated": "2022-03-28T01:03:32Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3458,6 +3458,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-01-14T17:51:16Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+  },
+  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -3536,19 +3549,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "ExplerHD/EnerLect-tech",
-    "name": "EnerLect Industries",
-    "version": "1.0",
-    "mod_id": "enerlect",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-03-16T10:19:58Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mods that provides an content"
-  },
-  {
     "repo": "hortiSquash/hortiblocks",
     "name": "horti blocks",
     "version": "1.1",
@@ -3562,19 +3562,6 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "12three7/Binary0011Java",
-    "name": "Binary0011",
-    "version": "0.0.5",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-03-27T13:18:25Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "0011."
-  },
-  {
     "repo": "YSpoof/mindustry-zmod",
     "name": "ZMod",
     "version": "1.0.4f",
@@ -3586,6 +3573,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "ExplerHD/EnerLect-tech",
+    "name": "EnerLect Industries",
+    "version": "1.0",
+    "mod_id": "enerlect",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-03-28T01:03:04Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that provides an content"
+  },
+  {
+    "repo": "12three7/Binary0011Java",
+    "name": "Binary0011",
+    "version": "0.0.5",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-03-28T03:55:52Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "0011."
   },
   {
     "repo": "4156/Infintory",
@@ -4782,19 +4795,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
-  },
-  {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "sebmeister2077/Advanced-Refinement",
