@@ -292,7 +292,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-04-05T23:30:47Z",
-    "stars": 43,
+    "stars": 42,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "0.7.8.1",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-03-22T01:44:06Z",
+    "lastUpdated": "2022-04-07T04:02:56Z",
     "stars": 42,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -343,25 +343,12 @@
     "version": "23.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-04-06T02:22:34Z",
+    "lastUpdated": "2022-04-07T02:59:37Z",
     "stars": 36,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "Gdeft/portal",
-    "name": "Portal",
-    "version": "0.1.0",
-    "mod_id": "portal",
-    "author": "Gdeft",
-    "lastUpdated": "2021-10-10T19:36:16Z",
-    "stars": 34,
-    "minGameVersion": "108",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -375,6 +362,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "Gdeft/portal",
+    "name": "Portal",
+    "version": "0.1.0",
+    "mod_id": "portal",
+    "author": "Gdeft",
+    "lastUpdated": "2021-10-10T19:36:16Z",
+    "stars": 33,
+    "minGameVersion": "108",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
@@ -681,7 +681,7 @@
     "version": "0.1.2",
     "mod_id": "animalia",
     "author": "Flin",
-    "lastUpdated": "2022-04-06T22:56:01Z",
+    "lastUpdated": "2022-04-07T00:56:07Z",
     "stars": 19,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -993,7 +993,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-06T11:54:08Z",
+    "lastUpdated": "2022-04-07T02:42:44Z",
     "stars": 12,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1521,19 +1521,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-06T12:25:24Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 [U1]",
@@ -1545,6 +1532,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-04-07T01:00:42Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1571,6 +1571,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
+  },
+  {
+    "repo": "lev43/TurretsMod",
+    "name": "Turrets Mod",
+    "version": "3.0",
+    "mod_id": "turretsmod",
+    "author": "lev43",
+    "lastUpdated": "2020-12-29T13:18:28Z",
+    "stars": 6,
+    "minGameVersion": "122.0",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Мод добавляет множество новых турелей."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -1818,19 +1831,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "yes\nAlso try Gdeft/bleach!"
-  },
-  {
-    "repo": "lev43/TurretsMod",
-    "name": "Turrets Mod",
-    "version": "3.0",
-    "mod_id": "turretsmod",
-    "author": "lev43",
-    "lastUpdated": "2020-12-29T13:18:28Z",
-    "stars": 5,
-    "minGameVersion": "122.0",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Мод добавляет множество новых турелей."
   },
   {
     "repo": "EmanuelG-Gaming/emanuels-mod",
