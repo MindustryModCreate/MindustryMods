@@ -19,7 +19,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-01-17T08:20:21Z",
-    "stars": 161,
+    "stars": 162,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -201,7 +201,7 @@
     "mod_id": "routorio",
     "author": "DeltaNedas",
     "lastUpdated": "2022-03-05T15:21:07Z",
-    "stars": 50,
+    "stars": 51,
     "minGameVersion": "131",
     "hasScripts": true,
     "hasJava": false,
@@ -286,6 +286,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.7.8.1",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-04-07T04:02:56Z",
+    "stars": 43,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -297,19 +310,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.7.8.1",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-04-07T04:02:56Z",
-    "stars": 42,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -343,7 +343,7 @@
     "version": "23.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-04-07T02:59:37Z",
+    "lastUpdated": "2022-04-07T07:09:41Z",
     "stars": 36,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -993,7 +993,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-07T02:42:44Z",
+    "lastUpdated": "2022-04-07T10:03:08Z",
     "stars": 12,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -3692,6 +3692,19 @@
     "description": "Work in progress (not working)"
   },
   {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "0.1",
+    "mod_id": "VanillaPlus",
+    "author": "Dagger(Кинжал)",
+    "lastUpdated": "2022-04-03T11:00:48Z",
+    "stars": 2,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
+  },
+  {
     "repo": "I-hope1/mod.make",
     "name": "mod.make",
     "version": "1.0",
@@ -4277,19 +4290,6 @@
     "description": ""
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "0.1",
-    "mod_id": "VanillaPlus",
-    "author": "Dagger(Кинжал)",
-    "lastUpdated": "2022-04-03T11:00:48Z",
-    "stars": 1,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
-  },
-  {
     "repo": "abaines/Kizraks-Radar",
     "name": "Kizrak's Radar",
     "version": "1.0",
@@ -4301,6 +4301,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
+  },
+  {
+    "repo": "TeeworldsFun/Mindustry-teeworlds",
+    "name": "Teeworlds!(Tws/DDNet)",
+    "version": "0.6.4",
+    "mod_id": "Teeworlds",
+    "author": "FlowerFell-Sans & Ninecloud",
+    "lastUpdated": "2022-04-06T13:23:18Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "增加了一些新兵种和道具\nmod还在更新，如果有更好的建议可以加QQ群:834323539"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5432,18 +5445,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
-    "repo": "TeeworldsFun/Mindustry-teeworlds",
-    "name": "Teeworlds!(Tws/DDNet)",
-    "version": "0.6.4",
-    "mod_id": "Teeworlds",
-    "author": "FlowerFell-Sans & Ninecloud",
-    "lastUpdated": "2022-04-06T13:23:18Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "增加了一些新兵种和道具\nmod还在更新，如果有更好的建议可以加QQ群:834323539"
   }
 ]
