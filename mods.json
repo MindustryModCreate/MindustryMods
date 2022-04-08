@@ -239,7 +239,7 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-08T14:54:29Z",
+    "lastUpdated": "2022-04-08T15:52:43Z",
     "stars": 45,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -258,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "AeronGreva/AeroMindustry",
-    "name": "AeroMindustry",
-    "version": "1.0",
-    "mod_id": "aeromindustry",
-    "author": "AeronGreva",
-    "lastUpdated": "2021-01-05T16:55:46Z",
-    "stars": 43,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -299,6 +286,19 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
+    "repo": "AeronGreva/AeroMindustry",
+    "name": "AeroMindustry",
+    "version": "1.0",
+    "mod_id": "aeromindustry",
+    "author": "AeronGreva",
+    "lastUpdated": "2022-04-08T17:33:22Z",
+    "stars": 43,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
+  },
+  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -318,7 +318,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2021-10-21T19:22:58Z",
-    "stars": 40,
+    "stars": 41,
     "minGameVersion": "108",
     "hasScripts": true,
     "hasJava": false,
@@ -1066,19 +1066,6 @@
     "description": "A mod that expands apon vanilla"
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.5",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-08T09:07:41Z",
-    "stars": 12,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
-  },
-  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.60",
@@ -1090,6 +1077,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.5",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-04-08T17:26:30Z",
+    "stars": 12,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1370,7 +1370,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-08T15:05:51Z",
+    "lastUpdated": "2022-04-08T15:41:44Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -5421,19 +5421,6 @@
     "description": "h"
   },
   {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-04-06T12:43:26Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
     "repo": "Cynthion21x/prismaticExperimental",
     "name": "Prismatic",
     "version": "1.16.206.7 -PRE ALPHA",
@@ -5445,5 +5432,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-04-08T19:58:49Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   }
 ]
