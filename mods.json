@@ -2080,19 +2080,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2104,6 +2091,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds Dubious White Liquid. Oddly good as a coolant"
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "version": "0.7 alpha",
+    "mod_id": "pvpmod",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2756,19 +2756,6 @@
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.5.6.4",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-04-09T07:25:35Z",
-    "stars": 4,
-    "minGameVersion": "135.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "rlzzj/Logic-Completion",
     "name": "LogicCompletion",
     "version": "2.0",
@@ -2780,6 +2767,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mindustry mod for logic"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.5.6.4",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-04-09T15:57:08Z",
+    "stars": 4,
+    "minGameVersion": "135.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -5426,7 +5426,7 @@
     "version": "1.0.1",
     "mod_id": "zero",
     "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-04-09T10:00:17Z",
+    "lastUpdated": "2022-04-09T17:55:06Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
