@@ -923,6 +923,19 @@
     "description": "hehe angish go nrrrt"
   },
   {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "version": "1.0",
+    "mod_id": "advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-04-03T00:43:31Z",
+    "stars": 13,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "0.6.0",
@@ -1051,19 +1064,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "version": "1.0",
-    "mod_id": "advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-04-03T00:43:31Z",
-    "stars": 12,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "SMOLKEYS/yellow-java",
@@ -1994,7 +1994,7 @@
     "version": "0.8.1",
     "mod_id": "Simplistic",
     "author": "EchoVespy",
-    "lastUpdated": "2022-04-10T07:39:06Z",
+    "lastUpdated": "2022-04-10T20:00:10Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -5395,32 +5395,6 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
-    "repo": "MountLava/SolarMod",
-    "name": "Solar Mod",
-    "version": "0.5 Alpha",
-    "mod_id": "solarmod",
-    "author": "MountLava",
-    "lastUpdated": "2022-04-10T04:35:07Z",
-    "stars": 0,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds tons of useful content. Mostly adds turrets."
-  },
-  {
-    "repo": "ilya034/SynchronDataMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-10T10:05:23Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "MinDoUser/ZERO",
     "name": "Z E R O",
     "version": "1.0.1",
@@ -5432,5 +5406,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
+    "repo": "AHRumjungle/Matter",
+    "name": "Matter",
+    "version": "0.1",
+    "mod_id": "matter",
+    "author": "OCRumjungle",
+    "lastUpdated": "2022-04-10T17:03:04Z",
+    "stars": 0,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds matter to extange materials"
+  },
+  {
+    "repo": "MountLava/SolarMod",
+    "name": "Solar Mod",
+    "version": "0.5 Alpha",
+    "mod_id": "solarmod",
+    "author": "MountLava",
+    "lastUpdated": "2022-04-10T20:06:44Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds tons of useful content. Mostly adds turrets."
   }
 ]
