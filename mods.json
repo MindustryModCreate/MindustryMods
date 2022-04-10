@@ -1370,7 +1370,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-08T15:41:44Z",
+    "lastUpdated": "2022-04-10T11:37:23Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1703,30 +1703,30 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-10T01:02:49Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "12three7/Binary0011",
     "name": "Binary0011",
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-10T05:16:33Z",
+    "lastUpdated": "2022-04-10T11:13:22Z",
     "stars": 7,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-04-10T12:21:40Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2078,19 +2078,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2771,10 +2758,10 @@
   {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
-    "version": "1.5.6.4",
+    "version": "1.5.7",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-04-10T08:46:46Z",
+    "lastUpdated": "2022-04-10T11:42:08Z",
     "stars": 4,
     "minGameVersion": "135.1",
     "hasScripts": false,
@@ -5421,12 +5408,25 @@
     "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
+    "repo": "ilya034/SynchronDataMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-10T10:05:23Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "MinDoUser/ZERO",
     "name": "Z E R O",
     "version": "1.0.1",
     "mod_id": "zero",
     "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-04-10T09:40:29Z",
+    "lastUpdated": "2022-04-10T14:24:51Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
