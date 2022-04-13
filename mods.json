@@ -240,7 +240,7 @@
     "mod_id": "unitinfo",
     "author": "Sharlotte",
     "lastUpdated": "2022-04-12T16:12:49Z",
-    "stars": 46,
+    "stars": 47,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -949,6 +949,19 @@
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.63",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-04-12T16:21:02Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1077,19 +1090,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
-  },
-  {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.63",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-04-12T16:21:02Z",
-    "stars": 12,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1370,7 +1370,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-12T15:31:28Z",
+    "lastUpdated": "2022-04-13T07:49:29Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1493,6 +1493,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
+  },
+  {
+    "repo": "12three7/Binary0011",
+    "name": "Binary0011",
+    "version": "0.0.6",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-04-13T09:04:36Z",
+    "stars": 8,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -1708,25 +1721,12 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-12T12:23:39Z",
+    "lastUpdated": "2022-04-13T01:06:10Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
-  },
-  {
-    "repo": "12three7/Binary0011",
-    "name": "Binary0011",
-    "version": "0.0.6",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-04-12T12:25:06Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2078,6 +2078,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "sergeyoshpo/avaritia",
+    "name": "avaritia",
+    "version": "2.0",
+    "mod_id": "avaritia",
+    "author": "CAT",
+    "lastUpdated": "2021-03-29T16:03:24Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод заставит тебя попыхтеть"
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2639,7 +2652,7 @@
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
-    "repo": "LightAndTime/Block-Placer",
+    "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "irtual box",
     "mod_id": "blockPlacer",
@@ -5445,5 +5458,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
+    "repo": "dukmu/mindustry_mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-13T09:07:31Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
