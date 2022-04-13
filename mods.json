@@ -239,8 +239,8 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-12T16:12:49Z",
-    "stars": 47,
+    "lastUpdated": "2022-04-13T13:22:40Z",
+    "stars": 48,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -331,7 +331,7 @@
     "mod_id": "testmod",
     "author": "Sharlotte",
     "lastUpdated": "2021-08-21T09:35:11Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "130",
     "hasScripts": true,
     "hasJava": false,
@@ -1721,7 +1721,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-13T01:06:10Z",
+    "lastUpdated": "2022-04-13T12:23:44Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2080,17 +2080,17 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
     "stars": 5,
-    "minGameVersion": "120",
+    "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
+    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2340,19 +2340,6 @@
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.75",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-03-26T14:15:33Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
-  },
-  {
     "repo": "Zeniku/HeavyMachineryJava",
     "name": "HeavyMachineryJava",
     "version": "1.0",
@@ -2364,6 +2351,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "ExplerHD/Old-Era-Revival",
+    "name": "Old Era Revival",
+    "version": "0.75",
+    "mod_id": "oer",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-04-13T13:12:54Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -4654,19 +4654,6 @@
     "description": "adds blocks that allow you to play music!"
   },
   {
-    "repo": "MEEPofFaith/mindustry-modding-docs-examples",
-    "name": "Modding Docs Example Codes",
-    "version": "0",
-    "mod_id": "mod-docs",
-    "author": "  MEEP of Faith",
-    "lastUpdated": "2021-01-21T07:54:19Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Displays the modding docs code examples."
-  },
-  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -5447,19 +5434,6 @@
     "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-04-12T18:38:38Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
     "repo": "dukmu/mindustry_mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5471,5 +5445,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-04-13T11:44:38Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   }
 ]
