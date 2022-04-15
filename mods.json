@@ -83,8 +83,8 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-04-08T03:25:07Z",
-    "stars": 89,
+    "lastUpdated": "2022-04-15T09:02:02Z",
+    "stars": 90,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -286,6 +286,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.7.8.1",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-04-07T04:02:56Z",
+    "stars": 43,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -310,19 +323,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.7.8.1",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-04-07T04:02:56Z",
-    "stars": 42,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -1365,6 +1365,19 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
+    "repo": "12three7/Binary0011",
+    "name": "Binary0011",
+    "version": "0.0.6",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-04-14T09:29:26Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237."
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "2",
@@ -1506,19 +1519,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
-  },
-  {
-    "repo": "12three7/Binary0011",
-    "name": "Binary0011",
-    "version": "0.0.6",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-04-14T09:29:26Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -2078,19 +2078,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
