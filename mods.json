@@ -668,7 +668,7 @@
     "version": "0.1.2",
     "mod_id": "animalia",
     "author": "Flin",
-    "lastUpdated": "2022-04-11T04:48:26Z",
+    "lastUpdated": "2022-04-16T19:21:34Z",
     "stars": 20,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -1383,7 +1383,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-15T16:30:48Z",
+    "lastUpdated": "2022-04-16T15:44:12Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1976,6 +1976,19 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
+    "repo": "DeltaNedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "3.0-pa-0.1",
@@ -2067,17 +2080,17 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
     "stars": 5,
-    "minGameVersion": "120",
+    "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
+    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2288,19 +2301,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-02-19T20:22:57Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.03",
@@ -2312,19 +2312,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
-  },
-  {
-    "repo": "DeltaNedas/mindustry-2",
-    "name": "Mindustry 2",
-    "version": "0.0.2",
-    "mod_id": "mindustry-2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Zeniku/HeavyMachineryJava",
@@ -2676,6 +2663,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
+  },
+  {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-02-19T20:22:57Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -3092,19 +3092,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
-  },
-  {
-    "repo": "Sh1penfire/Slow-Kindling",
-    "name": "Slow Kindling",
-    "version": "skidiabapop",
-    "mod_id": "slowK",
-    "author": "Sh1penfire",
-    "lastUpdated": "2021-12-05T13:18:07Z",
-    "stars": 3,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A texture pack and effect replacing mod that I'm making for fun."
   },
   {
     "repo": "Mnemotechnician/total-chaos",
@@ -5484,5 +5471,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+  },
+  {
+    "repo": "A5TR0spud/mindustry-extras",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.1",
+    "mod_id": "mindustry-extras",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-04-16T16:25:32Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  Adds various things  "
   }
 ]
