@@ -936,19 +936,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-02T10:11:49Z",
-    "stars": 13,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.63",
@@ -960,6 +947,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-04-17T16:03:18Z",
+    "stars": 13,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1084,7 +1084,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-17T14:51:50Z",
+    "lastUpdated": "2022-04-17T15:46:03Z",
     "stars": 12,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1365,19 +1365,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "2",
-    "mod_id": "cyber-io",
-    "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-16T15:44:12Z",
-    "stars": 9,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of cybernetic things!!!"
-  },
-  {
     "repo": "3Snake3/Units-mod",
     "name": "Units Mod",
     "version": "1.0",
@@ -1389,6 +1376,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "2",
+    "mod_id": "cyber-io",
+    "author": "[#891213]Liplum[]",
+    "lastUpdated": "2022-04-17T15:25:32Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of cybernetic things!!!"
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -2949,6 +2949,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Anuken"
+  },
+  {
+    "repo": "amg2048/saphatax",
+    "name": "Saphatax",
+    "version": "0.1.5 test build 1/3",
+    "mod_id": "saphatax",
+    "author": "aden8r",
+    "lastUpdated": "2021-06-27T15:36:10Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
   },
   {
     "repo": "BlueTechnoCat/Galaxite-Mod",
@@ -4678,19 +4691,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "AlbinoGeek/modFoo",
-    "name": "Mod Template //the displayed mod name",
-    "version": "1.4.7 //this mod version",
-    "mod_id": "mod //real mod name",
-    "author": "Sharlotte //you",
-    "lastUpdated": "2021-02-01T11:28:11Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "the template for mods. //mod description"
   },
   {
     "repo": "FIRE-WATER799/mindustry-milatry-mod",
