@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-04-11T00:06:11Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -470,10 +470,10 @@
   {
     "repo": "NickName73/Gravillaso",
     "name": "GRavillaso",
-    "version": "2 b37",
+    "version": "2 b38",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-04-09T21:53:11Z",
+    "lastUpdated": "2022-04-16T22:33:35Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -806,6 +806,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "version": "1.0",
+    "mod_id": "advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-04-03T00:43:31Z",
+    "stars": 16,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -843,19 +856,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "version": "1.0",
-    "mod_id": "advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-04-03T00:43:31Z",
-    "stars": 15,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -2080,19 +2080,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2756,19 +2743,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-04-15T22:10:06Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "version": "1.5.7",
@@ -2780,6 +2754,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-04-16T21:15:44Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3092,6 +3079,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
+  },
+  {
+    "repo": "Sh1penfire/Slow-Kindling",
+    "name": "Slow Kindling",
+    "version": "skidiabapop",
+    "mod_id": "slowK",
+    "author": "Sh1penfire",
+    "lastUpdated": "2021-12-05T13:18:07Z",
+    "stars": 3,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A texture pack and effect replacing mod that I'm making for fun."
   },
   {
     "repo": "Mnemotechnician/total-chaos",
@@ -3586,19 +3586,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "Pietro303HD/dynamics",
-    "name": "dynamics",
-    "version": "0.1",
-    "mod_id": "dynamics",
-    "author": "Pietro",
-    "lastUpdated": "2021-05-29T02:23:41Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
   },
   {
     "repo": "pavel-8516/upLevel",
