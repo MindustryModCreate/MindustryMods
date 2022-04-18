@@ -1253,7 +1253,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-17T12:14:47Z",
+    "lastUpdated": "2022-04-18T05:09:32Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1721,7 +1721,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-17T12:22:11Z",
+    "lastUpdated": "2022-04-18T01:12:14Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2080,19 +2080,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2327,19 +2314,6 @@
     "description": "Java library for java mods"
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-03-28T08:57:14Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "ExplerHD/Old-Era-Revival",
     "name": "Old Era Revival",
     "version": "0.75",
@@ -2364,6 +2338,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alex version of MEEPofFaith/anuke-approaching"
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-04-18T01:12:45Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2951,19 +2938,6 @@
     "description": "Anuken"
   },
   {
-    "repo": "amg2048/saphatax",
-    "name": "Saphatax",
-    "version": "0.1.5 test build 1/3",
-    "mod_id": "saphatax",
-    "author": "aden8r",
-    "lastUpdated": "2021-06-27T15:36:10Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
-  },
-  {
     "repo": "BlueTechnoCat/Galaxite-Mod",
     "name": "Galaxite Mod",
     "version": "0.5",
@@ -3313,6 +3287,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Write some developers of teeworks into the game!"
+  },
+  {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "0.1 Algorithm",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-18T01:22:15Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
