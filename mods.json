@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-02-07T13:38:34Z",
-    "stars": 192,
+    "stars": 194,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 129,
+    "stars": 130,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -936,19 +936,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.63",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-04-17T09:30:31Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.63",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-04-18T09:01:55Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1253,7 +1253,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-18T05:09:32Z",
+    "lastUpdated": "2022-04-18T05:33:54Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2080,6 +2080,19 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
+  },
+  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2769,6 +2782,19 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "0.1 Algorithm",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-18T01:22:15Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "version": "1.1",
@@ -3287,19 +3313,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Write some developers of teeworks into the game!"
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "0.1 Algorithm",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-18T01:22:15Z",
-    "stars": 3,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
