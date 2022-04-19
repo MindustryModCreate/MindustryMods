@@ -1690,6 +1690,19 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.0.4",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-02-20T13:36:07Z",
+    "stars": 7,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "version": "2.1",
@@ -1701,6 +1714,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
+  },
+  {
+    "repo": "GlennFolker/Confictura",
+    "name": "Confictura",
+    "version": "0.1",
+    "mod_id": "confictura",
+    "author": "GlennFolker",
+    "lastUpdated": "2022-03-02T14:33:04Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "... far beneath the reality."
   },
   {
     "repo": "breadbug23/Somas",
@@ -1963,19 +1989,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.0.4",
-    "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-02-20T13:36:07Z",
-    "stars": 6,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
     "repo": "DeltaNedas/mindustry-2",
     "name": "Mindustry 2",
     "version": "0.0.2",
@@ -1987,19 +2000,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
-  },
-  {
-    "repo": "GlennFolker/Confictura",
-    "name": "Confictura",
-    "version": "0.1",
-    "mod_id": "confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2022-03-02T14:33:04Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "... far beneath the reality."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -2026,6 +2026,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "0.1 Algorithm",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-19T07:09:56Z",
+    "stars": 6,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2377,19 +2390,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "0.1 Algorithm",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-18T01:22:15Z",
-    "stars": 5,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "als39175/Infinity-Cheat",
