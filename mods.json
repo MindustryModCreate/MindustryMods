@@ -5,7 +5,7 @@
     "version": "1.08",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-02-07T13:38:34Z",
+    "lastUpdated": "2022-04-19T10:29:39Z",
     "stars": 194,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -239,7 +239,7 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-18T15:08:53Z",
+    "lastUpdated": "2022-04-19T12:10:21Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -733,7 +733,7 @@
     "version": "1.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-04-18T14:07:47Z",
+    "lastUpdated": "2022-04-19T11:49:30Z",
     "stars": 18,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -951,10 +951,10 @@
   {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
-    "version": "0.63",
+    "version": "0.64",
     "mod_id": "extended-ui",
     "author": "wizer",
-    "lastUpdated": "2022-04-18T09:01:55Z",
+    "lastUpdated": "2022-04-19T14:52:06Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1266,7 +1266,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-18T13:44:13Z",
+    "lastUpdated": "2022-04-19T11:05:14Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1383,7 +1383,7 @@
     "version": "2",
     "mod_id": "cyber-io",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-19T04:59:15Z",
+    "lastUpdated": "2022-04-19T13:30:00Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1508,6 +1508,19 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "RebornTrack970/GigaFortSector",
+    "name": "GigaFort Sector",
+    "version": "1.0",
+    "mod_id": "gigafortsector",
+    "author": "RTOmega",
+    "lastUpdated": "2022-03-07T14:07:49Z",
+    "stars": 8,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Replaces sector 0 (next to PLT with GigaFort."
+  },
+  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 [U2]",
@@ -1534,6 +1547,19 @@
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
   },
   {
+    "repo": "RebornTrack970/OmegaCursed",
+    "name": "Omega-Cursed.bat",
+    "version": "0.3",
+    "mod_id": "omegacursed",
+    "author": "RTOmega",
+    "lastUpdated": "2020-12-18T07:03:31Z",
+    "stars": 7,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Completely new gamemode!"
+  },
+  {
     "repo": "DeltaNedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -1545,6 +1571,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
+    "repo": "RebornTrack970/Multiplayernt",
+    "name": "Multiplayern't",
+    "version": "1.0",
+    "mod_id": "multiplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-16T10:13:43Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "1qwaka/Thorium-Evolution-6.0",
@@ -1747,7 +1786,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-19T01:13:44Z",
+    "lastUpdated": "2022-04-19T12:29:08Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2015,19 +2054,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "EchoVespy/Simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.8.1",
-    "mod_id": "Simplistic",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-04-16T08:54:13Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "0.1 Algorithm",
@@ -2039,6 +2065,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-04-19T14:23:28Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2093,6 +2132,19 @@
     "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
+    "repo": "RebornTrack970/Multiplayerntnt",
+    "name": "Multiplayern'tn't",
+    "version": "1.0",
+    "mod_id": "multiplayerntnt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-02T06:13:05Z",
+    "stars": 5,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mindustry Mod that Reverts Multiplayernt"
+  },
+  {
     "repo": "bloool/SolarWorks",
     "name": "Solar Works",
     "version": "0.8",
@@ -2104,19 +2156,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2390,6 +2429,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "Fabizocker456/test",
+    "name": "Test mod",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-04-19T10:56:42Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2819,19 +2871,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
-  },
-  {
-    "repo": "RebornTrack970/OmegaCursed",
-    "name": "Omega-Cursed.bat",
-    "version": "0.3",
-    "mod_id": "omegacursed",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-18T07:03:31Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Completely new gamemode!"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -3276,19 +3315,6 @@
     "description": "A mod. Content was be here."
   },
   {
-    "repo": "RebornTrack970/GigaFortSector",
-    "name": "GigaFort Sector",
-    "version": "1.0",
-    "mod_id": "gigafortsector",
-    "author": "RTOmega",
-    "lastUpdated": "2022-03-07T14:07:49Z",
-    "stars": 3,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Replaces sector 0 (next to PLT with GigaFort."
-  },
-  {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
     "version": "0.1",
@@ -3484,19 +3510,6 @@
     "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
     "repo": "txomon/MindustryClientHostPauseMod",
     "name": "Client host pause mod",
     "version": "1.0",
@@ -3560,19 +3573,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds router planet. Yes, this is a mindustry mod."
-  },
-  {
-    "repo": "RebornTrack970/Multiplayernt",
-    "name": "Multiplayern't",
-    "version": "1.0",
-    "mod_id": "multiplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-16T10:13:43Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "Vladislav117/RPW",
@@ -5341,32 +5341,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more units to mindustry"
-  },
-  {
-    "repo": "SakuraLilly/Trade-It",
-    "name": "Trade it",
-    "version": "2.3",
-    "mod_id": "Trade it",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-02-26T20:40:32Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
-  },
-  {
-    "repo": "Fabizocker456/test",
-    "name": "Just testing...",
-    "version": "1.0",
-    "mod_id": "test",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-03-17T18:33:01Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nabd therefore will not\nwrite a long description"
   },
   {
     "repo": "laok233/h",
