@@ -2054,19 +2054,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "0.1 Algorithm",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-19T07:09:56Z",
-    "stars": 6,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
     "repo": "Fabizocker456/test",
     "name": "Test mod",
     "version": "1.0",
@@ -2098,12 +2085,25 @@
     "version": "0.8.1",
     "mod_id": "Simplistic",
     "author": "EchoVespy",
-    "lastUpdated": "2022-04-20T15:00:16Z",
+    "lastUpdated": "2022-04-20T15:41:19Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "0.1 Algorithm",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-20T16:16:10Z",
+    "stars": 6,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
