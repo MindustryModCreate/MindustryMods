@@ -239,7 +239,7 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-19T15:51:33Z",
+    "lastUpdated": "2022-04-19T22:11:09Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1547,19 +1547,6 @@
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
   },
   {
-    "repo": "RebornTrack970/OmegaCursed",
-    "name": "Omega-Cursed.bat",
-    "version": "0.3",
-    "mod_id": "omegacursed",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-18T07:03:31Z",
-    "stars": 7,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Completely new gamemode!"
-  },
-  {
     "repo": "DeltaNedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -1792,6 +1779,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "RebornTrack970/OmegaCursed",
+    "name": "Omega-Cursed.bat",
+    "version": "0.3",
+    "mod_id": "omegacursed",
+    "author": "RTOmega",
+    "lastUpdated": "2022-04-19T22:41:04Z",
+    "stars": 7,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Completely new gamemode!"
   },
   {
     "repo": "DeltaNedas/no",
@@ -2080,6 +2080,19 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "LighterTimes/Block-Placer",
+    "name": "Block Placer",
+    "version": "6.9",
+    "mod_id": "block-placer",
+    "author": "Light",
+    "lastUpdated": "2022-04-19T22:51:19Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2091,19 +2104,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
-  },
-  {
-    "repo": "DeltaNedas/waisa",
-    "name": "WAISA",
-    "version": "2.3.3",
-    "mod_id": "waisa",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:39:22Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "1qwaka/DPS-meter",
@@ -2156,6 +2156,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2392,6 +2405,19 @@
     "description": "Java library for java mods"
   },
   {
+    "repo": "Radio-Silence-1/2r2tUtilitesMod",
+    "name": "2R2T Mod",
+    "version": "You Dont See This",
+    "mod_id": "2r2t utilty mod",
+    "author": "No",
+    "lastUpdated": "2022-03-26T16:38:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A custom mod for 2r2t, I would suggest getting the brother mod '2r2t Utility Extension' \n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
     "repo": "ExplerHD/Old-Era-Revival",
     "name": "Old Era Revival",
     "version": "0.75",
@@ -2431,19 +2457,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "LighterTimes/Block-Placer",
-    "name": "Block Placer",
-    "version": "6.9",
-    "mod_id": "block-placer",
-    "author": "Light",
-    "lastUpdated": "2022-04-19T17:39:18Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
-  },
-  {
     "repo": "Fabizocker456/test",
     "name": "Test mod",
     "version": "1.0",
@@ -2455,6 +2468,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "DeltaNedas/waisa",
+    "name": "WAISA",
+    "version": "2.3.3",
+    "mod_id": "waisa",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-04-19T21:22:51Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2754,19 +2780,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
-    "repo": "Radio-Silence-1/2r2tUtilitesMod",
-    "name": "2R2T Mod",
-    "version": "You Dont See This",
-    "mod_id": "2r2t utilty mod",
-    "author": "No",
-    "lastUpdated": "2022-03-26T16:38:43Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A custom mod for 2r2t, I would suggest getting the brother mod '2r2t Utility Extension' \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
     "repo": "YSpoof/mindustry-zmod",
