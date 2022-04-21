@@ -1105,6 +1105,19 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-04-21T03:52:53Z",
+    "stars": 12,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of cybernetic things!!!"
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "version": "1.7.0",
@@ -1222,25 +1235,12 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-21T03:52:53Z",
-    "stars": 11,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of cybernetic things!!!"
-  },
-  {
     "repo": "12three7/Binary0011",
     "name": "Binary0011",
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-21T05:29:42Z",
+    "lastUpdated": "2022-04-21T05:33:06Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2080,19 +2080,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "Fabizocker456/test",
-    "name": "Test mod",
-    "version": "1.0",
-    "mod_id": "test",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-04-19T18:29:59Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
     "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "6.9",
@@ -2169,6 +2156,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2379,19 +2379,6 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "version": "1.0",
-    "mod_id": "calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-02-06T17:39:10Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.03",
@@ -2457,6 +2444,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "Fabizocker456/test",
+    "name": "Test mod",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-04-19T18:29:59Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
     "repo": "DeltaNedas/waisa",
     "name": "WAISA",
     "version": "2.3.3",
@@ -2468,6 +2468,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "version": "1.1",
+    "mod_id": "calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-04-21T07:43:48Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "als39175/Infinity-Cheat",
