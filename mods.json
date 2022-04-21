@@ -1110,7 +1110,7 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-21T03:52:53Z",
+    "lastUpdated": "2022-04-21T14:26:18Z",
     "stars": 12,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1240,7 +1240,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-21T05:33:06Z",
+    "lastUpdated": "2022-04-21T14:23:19Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2158,19 +2158,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2834,19 +2821,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.5.7",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-04-16T09:03:13Z",
-    "stars": 4,
-    "minGameVersion": "135.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
@@ -2858,6 +2832,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.5.7",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-04-21T13:59:35Z",
+    "stars": 4,
+    "minGameVersion": "135.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4485,6 +4472,19 @@
     "description": ""
   },
   {
+    "repo": "CoCuCka-XD/ReloadedMod",
+    "name": "Reloaded",
+    "version": "0.0.0.1 ALPHA",
+    "mod_id": "r",
+    "author": "CoCuCka",
+    "lastUpdated": "2022-04-16T11:03:50Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5447,19 +5447,6 @@
     "description": "Adds matter to extange materials"
   },
   {
-    "repo": "CoCuCka-XD/ReloadedMod",
-    "name": "Reloaded",
-    "version": "0.0.0.1 ALPHA",
-    "mod_id": "r",
-    "author": "CoCuCka",
-    "lastUpdated": "2022-04-16T11:03:50Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
-  },
-  {
     "repo": "A5TR0spud/mindustry-extras",
     "name": "Astronomical Additions [pre alpha]",
     "version": "0.0.1",
@@ -5471,5 +5458,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  Adds various things  "
+  },
+  {
+    "repo": "WilloIzCitron/Mindustry-Devilish-mod",
+    "name": "Devilish Mode",
+    "version": "1.2",
+    "mod_id": "eboy-devilish-mode",
+    "author": "Eboy Plays",
+    "lastUpdated": "2022-04-21T14:45:30Z",
+    "stars": 0,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike"
   }
 ]
