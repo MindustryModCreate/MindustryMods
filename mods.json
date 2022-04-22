@@ -273,19 +273,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2021-10-21T19:22:58Z",
-    "stars": 43,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
     "repo": "Sharlottes/sharustry",
     "name": "Sharustry",
     "version": "0.2v",
@@ -310,6 +297,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
+  },
+  {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2022-04-22T03:59:40Z",
+    "stars": 43,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -1079,19 +1079,6 @@
     "description": "Very pog."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "36",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-04-17T21:08:38Z",
-    "stars": 12,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting",
     "name": "Endless Rusting",
     "version": "_i_ co__u__s a__ 7.1",
@@ -1110,12 +1097,25 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-21T14:26:18Z",
+    "lastUpdated": "2022-04-22T02:19:11Z",
     "stars": 12,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of cybernetic things!!!"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "36",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-04-22T04:21:46Z",
+    "stars": 12,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1240,7 +1240,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-21T14:23:19Z",
+    "lastUpdated": "2022-04-22T05:25:40Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1552,7 +1552,7 @@
     "version": "0.1 Algorithm",
     "mod_id": "auto-research",
     "author": "Flin",
-    "lastUpdated": "2022-04-21T01:43:46Z",
+    "lastUpdated": "2022-04-22T00:55:26Z",
     "stars": 8,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -1807,19 +1807,6 @@
     "description": "A Completely new gamemode!"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-21T01:09:13Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "EchoVespy/Simplistic",
     "name": "Simplistic - TexturePack",
     "version": "0.8.1",
@@ -1831,6 +1818,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-04-22T01:10:31Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2158,19 +2158,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2403,19 +2390,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A custom mod for 2r2t, I would suggest getting the brother mod '2r2t Utility Extension' \n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
-    "repo": "ExplerHD/Old-Era-Revival",
-    "name": "Old Era Revival",
-    "version": "0.75",
-    "mod_id": "oer",
-    "author": "ExplerHD, 1237",
-    "lastUpdated": "2022-04-13T13:12:54Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
     "repo": "WilloIzCitron/alex-dustry",
@@ -4678,6 +4652,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds blocks that allow you to play music!"
+  },
+  {
+    "repo": "MEEPofFaith/mindustry-modding-docs-examples",
+    "name": "Modding Docs Example Codes",
+    "version": "0",
+    "mod_id": "mod-docs",
+    "author": "  MEEP of Faith",
+    "lastUpdated": "2021-01-21T07:54:19Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Displays the modding docs code examples."
   },
   {
     "repo": "Destrux/mega-battery-mod",
