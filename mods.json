@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-04-19T10:29:39Z",
-    "stars": 195,
+    "stars": 196,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -239,7 +239,7 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-22T22:10:54Z",
+    "lastUpdated": "2022-04-23T06:05:50Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -286,19 +286,6 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-05T23:30:47Z",
-    "stars": 43,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -323,6 +310,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-05T23:30:47Z",
+    "stars": 42,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -1105,19 +1105,6 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "36",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-04-22T06:00:37Z",
-    "stars": 12,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3",
@@ -1129,6 +1116,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of cybernetic things!!!"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "36",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-04-23T06:55:11Z",
+    "stars": 12,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1253,7 +1253,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-23T05:06:24Z",
+    "lastUpdated": "2022-04-23T10:02:00Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2821,19 +2821,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.5.7",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-04-21T13:59:35Z",
-    "stars": 4,
-    "minGameVersion": "135.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "Error-In-Code/Nuclear-Mines-Mod",
     "name": "Nuclear Mines",
     "version": "0.1",
@@ -2858,6 +2845,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.5.7",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-04-23T09:35:54Z",
+    "stars": 4,
+    "minGameVersion": "135.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3861,19 +3861,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "youngterror3/MindustryJavaMod",
-    "name": "Mindustry Java Mod",
-    "version": "1.0",
-    "mod_id": "mind",
-    "author": "youngterror3",
-    "lastUpdated": "2022-01-09T18:49:23Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod."
-  },
-  {
     "repo": "DeltaNedas/item-grabber",
     "name": "Item Grabber",
     "version": "1.0.3",
@@ -4212,19 +4199,6 @@
     "description": "Epic mindustry mod"
   },
   {
-    "repo": "ZZY2357/super-mecha",
-    "name": "Super Mecha",
-    "version": "1.0",
-    "mod_id": "super-mecha",
-    "author": "zzy2357@outlook.com",
-    "lastUpdated": "2021-10-05T09:16:42Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Super Mecha. 一个超强的机甲"
-  },
-  {
     "repo": "Icewav3/mindustry-vanilla-expanded",
     "name": "Vanilla Expanded",
     "version": "0.1",
@@ -4314,19 +4288,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
-  },
-  {
-    "repo": "Goobrr/Finality",
-    "name": "Finality",
-    "version": "0",
-    "mod_id": "finality",
-    "author": "Goober",
-    "lastUpdated": "2021-12-23T03:11:12Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Auseawesome/Mindustry-GameBreaker",
@@ -4639,19 +4600,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -5159,19 +5107,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
