@@ -286,6 +286,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-05T23:30:47Z",
+    "stars": 43,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -310,19 +323,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-05T23:30:47Z",
-    "stars": 42,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -473,7 +473,7 @@
     "version": "2 b38",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-04-22T19:50:27Z",
+    "lastUpdated": "2022-04-23T02:51:35Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1040,6 +1040,19 @@
     "description": "Explore minerals and mechanisms."
   },
   {
+    "repo": "AshesKaiser-KR/ExampleJavaMod",
+    "name": "Mindustry Industrial Mod",
+    "version": "0.1",
+    "mod_id": "industrial",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-01-20T14:31:41Z",
+    "stars": 12,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
+  },
+  {
     "repo": "Zeniku/HeavyMachinery",
     "name": "Heavy Machinery",
     "version": "1.0",
@@ -1240,7 +1253,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-22T21:07:02Z",
+    "lastUpdated": "2022-04-23T05:06:24Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1272,19 +1285,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "AshesKaiser-KR/ExampleJavaMod",
-    "name": "Mindustry Industrial Mod",
-    "version": "0.1",
-    "mod_id": "industrial",
-    "author": "AshesKaiser",
-    "lastUpdated": "2022-01-20T14:31:41Z",
-    "stars": 10,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first java Mindustry mod"
   },
   {
     "repo": "Mnemotechnician/CKAT",
@@ -1838,7 +1838,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-22T01:10:31Z",
+    "lastUpdated": "2022-04-23T01:05:15Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2756,19 +2756,6 @@
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
   },
   {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-02-19T20:22:57Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "YSpoof/mindustry-zmod",
     "name": "ZMod",
     "version": "1.0.4f",
@@ -2847,12 +2834,25 @@
     "description": "A java mod for Mindustry."
   },
   {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-04-23T00:45:06Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-04-22T18:04:25Z",
+    "lastUpdated": "2022-04-23T02:22:49Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
