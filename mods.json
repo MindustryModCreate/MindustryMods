@@ -1253,7 +1253,7 @@
     "version": "0.0.6",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-04-23T14:39:05Z",
+    "lastUpdated": "2022-04-23T20:35:34Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1417,6 +1417,19 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "GlennFolker/Confictura",
+    "name": "Confictura",
+    "version": "0.1",
+    "mod_id": "confictura",
+    "author": "GlennFolker",
+    "lastUpdated": "2022-04-23T14:57:47Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "... far beneath the reality."
+  },
+  {
     "repo": "DeltaNedas/override-lib",
     "name": "Override Lib",
     "version": "1.0.1",
@@ -1571,19 +1584,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "GlennFolker/Confictura",
-    "name": "Confictura",
-    "version": "0.1",
-    "mod_id": "confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2022-04-23T14:57:47Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "... far beneath the reality."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -2834,19 +2834,6 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-04-23T02:22:49Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "version": "1.5.7",
@@ -2858,6 +2845,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-04-23T22:02:45Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
