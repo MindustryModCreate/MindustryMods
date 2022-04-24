@@ -239,7 +239,7 @@
     "version": "1.5.5",
     "mod_id": "unitinfo",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-24T06:48:46Z",
+    "lastUpdated": "2022-04-24T10:29:16Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -949,19 +949,6 @@
     "description": "hehe angish go nrrrt"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-04-19T16:39:08Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "GlennFolker/Confictura",
     "name": "Confictura",
     "version": "0.1",
@@ -973,6 +960,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-04-24T14:21:59Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1092,19 +1092,6 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.5",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-17T15:46:03Z",
-    "stars": 12,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting",
     "name": "Endless Rusting",
     "version": "_i_ co__u__s a__ 7.1",
@@ -1142,6 +1129,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of cybernetic things!!!"
+  },
+  {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.5",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-04-24T13:00:16Z",
+    "stars": 12,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1313,6 +1313,19 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "0.1 Algorithm",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-22T10:25:54Z",
+    "stars": 10,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1428,19 +1441,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "0.1 Algorithm",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-22T10:25:54Z",
-    "stars": 9,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -1838,7 +1838,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-24T01:01:26Z",
+    "lastUpdated": "2022-04-24T12:22:34Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3146,19 +3146,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Sh1penfire/Slow-Kindling",
-    "name": "Slow Kindling",
-    "version": "skidiabapop",
-    "mod_id": "slowK",
-    "author": "Sh1penfire",
-    "lastUpdated": "2021-12-05T13:18:07Z",
-    "stars": 3,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A texture pack and effect replacing mod that I'm making for fun."
-  },
-  {
     "repo": "Mnemotechnician/total-chaos",
     "name": "Total Chaos",
     "version": "1.0",
@@ -3339,6 +3326,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Write some developers of teeworks into the game!"
+  },
+  {
+    "repo": "xStaBUx/OmaLoon-mod-public",
+    "name": "OmaLoon-Mod",
+    "version": "0.1-pre-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-04-24T12:41:45Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little java Mindustry mod"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
