@@ -110,7 +110,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-04-24T15:33:36Z",
-    "stars": 77,
+    "stars": 78,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -897,6 +897,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "sk7725/EXP-lib",
+    "name": "EXP Library",
+    "version": "3.0",
+    "mod_id": "exp-lib",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-27T03:50:40Z",
+    "stars": 13,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "EXP Library for 6.0!"
+  },
+  {
     "repo": "DaGamerFiles/classic-music",
     "name": "<Mindustry> Classic Music",
     "version": "2.0",
@@ -973,19 +986,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "sk7725/EXP-lib",
-    "name": "EXP Library",
-    "version": "3.0",
-    "mod_id": "exp-lib",
-    "author": "sk7725",
-    "lastUpdated": "2020-10-27T03:50:40Z",
-    "stars": 12,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "EXP Library for 6.0!"
   },
   {
     "repo": "sk7725/Commands",
@@ -1123,7 +1123,7 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-24T15:42:49Z",
+    "lastUpdated": "2022-04-25T02:27:43Z",
     "stars": 12,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1136,7 +1136,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-24T16:02:31Z",
+    "lastUpdated": "2022-04-25T03:58:50Z",
     "stars": 12,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1838,7 +1838,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-24T12:22:34Z",
+    "lastUpdated": "2022-04-25T01:01:24Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2782,19 +2782,6 @@
     "description": "A vanilla expansion mod that add a new system"
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-03-31T14:03:50Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "rlzzj/Logic-Completion",
     "name": "LogicCompletion",
     "version": "2.0",
@@ -2858,6 +2845,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-04-25T03:27:57Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
