@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-04-15T09:02:02Z",
-    "stars": 91,
+    "stars": 92,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -110,7 +110,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-04-24T15:33:36Z",
-    "stars": 78,
+    "stars": 79,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "mod_id": "btm",
     "author": "guiY & Carrot",
     "lastUpdated": "2022-03-10T11:11:59Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
@@ -286,19 +286,6 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-05T23:30:47Z",
-    "stars": 43,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -323,6 +310,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-27T15:18:51Z",
+    "stars": 43,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -1019,7 +1019,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-25T03:58:50Z",
+    "lastUpdated": "2022-04-27T16:41:26Z",
     "stars": 13,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -3523,19 +3523,6 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "Galactustry",
-    "author": "NileDerg",
-    "lastUpdated": "2021-03-18T17:47:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
     "name": "save The NEXUS",
     "version": "1.0",
@@ -3612,19 +3599,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "Pietro303HD/dynamics",
-    "name": "dynamics",
-    "version": "0.1",
-    "mod_id": "dynamics",
-    "author": "Pietro",
-    "lastUpdated": "2021-05-29T02:23:41Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
   },
   {
     "repo": "pavel-8516/upLevel",
@@ -4009,7 +3983,7 @@
     "version": "0.4.0",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-04-23T17:22:50Z",
+    "lastUpdated": "2022-04-27T20:04:50Z",
     "stars": 2,
     "minGameVersion": "130.1",
     "hasScripts": false,
@@ -4992,6 +4966,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "Mikka6489/engineer-gaming",
+    "name": "engineer-gaming",
+    "version": "1.8",
+    "mod_id": "Engineer Gaming",
+    "author": "Mikka & Westycj",
+    "lastUpdated": "2021-09-30T05:42:32Z",
+    "stars": 0,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Engineer Gaming, goes the saying. this mod add new conveyors, turrets and resources that can be used to speed up and buff the mindustry experience lol."
+  },
+  {
     "repo": "MissAmity/Singabana",
     "name": "Singabana",
     "version": "0.1",
@@ -5458,5 +5445,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  Adds various things  "
+  },
+  {
+    "repo": "youngterror3/MindustryJavaMod",
+    "name": "Mindustry Java Mod",
+    "version": "0.1",
+    "mod_id": "MindustryJavaMod",
+    "author": "youngterror3",
+    "lastUpdated": "2022-04-27T17:55:53Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new features."
   }
 ]
