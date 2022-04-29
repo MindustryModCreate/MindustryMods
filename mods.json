@@ -694,8 +694,8 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-29T07:06:56Z",
-    "stars": 20,
+    "lastUpdated": "2022-04-29T15:03:18Z",
+    "stars": 21,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -1019,7 +1019,7 @@
     "version": "0.5",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-04-28T13:18:50Z",
+    "lastUpdated": "2022-04-29T13:30:19Z",
     "stars": 13,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1326,6 +1326,19 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "MQ-1175/campaign-expansion",
+    "name": "Campaign Expansion Mod",
+    "version": "1.0",
+    "mod_id": "campaign-expansion",
+    "author": "M.Q.",
+    "lastUpdated": "2022-04-29T05:41:59Z",
+    "stars": 10,
+    "minGameVersion": "124",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon"
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1591,7 +1604,7 @@
     "version": "1.4 [U2]",
     "mod_id": "EI",
     "author": "WMF Industries Mod Team",
-    "lastUpdated": "2022-04-17T07:25:38Z",
+    "lastUpdated": "2022-04-29T13:15:32Z",
     "stars": 8,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1851,7 +1864,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-29T01:08:00Z",
+    "lastUpdated": "2022-04-29T12:27:23Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2182,19 +2195,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
   },
   {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
@@ -2860,30 +2860,30 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-04-25T03:27:57Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "version": "1.5.7",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-04-29T10:02:15Z",
+    "lastUpdated": "2022-04-29T11:36:42Z",
     "stars": 4,
     "minGameVersion": "135.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-04-29T14:51:13Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3040,6 +3040,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Anuken"
+  },
+  {
+    "repo": "FreezeMandu/minZoom",
+    "name": "minZoom",
+    "version": "1.52",
+    "mod_id": "minzoom",
+    "author": "Mandu",
+    "lastUpdated": "2021-06-26T07:21:34Z",
+    "stars": 3,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
+    "repo": "amg2048/saphatax",
+    "name": "Saphatax",
+    "version": "0.1.5 test build 1/3",
+    "mod_id": "saphatax",
+    "author": "aden8r",
+    "lastUpdated": "2021-06-27T15:36:10Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
   },
   {
     "repo": "BlueTechnoCat/Galaxite-Mod",
@@ -3393,19 +3419,6 @@
     "description": "铜是万能的(双关)"
   },
   {
-    "repo": "DeltaNedas/boost-control",
-    "name": "Boost Control",
-    "version": "2.2.0",
-    "mod_id": "boost-control",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:22Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -3536,19 +3549,6 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "Galactustry",
-    "author": "NileDerg",
-    "lastUpdated": "2021-03-18T17:47:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
     "name": "save The NEXUS",
     "version": "1.0",
@@ -3627,19 +3627,6 @@
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
   },
   {
-    "repo": "Pietro303HD/dynamics",
-    "name": "dynamics",
-    "version": "0.1",
-    "mod_id": "dynamics",
-    "author": "Pietro",
-    "lastUpdated": "2021-05-29T02:23:41Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
-  },
-  {
     "repo": "pavel-8516/upLevel",
     "name": "uplevel",
     "version": "0.5.3",
@@ -3664,19 +3651,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is just a simple Mindustry mod."
-  },
-  {
-    "repo": "FreezeMandu/minZoom",
-    "name": "minZoom",
-    "version": "1.52",
-    "mod_id": "minzoom",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-26T07:21:34Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
@@ -3887,19 +3861,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "Duvent-mindustry/Mindustry-GG-Mod",
-    "name": "Duvents Turrets",
-    "version": "0.1.4",
-    "mod_id": "Mindustry-GG-Mod",
-    "author": "Duvent",
-    "lastUpdated": "2022-01-20T08:44:17Z",
-    "stars": 2,
-    "minGameVersion": "124",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a small mod"
-  },
-  {
     "repo": "EmanuelG-Gaming/barrier",
     "name": "Barrier",
     "version": "1.0, the Final Update...?",
@@ -3991,19 +3952,6 @@
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
-    "repo": "12three7/MindustryJsonModTemplate",
-    "name": "MindustryJsonModTemplate",
-    "version": "1.0",
-    "mod_id": "",
-    "author": "",
-    "lastUpdated": "2022-04-11T14:37:59Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "VladTheEvilCat/Electro-Magnetic-Weaponry",
     "name": "Electro-Magnetic Weaponry",
     "version": "1.8.11",
@@ -4041,6 +3989,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
+    "repo": "Duvent-mindustry/Mindustry-GG-Mod",
+    "name": "Duvents Turrets",
+    "version": "0.1.4",
+    "mod_id": "Mindustry-GG-Mod",
+    "author": "Duvent",
+    "lastUpdated": "2022-04-29T11:14:06Z",
+    "stars": 2,
+    "minGameVersion": "124",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a small mod"
   },
   {
     "repo": "4156/Infintory",
