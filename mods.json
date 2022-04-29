@@ -343,7 +343,7 @@
     "version": "23.7",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-04-28T04:54:40Z",
+    "lastUpdated": "2022-04-29T08:57:10Z",
     "stars": 38,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -689,6 +689,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-04-29T07:06:56Z",
+    "stars": 20,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of cybernetic things!!!"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-04-29T00:10:43Z",
-    "stars": 19,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of cybernetic things!!!"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1131,6 +1131,19 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
+    "repo": "12three7/Binary0011",
+    "name": "Binary0011",
+    "version": "0.0.6",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-04-28T11:59:15Z",
+    "stars": 12,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237.\nDiscord: https://discord.gg/e3gGyen2dT"
+  },
+  {
     "repo": "Sh1penfire/Endless-Rusting",
     "name": "Endless Rusting: Termernation Forthcoming",
     "version": "_i_ co__u__s a__ 7.1",
@@ -1259,19 +1272,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
-  },
-  {
-    "repo": "12three7/Binary0011",
-    "name": "Binary0011",
-    "version": "0.0.6",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-04-28T11:59:15Z",
-    "stars": 11,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237.\nDiscord: https://discord.gg/e3gGyen2dT"
   },
   {
     "repo": "Slotterleet/Basic-Schematics",
@@ -2184,6 +2184,19 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
+    "repo": "sergeyoshpo/avaritia",
+    "name": "avaritia",
+    "version": "2.0",
+    "mod_id": "avaritia",
+    "author": "CAT",
+    "lastUpdated": "2021-03-29T16:03:24Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
     "repo": "TheSaus/DubiousWhiteLiquidustry",
     "name": "DubiousWhiteLiquidustry",
     "version": "1.0.1",
@@ -2834,19 +2847,6 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
-    "repo": "rlzzj/MinerTools",
-    "name": "MinerTools",
-    "version": "1.5.7",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-04-23T09:35:54Z",
-    "stars": 4,
-    "minGameVersion": "135.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
@@ -2871,6 +2871,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
+  },
+  {
+    "repo": "rlzzj/MinerTools",
+    "name": "MinerTools",
+    "version": "1.5.7",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-04-29T10:02:15Z",
+    "stars": 4,
+    "minGameVersion": "135.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3523,6 +3536,19 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2021-03-18T17:47:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
+  },
+  {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
     "name": "save The NEXUS",
     "version": "1.0",
@@ -3599,6 +3625,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
+  },
+  {
+    "repo": "Pietro303HD/dynamics",
+    "name": "dynamics",
+    "version": "0.1",
+    "mod_id": "dynamics",
+    "author": "Pietro",
+    "lastUpdated": "2021-05-29T02:23:41Z",
+    "stars": 2,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
   },
   {
     "repo": "pavel-8516/upLevel",
@@ -3950,6 +3989,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "12three7/MindustryJsonModTemplate",
+    "name": "MindustryJsonModTemplate",
+    "version": "1.0",
+    "mod_id": "",
+    "author": "",
+    "lastUpdated": "2022-04-11T14:37:59Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "VladTheEvilCat/Electro-Magnetic-Weaponry",
@@ -4418,19 +4470,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches"
-  },
-  {
-    "repo": "12three7/MindustryJsonModTemplate",
-    "name": "MindustryJsonModTemplate",
-    "version": "1.0",
-    "mod_id": "",
-    "author": "",
-    "lastUpdated": "2022-04-11T14:37:59Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "CoCuCka-XD/ReloadedMod",
