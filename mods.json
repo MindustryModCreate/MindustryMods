@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-04-24T21:21:47Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -71,7 +71,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-04-06T08:14:34Z",
-    "stars": 105,
+    "stars": 107,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -91,6 +91,19 @@
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.1",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-04-24T15:33:36Z",
+    "stars": 82,
+    "minGameVersion": "135.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
     "name": "Heavy Armaments Industries [DISCONTINUED]",
     "version": "2.6",
@@ -102,19 +115,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is now discontinued. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.1",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-04-24T15:33:36Z",
-    "stars": 81,
-    "minGameVersion": "135.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "QmelZ/hackustry",
@@ -188,7 +188,7 @@
     "mod_id": "pictologic",
     "author": "DeltaNedas, Router and another guy",
     "lastUpdated": "2021-05-15T09:37:44Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
@@ -214,7 +214,7 @@
     "mod_id": "ui-lib",
     "author": "DeltaNedas",
     "lastUpdated": "2021-05-17T19:01:47Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "108",
     "hasScripts": true,
     "hasJava": false,
@@ -343,8 +343,8 @@
     "version": "23.7",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-04-30T06:40:31Z",
-    "stars": 38,
+    "lastUpdated": "2022-05-01T00:18:13Z",
+    "stars": 39,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -3406,19 +3406,6 @@
     "description": "铜是万能的(双关)"
   },
   {
-    "repo": "DeltaNedas/boost-control",
-    "name": "Boost Control",
-    "version": "2.2.0",
-    "mod_id": "boost-control",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:22Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -3547,6 +3534,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2021-03-18T17:47:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
   },
   {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
