@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-02T22:45:34Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -91,6 +91,19 @@
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
+    "repo": "Eschatologue/Heavy-Armaments-Industries",
+    "name": "Heavy Armaments Industries [DISCONTINUED]",
+    "version": "2.6",
+    "mod_id": "Heavy Armaments",
+    "author": "[#386dff]Eschatologue[]",
+    "lastUpdated": "2022-02-08T09:34:31Z",
+    "stars": 82,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is now discontinued. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
+  },
+  {
     "repo": "AvantTeam/ProjectUnityPublic",
     "name": "Project Unity",
     "version": "0.1",
@@ -102,19 +115,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
-    "repo": "Eschatologue/Heavy-Armaments-Industries",
-    "name": "Heavy Armaments Industries [DISCONTINUED]",
-    "version": "2.6",
-    "mod_id": "Heavy Armaments",
-    "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2022-02-08T09:34:31Z",
-    "stars": 81,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is now discontinued. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -344,7 +344,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
     "lastUpdated": "2022-05-04T08:43:11Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -395,7 +395,7 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-04T09:35:32Z",
+    "lastUpdated": "2022-05-04T12:05:17Z",
     "stars": 33,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-04T01:10:52Z",
+    "lastUpdated": "2022-05-04T12:29:15Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2795,19 +2795,6 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
-    "repo": "Cry0flu1d/Project-Frost",
-    "name": "Project Frost",
-    "version": "0.1-beta",
-    "mod_id": "pf",
-    "author": "Cry0flu1d & 2356",
-    "lastUpdated": "2022-03-29T12:08:23Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla expansion mod that add a new system"
-  },
-  {
     "repo": "hortiSquash/hortiblocks",
     "name": "horti blocks",
     "version": "1.1",
@@ -3053,6 +3040,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "amg2048/saphatax",
+    "name": "Saphatax",
+    "version": "0.1.5 test build 1/3",
+    "mod_id": "saphatax",
+    "author": "aden8r",
+    "lastUpdated": "2021-06-27T15:36:10Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
   },
   {
     "repo": "BlueTechnoCat/Galaxite-Mod",
@@ -3315,6 +3315,19 @@
     "description": "A mod. Content was be here."
   },
   {
+    "repo": "Cry0flu1d/Project-Frost",
+    "name": "Project Frost",
+    "version": "0.1-beta",
+    "mod_id": "pf",
+    "author": "Cry0flu1d & 2356",
+    "lastUpdated": "2022-03-29T12:08:23Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A vanilla expansion mod that add a new system"
+  },
+  {
     "repo": "sebmeister2077/GifToLogic",
     "name": "GifToLogic",
     "version": "2.6.0",
@@ -3534,6 +3547,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2021-03-18T17:47:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
   },
   {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
@@ -5436,10 +5462,10 @@
   {
     "repo": "936338156/Mindustry-Interplanetary-Industries-MOD",
     "name": "星际工业",
-    "version": "0.12.0",
+    "version": "0.13.3",
     "mod_id": "星际工业",
     "author": "羊叫兽OwO",
-    "lastUpdated": "2022-05-04T03:56:26Z",
+    "lastUpdated": "2022-05-04T13:44:22Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
