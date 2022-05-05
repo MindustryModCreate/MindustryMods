@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 133,
+    "stars": 134,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -252,7 +252,7 @@
     "version": "0.7.8.1",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-05-05T02:01:56Z",
+    "lastUpdated": "2022-05-05T13:15:36Z",
     "stars": 47,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -357,7 +357,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-05-05T08:00:56Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -832,6 +832,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.6.0",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-06T16:39:04Z",
+    "stars": 16,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.3",
@@ -882,19 +895,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.6.0",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-06T16:39:04Z",
-    "stars": 15,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
   },
   {
     "repo": "DeltaNedas/ldb",
@@ -1326,6 +1326,19 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.2.0",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-02T15:30:07Z",
+    "stars": 10,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "0.1 Algorithm",
@@ -1441,19 +1454,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.2.0",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-02T15:30:07Z",
-    "stars": 9,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "3Snake3/Units-mod",
@@ -1690,7 +1690,7 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
-    "repo": "synthw0rk/Unit-Turrets",
+    "repo": "Schedarian/Unit-Turrets",
     "name": "Unit Turrets",
     "version": "0.5",
     "mod_id": "unit-turrets",
@@ -2132,6 +2132,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "xStaBUx/OmaLoon-mod-public",
+    "name": "OmaLoon-Mod",
+    "version": "0.2-pre-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-04-27T11:03:52Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little java Mindustry mod"
+  },
+  {
     "repo": "Fabizocker456/test",
     "name": "Test mod",
     "version": "1.0",
@@ -2468,19 +2481,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "xStaBUx/OmaLoon-mod-public",
-    "name": "OmaLoon-Mod",
-    "version": "0.2-pre-alpha(buggy)",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-04-27T11:03:52Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little java Mindustry mod"
   },
   {
     "repo": "rlzzj/MinerTools",
@@ -3040,19 +3040,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "amg2048/saphatax",
-    "name": "Saphatax",
-    "version": "0.1.5 test build 1/3",
-    "mod_id": "saphatax",
-    "author": "aden8r",
-    "lastUpdated": "2021-06-27T15:36:10Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
   },
   {
     "repo": "BlueTechnoCat/Galaxite-Mod",
@@ -3638,6 +3625,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
+  },
+  {
+    "repo": "Pietro303HD/dynamics",
+    "name": "dynamics",
+    "version": "0.1",
+    "mod_id": "dynamics",
+    "author": "Pietro",
+    "lastUpdated": "2021-05-29T02:23:41Z",
+    "stars": 2,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
   },
   {
     "repo": "pavel-8516/upLevel",
@@ -5471,5 +5471,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add some new parts to the game"
+  },
+  {
+    "repo": "Pepa3/MindustryMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-05-05T14:52:48Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
