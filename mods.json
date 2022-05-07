@@ -186,13 +186,13 @@
     "name": "PicToLogic",
     "version": "1.5.7",
     "mod_id": "pictologic",
-    "author": "DeltaNedas, Router and another guy",
-    "lastUpdated": "2021-05-15T09:37:44Z",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-05-07T15:14:09Z",
     "stars": 55,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/routorio",
@@ -200,7 +200,7 @@
     "version": "3.36.4",
     "mod_id": "routorio",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:07:45Z",
+    "lastUpdated": "2022-05-07T16:06:20Z",
     "stars": 51,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -213,7 +213,7 @@
     "version": "3.16.6",
     "mod_id": "ui-lib",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:00:31Z",
+    "lastUpdated": "2022-05-07T15:24:00Z",
     "stars": 50,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -223,15 +223,15 @@
   {
     "repo": "DeltaNedas/rtfm",
     "name": "RTFM",
-    "version": "2.15.0",
+    "version": "3.15.0",
     "mod_id": "rtfm",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:09:04Z",
-    "stars": 49,
-    "minGameVersion": "105",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:52:23Z",
+    "stars": 50,
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -330,7 +330,7 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-07T13:14:57Z",
+    "lastUpdated": "2022-05-07T15:15:57Z",
     "stars": 42,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -496,10 +496,10 @@
   {
     "repo": "NickName73/GRavillaso",
     "name": "GRavillaso",
-    "version": "2 b39",
+    "version": "2 b40",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-07T15:07:53Z",
+    "lastUpdated": "2022-05-07T15:17:39Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -548,10 +548,10 @@
   {
     "repo": "3Snake3/Sapphirium",
     "name": "Sapphirium",
-    "version": "13.0",
+    "version": "14.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-04-17T09:17:48Z",
+    "lastUpdated": "2022-05-07T18:16:22Z",
     "stars": 27,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -717,15 +717,15 @@
   {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
-    "version": "2.5.0",
+    "version": "3.5.0",
     "mod_id": "unit-factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:32:30Z",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:53Z",
     "stars": 19,
-    "minGameVersion": "131",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1214,7 +1214,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-06T21:53:57Z",
+    "lastUpdated": "2022-05-07T18:56:43Z",
     "stars": 12,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1456,19 +1456,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "3Snake3/Units-mod",
-    "name": "Units Mod",
-    "version": "1.0",
-    "mod_id": "units-mod",
-    "author": "Snake",
-    "lastUpdated": "2022-04-17T01:32:27Z",
-    "stars": 9,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 [U3]",
@@ -1480,6 +1467,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "3Snake3/Units-mod",
+    "name": "Units Mod",
+    "version": " new 2.0",
+    "mod_id": "units-mod",
+    "author": "Snake",
+    "lastUpdated": "2022-05-07T18:24:05Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -1649,19 +1649,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds more thorium development"
-  },
-  {
-    "repo": "DeltaNedas/speed",
-    "name": "Speed",
-    "version": "2.2.1",
-    "mod_id": "speed",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:59Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
   },
   {
     "repo": "DeltaNedas/cliff",
@@ -1911,6 +1898,19 @@
     "description": "Leet speak localisator."
   },
   {
+    "repo": "DeltaNedas/speed",
+    "name": "Speed",
+    "version": "3.2.1",
+    "mod_id": "speed",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T16:00:47Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
+  },
+  {
     "repo": "DeltaNedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -1935,19 +1935,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Two (2) times faster conveyors, at twice the cost"
-  },
-  {
-    "repo": "DeltaNedas/mobile-ui",
-    "name": "Mobile UI",
-    "version": "2.0.0",
-    "mod_id": "mobile-ui",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:37Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "DeltaNedas/yes",
@@ -2169,6 +2156,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "DeltaNedas/mobile-ui",
+    "name": "Mobile UI",
+    "version": "3.0.0",
+    "mod_id": "mobile-ui",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:17:19Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2470,19 +2470,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "DeltaNedas/waisa",
-    "name": "WAISA",
-    "version": "2.3.3",
-    "mod_id": "waisa",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-04-19T21:22:51Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2520,6 +2507,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "DeltaNedas/waisa",
+    "name": "WAISA",
+    "version": "3.3.3",
+    "mod_id": "waisa",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:47Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3783,19 +3783,6 @@
     "description": "A mod that adds colored walls and conveyors."
   },
   {
-    "repo": "TheEE145/ohNoNooh",
-    "name": "ohNoNooh",
-    "version": "6",
-    "mod_id": "ohNoNooh",
-    "author": "TheEE145",
-    "lastUpdated": "2021-09-28T12:37:53Z",
-    "stars": 2,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this game with this mod was cursed"
-  },
-  {
     "repo": "Ilya246/quoteStrings",
     "name": "Quoted Strings",
     "version": "1.6",
@@ -4015,6 +4002,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "TheEE145/ohNoNooh",
+    "name": "ohNoNooh",
+    "version": "6",
+    "mod_id": "ohNoNooh",
+    "author": "TheEE145",
+    "lastUpdated": "2022-05-07T19:03:35Z",
+    "stars": 2,
+    "minGameVersion": "116",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this game with this mod was cursed"
   },
   {
     "repo": "4156/Infintory",
