@@ -19,7 +19,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-01-17T08:20:21Z",
-    "stars": 162,
+    "stars": 163,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-02T22:45:34Z",
-    "stars": 138,
+    "stars": 139,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -273,6 +273,19 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-09T08:48:56Z",
+    "stars": 45,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語) and Russian(Русский).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.5.1",
@@ -286,17 +299,17 @@
     "description": "No description provided."
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-09T01:55:34Z",
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-27T15:18:51Z",
     "stars": 44,
-    "minGameVersion": "135",
+    "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語) and Russian(Русский).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "AeronGreva/AeroMindustry",
@@ -310,19 +323,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-27T15:18:51Z",
-    "stars": 43,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -819,6 +819,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.3",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2021-10-04T04:23:03Z",
+    "stars": 16,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Eclipse",
     "name": "Project Eclipse",
     "version": "0.1.0.3",
@@ -843,19 +856,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.3",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2021-10-04T04:23:03Z",
-    "stars": 15,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -2496,19 +2496,6 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "RlCCJ/MinerTools",
-    "name": "MinerTools",
-    "version": "1.5.8",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-05-06T05:04:46Z",
-    "stars": 5,
-    "minGameVersion": "135.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "DeltaNedas/waisa",
     "name": "WAISA",
     "version": "3.3.3",
@@ -2520,6 +2507,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "RlCCJ/MinerTools",
+    "name": "MinerTools",
+    "version": "1.5.8",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-05-09T05:49:22Z",
+    "stars": 5,
+    "minGameVersion": "135.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2847,19 +2847,6 @@
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-05-07T07:23:19Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "DeltaNedas/radar",
     "name": "Radar",
     "version": "3.10.5",
@@ -2871,6 +2858,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-05-09T07:04:29Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3406,19 +3406,6 @@
     "description": "铜是万能的(双关)"
   },
   {
-    "repo": "DeltaNedas/boost-control",
-    "name": "Boost Control",
-    "version": "2.2.0",
-    "mod_id": "boost-control",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:22Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -3547,6 +3534,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2021-03-18T17:47:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
   },
   {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
@@ -4503,7 +4503,7 @@
     "version": "0.0.1",
     "mod_id": "astro-adds",
     "author": "A5TR0spud",
-    "lastUpdated": "2022-05-09T05:06:47Z",
+    "lastUpdated": "2022-05-09T05:22:09Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
