@@ -123,7 +123,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2021-10-27T16:46:48Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -234,6 +234,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Information",
+    "version": "1.5.5",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-05-08T08:15:59Z",
+    "stars": 50,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
@@ -245,19 +258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Information",
-    "version": "1.5.5",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-05-08T08:15:59Z",
-    "stars": 49,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -364,6 +364,19 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
+    "name": "Progressed Materials (Java)",
+    "version": "14.1",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:12:43Z",
+    "stars": 35,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-js",
     "name": "Progressed Materials (JS)",
     "version": "0.40 FINAL JS UPDATE",
@@ -375,19 +388,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
-    "name": "Progressed Materials (Java)",
-    "version": "14.1",
-    "mod_id": "prog-mats",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2022-01-25T06:12:43Z",
-    "stars": 34,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "Gdeft/portal",
@@ -481,6 +481,19 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
+    "repo": "NickName73/GRavillaso",
+    "name": "GRavillaso",
+    "version": "2 b41",
+    "mod_id": "gravillaso",
+    "author": "NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-05-09T14:54:23Z",
+    "stars": 29,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -499,25 +512,12 @@
     "version": "14.0",
     "mod_id": "adc",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-05-08T09:24:55Z",
+    "lastUpdated": "2022-05-09T17:05:06Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of additional content like turrets, factories and other."
-  },
-  {
-    "repo": "NickName73/GRavillaso",
-    "name": "GRavillaso",
-    "version": "2 b41",
-    "mod_id": "gravillaso",
-    "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-09T14:54:23Z",
-    "stars": 28,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "Gdeft/substructure",
@@ -1214,9 +1214,9 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-09T03:51:33Z",
+    "lastUpdated": "2022-05-09T19:12:33Z",
     "stars": 12,
-    "minGameVersion": "122",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
@@ -4490,7 +4490,7 @@
     "version": "0.0.1",
     "mod_id": "astro-adds",
     "author": "A5TR0spud",
-    "lastUpdated": "2022-05-09T05:22:09Z",
+    "lastUpdated": "2022-05-09T17:03:28Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5330,6 +5330,19 @@
     "description": "Adds more units to mindustry"
   },
   {
+    "repo": "SakuraLilly/Trade-It",
+    "name": "Trade it",
+    "version": "2.3",
+    "mod_id": "Trade it",
+    "author": "SakuraLilly",
+    "lastUpdated": "2022-02-26T20:40:32Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
+  },
+  {
     "repo": "laok233/h",
     "name": "h",
     "version": "0.1",
@@ -5341,6 +5354,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "h"
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -PRE ALPHA",
+    "mod_id": "prism",
+    "author": "ice100k & thecrisperson",
+    "lastUpdated": "2022-04-07T11:13:03Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "MountLava/SolarMod",
@@ -5408,19 +5434,6 @@
     "description": "Adds matter to extange materials"
   },
   {
-    "repo": "Pepa3/MindustryMod",
-    "name": "AllThings",
-    "version": "0.1",
-    "mod_id": "allthings",
-    "author": "Pepa_3",
-    "lastUpdated": "2022-05-06T19:51:16Z",
-    "stars": 0,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod with All Things in the World"
-  },
-  {
     "repo": "936338156/Mindustry-Interplanetary-Industries-MOD",
     "name": "Interplanetary Industries",
     "version": "1.16.4 Alpha",
@@ -5432,5 +5445,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add some new parts to the game"
+  },
+  {
+    "repo": "Pepa3/MindustryMod",
+    "name": "AllThings",
+    "version": "0.1",
+    "mod_id": "allthings",
+    "author": "Pepa_3",
+    "lastUpdated": "2022-05-09T17:39:53Z",
+    "stars": 0,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod with All Things in the World"
   }
 ]
