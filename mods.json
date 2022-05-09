@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-04-15T09:02:02Z",
-    "stars": 92,
+    "stars": 93,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -265,7 +265,7 @@
     "version": "0.2",
     "mod_id": "time-control",
     "author": "sk7725",
-    "lastUpdated": "2022-05-05T00:48:32Z",
+    "lastUpdated": "2022-05-09T05:01:26Z",
     "stars": 46,
     "minGameVersion": "108",
     "hasScripts": true,
@@ -291,7 +291,7 @@
     "version": "3",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-08T15:40:37Z",
+    "lastUpdated": "2022-05-09T01:55:34Z",
     "stars": 44,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1214,7 +1214,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-08T23:57:13Z",
+    "lastUpdated": "2022-05-09T03:51:33Z",
     "stars": 12,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1885,19 +1885,6 @@
     "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-07T12:23:42Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "DeltaNedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -1909,6 +1896,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-05-09T01:08:23Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "DeltaNedas/no",
@@ -3406,6 +3406,19 @@
     "description": "铜是万能的(双关)"
   },
   {
+    "repo": "DeltaNedas/boost-control",
+    "name": "Boost Control",
+    "version": "2.2.0",
+    "mod_id": "boost-control",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:38:22Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -3991,6 +4004,19 @@
     "description": "this game with this mod was cursed"
   },
   {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.4.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-05-09T01:04:06Z",
+    "stars": 2,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4477,7 +4503,7 @@
     "version": "0.0.1",
     "mod_id": "astro-adds",
     "author": "A5TR0spud",
-    "lastUpdated": "2022-05-08T22:26:26Z",
+    "lastUpdated": "2022-05-09T05:06:47Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
