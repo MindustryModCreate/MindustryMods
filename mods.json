@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-04-19T10:29:39Z",
-    "stars": 203,
+    "stars": 204,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -275,15 +275,15 @@
   {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
-    "version": "3",
+    "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-09T08:48:56Z",
-    "stars": 45,
+    "lastUpdated": "2022-05-09T13:26:49Z",
+    "stars": 46,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語) and Russian(Русский).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian(Українець).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -442,6 +442,19 @@
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
+    "repo": "DeltaNedas/dev-mode",
+    "name": "Developer Mode",
+    "version": "3.3.2",
+    "mod_id": "dev-mode",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T14:59:49Z",
+    "stars": 31,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
     "name": "Endless Rusting Demo",
     "version": "_i_ co__u__s a__ 7.1",
@@ -453,19 +466,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting Demo, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. This is the oficial demo for it's v8 update. Maps are unfinished, so you should probibly wait for a bit before using the mod. I hope that you have a good time playing, and I'll cya in the past."
-  },
-  {
-    "repo": "DeltaNedas/dev-mode",
-    "name": "Developer Mode",
-    "version": "3.3.2",
-    "mod_id": "dev-mode",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T14:59:49Z",
-    "stars": 30,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
     "repo": "MEEPofFaith/missing-category-units",
@@ -494,12 +494,25 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "14.0",
+    "mod_id": "adc",
+    "author": "Snake & SuperJaba2000",
+    "lastUpdated": "2022-05-08T09:24:55Z",
+    "stars": 28,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of additional content like turrets, factories and other."
+  },
+  {
     "repo": "NickName73/GRavillaso",
     "name": "GRavillaso",
     "version": "2 b41",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-08T12:48:56Z",
+    "lastUpdated": "2022-05-09T14:54:23Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -544,19 +557,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "14.0",
-    "mod_id": "adc",
-    "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-05-08T09:24:55Z",
-    "stars": 27,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -1287,6 +1287,19 @@
     "description": "Немного читов"
   },
   {
+    "repo": "3Snake3/Units-mod",
+    "name": "Units Mod",
+    "version": " new 2.0",
+    "mod_id": "units-mod",
+    "author": "Snake",
+    "lastUpdated": "2022-05-07T18:24:05Z",
+    "stars": 11,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1350,19 +1363,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "3Snake3/Units-mod",
-    "name": "Units Mod",
-    "version": " new 2.0",
-    "mod_id": "units-mod",
-    "author": "Snake",
-    "lastUpdated": "2022-05-07T18:24:05Z",
-    "stars": 10,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-09T01:08:23Z",
+    "lastUpdated": "2022-05-09T12:26:59Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3536,19 +3536,6 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "Galactustry",
-    "author": "NileDerg",
-    "lastUpdated": "2021-03-18T17:47:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
     "name": "save The NEXUS",
     "version": "1.0",
@@ -3939,19 +3926,6 @@
     "description": "OP Things which game more easy, but isn't a hack."
   },
   {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "version": "re2.0",
-    "mod_id": "parkour-mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-04-28T05:46:11Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -4015,6 +3989,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "version": "re2.0",
+    "mod_id": "parkour-mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-05-09T12:36:16Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "4156/Infintory",
@@ -5343,19 +5330,6 @@
     "description": "Adds more units to mindustry"
   },
   {
-    "repo": "SakuraLilly/Trade-It",
-    "name": "Trade it",
-    "version": "2.3",
-    "mod_id": "Trade it",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-02-26T20:40:32Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
-  },
-  {
     "repo": "laok233/h",
     "name": "h",
     "version": "0.1",
@@ -5367,19 +5341,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "h"
-  },
-  {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -PRE ALPHA",
-    "mod_id": "prism",
-    "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-04-07T11:13:03Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "MountLava/SolarMod",
