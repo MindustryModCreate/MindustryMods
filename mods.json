@@ -265,7 +265,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-12T14:37:41Z",
+    "lastUpdated": "2022-05-12T17:01:58Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -284,19 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-27T15:18:51Z",
-    "stars": 45,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -1079,17 +1066,17 @@
     "description": "a binary themed mod for mindustry 7.135. \n\nmade by 1237.\nDiscord: https://discord.gg/e3gGyen2dT"
   },
   {
-    "repo": "theangelurd/Additional-Content",
-    "name": " Additional  Content",
-    "version": "0.4.1",
-    "mod_id": "additional-content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-12T03:37:39Z",
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.2",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2022-05-12T09:23:11Z",
     "stars": 13,
-    "minGameVersion": "136",
+    "minGameVersion": "122",
     "hasScripts": true,
     "hasJava": false,
-    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1103,6 +1090,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
+  },
+  {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "version": "0.4.1",
+    "mod_id": "additional-content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-05-12T18:09:18Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "sk7725/Commands",
@@ -1207,19 +1207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
-  },
-  {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.2",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2022-05-12T09:23:11Z",
-    "stars": 12,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1469,19 +1456,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.4 [U3]",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-05-01T18:25:29Z",
-    "stars": 9,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
-  },
-  {
     "repo": "EchoVespy/Simplistic",
     "name": "Simplistic - TexturePack",
     "version": "0.8.1",
@@ -1493,6 +1467,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.4 [U4]",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-05-12T16:47:15Z",
+    "stars": 9,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -5382,19 +5369,6 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
-    "repo": "MountLava/SolarMod",
-    "name": "Solar Mod",
-    "version": "0.5 Alpha",
-    "mod_id": "solarmod",
-    "author": "MountLava",
-    "lastUpdated": "2022-04-10T22:55:08Z",
-    "stars": 0,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds tons of useful content. Mostly adds turrets."
-  },
-  {
     "repo": "dukmu/mindustry_mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5491,7 +5465,7 @@
     "version": "7",
     "mod_id": "UnityMadness",
     "author": "jonatas",
-    "lastUpdated": "2022-05-12T13:45:10Z",
+    "lastUpdated": "2022-05-12T16:43:36Z",
     "stars": 0,
     "minGameVersion": "125",
     "hasScripts": false,
