@@ -184,10 +184,10 @@
   {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
-    "version": "1.5.7",
+    "version": "1.5.8",
     "mod_id": "pictologic",
     "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-05-07T15:14:09Z",
+    "lastUpdated": "2022-05-12T22:16:37Z",
     "stars": 55,
     "minGameVersion": "114",
     "hasScripts": true,
@@ -284,6 +284,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-27T15:18:51Z",
+    "stars": 45,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -780,19 +793,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "TheRealIvyX/MoreDefences",
-    "name": "MoreDefences",
-    "version": "1.0",
-    "mod_id": "more-defences-ivyx",
-    "author": "IvyX",
-    "lastUpdated": "2022-01-03T21:31:04Z",
-    "stars": 17,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -804,6 +804,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
+    "repo": "TheRealIvyX/MoreDefences",
+    "name": "MoreDefences",
+    "version": "1.0",
+    "mod_id": "more-defences-ivyx",
+    "author": "IvyX",
+    "lastUpdated": "2022-05-12T20:47:25Z",
+    "stars": 17,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1097,7 +1110,7 @@
     "version": "0.4.1",
     "mod_id": "additional-content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-12T18:09:18Z",
+    "lastUpdated": "2022-05-12T23:56:08Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": true,
