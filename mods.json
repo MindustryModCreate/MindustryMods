@@ -5,7 +5,7 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-05-12T13:27:27Z",
+    "lastUpdated": "2022-05-14T16:34:28Z",
     "stars": 205,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -96,7 +96,7 @@
     "version": "0.1",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-04-24T15:33:36Z",
+    "lastUpdated": "2022-05-14T15:56:55Z",
     "stars": 83,
     "minGameVersion": "135.0",
     "hasScripts": false,
@@ -182,7 +182,7 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
-    "repo": "DeltaNedas/pictologic",
+    "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "version": "1.5.8",
     "mod_id": "pictologic",
@@ -195,7 +195,7 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "DeltaNedas/ui-lib",
+    "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "3.16.6",
     "mod_id": "ui-lib",
@@ -208,20 +208,20 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
-    "repo": "DeltaNedas/routorio",
+    "repo": "deltanedas/routorio-old",
     "name": "routorio",
-    "version": "3.36.4",
+    "version": "2.36.4",
     "mod_id": "routorio",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T16:06:20Z",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-05-14T15:45:33Z",
     "stars": 51,
-    "minGameVersion": "136",
+    "minGameVersion": "131",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+    "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "DeltaNedas/rtfm",
+    "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.0",
     "mod_id": "rtfm",
@@ -442,7 +442,7 @@
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
-    "repo": "DeltaNedas/dev-mode",
+    "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "version": "3.3.2",
     "mod_id": "dev-mode",
@@ -473,7 +473,7 @@
     "version": "2 b41",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-10T12:06:10Z",
+    "lastUpdated": "2022-05-14T17:07:17Z",
     "stars": 30,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -624,6 +624,19 @@
     "description": "Adds inverted versions of crafters."
   },
   {
+    "repo": "genNAowl/Upgraded-Factories",
+    "name": "Upgraded Factories",
+    "version": "2.0.1",
+    "mod_id": "upgraded-factories",
+    "author": "genNAowl",
+    "lastUpdated": "2022-02-02T05:10:24Z",
+    "stars": 23,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds upgraded versions of existing factories."
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "version": "9.0",
@@ -663,25 +676,12 @@
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
-    "repo": "genNAowl/Upgraded-Factories",
-    "name": "Upgraded Factories",
-    "version": "2.0.1",
-    "mod_id": "upgraded-factories",
-    "author": "genNAowl",
-    "lastUpdated": "2022-02-02T05:10:24Z",
-    "stars": 22,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds upgraded versions of existing factories."
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-05-10T17:56:48Z",
+    "lastUpdated": "2022-05-14T19:52:40Z",
     "stars": 22,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -715,7 +715,7 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
-    "repo": "DeltaNedas/unit-factory",
+    "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "version": "3.5.0",
     "mod_id": "unit-factory",
@@ -897,7 +897,7 @@
     "description": "No description provided."
   },
   {
-    "repo": "DeltaNedas/ldb",
+    "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "version": "1.3.3",
     "mod_id": "ldb",
@@ -947,6 +947,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "12three7/Binary0011",
+    "name": "Binary0011",
+    "version": "0.0.7",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-05-14T12:42:08Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a binary themed mod for mindustry 7.136. \n\nmade by 1237.\nDiscord: https://discord.gg/e3gGyen2dT"
+  },
+  {
+    "repo": "Sh1penfire/Endless-Rusting",
+    "name": "Endless Rusting: Termernation Forthcoming",
+    "version": "_i_ co__u__s a__ 7.1",
+    "mod_id": "endless-rusting",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-05-14T16:41:04Z",
+    "stars": 14,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1090,32 +1116,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
-  },
-  {
-    "repo": "12three7/Binary0011",
-    "name": "Binary0011",
-    "version": "0.0.7",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-05-14T12:42:08Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a binary themed mod for mindustry 7.136. \n\nmade by 1237.\nDiscord: https://discord.gg/e3gGyen2dT"
-  },
-  {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Endless Rusting: Termernation Forthcoming",
-    "version": "_i_ co__u__s a__ 7.1",
-    "mod_id": "endless-rusting",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-05-14T15:03:44Z",
-    "stars": 13,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "sk7725/Commands",
@@ -1495,7 +1495,7 @@
     "description": "Lots of crazy stuff :>"
   },
   {
-    "repo": "DeltaNedas/override-lib",
+    "repo": "deltanedas/override-lib",
     "name": "Override Lib",
     "version": "1.0.1",
     "mod_id": "override-lib",
@@ -1664,7 +1664,7 @@
     "description": "Adds more thorium development"
   },
   {
-    "repo": "DeltaNedas/cliff",
+    "repo": "deltanedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
     "mod_id": "cliff",
@@ -1846,19 +1846,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "DeltaNedas/mindustry-2",
-    "name": "Mindustry 2",
-    "version": "0.0.2",
-    "mod_id": "mindustry-2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
-  },
-  {
     "repo": "breadbug23/Somas",
     "name": "Somas",
     "version": "1.4",
@@ -1885,7 +1872,7 @@
     "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
   },
   {
-    "repo": "DeltaNedas/speed",
+    "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
     "mod_id": "speed",
@@ -1911,11 +1898,11 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "DeltaNedas/no",
+    "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
     "mod_id": "no",
-    "author": "DeltaNedas",
+    "author": "deltanedas",
     "lastUpdated": "2020-11-28T21:45:21Z",
     "stars": 6,
     "minGameVersion": "114",
@@ -1937,11 +1924,11 @@
     "description": "Two (2) times faster conveyors, at twice the cost"
   },
   {
-    "repo": "DeltaNedas/yes",
+    "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
     "mod_id": "yes",
-    "author": "DeltaNedas",
+    "author": "deltanedas",
     "lastUpdated": "2020-12-19T21:21:48Z",
     "stars": 6,
     "minGameVersion": "120",
@@ -2093,7 +2080,7 @@
     "description": "Adds a bunch of random stuff to mindustry"
   },
   {
-    "repo": "DeltaNedas/modding-toolbox",
+    "repo": "deltanedas/modding-toolbox",
     "name": "Modding Toolbox",
     "version": "3.7.4",
     "mod_id": "modding-toolbox",
@@ -2117,6 +2104,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -2158,7 +2158,7 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
-    "repo": "DeltaNedas/mobile-ui",
+    "repo": "deltanedas/mobile-ui",
     "name": "Mobile UI",
     "version": "3.0.0",
     "mod_id": "mobile-ui",
@@ -2444,7 +2444,7 @@
     "description": "Added new hidden content :eyes:"
   },
   {
-    "repo": "DeltaNedas/anuke-logic",
+    "repo": "deltanedas/anuke-logic",
     "name": "Anuke Logic",
     "version": "1.9.6",
     "mod_id": "anuke-logic",
@@ -2522,7 +2522,7 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "DeltaNedas/waisa",
+    "repo": "deltanedas/waisa",
     "name": "WAISA",
     "version": "3.3.3",
     "mod_id": "waisa",
@@ -2847,7 +2847,7 @@
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
-    "repo": "DeltaNedas/radar",
+    "repo": "deltanedas/radar",
     "name": "Radar",
     "version": "3.10.5",
     "mod_id": "radar",
@@ -3458,7 +3458,7 @@
     "description": "Worst mod! Never play with it!"
   },
   {
-    "repo": "DeltaNedas/ExampleJavaMod",
+    "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "1.0.3",
     "mod_id": "example-java-mod",
@@ -3952,7 +3952,7 @@
     "description": "a small mod"
   },
   {
-    "repo": "DeltaNedas/item-grabber",
+    "repo": "deltanedas/item-grabber",
     "name": "Item Grabber",
     "version": "2.0.3",
     "mod_id": "item-grabber",
@@ -4043,7 +4043,7 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "DeltaNedas/notepad",
+    "repo": "deltanedas/notepad",
     "name": "Notepad",
     "version": "2.0.0",
     "mod_id": "notepad",
@@ -4535,6 +4535,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds various things  "
+  },
+  {
+    "repo": "deltanedas/routorio",
+    "name": "routorio",
+    "version": "3.36.4",
+    "mod_id": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-14T16:17:45Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-05-14T17:52:41Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
   },
   {
     "repo": "Nikisos/TheBattleMod",
