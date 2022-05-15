@@ -221,6 +221,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "Sharlottes/UnitInfo",
+    "name": "Unit Information",
+    "version": "1.5.5",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-05-14T22:56:47Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.0",
@@ -247,30 +260,17 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Information",
-    "version": "1.5.5",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-05-14T22:56:47Z",
-    "stars": 50,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-15T07:25:14Z",
+    "lastUpdated": "2022-05-15T13:07:35Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian(Українець).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -681,7 +681,7 @@
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-05-14T19:52:40Z",
+    "lastUpdated": "2022-05-15T11:01:40Z",
     "stars": 22,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -967,7 +967,7 @@
     "version": "0.0.7",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-05-15T10:09:31Z",
+    "lastUpdated": "2022-05-15T13:41:06Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1890,7 +1890,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-15T01:21:44Z",
+    "lastUpdated": "2022-05-15T12:27:20Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4004,12 +4004,25 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-05-14T23:31:17Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
+  },
+  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "version": "1.5.0",
     "mod_id": "extra-logging",
     "author": "Weathercold",
-    "lastUpdated": "2022-05-14T23:26:32Z",
+    "lastUpdated": "2022-05-15T14:01:40Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4498,19 +4511,6 @@
     "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
   },
   {
-    "repo": "youngterror3/MindustryJavaMod",
-    "name": "Mindustry Java Mod",
-    "version": "0.1",
-    "mod_id": "MindustryJavaMod",
-    "author": "youngterror3",
-    "lastUpdated": "2022-04-30T16:19:24Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new features."
-  },
-  {
     "repo": "Icewav3/mindustry-vanilla-expanded",
     "name": "Vanilla Expanded",
     "version": "0.1",
@@ -4550,17 +4550,17 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-05-14T23:31:17Z",
+    "repo": "youngterror3/MindustryJavaMod",
+    "name": "Mindustry Java Mod",
+    "version": "0.1",
+    "mod_id": "MindustryJavaMod",
+    "author": "youngterror3",
+    "lastUpdated": "2022-05-15T15:04:29Z",
     "stars": 1,
     "minGameVersion": "105",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
+    "hasJava": true,
+    "description": "Adds new features."
   },
   {
     "repo": "Nikisos/TheBattleMod",
