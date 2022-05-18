@@ -2834,19 +2834,6 @@
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-05-09T07:04:29Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "RlCCJ/ItemBridgeX",
     "name": "ItemBridgeX",
     "version": "2.0",
@@ -2858,6 +2845,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-05-17T23:30:56Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3170,19 +3170,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
-  },
-  {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "FreezeMandu/QA-Schemic",
@@ -3978,19 +3965,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.5.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-05-15T14:01:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "KarlsonVive/A-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "version": "1.0",
@@ -4002,6 +3976,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.5.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-05-17T20:45:24Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "4156/Infintory",
@@ -4054,6 +4041,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -4810,6 +4810,19 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
+    "repo": "qwertyQ1234-programming/QQ-Mod",
+    "name": "QQ-Mod",
+    "version": "1.0.1b alpha [bugfixy]",
+    "mod_id": "QQ-Mod/Poland",
+    "author": "QwertyQ1234",
+    "lastUpdated": "2021-04-07T17:04:02Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Niezależny mod kompatybilny z G-Modem"
+  },
+  {
     "repo": "jgonc19/Mindustry_Mods",
     "name": "Pointer",
     "version": "2.4.2",
@@ -5185,6 +5198,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "brain die"
+  },
+  {
+    "repo": "nekit508/triggersMindustryMode",
+    "name": "Java mod for create triggers",
+    "version": "0.0.1",
+    "mod_id": "triggersMod",
+    "author": "nekit508",
+    "lastUpdated": "2022-01-07T18:15:42Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Made in Russia."
   },
   {
     "repo": "dashmaster-c/DS-Industry",
