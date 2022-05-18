@@ -252,7 +252,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-17T15:30:00Z",
+    "lastUpdated": "2022-05-18T01:30:29Z",
     "stars": 50,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "24.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-15T00:08:48Z",
+    "lastUpdated": "2022-05-18T05:13:50Z",
     "stars": 41,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1118,19 +1118,6 @@
     "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
-    "repo": "Antlrr/best-texture-pack",
-    "name": "The Best Texture Pack",
-    "version": "0.3",
-    "mod_id": "The Best Texture Pack",
-    "author": "Antlrr",
-    "lastUpdated": "2021-07-26T08:38:05Z",
-    "stars": 12,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "pain and suffering"
-  },
-  {
     "repo": "MindustryInside/AutoUpdater",
     "name": "AutoUpdater",
     "version": "0.9",
@@ -1220,6 +1207,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds shitass to the game"
+  },
+  {
+    "repo": "Antlrr/best-texture-pack",
+    "name": "The Best Texture Pack",
+    "version": "0.3",
+    "mod_id": "The Best Texture Pack",
+    "author": "Antlrr",
+    "lastUpdated": "2021-07-26T08:38:05Z",
+    "stars": 11,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "pain and suffering"
   },
   {
     "repo": "Anuken/MindustryKotlinModTemplate",
@@ -1851,7 +1851,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-17T12:29:22Z",
+    "lastUpdated": "2022-05-18T00:59:20Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3980,10 +3980,10 @@
   {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
-    "version": "1.5.0",
+    "version": "1.5.5",
     "mod_id": "extra-logging",
     "author": "Weathercold",
-    "lastUpdated": "2022-05-17T20:45:24Z",
+    "lastUpdated": "2022-05-18T03:26:24Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4808,19 +4808,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
-  },
-  {
-    "repo": "qwertyQ1234-programming/QQ-Mod",
-    "name": "QQ-Mod",
-    "version": "1.0.1b alpha [bugfixy]",
-    "mod_id": "QQ-Mod/Poland",
-    "author": "QwertyQ1234",
-    "lastUpdated": "2021-04-07T17:04:02Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Niezależny mod kompatybilny z G-Modem"
   },
   {
     "repo": "jgonc19/Mindustry_Mods",
