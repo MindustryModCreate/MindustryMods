@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -149,7 +149,7 @@
     "mod_id": "btm",
     "author": "guiY & Carrot",
     "lastUpdated": "2022-03-10T11:11:59Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
@@ -234,6 +234,19 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-20T04:07:52Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.0",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-19T13:42:46Z",
-    "stars": 50,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -330,7 +330,7 @@
     "version": "25.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-19T18:19:47Z",
+    "lastUpdated": "2022-05-20T03:37:25Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -928,7 +928,7 @@
     "version": "0.0.7",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-05-19T12:21:48Z",
+    "lastUpdated": "2022-05-20T03:25:24Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1053,19 +1053,6 @@
     "description": "hehe angish go nrrrt"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "38",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-19T04:17:35Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.6",
@@ -1077,6 +1064,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "38",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-05-20T04:49:14Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "sk7725/Commands",
@@ -1170,19 +1170,6 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
-    "repo": "MQ-1175/campaign-expansion",
-    "name": "Campaign Expansion Mod",
-    "version": "1.1",
-    "mod_id": "campaign-expansion",
-    "author": "M.Q.",
-    "lastUpdated": "2022-05-03T10:10:18Z",
-    "stars": 12,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon. Available in v6 and v7"
-  },
-  {
     "repo": "AshesKaiser-KR/Mindustry-Ages",
     "name": "From ancient to contemporary ages.",
     "version": "0.1",
@@ -1194,6 +1181,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "MQ-1175/campaign-expansion",
+    "name": "Campaign Expansion Mod",
+    "version": "1.1",
+    "mod_id": "campaign-expansion",
+    "author": "M.Q.",
+    "lastUpdated": "2022-05-20T02:11:44Z",
+    "stars": 12,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon. Available in v6 and v7"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1851,7 +1851,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-19T12:28:38Z",
+    "lastUpdated": "2022-05-20T01:13:11Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2137,7 +2137,7 @@
     "version": "1.6.0",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-05-19T13:59:24Z",
+    "lastUpdated": "2022-05-20T05:03:47Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
