@@ -239,7 +239,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-20T09:16:25Z",
+    "lastUpdated": "2022-05-20T13:08:57Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -928,7 +928,7 @@
     "version": "0.0.7",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-05-20T06:26:29Z",
+    "lastUpdated": "2022-05-20T12:37:17Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1170,19 +1170,6 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
-    "repo": "MQ-1175/campaign-expansion",
-    "name": "Campaign Expansion Mod",
-    "version": "1.1",
-    "mod_id": "campaign-expansion",
-    "author": "M.Q.",
-    "lastUpdated": "2022-05-20T02:11:44Z",
-    "stars": 12,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon. Available in v6 and v7"
-  },
-  {
     "repo": "AshesKaiser-KR/Mindustry-Ages",
     "name": "From ancient to contemporary ages.",
     "version": "0.1",
@@ -1194,6 +1181,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "MQ-1175/campaign-expansion",
+    "name": "Campaign Expansion Mod",
+    "version": "1.1",
+    "mod_id": "campaign-expansion",
+    "author": "M.Q.",
+    "lastUpdated": "2022-05-20T13:31:46Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon. Available in v6 and v7"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1851,7 +1851,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-20T01:13:11Z",
+    "lastUpdated": "2022-05-20T12:28:37Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2137,7 +2137,7 @@
     "version": "1.6.0",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-05-20T05:03:47Z",
+    "lastUpdated": "2022-05-20T14:01:51Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3172,19 +3172,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
-  },
-  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -4030,19 +4017,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "Sheep-Hugger/Silver-spirit-Sphere",
     "name": "Silver spirit Sphere",
     "version": "0.1",
@@ -4080,6 +4054,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "martycagas/mindustry-mod-armored-conveyor",
+    "name": "Armored Basic Conveyor mod",
+    "version": "1.0",
+    "mod_id": "armored-basic-conveyor",
+    "author": "martycagas",
+    "lastUpdated": "2021-03-06T13:32:01Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -4529,7 +4516,7 @@
     "version": "Alpha 0.4",
     "mod_id": "mindustry-plus",
     "author": "Auseawesome",
-    "lastUpdated": "2022-05-20T07:03:52Z",
+    "lastUpdated": "2022-05-20T14:59:40Z",
     "stars": 1,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -4912,19 +4899,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "planet test"
-  },
-  {
-    "repo": "Yagoi23/Yagois-Mindustry-Mod",
-    "name": "Yagois-Mindustry-Mod",
-    "version": "2.1",
-    "mod_id": "Yagoi's Mod",
-    "author": "Yagoi",
-    "lastUpdated": "2021-08-12T05:39:16Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "????"
   },
   {
     "repo": "haywyre124/Diamond-Mod-Naub",
@@ -5380,19 +5354,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more units to mindustry"
-  },
-  {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -PRE ALPHA",
-    "mod_id": "prism",
-    "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-04-07T11:13:03Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "dukmu/mindustry_mod",
