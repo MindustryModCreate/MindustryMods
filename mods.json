@@ -239,7 +239,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-21T04:35:15Z",
+    "lastUpdated": "2022-05-21T07:45:38Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "25.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-21T05:08:13Z",
+    "lastUpdated": "2022-05-21T06:49:50Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -928,7 +928,7 @@
     "version": "0.0.7",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-05-21T05:08:33Z",
+    "lastUpdated": "2022-05-21T06:54:37Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1188,7 +1188,7 @@
     "version": "1.1",
     "mod_id": "campaign-expansion",
     "author": "M.Q.",
-    "lastUpdated": "2022-05-20T13:31:46Z",
+    "lastUpdated": "2022-05-21T06:21:26Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3172,6 +3172,19 @@
     "description": "makes thorium walls pink"
   },
   {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
+  },
+  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -3315,6 +3328,19 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
+    "repo": "RayanZ22/OP-Mod",
+    "name": "OP Things",
+    "version": "0.4.1",
+    "mod_id": "op-things",
+    "author": "ABÊ#8931",
+    "lastUpdated": "2022-04-28T00:48:20Z",
+    "stars": 3,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "OP Things which game more easy, but isn't a hack."
+  },
+  {
     "repo": "liplum/MdtModTemplate",
     "name": "Template Mod",
     "version": "1.0",
@@ -3354,6 +3380,19 @@
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
   },
   {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.1",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2022-05-12T09:43:13Z",
+    "stars": 3,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.41",
@@ -3365,6 +3404,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
+  },
+  {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.1",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-05-21T02:29:07Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3887,19 +3939,6 @@
     "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
-    "repo": "RayanZ22/OP-Mod",
-    "name": "OP Things",
-    "version": "0.4.1",
-    "mod_id": "op-things",
-    "author": "ABÊ#8931",
-    "lastUpdated": "2022-04-28T00:48:20Z",
-    "stars": 2,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "OP Things which game more easy, but isn't a hack."
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -3939,19 +3978,6 @@
     "description": "this game with this mod was cursed"
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.1",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2022-05-12T09:43:13Z",
-    "stars": 2,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
     "repo": "Def-Try/parkour-mod",
     "name": "Parkour mod",
     "version": "2.3",
@@ -3965,6 +3991,19 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "youngterror3/MindustryJavaMod",
+    "name": "Mindustry Java Mod",
+    "version": "0.1",
+    "mod_id": "MindustryJavaMod",
+    "author": "youngterror3",
+    "lastUpdated": "2022-05-15T15:59:08Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new features."
+  },
+  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "version": "1.5.5",
@@ -3976,19 +4015,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0.1",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-05-21T02:29:07Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks"
   },
   {
     "repo": "4156/Infintory",
@@ -4067,19 +4093,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "martycagas/mindustry-mod-armored-conveyor",
-    "name": "Armored Basic Conveyor mod",
-    "version": "1.0",
-    "mod_id": "armored-basic-conveyor",
-    "author": "martycagas",
-    "lastUpdated": "2021-03-06T13:32:01Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -4498,19 +4511,6 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "youngterror3/MindustryJavaMod",
-    "name": "Mindustry Java Mod",
-    "version": "0.1",
-    "mod_id": "MindustryJavaMod",
-    "author": "youngterror3",
-    "lastUpdated": "2022-05-15T15:59:08Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new features."
-  },
-  {
     "repo": "ExplerHD/unnamedMods",
     "name": "New Tech",
     "version": "1.0",
@@ -4529,7 +4529,7 @@
     "version": "Alpha 0.4",
     "mod_id": "mindustry-plus",
     "author": "Auseawesome",
-    "lastUpdated": "2022-05-20T14:59:40Z",
+    "lastUpdated": "2022-05-21T06:48:36Z",
     "stars": 1,
     "minGameVersion": "126.2",
     "hasScripts": false,
