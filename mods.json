@@ -1071,7 +1071,7 @@
     "version": "38",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-20T17:17:14Z",
+    "lastUpdated": "2022-05-21T00:32:19Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3172,19 +3172,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
-  },
-  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -3978,19 +3965,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-05-17T09:23:10Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
-  },
-  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "version": "1.5.5",
@@ -4002,6 +3976,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-05-21T00:39:29Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks. Also sorry about the re-colored conveyors"
   },
   {
     "repo": "4156/Infintory",
@@ -4056,6 +4043,19 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "version": "2.3.4",
@@ -4067,6 +4067,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "martycagas/mindustry-mod-armored-conveyor",
+    "name": "Armored Basic Conveyor mod",
+    "version": "1.0",
+    "mod_id": "armored-basic-conveyor",
+    "author": "martycagas",
+    "lastUpdated": "2021-03-06T13:32:01Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -4197,6 +4210,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
+  },
+  {
+    "repo": "NemesisTheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "version": "1.0",
+    "mod_id": "wort-wort-wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-30T08:52:45Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
   },
   {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
@@ -4797,6 +4823,19 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
+    "repo": "qwertyQ1234-programming/QQ-Mod",
+    "name": "QQ-Mod",
+    "version": "1.0.1b alpha [bugfixy]",
+    "mod_id": "QQ-Mod/Poland",
+    "author": "QwertyQ1234",
+    "lastUpdated": "2021-04-07T17:04:02Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Niezależny mod kompatybilny z G-Modem"
+  },
+  {
     "repo": "jgonc19/Mindustry_Mods",
     "name": "Pointer",
     "version": "2.4.2",
@@ -5120,6 +5159,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "atrac"
+  },
+  {
+    "repo": "Antlrr/duo",
+    "name": "Duo",
+    "version": "1.0",
+    "mod_id": "duo",
+    "author": "Antlrr",
+    "lastUpdated": "2021-12-08T11:52:59Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "duo"
   },
   {
     "repo": "UnionofSovietSocialistRepublics/flarogus",
