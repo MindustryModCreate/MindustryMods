@@ -234,19 +234,6 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-22T13:48:12Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.6",
@@ -258,6 +245,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-22T15:48:01Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -559,6 +559,19 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
+    "repo": "pixecoz/MindustrySchematics",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "mod_id": "schematics-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2022-02-20T11:51:23Z",
+    "stars": 24,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "FlinTyX/Animalia",
     "name": "Animalia",
     "version": "0.1.2",
@@ -622,19 +635,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds upgraded versions of existing factories."
-  },
-  {
-    "repo": "pixecoz/MindustrySchematics",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "mod_id": "schematics-pack",
-    "author": "pixecoz",
-    "lastUpdated": "2022-02-20T11:51:23Z",
-    "stars": 23,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "realshizi/oxynoe",
@@ -2156,6 +2156,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -4199,6 +4212,19 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
+    "repo": "NemesisTheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "version": "1.0",
+    "mod_id": "wort-wort-wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-30T08:52:45Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
+  },
+  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -4784,6 +4810,19 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
+    "repo": "qwertyQ1234-programming/QQ-Mod",
+    "name": "QQ-Mod",
+    "version": "1.0.1b alpha [bugfixy]",
+    "mod_id": "QQ-Mod/Poland",
+    "author": "QwertyQ1234",
+    "lastUpdated": "2021-04-07T17:04:02Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Niezależny mod kompatybilny z G-Modem"
+  },
+  {
     "repo": "jgonc19/Mindustry_Mods",
     "name": "Pointer",
     "version": "2.4.2",
@@ -5107,6 +5146,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "atrac"
+  },
+  {
+    "repo": "Antlrr/duo",
+    "name": "Duo",
+    "version": "1.0",
+    "mod_id": "duo",
+    "author": "Antlrr",
+    "lastUpdated": "2021-12-08T11:52:59Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "duo"
   },
   {
     "repo": "UnionofSovietSocialistRepublics/flarogus",
