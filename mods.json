@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-04-15T09:02:02Z",
-    "stars": 95,
+    "stars": 96,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -208,19 +208,6 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "Sharlottes/UnitInfo",
-    "name": "Unit Information",
-    "version": "1.5.5",
-    "mod_id": "unitinfo",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-05-14T22:56:47Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
@@ -234,12 +221,25 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
+    "repo": "Sharlottes/Informatis",
+    "name": "Unit Information",
+    "version": "1.5.5",
+    "mod_id": "unitinfo",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-05-22T06:55:32Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-21T15:46:45Z",
+    "lastUpdated": "2022-05-22T09:50:24Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -266,7 +266,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-05-16T08:07:10Z",
-    "stars": 47,
+    "stars": 48,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -330,7 +330,7 @@
     "version": "25.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-22T04:25:31Z",
+    "lastUpdated": "2022-05-22T06:40:39Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -650,6 +650,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "version": "1.4",
+    "mod_id": "classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2022-04-23T10:11:06Z",
+    "stars": 22,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
+  },
+  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.2.20 + 0.1.7",
@@ -661,19 +674,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
-  },
-  {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "version": "1.4",
-    "mod_id": "classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2022-04-23T10:11:06Z",
-    "stars": 21,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -1170,30 +1170,30 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
-    "repo": "AshesKaiser-KR/Mindustry-Ages",
-    "name": "From ancient to contemporary ages.",
-    "version": "0.1",
-    "mod_id": "ages",
-    "author": "AshesKaiser",
-    "lastUpdated": "2022-05-20T06:01:10Z",
-    "stars": 12,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first java Mindustry mod"
-  },
-  {
     "repo": "MQ-1175/campaign-expansion",
     "name": "Campaign Expansion Mod",
     "version": "1.1",
     "mod_id": "campaign-expansion",
     "author": "M.Q.",
-    "lastUpdated": "2022-05-21T10:14:04Z",
+    "lastUpdated": "2022-05-22T05:58:06Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon. Available in v6 and v7"
+  },
+  {
+    "repo": "AshesKaiser-KR/Mindustry-Ages",
+    "name": "From ancient to contemporary ages.",
+    "version": "0.1",
+    "mod_id": "ages",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-05-22T06:59:21Z",
+    "stars": 12,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -2535,6 +2535,19 @@
     "description": "Buffs Gamma"
   },
   {
+    "repo": "NUCLEAR-BOMB/Inverse",
+    "name": "Inverse",
+    "version": "1.0",
+    "mod_id": "inverse",
+    "author": "Nuclear_Bomb",
+    "lastUpdated": "2021-02-05T17:54:47Z",
+    "stars": 4,
+    "minGameVersion": "123.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
+  },
+  {
     "repo": "Cherriodude/jac",
     "name": "Just Another Crafter",
     "version": "1.0",
@@ -2899,19 +2912,6 @@
     "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
-    "repo": "NUCLEAR-BOMB/Inverse",
-    "name": "Inverse",
-    "version": "1.0",
-    "mod_id": "inverse",
-    "author": "Nuclear_Bomb",
-    "lastUpdated": "2021-02-05T17:54:47Z",
-    "stars": 3,
-    "minGameVersion": "123.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
     "repo": "Ar01Zar/NewWorldMod",
     "name": "NewWorldMod",
     "version": "[beta]6.0",
@@ -3157,6 +3157,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
+  },
+  {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "FreezeMandu/QA-Schemic",
@@ -4067,19 +4080,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "martycagas/mindustry-mod-armored-conveyor",
-    "name": "Armored Basic Conveyor mod",
-    "version": "1.0",
-    "mod_id": "armored-basic-conveyor",
-    "author": "martycagas",
-    "lastUpdated": "2021-03-06T13:32:01Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5445,19 +5445,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add some new parts to the game"
-  },
-  {
-    "repo": "Swirek3331/Altanic",
-    "name": "Altanic",
-    "version": "0.1 REBORN",
-    "mod_id": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-05-11T19:02:29Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod made by Idiot"
   },
   {
     "repo": "Pepa3/MindustryMod",
