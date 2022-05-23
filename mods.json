@@ -234,19 +234,6 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-23T11:05:03Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
@@ -258,6 +245,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-23T15:51:27Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -3159,19 +3159,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
-  },
-  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -3861,19 +3848,6 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-02-05T16:03:14Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
-  },
-  {
     "repo": "Sheep-Hugger/Frozen-Silver-Fortress",
     "name": "Frozen Silver Fortress",
     "version": "0.25",
@@ -4028,6 +4002,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "wshon/MinerToolsV6",
+    "name": "MinerTools V6",
+    "version": "1.6.1.patch-1.0",
+    "mod_id": "miner-tools-v6",
+    "author": "miner, adapter by wshon",
+    "lastUpdated": "2022-05-23T08:40:51Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-05-23T19:04:48Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
     "repo": "4156/Infintory",
@@ -4522,6 +4522,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to alter vanilla progression"
+  },
+  {
+    "repo": "xjamiex/CreativeCores",
+    "name": "Creative Cores",
+    "version": "0.1",
+    "mod_id": "creative-cores",
+    "author": "xjammuux owo",
+    "lastUpdated": "2022-05-23T18:06:15Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod thats goog"
   },
   {
     "repo": "Nikisos/TheBattleMod",
