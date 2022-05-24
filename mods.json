@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-05-19T22:20:51Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -252,7 +252,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-24T03:17:23Z",
+    "lastUpdated": "2022-05-24T12:18:24Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1851,7 +1851,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-23T12:27:15Z",
+    "lastUpdated": "2022-05-24T12:29:00Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2418,19 +2418,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "version": "1.1",
-    "mod_id": "calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-04-21T07:43:48Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "Error-In-Code/Nuclear-Mines-Mod",
     "name": "Nuclear Mines",
     "version": "0.1",
@@ -2494,6 +2481,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "version": "1.1",
+    "mod_id": "calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-05-24T12:07:04Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3157,6 +3157,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
+  },
+  {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "FreezeMandu/QA-Schemic",
@@ -4002,6 +4015,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "wshon/MinerToolsV6",
+    "name": "MinerTools V6",
+    "version": "1.6.1.patch-1.0",
+    "mod_id": "miner-tools-v6",
+    "author": "miner, adapter by wshon",
+    "lastUpdated": "2022-05-23T08:40:51Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
