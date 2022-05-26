@@ -252,7 +252,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-25T10:48:01Z",
+    "lastUpdated": "2022-05-26T01:51:08Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "25.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-25T17:29:31Z",
+    "lastUpdated": "2022-05-26T04:29:47Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -954,7 +954,7 @@
     "version": "38",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-25T00:03:36Z",
+    "lastUpdated": "2022-05-26T04:22:35Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1851,7 +1851,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-25T12:28:29Z",
+    "lastUpdated": "2022-05-26T01:16:32Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3419,6 +3419,19 @@
     "description": "Adds a few distribution blocks"
   },
   {
+    "repo": "A5TR0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.1",
+    "mod_id": "astro-adds",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-05-26T00:13:05Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -4537,19 +4550,6 @@
     "description": "A mod thats goog"
   },
   {
-    "repo": "A5TR0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "version": "0.0.1",
-    "mod_id": "astro-adds",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-05-26T00:13:05Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5497,5 +5497,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "Team Neiaron",
+    "lastUpdated": "2022-05-26T04:43:45Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry java mod."
   }
 ]
