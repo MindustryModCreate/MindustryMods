@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-05-26T15:32:01Z",
-    "stars": 90,
+    "stars": 91,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -265,7 +265,7 @@
     "version": "0.2",
     "mod_id": "time-control",
     "author": "sk7725",
-    "lastUpdated": "2022-05-16T08:07:10Z",
+    "lastUpdated": "2022-05-27T17:31:57Z",
     "stars": 50,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -884,6 +884,19 @@
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "39",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-05-27T17:40:00Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "version": "1.3.3",
@@ -960,19 +973,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "a binary themed mod for mindustry 7.135."
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "39",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-27T08:07:22Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1454,6 +1454,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "xStaBUx/OmaLoon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.3-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-05-27T16:49:06Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2091,19 +2104,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
-    "repo": "xStaBUx/OmaLoon-mod-public",
-    "name": "OmaLoon-Mod",
-    "version": "0.2-pre-alpha(buggy)",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-04-27T11:03:52Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little java Mindustry mod"
   },
   {
     "repo": "Fabizocker456/test",
@@ -3170,6 +3170,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
+  },
+  {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "FreezeMandu/QA-Schemic",
@@ -5510,5 +5523,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "至少135的垃圾代码全部重写完毕了"
+  },
+  {
+    "repo": "warcry98/SpeedControl",
+    "name": "Speed Control",
+    "version": "0.1",
+    "mod_id": "speed-control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-27T19:25:15Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   }
 ]
