@@ -188,7 +188,7 @@
     "mod_id": "ui-lib",
     "author": "deltanedas",
     "lastUpdated": "2022-05-07T15:24:00Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -330,7 +330,7 @@
     "version": "25.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-26T04:29:47Z",
+    "lastUpdated": "2022-05-27T06:23:26Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -447,7 +447,7 @@
     "version": "2 b41",
     "mod_id": "gravillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-26T16:59:22Z",
+    "lastUpdated": "2022-05-27T09:34:09Z",
     "stars": 31,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -936,19 +936,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "38",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-27T01:49:02Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -973,6 +960,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "a binary themed mod for mindustry 7.135."
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "39",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-05-27T08:07:22Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1430,19 +1430,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.4 [U4]",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-05-12T16:47:15Z",
-    "stars": 9,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
-  },
-  {
     "repo": "newB7140/duomod",
     "name": "duomod",
     "version": "1.14",
@@ -1454,6 +1441,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.4 [U4]",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-05-27T10:07:30Z",
+    "stars": 9,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1545,6 +1545,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The ultimate form of the ultimate form.\\n\\nWorks in both v6 and v7 versions of Mindustry. Multiplayer compatible."
+  },
+  {
+    "repo": "GenericSomeone/dead-repo",
+    "name": "Air Support",
+    "version": "1.0 beta",
+    "mod_id": "unbalance-mod-rebirth",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-10-24T16:04:54Z",
+    "stars": 8,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is dead, we have killed it."
   },
   {
     "repo": "Cynthion21x/prismatic",
@@ -1701,19 +1714,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "GenericSomeone/dead-repo",
-    "name": "Air Support",
-    "version": "1.0 beta",
-    "mod_id": "unbalance-mod-rebirth",
-    "author": "Inconsequential",
-    "lastUpdated": "2021-10-24T16:04:54Z",
-    "stars": 7,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is dead, we have killed it."
   },
   {
     "repo": "ZoGGerS-cc/Major",
@@ -2132,19 +2132,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "Zelaux/GasLibrary",
-    "name": "GasLibrary",
-    "version": "1.6.04",
-    "mod_id": "gas-library-java",
-    "author": "Zelaux",
-    "lastUpdated": "2022-05-24T17:04:09Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
-  },
-  {
     "repo": "Zeniku/HeavyMachineryJava",
     "name": "HeavyMachineryJava",
     "version": "1.0",
@@ -2156,6 +2143,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "Zelaux/GasLibrary",
+    "name": "GasLibrary",
+    "version": "1.6.04",
+    "mod_id": "gas-library-java",
+    "author": "Zelaux",
+    "lastUpdated": "2022-05-27T08:46:16Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3172,19 +3172,6 @@
     "description": "makes thorium walls pink"
   },
   {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
-  },
-  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -3640,6 +3627,19 @@
     "description": "\r\n\r\n  郑重声明：\r\n已经更新2.0，国内用户请在QQ群中下载\r\n群1：316035230。群1如果进不去可以去群2\r\n群2：316035230\r\nMOD文件数太多，创意工坊已经无法上传\r\n工坊版本可能永远停留在1.026了\r\n\r\n这个MOD已经更新到2.0版本了\r\n创意工坊由于特殊原因已经无法更新\r\n请到github下载安装\r\nhttps://github.com/guiYMOUR/mindustry-creator-mod\r\n另外，代码源已经上传到github。在游戏mod界面输入它直接导入：\r\nguiYMOUR/mindustry-creator-mod\r\n\r\n\r\n\r\n  Newly added content:\r\n\r\n  Resources: 36\r\n  Factory: 100+\r\n  Wall: 13\r\n  Transmission: 20\r\n  Turret: 16\r\n  Mineral: 6\r\n  Liquid: 5\r\n  State: 2\r\n  Unit: 43\r\n  Map: 40\r\n  Planets: 11\r\n  If you like this module, please click thumbs on this page *⸜(^_^)⸝*\r\n  Subsequent will update more if you have Suggestions or comments please go to the QQ group 316035230 and discussion of the author.\r\n  Or send email to cyj674971336@163.com\r\n  新增加的内容:\r\n  \r\n  资源 36\r\n  工厂 100+\r\n  墙：13\r\n  传输 20\r\n  炮塔 16\r\n  矿物 6\r\n  液体 5\r\n  状态 2\r\n  单位：43\r\n  地图：40\r\n  行星：11\r\n  \r\n  如果您觉得此模组不错，请对本模组点赞*⸜(^_^)⸝*\r\n  如果你有建议或者意见请到QQ群316035230与作者讨论。或者发送邮件至cyj674971336@163.com\r\n  —————————————————————————创世神-creator"
   },
   {
+    "repo": "TheBabinator/Toaster",
+    "name": "Toaster",
+    "version": "1.2.2",
+    "mod_id": "toaster",
+    "author": "TheBabinator",
+    "lastUpdated": "2021-05-22T07:54:10Z",
+    "stars": 2,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
+  },
+  {
     "repo": "pavel-8516/upLevel",
     "name": "uplevel",
     "version": "0.5.3",
@@ -4048,7 +4048,7 @@
     "version": "1.0",
     "mod_id": "new-wave",
     "author": "1237",
-    "lastUpdated": "2022-05-27T04:02:53Z",
+    "lastUpdated": "2022-05-27T09:43:11Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4626,6 +4626,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "..."
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "version": "0.1",
+    "mod_id": "Green Mod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "avocado5182/FirstMindustryMod",
