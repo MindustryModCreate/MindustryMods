@@ -188,7 +188,7 @@
     "mod_id": "ui-lib",
     "author": "deltanedas",
     "lastUpdated": "2022-05-07T15:24:00Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -252,7 +252,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-28T07:47:05Z",
+    "lastUpdated": "2022-05-28T14:50:13Z",
     "stars": 51,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1326,19 +1326,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "xStaBUx/OmaLoon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.3-alpha(buggy)",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-05-27T16:49:06Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little Mindustry java mod"
-  },
-  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.2.0",
@@ -1467,6 +1454,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "xStaBUx/OmaLoon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.3-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-05-27T16:49:06Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2150,7 +2150,7 @@
     "version": "1.6.04",
     "mod_id": "gas-library-java",
     "author": "Zelaux",
-    "lastUpdated": "2022-05-27T21:44:36Z",
+    "lastUpdated": "2022-05-28T12:28:58Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3380,19 +3380,6 @@
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.1",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2022-05-12T09:43:13Z",
-    "stars": 3,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.41",
@@ -3430,6 +3417,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds various things  "
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.1",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2022-05-28T14:54:53Z",
+    "stars": 3,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4048,7 +4048,7 @@
     "version": "1.0",
     "mod_id": "new-wave",
     "author": "1237",
-    "lastUpdated": "2022-05-28T04:30:20Z",
+    "lastUpdated": "2022-05-28T13:16:12Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5343,6 +5343,19 @@
     "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
   },
   {
+    "repo": "CharlieGregg314/mindustry-mod-test",
+    "name": "test",
+    "version": "0.0.0",
+    "mod_id": "mod",
+    "author": "CharlieGregg",
+    "lastUpdated": "2022-02-14T00:36:11Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "test"
+  },
+  {
     "repo": "TechFish3000/Techfish-Innovations",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5486,6 +5499,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "936338156/mindustry-Interplanetary_Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.17.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-05-27T03:05:26Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5497,5 +5523,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
+    "repo": "nekit508/MindustryExtendedRecipeModule",
+    "name": "Extending Erekir generation",
+    "version": "0.0.1",
+    "mod_id": "EEG",
+    "author": "nekit508",
+    "lastUpdated": "2022-05-28T11:52:05Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Made in Russia."
   }
 ]
