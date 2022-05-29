@@ -330,7 +330,7 @@
     "version": "25.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-28T19:42:51Z",
+    "lastUpdated": "2022-05-28T21:10:39Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -975,6 +975,19 @@
     "description": "a binary themed mod for mindustry 7.135."
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.3-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-05-28T16:11:01Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1194,19 +1207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.3-alpha(buggy)",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-05-28T16:11:01Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little Mindustry java mod"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1885,6 +1885,19 @@
     "description": "Leet speak localisator."
   },
   {
+    "repo": "Zelaux/GasLibrary",
+    "name": "GasLibrary",
+    "version": "1.6.04",
+    "mod_id": "gas-library-java",
+    "author": "Zelaux",
+    "lastUpdated": "2022-05-28T18:40:03Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
+  },
+  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -2156,19 +2169,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "Zelaux/GasLibrary",
-    "name": "GasLibrary",
-    "version": "1.6.04",
-    "mod_id": "gas-library-java",
-    "author": "Zelaux",
-    "lastUpdated": "2022-05-28T18:40:03Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -4043,6 +4043,19 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
+    "repo": "wshon/MinerToolsV6",
+    "name": "MinerTools V6",
+    "version": "1.6.5",
+    "mod_id": "miner-tools-v6",
+    "author": "miner, adapter by wshon",
+    "lastUpdated": "2022-05-28T09:46:35Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry V6."
+  },
+  {
     "repo": "12three7/TheNewWave",
     "name": "The New Wave",
     "version": "1.0",
@@ -4132,19 +4145,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "martycagas/mindustry-mod-armored-conveyor",
-    "name": "Armored Basic Conveyor mod",
-    "version": "1.0",
-    "mod_id": "armored-basic-conveyor",
-    "author": "martycagas",
-    "lastUpdated": "2021-03-06T13:32:01Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -4340,6 +4340,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "Zelaux/ZelauxMindustryModTemplate",
+    "name": "Your mod name",
+    "version": "0.1",
+    "mod_id": "your-mod",
+    "author": "YourNickName",
+    "lastUpdated": "2022-01-13T15:37:08Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Your own mod"
   },
   {
     "repo": "Auseawesome/Mindustry-GameBreaker",
@@ -5265,19 +5278,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Zelaux/ZelauxMindustryModTemplate",
-    "name": "Your mod name",
-    "version": "0.1",
-    "mod_id": "your-mod",
-    "author": "YourNickName",
-    "lastUpdated": "2022-01-13T15:37:08Z",
-    "stars": 0,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Your own mod"
-  },
-  {
     "repo": "Miniontoby/mindustrirc",
     "name": "MindustrIRC",
     "version": "1.1.0",
@@ -5341,6 +5341,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
+  },
+  {
+    "repo": "CharlieGregg314/mindustry-mod-test",
+    "name": "test",
+    "version": "0.0.0",
+    "mod_id": "mod",
+    "author": "CharlieGregg",
+    "lastUpdated": "2022-02-14T00:36:11Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "test"
   },
   {
     "repo": "TechFish3000/Techfish-Innovations",
@@ -5484,6 +5497,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "936338156/mindustry-Interplanetary_Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.17.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-05-27T03:05:26Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
   },
   {
     "repo": "warcry98/SpeedControl",
