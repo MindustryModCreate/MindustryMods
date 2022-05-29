@@ -208,6 +208,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-29T04:15:34Z",
+    "stars": 52,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.0",
@@ -245,19 +258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-28T16:15:49Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -1656,7 +1656,7 @@
     "version": "1.6.5",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-05-28T02:10:57Z",
+    "lastUpdated": "2022-05-29T01:07:56Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1872,19 +1872,6 @@
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-28T01:08:38Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -1896,6 +1883,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-05-29T01:14:00Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/no",
@@ -3185,6 +3185,19 @@
     "description": "makes thorium walls pink"
   },
   {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
+  },
+  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -3406,19 +3419,6 @@
     "description": "Adds a few distribution blocks"
   },
   {
-    "repo": "A5TR0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "version": "0.0.1",
-    "mod_id": "astro-adds",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-05-26T00:13:05Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
-  },
-  {
     "repo": "I-hope1/mod.make",
     "name": "mod.make",
     "version": "1.1",
@@ -3430,6 +3430,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "A5TR0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.1",
+    "mod_id": "astro-adds",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-05-29T04:39:10Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4043,25 +4056,12 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "wshon/MinerToolsV6",
-    "name": "MinerTools V6",
-    "version": "1.6.5",
-    "mod_id": "miner-tools-v6",
-    "author": "miner, adapter by wshon",
-    "lastUpdated": "2022-05-28T09:46:35Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry V6."
-  },
-  {
     "repo": "12three7/TheNewWave",
     "name": "The New Wave",
     "version": "1.0",
     "mod_id": "new-wave",
     "author": "1237",
-    "lastUpdated": "2022-05-28T13:16:12Z",
+    "lastUpdated": "2022-05-29T01:19:47Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4145,6 +4145,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "martycagas/mindustry-mod-armored-conveyor",
+    "name": "Armored Basic Conveyor mod",
+    "version": "1.0",
+    "mod_id": "armored-basic-conveyor",
+    "author": "martycagas",
+    "lastUpdated": "2021-03-06T13:32:01Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -4574,6 +4587,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches"
+  },
+  {
+    "repo": "RakaGIT/LittleBoost",
+    "name": "Little Boost",
+    "version": "1.2.8",
+    "mod_id": "little-boost",
+    "author": "MCPC",
+    "lastUpdated": "2022-05-29T03:18:33Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Little coding, Add more items and blocks from Easy to build until Advanced machine"
   },
   {
     "repo": "Nikisos/TheBattleMod",
