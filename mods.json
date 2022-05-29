@@ -213,7 +213,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-29T09:46:53Z",
+    "lastUpdated": "2022-05-29T13:19:13Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1890,7 +1890,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-29T01:14:00Z",
+    "lastUpdated": "2022-05-29T12:24:40Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3424,7 +3424,7 @@
     "version": "1.1",
     "mod_id": "mod make",
     "author": "I hope...",
-    "lastUpdated": "2022-05-29T08:48:47Z",
+    "lastUpdated": "2022-05-29T12:13:15Z",
     "stars": 3,
     "minGameVersion": "110",
     "hasScripts": false,
@@ -4046,9 +4046,9 @@
     "repo": "12three7/TheNewWave",
     "name": "The New Wave",
     "version": "1.0",
-    "mod_id": "new-wave",
+    "mod_id": "tnw",
     "author": "1237",
-    "lastUpdated": "2022-05-29T01:19:47Z",
+    "lastUpdated": "2022-05-29T10:27:20Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4550,6 +4550,19 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
+    "repo": "Cry0flu1d/Project-Frost-In-Java",
+    "name": "Project Frost in a Jar",
+    "version": "0.0",
+    "mod_id": "project-frost",
+    "author": "Cry0flu1d & 2356",
+    "lastUpdated": "2022-05-22T16:03:35Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
+  },
+  {
     "repo": "xjamiex/CreativeCores",
     "name": "Creative Cores",
     "version": "0.1",
@@ -4594,7 +4607,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "Team Neiaron",
-    "lastUpdated": "2022-05-29T05:46:19Z",
+    "lastUpdated": "2022-05-29T13:34:57Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4990,6 +5003,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "????"
+  },
+  {
+    "repo": "haywyre124/Diamond-Mod-Naub",
+    "name": "Diamond-Mod-Naub",
+    "version": "1.0",
+    "mod_id": "Diamond Mod",
+    "author": "haywyre124",
+    "lastUpdated": "2021-08-15T21:12:02Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
     "repo": "AHRumjungle/Snad",
@@ -5447,19 +5473,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-04-13T19:34:23Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
     "repo": "StepHindi/Mindustry_mod_java_test",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5512,19 +5525,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "936338156/mindustry-Interplanetary_Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.17.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-05-27T03:05:26Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5549,5 +5549,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
+  },
+  {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-05-29T13:37:20Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   }
 ]
