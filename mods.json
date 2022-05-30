@@ -213,7 +213,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-29T19:27:34Z",
+    "lastUpdated": "2022-05-30T04:26:48Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1326,6 +1326,19 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "newB7140/duomod",
+    "name": "duomod",
+    "version": "1.14",
+    "mod_id": "duomod",
+    "author": "뉴B",
+    "lastUpdated": "2022-05-15T03:29:34Z",
+    "stars": 10,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
+  },
+  {
     "repo": "EchoVespy/Simplistic",
     "name": "Simplistic - TexturePack",
     "version": "0.8.1",
@@ -1441,19 +1454,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
-    "repo": "newB7140/duomod",
-    "name": "duomod",
-    "version": "1.14",
-    "mod_id": "duomod",
-    "author": "뉴B",
-    "lastUpdated": "2022-05-15T03:29:34Z",
-    "stars": 9,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
     "repo": "WMF-Industries/ExpandedIndustries",
@@ -2093,6 +2093,19 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 6,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "deltanedas/mindustry-2",
     "name": "Mindustry 2",
     "version": "0.0.2",
@@ -2416,19 +2429,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
-  },
-  {
-    "repo": "deltanedas/anuke-logic",
-    "name": "Anuke Logic",
-    "version": "1.9.6",
-    "mod_id": "anuke-logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-24T16:44:09Z",
-    "stars": 5,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "WilloIzCitron/alex-dustry",
@@ -4607,7 +4607,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "Team Neiaron",
-    "lastUpdated": "2022-05-29T16:56:48Z",
+    "lastUpdated": "2022-05-30T02:25:10Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
