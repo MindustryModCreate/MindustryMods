@@ -213,7 +213,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-30T08:50:47Z",
+    "lastUpdated": "2022-05-30T14:27:22Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -702,6 +702,19 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T17:01:41Z",
+    "stars": 18,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "sk7725/Testers",
     "name": "Testers",
     "version": "0.25",
@@ -739,19 +752,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
-  },
-  {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-19T17:01:41Z",
-    "stars": 17,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -845,6 +845,19 @@
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.3-alpha(buggy)",
+    "mod_id": "Ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-05-29T16:39:19Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -882,19 +895,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.3-alpha(buggy)",
-    "mod_id": "Ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-05-29T16:39:19Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little Mindustry java mod"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -1201,7 +1201,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-05-28T15:22:00Z",
+    "lastUpdated": "2022-05-30T14:35:55Z",
     "stars": 12,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1458,10 +1458,10 @@
   {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
-    "version": "1.4 [U5]",
+    "version": "1.4 [U6]",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2022-05-29T18:55:06Z",
+    "lastUpdated": "2022-05-30T15:07:34Z",
     "stars": 9,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -4048,7 +4048,7 @@
     "version": "1.0",
     "mod_id": "tnw",
     "author": "1237",
-    "lastUpdated": "2022-05-29T10:27:20Z",
+    "lastUpdated": "2022-05-30T11:30:14Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4594,7 +4594,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "Team Neiaron",
-    "lastUpdated": "2022-05-30T02:25:10Z",
+    "lastUpdated": "2022-05-30T12:48:46Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5367,6 +5367,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
+  },
+  {
+    "repo": "CharlieGregg314/mindustry-mod-test",
+    "name": "test",
+    "version": "0.0.0",
+    "mod_id": "mod",
+    "author": "CharlieGregg",
+    "lastUpdated": "2022-02-14T00:36:11Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "test"
   },
   {
     "repo": "TechFish3000/Techfish-Innovations",
