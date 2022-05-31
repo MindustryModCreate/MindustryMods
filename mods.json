@@ -2496,6 +2496,19 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
+    "repo": "deltanedas/ExampleJavaMod",
+    "name": "Example Java Mod",
+    "version": "2.0.3",
+    "mod_id": "example-java-mod",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-05-19T09:34:17Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A jar mod. Glory to the cat"
+  },
+  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2858,19 +2871,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "deltanedas/ExampleJavaMod",
-    "name": "Example Java Mod",
-    "version": "2.0.3",
-    "mod_id": "example-java-mod",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-05-19T09:34:17Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod. Glory to the cat"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -3575,6 +3575,19 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2021-03-18T17:47:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
+  },
+  {
     "repo": "Gamer123-games/NEXUS---MINDUSTRY-MOD",
     "name": "save The NEXUS",
     "version": "1.0",
@@ -4017,19 +4030,6 @@
     "description": "Adds new features."
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.5.5",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-05-18T03:26:24Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
     "name": "[Kotlin] Mindustry Mod Template",
     "version": "1.0",
@@ -4048,7 +4048,7 @@
     "version": "1.0",
     "mod_id": "tnw",
     "author": "1237",
-    "lastUpdated": "2022-05-30T11:30:14Z",
+    "lastUpdated": "2022-05-31T00:07:12Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4446,19 +4446,6 @@
     "description": "This mod is no more useless!"
   },
   {
-    "repo": "TippierPark8961/Green-Void",
-    "name": "Green Void",
-    "version": "1",
-    "mod_id": "modo",
-    "author": "TippierPark8961",
-    "lastUpdated": "2022-03-24T23:17:11Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod"
-  },
-  {
     "repo": "laok233/h",
     "name": "h",
     "version": "0.1",
@@ -4509,6 +4496,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.5.5",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-05-18T03:26:24Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "ExplerHD/unnamedMods",
@@ -4600,6 +4600,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry java mod."
+  },
+  {
+    "repo": "TippierPark8961/Green-Void",
+    "name": "Green Void",
+    "version": "1",
+    "mod_id": "modo",
+    "author": "TippierPark8961",
+    "lastUpdated": "2022-05-31T00:25:02Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5367,19 +5380,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
-  },
-  {
-    "repo": "CharlieGregg314/mindustry-mod-test",
-    "name": "test",
-    "version": "0.0.0",
-    "mod_id": "mod",
-    "author": "CharlieGregg",
-    "lastUpdated": "2022-02-14T00:36:11Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "test"
   },
   {
     "repo": "TechFish3000/Techfish-Innovations",
