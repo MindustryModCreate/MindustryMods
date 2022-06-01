@@ -1911,19 +1911,6 @@
     "description": "there is no escape"
   },
   {
-    "repo": "LottieVixen/2xConveyors",
-    "name": "2X Conveyors",
-    "version": "0.2",
-    "mod_id": "2xconveyors",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-03T04:18:24Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Two (2) times faster conveyors, at twice the cost"
-  },
-  {
     "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
@@ -5369,6 +5356,19 @@
     "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
   },
   {
+    "repo": "CharlieGregg314/mindustry-mod-test",
+    "name": "test",
+    "version": "0.0.0",
+    "mod_id": "mod",
+    "author": "CharlieGregg",
+    "lastUpdated": "2022-02-14T00:36:11Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "test"
+  },
+  {
     "repo": "TechFish3000/Techfish-Innovations",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5536,5 +5536,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
+    "repo": "Weathercold/MindustryClojureModTemplate",
+    "name": "Clojure Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-clojure-mod",
+    "author": "Weathercold",
+    "lastUpdated": "2022-05-31T21:24:26Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Clojure mod template."
   }
 ]
