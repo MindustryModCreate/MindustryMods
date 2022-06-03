@@ -208,12 +208,25 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-02T19:49:56Z",
+    "stars": 52,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-02T12:26:04Z",
+    "lastUpdated": "2022-06-03T07:48:50Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -258,19 +271,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-02T19:49:56Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -330,7 +330,7 @@
     "version": "25.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-06-01T17:54:19Z",
+    "lastUpdated": "2022-06-03T01:55:42Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1669,7 +1669,7 @@
     "version": "1.6.5",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-05-31T05:09:13Z",
+    "lastUpdated": "2022-06-03T08:32:12Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1859,6 +1859,19 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
+    "repo": "LighterTimes/Block-Placer",
+    "name": "Block Placer",
+    "version": "42.0",
+    "mod_id": "block-placer",
+    "author": "Light",
+    "lastUpdated": "2022-04-26T18:32:31Z",
+    "stars": 7,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
+  },
+  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -1890,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-02T12:31:35Z",
+    "lastUpdated": "2022-06-03T01:05:01Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3406,32 +3419,6 @@
     "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.1",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2022-05-29T12:13:15Z",
-    "stars": 3,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
-    "repo": "A5TR0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "version": "0.0.1",
-    "mod_id": "astro-adds",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-05-29T23:57:15Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.35 Pre-Alpha",
@@ -3443,6 +3430,45 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "A5TR0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.2",
+    "mod_id": "astro-adds",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-06-03T03:12:20Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "Team Neiaron",
+    "lastUpdated": "2022-06-03T05:31:52Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry java mod."
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.1",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2022-06-03T08:18:33Z",
+    "stars": 3,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4054,19 +4080,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my second java mindustry mod."
-  },
-  {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0",
-    "mod_id": "ion",
-    "author": "Team Neiaron",
-    "lastUpdated": "2022-06-02T17:14:53Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry java mod."
   },
   {
     "repo": "4156/Infintory",
@@ -5575,5 +5588,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
+  },
+  {
+    "repo": "I-hope1/Ice_Frost_Future",
+    "name": "Ice_Frost_Future",
+    "version": "1.0.6.6",
+    "mod_id": "冰霜未来",
+    "author": "MYX boy",
+    "lastUpdated": "2022-06-03T06:57:20Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n 更新内容请看MOD内更新日记\n\n如有问题bug欢迎告诉总作者！\n诚招画师和作者！（部分贴图嫖自开发群贴图大佬）\n  \n唯一交流群: 672721328"
   }
 ]
