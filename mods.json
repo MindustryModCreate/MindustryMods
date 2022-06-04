@@ -226,7 +226,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-03T16:22:05Z",
+    "lastUpdated": "2022-06-04T07:03:37Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -247,19 +247,6 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.6",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-05-23T05:21:54Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
@@ -271,6 +258,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.6",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-06-04T09:05:37Z",
+    "stars": 51,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -793,6 +793,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-04-24T14:21:59Z",
+    "stars": 17,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences Classic",
     "version": "1.0",
@@ -882,19 +895,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-04-24T14:21:59Z",
-    "stars": 15,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -1669,7 +1669,7 @@
     "version": "1.6.5",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-06-03T08:32:12Z",
+    "lastUpdated": "2022-06-04T08:12:49Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3443,19 +3443,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.35 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-06-04T04:59:14Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -5595,7 +5582,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-06-04T04:38:36Z",
+    "lastUpdated": "2022-06-04T09:59:59Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
