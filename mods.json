@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-05-28T08:06:57Z",
-    "stars": 139,
+    "stars": 140,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -71,7 +71,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-04-06T08:14:34Z",
-    "stars": 110,
+    "stars": 111,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-04-15T09:02:02Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -221,6 +221,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.7.8.1",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-05-23T13:05:59Z",
+    "stars": 52,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3.4",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.7.8.1",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-05-23T13:05:59Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "Sharlottes/Informatis",
@@ -331,7 +331,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2022-06-03T01:55:42Z",
-    "stars": 41,
+    "stars": 42,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -702,19 +702,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-19T17:01:41Z",
-    "stars": 18,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "sk7725/Testers",
     "name": "Testers",
     "version": "0.25",
@@ -752,6 +739,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
+  },
+  {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T17:01:41Z",
+    "stars": 17,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-05T12:22:31Z",
+    "lastUpdated": "2022-06-06T01:11:36Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4620,7 +4620,7 @@
     "version": "1",
     "mod_id": "modo",
     "author": "TippierPark8961",
-    "lastUpdated": "2022-06-05T03:58:44Z",
+    "lastUpdated": "2022-06-06T02:09:03Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": false,
