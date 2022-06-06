@@ -71,7 +71,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-04-06T08:14:34Z",
-    "stars": 111,
+    "stars": 112,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -923,6 +923,19 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
+    "repo": "Drullkus/Unnerf-Core-Units",
+    "name": "Unnerf Core Units",
+    "version": "1.1",
+    "mod_id": "unnerf_core_units",
+    "author": "Drullkus",
+    "lastUpdated": "2021-04-22T05:20:45Z",
+    "stars": 14,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
+  },
+  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "version": "1.3.3",
@@ -1025,19 +1038,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "EXP Library for 6.0!"
-  },
-  {
-    "repo": "Drullkus/Unnerf-Core-Units",
-    "name": "Unnerf Core Units",
-    "version": "1.1",
-    "mod_id": "unnerf_core_units",
-    "author": "Drullkus",
-    "lastUpdated": "2021-04-22T05:20:45Z",
-    "stars": 13,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -1534,6 +1534,19 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
+    "repo": "skykatik/PaperMod",
+    "name": "PaperMod",
+    "version": "0.3",
+    "mod_id": "paper-mod",
+    "author": "Skat with Pandorum's Players",
+    "lastUpdated": "2021-05-21T13:27:58Z",
+    "stars": 8,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Please no..."
+  },
+  {
     "repo": "pixecoz/better-menders",
     "name": "Better menders",
     "version": "1.0",
@@ -1890,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-06T01:11:36Z",
+    "lastUpdated": "2022-06-06T12:31:37Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2156,6 +2169,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
+  },
+  {
+    "repo": "RlCCJ/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "Zeniku/HeavyMachineryJava",
@@ -4251,6 +4277,19 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
+    "repo": "NemesisTheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "version": "1.0",
+    "mod_id": "wort-wort-wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-30T08:52:45Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
+  },
+  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -4568,7 +4607,7 @@
     "version": "1",
     "mod_id": "modo",
     "author": "TippierPark8961",
-    "lastUpdated": "2022-06-06T02:09:03Z",
+    "lastUpdated": "2022-06-06T14:00:04Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": false,
@@ -5148,6 +5187,19 @@
     "description": "IGNORE IF SEEN- i'm learning to mod"
   },
   {
+    "repo": "Bergiu/HyperProcessor",
+    "name": "Hyper Processor",
+    "version": "1.0",
+    "mod_id": "hp",
+    "author": "Bergiu",
+    "lastUpdated": "2021-12-02T12:57:43Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds faster and better logic blocks"
+  },
+  {
     "repo": "BalaM314/mindustry-magic-mod-dead",
     "name": "Mindustry Magic Mod",
     "version": "1.0",
@@ -5237,6 +5289,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
+  },
+  {
+    "repo": "dashmaster-c/DS-Industry",
+    "name": "DS Industry",
+    "version": "0.2",
+    "mod_id": "DS-Industry",
+    "author": "dashmaster",
+    "lastUpdated": "2022-01-10T08:40:48Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "Miniontoby/mindustrirc",
@@ -5517,7 +5582,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-06-06T09:37:25Z",
+    "lastUpdated": "2022-06-06T13:52:42Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
