@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-05-26T17:36:47Z",
-    "stars": 209,
+    "stars": 210,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -312,6 +312,19 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progression Ministry",
+    "version": "25.1",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
+    "lastUpdated": "2022-06-03T01:55:42Z",
+    "stars": 44,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
+  },
+  {
     "repo": "AeronGreva/AeroMindustry",
     "name": "AeroMindustry",
     "version": "1.0",
@@ -323,19 +336,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progression Ministry",
-    "version": "25.1",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-06-03T01:55:42Z",
-    "stars": 43,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -650,19 +650,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "version": "1.4",
-    "mod_id": "classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2022-04-23T10:11:06Z",
-    "stars": 22,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.2.20 + 0.1.7",
@@ -674,6 +661,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "version": "1.4",
+    "mod_id": "classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2022-04-23T10:11:06Z",
+    "stars": 21,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -806,19 +806,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-04-24T14:21:59Z",
-    "stars": 17,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences Classic",
     "version": "1.0",
@@ -843,6 +830,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-04-24T14:21:59Z",
+    "stars": 16,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "EB-wilson/Singularity",
@@ -2834,6 +2834,19 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "0.1",
+    "mod_id": "VanillaPlus",
+    "author": "Dagger(Кинжал)",
+    "lastUpdated": "2022-04-03T11:00:48Z",
+    "stars": 4,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
+  },
+  {
     "repo": "hortiSquash/hortiblocks",
     "name": "horti blocks",
     "version": "1.1",
@@ -3326,19 +3339,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Work in progress (not working)"
-  },
-  {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "0.1",
-    "mod_id": "VanillaPlus",
-    "author": "Dagger(Кинжал)",
-    "lastUpdated": "2022-04-03T11:00:48Z",
-    "stars": 3,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
     "repo": "TeeworldsFun/Mindustry-teeworlds",
@@ -5569,7 +5569,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-06-07T05:27:24Z",
+    "lastUpdated": "2022-06-07T14:52:03Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
