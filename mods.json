@@ -1677,19 +1677,6 @@
     "description": "Adds more thorium development"
   },
   {
-    "repo": "RlCCJ/MinerTools",
-    "name": "MinerTools",
-    "version": "1.6.5",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-06-04T12:51:23Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -1701,6 +1688,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "RlCCJ/MinerTools",
+    "name": "MinerTools",
+    "version": "1.6.5",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-06-08T05:08:51Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
   },
   {
     "repo": "deltanedas/cliff",
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-07T01:05:08Z",
+    "lastUpdated": "2022-06-08T01:06:51Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2171,6 +2171,19 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "RlCCJ/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "Zeniku/HeavyMachineryJava",
     "name": "HeavyMachineryJava",
     "version": "1.0",
@@ -2208,6 +2221,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -4581,7 +4607,7 @@
     "version": "1",
     "mod_id": "modo",
     "author": "TippierPark8961",
-    "lastUpdated": "2022-06-08T00:39:27Z",
+    "lastUpdated": "2022-06-08T03:00:56Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": false,
@@ -5460,6 +5486,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "warcry98/SpeedControl",
+    "name": "Speed Control",
+    "version": "0.1",
+    "mod_id": "speed-control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-28T04:14:09Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "nekit508/MindustryExtendedRecipeModule",
     "name": "Extending Erekir generation",
     "version": "0.0.1",
@@ -5530,7 +5569,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-08T00:03:23Z",
+    "lastUpdated": "2022-06-08T03:16:11Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
