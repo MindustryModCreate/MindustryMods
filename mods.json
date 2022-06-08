@@ -655,7 +655,7 @@
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-05-15T16:27:35Z",
+    "lastUpdated": "2022-06-08T09:23:10Z",
     "stars": 22,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -819,6 +819,19 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "z0mbiesrock/Larger-Cores",
+    "name": "Larger Cores",
+    "version": "1.0",
+    "mod_id": "larger-cores",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2021-12-18T08:53:30Z",
+    "stars": 16,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds T4 and T5 Cores."
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Eclipse",
     "name": "Project Eclipse",
     "version": "0.1.0.3",
@@ -895,19 +908,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "z0mbiesrock/Larger-Cores",
-    "name": "Larger Cores",
-    "version": "1.0",
-    "mod_id": "larger-cores",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2021-12-18T08:53:30Z",
-    "stars": 15,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds T4 and T5 Cores."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -3237,6 +3237,19 @@
     "description": "makes thorium walls pink"
   },
   {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
+  },
+  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -4056,19 +4069,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "12three7/TheNewWave",
-    "name": "The New Wave",
-    "version": "1.0",
-    "mod_id": "tnw",
-    "author": "1237",
-    "lastUpdated": "2022-06-01T02:37:13Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my second java mindustry mod."
-  },
-  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4836,6 +4836,19 @@
     "description": ""
   },
   {
+    "repo": "FIRE-WATER799/mindustry-milatry-mod",
+    "name": "USA-Militray",
+    "version": "0.1",
+    "mod_id": "UsA-Military",
+    "author": "fire",
+    "lastUpdated": "2021-02-16T02:45:32Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is my first mod."
+  },
+  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -5055,19 +5068,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "StoneMcYT/FirstMindustryMod",
-    "name": "Stones Mod",
-    "version": "1.0.0",
-    "mod_id": "Stones First Mod",
-    "author": "StoneMc",
-    "lastUpdated": "2021-09-15T23:43:13Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My First mod"
   },
   {
     "repo": "Pietro303HD/Esoterum-Solutions",
@@ -5569,7 +5569,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-08T03:16:11Z",
+    "lastUpdated": "2022-06-08T09:35:20Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
