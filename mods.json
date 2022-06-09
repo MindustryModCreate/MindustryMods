@@ -265,7 +265,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-09T10:04:02Z",
+    "lastUpdated": "2022-06-09T16:16:43Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1019,7 +1019,7 @@
     "version": "0.9.1",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-06-08T12:10:06Z",
+    "lastUpdated": "2022-06-09T18:03:51Z",
     "stars": 14,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4056,6 +4056,19 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.5.5",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-06-09T17:25:13Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4485,19 +4498,6 @@
     "description": "Vanilla Extension for Mindustry"
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.5.5",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-05-18T03:26:24Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "ExplerHD/unnamedMods",
     "name": "New Tech",
     "version": "1.0",
@@ -4607,7 +4607,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-09T15:05:05Z",
+    "lastUpdated": "2022-06-09T15:27:17Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
