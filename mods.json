@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-06-08T17:44:18Z",
-    "stars": 211,
+    "stars": 212,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -265,7 +265,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-08T15:26:39Z",
+    "lastUpdated": "2022-06-09T10:04:02Z",
     "stars": 52,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -871,19 +871,6 @@
     "description": "A little Mindustry java mod"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "40",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-06-06T15:40:17Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.65",
@@ -895,6 +882,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "40",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-06-09T08:39:41Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -3040,19 +3040,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
-  },
-  {
-    "repo": "bloool/aquarium",
-    "name": "Aquarium",
-    "version": "0.01",
-    "mod_id": "aquarium",
-    "author": "blool",
-    "lastUpdated": "2021-05-17T21:29:14Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Small mod that currently only adds turrets focused on scripting."
   },
   {
     "repo": "lordReddx/mindustry-creator-mod",
