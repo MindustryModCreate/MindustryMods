@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-18T22:59:51Z",
-    "stars": 149,
+    "stars": 150,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -182,6 +182,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-03T23:15:44Z",
+    "stars": 55,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "3.16.6",
@@ -193,19 +206,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-03T23:15:44Z",
-    "stars": 54,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -702,6 +702,19 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T17:01:41Z",
+    "stars": 18,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -767,19 +780,6 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-19T17:01:41Z",
-    "stars": 17,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.3",
@@ -817,6 +817,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-06-08T18:59:21Z",
+    "stars": 17,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "TheRealIvyX/MoreDefences",
@@ -884,19 +897,6 @@
     "description": "A little Mindustry java mod"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-06-08T18:59:21Z",
-    "stars": 16,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -908,6 +908,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
+    "repo": "deltanedas/ldb",
+    "name": "Logic Debugger",
+    "version": "1.3.3",
+    "mod_id": "ldb",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-02-27T02:11:44Z",
+    "stars": 15,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -947,19 +960,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
-  },
-  {
-    "repo": "deltanedas/ldb",
-    "name": "Logic Debugger",
-    "version": "1.3.3",
-    "mod_id": "ldb",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-02-27T02:11:44Z",
-    "stars": 14,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "GlennFolker/Confictura",
@@ -1560,6 +1560,19 @@
     "description": "Please no..."
   },
   {
+    "repo": "QmelZ/launchpad-redirect",
+    "name": "Launchpad Redirect",
+    "version": "2",
+    "mod_id": "launchpad-redirect",
+    "author": "QmelZ",
+    "lastUpdated": "2021-06-23T17:36:58Z",
+    "stars": 8,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "pixecoz/better-menders",
     "name": "Better menders",
     "version": "1.0",
@@ -1755,19 +1768,6 @@
     "description": "Green technologies are the future. AVE MODS!"
   },
   {
-    "repo": "QmelZ/launchpad-redirect",
-    "name": "Launchpad Redirect",
-    "version": "2",
-    "mod_id": "launchpad-redirect",
-    "author": "QmelZ",
-    "lastUpdated": "2021-06-23T17:36:58Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Pietro303HD/ShitShow",
     "name": "Shit Show",
     "version": "0.1",
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-12T01:13:04Z",
+    "lastUpdated": "2022-06-12T12:21:43Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2470,6 +2470,19 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "hortiSquash/hortiblocks",
+    "name": "horti blocks",
+    "version": "1.1",
+    "mod_id": "horti blocks",
+    "author": "hortiSquash",
+    "lastUpdated": "2022-04-05T03:21:23Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Collection of joke blocks"
+  },
+  {
     "repo": "WilloIzCitron/alex-dustry",
     "name": "Alexdustry",
     "version": "1.0.0",
@@ -2845,19 +2858,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
-  },
-  {
-    "repo": "hortiSquash/hortiblocks",
-    "name": "horti blocks",
-    "version": "1.1",
-    "mod_id": "horti blocks",
-    "author": "hortiSquash",
-    "lastUpdated": "2022-04-05T03:21:23Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Collection of joke blocks"
   },
   {
     "repo": "RlCCJ/Logic-Completion",
@@ -3354,19 +3354,6 @@
     "description": "Work in progress (not working)"
   },
   {
-    "repo": "TeeworldsFun/Mindustry-teeworlds",
-    "name": "Teeworlds Developers Coming!(Tws/DDNet)",
-    "version": "0.6.4",
-    "mod_id": "tws",
-    "author": "FlowerFell-Sans & Ninecloud",
-    "lastUpdated": "2022-04-09T04:16:16Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Write some developers of teeworks into the game!"
-  },
-  {
     "repo": "RayanZ22/OP-Mod",
     "name": "OP Things",
     "version": "0.4.1",
@@ -3456,6 +3443,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "TeeworldsFun/Mindustry-teeworlds",
+    "name": "Teeworlds Developers Coming!(Tws/DDNet)",
+    "version": "0.6.4",
+    "mod_id": "tws",
+    "author": "FlowerFell-Sans & Ninecloud",
+    "lastUpdated": "2022-06-12T10:49:09Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Write some developers of teeworks into the game!"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4030,19 +4030,6 @@
     "description": "Adds new features."
   },
   {
-    "repo": "xjamiex/CreativeCores",
-    "name": "Creative Cores",
-    "version": "0.1",
-    "mod_id": "creative-cores",
-    "author": "xjammuux owo",
-    "lastUpdated": "2022-05-25T22:29:19Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod thats goog"
-  },
-  {
     "repo": "Cry0flu1d/Project-Frost-In-Java",
     "name": "Project Frost in a Jar",
     "version": "0.0",
@@ -4093,6 +4080,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-06-12T08:54:33Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "oh no."
   },
   {
     "repo": "4156/Infintory",
@@ -4264,19 +4264,6 @@
     "description": "Epic mindustry mod"
   },
   {
-    "repo": "ZZY2357/super-mecha",
-    "name": "Super Mecha",
-    "version": "1.0",
-    "mod_id": "super-mecha",
-    "author": "zzy2357@outlook.com",
-    "lastUpdated": "2021-10-05T09:16:42Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Super Mecha. 一个超强的机甲"
-  },
-  {
     "repo": "mrcactiseed21/ultranium-mod-mindustry",
     "name": "ultranium mod",
     "version": "0",
@@ -4353,19 +4340,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
-  },
-  {
-    "repo": "Goobrr/Finality",
-    "name": "Finality",
-    "version": "0",
-    "mod_id": "finality",
-    "author": "Goober",
-    "lastUpdated": "2021-12-23T03:11:12Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Auseawesome/Mindustry-GameBreaker",
@@ -4602,19 +4576,6 @@
     "description": "A Mod"
   },
   {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-12T08:54:33Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "oh no."
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -4834,6 +4795,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "FIRE-WATER799/mindustry-milatry-mod",
+    "name": "USA-Militray",
+    "version": "0.1",
+    "mod_id": "UsA-Military",
+    "author": "fire",
+    "lastUpdated": "2021-02-16T02:45:32Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is my first mod."
   },
   {
     "repo": "oguh43/quantumReactor",
@@ -5057,19 +5031,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "StoneMcYT/FirstMindustryMod",
-    "name": "Stones Mod",
-    "version": "1.0.0",
-    "mod_id": "Stones First Mod",
-    "author": "StoneMc",
-    "lastUpdated": "2021-09-15T23:43:13Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My First mod"
-  },
-  {
     "repo": "Pietro303HD/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -5094,19 +5055,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "MissAmity/Singabana",
-    "name": "Singabana",
-    "version": "0.1",
-    "mod_id": "singabana-mod",
-    "author": "Cato-1",
-    "lastUpdated": "2021-10-22T07:03:20Z",
-    "stars": 0,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 Mod that add modded maps"
   },
   {
     "repo": "YunaAkaishi08/PlusAlfer",
@@ -5146,19 +5094,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
-  },
-  {
-    "repo": "Mitch-JAR/Mindustry-Chronicles",
-    "name": "MiniChrone",
-    "version": "1.0",
-    "mod_id": "MiniChrone",
-    "author": "MitchJAR",
-    "lastUpdated": "2021-11-05T23:39:16Z",
-    "stars": 0,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "Boople-Beep/untiled-mindustry-mod",
