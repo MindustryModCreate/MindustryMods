@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-06-12T06:59:29Z",
-    "stars": 217,
+    "stars": 218,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -247,6 +247,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.6",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-06-05T14:09:32Z",
+    "stars": 53,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.0",
@@ -260,26 +273,13 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.6",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-06-05T14:09:32Z",
-    "stars": 52,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-06-11T15:10:41Z",
-    "stars": 46,
+    "stars": 47,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -314,10 +314,10 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
-    "version": "25.1",
+    "version": "26.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-06-15T07:08:48Z",
+    "lastUpdated": "2022-06-15T19:34:38Z",
     "stars": 44,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -819,6 +819,19 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.3-alpha(buggy)",
+    "mod_id": "Ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-05-31T14:23:44Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
+  },
+  {
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences Classic",
     "version": "1.0",
@@ -882,19 +895,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.3-alpha(buggy)",
-    "mod_id": "Ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-05-31T14:23:44Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little Mindustry java mod"
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -1846,6 +1846,19 @@
     "description": "Upload your maps:\nDiscord pixecoz#3275"
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 7,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "version": "2.1",
@@ -2106,19 +2119,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "deltanedas/anuke-logic",
-    "name": "Anuke Logic",
-    "version": "1.9.6",
-    "mod_id": "anuke-logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-24T16:44:09Z",
-    "stars": 6,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
     "repo": "deltanedas/mindustry-2",
     "name": "Mindustry 2",
     "version": "0.0.2",
@@ -2171,19 +2171,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "RlCCJ/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2234,19 +2221,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
-    "repo": "SpaceEarthEX/letter-sound-effect",
-    "name": "Letter sound effect",
-    "version": "0.1",
-    "mod_id": "letter-sound-effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -3497,6 +3471,19 @@
     "description": "oh no."
   },
   {
+    "repo": "Toriwake/Kannadustry",
+    "name": "Kannadustry",
+    "version": "1.0",
+    "mod_id": "Kannadustry",
+    "author": "Toriwake/Kanna",
+    "lastUpdated": "2022-06-15T19:31:28Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -4106,19 +4093,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
-    "repo": "Toriwake/Kannadustry",
-    "name": "Kannadustry",
-    "version": "1.0",
-    "mod_id": "Kannadustry",
-    "author": "Kanna",
-    "lastUpdated": "2022-06-15T14:37:52Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Kanna mod"
   },
   {
     "repo": "4156/Infintory",
@@ -4875,6 +4849,19 @@
     "description": ""
   },
   {
+    "repo": "FIRE-WATER799/mindustry-milatry-mod",
+    "name": "USA-Militray",
+    "version": "0.1",
+    "mod_id": "UsA-Military",
+    "author": "fire",
+    "lastUpdated": "2021-02-16T02:45:32Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is my first mod."
+  },
+  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -5096,19 +5083,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "StoneMcYT/FirstMindustryMod",
-    "name": "Stones Mod",
-    "version": "1.0.0",
-    "mod_id": "Stones First Mod",
-    "author": "StoneMc",
-    "lastUpdated": "2021-09-15T23:43:13Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My First mod"
-  },
-  {
     "repo": "Pietro303HD/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -5315,19 +5289,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
-  },
-  {
-    "repo": "dashmaster-c/DS-Industry",
-    "name": "DS Industry",
-    "version": "0.2",
-    "mod_id": "DS-Industry",
-    "author": "dashmaster",
-    "lastUpdated": "2022-01-10T08:40:48Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "Miniontoby/mindustrirc",
