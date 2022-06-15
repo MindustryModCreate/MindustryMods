@@ -188,7 +188,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-06-03T23:15:44Z",
-    "stars": 55,
+    "stars": 56,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -208,26 +208,13 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
-    "repo": "deltanedas/routorio-old",
-    "name": "routorio",
-    "version": "2.36.4",
-    "mod_id": "routorio",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-05-14T15:45:33Z",
-    "stars": 53,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-06-15T07:07:21Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -240,11 +227,24 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-06-15T09:26:09Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
+    "repo": "deltanedas/routorio-old",
+    "name": "routorio",
+    "version": "2.36.4",
+    "mod_id": "routorio",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-05-14T15:45:33Z",
+    "stars": 53,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
     "repo": "deltanedas/rtfm",
@@ -819,19 +819,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-06-08T18:59:21Z",
-    "stars": 17,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences Classic",
     "version": "1.0",
@@ -843,6 +830,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-06-15T12:46:26Z",
+    "stars": 17,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -1903,7 +1903,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-15T01:14:28Z",
+    "lastUpdated": "2022-06-15T12:26:31Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3489,7 +3489,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-15T04:30:50Z",
+    "lastUpdated": "2022-06-15T13:03:51Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4106,6 +4106,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
+    "repo": "Toriwake/Kannadustry",
+    "name": "Kannadustry",
+    "version": "1.0",
+    "mod_id": "Kannadustry",
+    "author": "Kanna",
+    "lastUpdated": "2022-06-15T14:37:52Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
   },
   {
     "repo": "4156/Infintory",
