@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-06-12T06:59:29Z",
-    "stars": 218,
+    "stars": 219,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -390,6 +390,19 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
+    "repo": "deltanedas/dev-mode",
+    "name": "Developer Mode",
+    "version": "3.3.2",
+    "mod_id": "dev-mode",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T14:59:49Z",
+    "stars": 33,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "version": "2.11",
@@ -414,19 +427,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "deltanedas/dev-mode",
-    "name": "Developer Mode",
-    "version": "3.3.2",
-    "mod_id": "dev-mode",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T14:59:49Z",
-    "stars": 32,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
     "repo": "younggam/multi-lib",
@@ -1391,6 +1391,19 @@
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
   },
   {
+    "repo": "QmelZ/launchpad-redirect",
+    "name": "Launchpad Redirect",
+    "version": "2",
+    "mod_id": "launchpad-redirect",
+    "author": "QmelZ",
+    "lastUpdated": "2021-06-23T17:36:58Z",
+    "stars": 9,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "spmlk/DreamscapeMod",
     "name": "Dreamscape Mod",
     "version": "1.1",
@@ -1558,19 +1571,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Please no..."
-  },
-  {
-    "repo": "QmelZ/launchpad-redirect",
-    "name": "Launchpad Redirect",
-    "version": "2",
-    "mod_id": "launchpad-redirect",
-    "author": "QmelZ",
-    "lastUpdated": "2021-06-23T17:36:58Z",
-    "stars": 8,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "pixecoz/better-menders",
@@ -1885,19 +1885,6 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
-    "repo": "LighterTimes/Block-Placer",
-    "name": "Block Placer",
-    "version": "42.0",
-    "mod_id": "block-placer",
-    "author": "Light",
-    "lastUpdated": "2022-04-26T18:32:31Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
-  },
-  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -2171,6 +2158,19 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "RlCCJ/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2221,6 +2221,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -2546,19 +2559,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
-  },
-  {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -3534,19 +3534,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Leyn-pl/TheWorstMod2",
-    "name": "TheWorstMod2",
-    "version": "0.4",
-    "mod_id": "The Worst Mod 2",
-    "author": "Leyn-pl",
-    "lastUpdated": "2021-01-18T19:50:30Z",
-    "stars": 2,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Worst mod! Never play with it!"
   },
   {
     "repo": "ScolarIronFist/UnitCapMod",
@@ -4849,19 +4836,6 @@
     "description": ""
   },
   {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "version": "0.1",
-    "mod_id": "UsA-Military",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
-  },
-  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -5083,6 +5057,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "StoneMcYT/FirstMindustryMod",
+    "name": "Stones Mod",
+    "version": "1.0.0",
+    "mod_id": "Stones First Mod",
+    "author": "StoneMc",
+    "lastUpdated": "2021-09-15T23:43:13Z",
+    "stars": 0,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My First mod"
+  },
+  {
     "repo": "Pietro303HD/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -5289,6 +5276,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
+  },
+  {
+    "repo": "dashmaster-c/DS-Industry",
+    "name": "DS Industry",
+    "version": "0.2",
+    "mod_id": "DS-Industry",
+    "author": "dashmaster",
+    "lastUpdated": "2022-01-10T08:40:48Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "Miniontoby/mindustrirc",
