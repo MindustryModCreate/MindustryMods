@@ -676,6 +676,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "deltanedas/unit-factory",
+    "name": "Unit Factory",
+    "version": "3.5.0",
+    "mod_id": "unit-factory",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:53Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -687,19 +700,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "deltanedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "3.5.0",
-    "mod_id": "unit-factory",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:53Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1916,7 +1916,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-16T01:11:55Z",
+    "lastUpdated": "2022-06-16T12:27:41Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2171,19 +2171,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "RlCCJ/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2234,19 +2221,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
-    "repo": "SpaceEarthEX/letter-sound-effect",
-    "name": "Letter sound effect",
-    "version": "0.1",
-    "mod_id": "letter-sound-effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -3502,7 +3476,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-16T04:46:06Z",
+    "lastUpdated": "2022-06-16T12:20:10Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3729,19 +3703,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
-  },
-  {
-    "repo": "RebornTrack970/Destroyer",
-    "name": "Destroyer",
-    "version": "1.0",
-    "mod_id": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2021-06-07T09:26:32Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
   },
   {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
@@ -4654,6 +4615,19 @@
     "description": "A Mod"
   },
   {
+    "repo": "12three7/CodenameWindstorm",
+    "name": "Codename: Windstorm",
+    "version": "1.0",
+    "mod_id": "codename-windstorm",
+    "author": "1237",
+    "lastUpdated": "2022-06-11T07:05:32Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a mindustry mod.\n\nmade by 1237."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -4758,19 +4732,6 @@
     "description": "test mod"
   },
   {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
     "repo": "AmateurPotion/Mindustry-JavaMod-Template",
     "name": "Mindustry Java mod Template",
     "version": "2",
@@ -4873,19 +4834,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "version": "0.1",
-    "mod_id": "UsA-Military",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
   },
   {
     "repo": "oguh43/quantumReactor",
