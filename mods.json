@@ -785,9 +785,9 @@
     "version": "41",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-06-13T04:34:31Z",
+    "lastUpdated": "2022-06-16T20:27:31Z",
     "stars": 18,
-    "minGameVersion": "22639",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
@@ -1508,6 +1508,19 @@
     "description": "Lots of crazy stuff :>"
   },
   {
+    "repo": "RlCCJ/MinerTools",
+    "name": "MinerTools",
+    "version": "1.6.5",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-06-15T05:51:42Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry."
+  },
+  {
     "repo": "deltanedas/override-lib",
     "name": "Override Lib",
     "version": "1.0.1",
@@ -1701,19 +1714,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
-  },
-  {
-    "repo": "RlCCJ/MinerTools",
-    "name": "MinerTools",
-    "version": "1.6.5",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-06-15T05:51:42Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry."
   },
   {
     "repo": "deltanedas/cliff",
