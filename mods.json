@@ -5,7 +5,7 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-06-18T14:29:00Z",
+    "lastUpdated": "2022-06-18T17:35:22Z",
     "stars": 220,
     "minGameVersion": "22568",
     "hasScripts": false,
@@ -239,7 +239,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-18T02:52:22Z",
+    "lastUpdated": "2022-06-18T17:58:16Z",
     "stars": 54,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -785,7 +785,7 @@
     "version": "41",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-06-17T08:54:47Z",
+    "lastUpdated": "2022-06-18T18:31:36Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2184,6 +2184,19 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "RlCCJ/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2234,6 +2247,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -2930,7 +2956,7 @@
     "version": "1.0",
     "mod_id": "template",
     "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-06-18T14:37:04Z",
+    "lastUpdated": "2022-06-18T17:46:03Z",
     "stars": 4,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3489,7 +3515,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-18T03:58:45Z",
+    "lastUpdated": "2022-06-18T18:32:14Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4095,19 +4121,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "1.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-18T12:24:38Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
-  },
-  {
     "repo": "Mythril382/AmmoSwap",
     "name": "Ammo Swap",
     "version": "0.2",
@@ -4119,6 +4132,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "1.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-18T17:07:01Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "4156/Infintory",
@@ -5172,6 +5198,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
+  },
+  {
+    "repo": "Mitch-JAR/Mindustry-Chronicles",
+    "name": "MiniChrone",
+    "version": "1.0",
+    "mod_id": "MiniChrone",
+    "author": "MitchJAR",
+    "lastUpdated": "2021-11-05T23:39:16Z",
+    "stars": 0,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "Boople-Beep/untiled-mindustry-mod",
