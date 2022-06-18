@@ -188,7 +188,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-06-03T23:15:44Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -806,19 +806,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "version": "1.82",
-    "mod_id": "Vanilla Extended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2021-11-03T22:48:32Z",
-    "stars": 17,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "0.6.0",
@@ -869,6 +856,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "version": "1.82",
+    "mod_id": "Vanilla Extended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2022-06-17T21:54:18Z",
+    "stars": 17,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -2158,6 +2158,19 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
+    "repo": "Radio-Silence-1/2r2tUtilitesMod",
+    "name": "2R2T Mod",
+    "version": "You Dont See This",
+    "mod_id": "2r2t utilty mod",
+    "author": "No",
+    "lastUpdated": "2022-05-05T01:19:37Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "name": "Mobile UI",
     "version": "3.0.0",
@@ -2507,19 +2520,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
-    "repo": "Radio-Silence-1/2r2tUtilitesMod",
-    "name": "2R2T Mod",
-    "version": "You Dont See This",
-    "mod_id": "2r2t utilty mod",
-    "author": "No",
-    "lastUpdated": "2022-05-05T01:19:37Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
     "repo": "deltanedas/waisa",
@@ -4329,6 +4329,19 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
+    "repo": "NemesisTheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "version": "1.0",
+    "mod_id": "wort-wort-wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-30T08:52:45Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
+  },
+  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -4576,6 +4589,19 @@
     "description": "adds bitches"
   },
   {
+    "repo": "warcry98/SpeedControl",
+    "name": "Speed Control",
+    "version": "0.1",
+    "mod_id": "speed-control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-28T04:14:09Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "RakaGIT/LittleBoost",
     "name": "Little Boost",
     "version": "1.28 a1",
@@ -4639,6 +4665,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
+  },
+  {
+    "repo": "Mythril382/AmmoSwap",
+    "name": "Ammo Swap",
+    "version": "0.1",
+    "mod_id": "ammo-swap",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-18T00:32:02Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
   },
   {
     "repo": "Nikisos/TheBattleMod",
