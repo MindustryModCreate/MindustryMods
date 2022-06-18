@@ -208,6 +208,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.6",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-06-05T14:09:32Z",
+    "stars": 54,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "0.7.8.1",
@@ -226,7 +239,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-17T17:37:54Z",
+    "lastUpdated": "2022-06-18T02:52:22Z",
     "stars": 54,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.6",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-06-05T14:09:32Z",
-    "stars": 53,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "deltanedas/rtfm",
@@ -863,7 +863,7 @@
     "version": "1.82",
     "mod_id": "Vanilla Extended",
     "author": "Tom Petrou",
-    "lastUpdated": "2022-06-17T21:54:18Z",
+    "lastUpdated": "2022-06-18T01:09:47Z",
     "stars": 17,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -1916,7 +1916,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-17T12:29:42Z",
+    "lastUpdated": "2022-06-18T01:11:26Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3502,7 +3502,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-16T12:20:10Z",
+    "lastUpdated": "2022-06-18T03:58:45Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4121,6 +4121,19 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "Mythril382/AmmoSwap",
+    "name": "Ammo Swap",
+    "version": "0.1",
+    "mod_id": "ammo-swap",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-18T00:32:02Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4665,19 +4678,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
-  },
-  {
-    "repo": "Mythril382/AmmoSwap",
-    "name": "Ammo Swap",
-    "version": "0.1",
-    "mod_id": "ammo-swap",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-18T00:32:02Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
   },
   {
     "repo": "Nikisos/TheBattleMod",
