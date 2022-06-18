@@ -5,8 +5,8 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-06-12T06:59:29Z",
-    "stars": 219,
+    "lastUpdated": "2022-06-18T14:29:00Z",
+    "stars": 220,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -694,7 +694,7 @@
     "version": "0.24.2",
     "mod_id": "Dimension Shard",
     "author": "滞人",
-    "lastUpdated": "2021-06-27T13:12:02Z",
+    "lastUpdated": "2022-06-18T13:24:22Z",
     "stars": 20,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1513,7 +1513,7 @@
     "version": "1.6.5",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-06-18T10:03:36Z",
+    "lastUpdated": "2022-06-18T10:47:51Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1916,7 +1916,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-18T01:11:26Z",
+    "lastUpdated": "2022-06-18T12:22:55Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2184,19 +2184,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "RlCCJ/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2247,19 +2234,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
-    "repo": "SpaceEarthEX/letter-sound-effect",
-    "name": "Letter sound effect",
-    "version": "0.1",
-    "mod_id": "letter-sound-effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -2886,19 +2860,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-04-29T14:51:13Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "Rex-Hm/Quality-Implementations-Mod",
     "name": "Quality Implementations",
     "version": "1.1",
@@ -2956,12 +2917,25 @@
     "version": "0.45 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-06-18T10:04:19Z",
+    "lastUpdated": "2022-06-18T13:21:22Z",
     "stars": 4,
     "minGameVersion": "22610",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-06-18T14:37:04Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4017,19 +3991,6 @@
     "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
-    "repo": "WilloIzCitron/Mindustry-Devilish-mod",
-    "name": "Devilish Mode",
-    "version": "1.2",
-    "mod_id": "devilish-mode",
-    "author": "[THREAT LEVEL: HIGH] Plays",
-    "lastUpdated": "2022-04-23T12:04:39Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "version": "0.1.4",
@@ -4134,12 +4095,25 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "1.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-18T12:24:38Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
     "repo": "Mythril382/AmmoSwap",
     "name": "Ammo Swap",
-    "version": "0.1",
+    "version": "0.2",
     "mod_id": "ammo-swap",
     "author": "Mythril",
-    "lastUpdated": "2022-06-18T00:32:02Z",
+    "lastUpdated": "2022-06-18T14:41:44Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4665,19 +4639,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Clojure mod template."
-  },
-  {
-    "repo": "12three7/CodenameWindstorm",
-    "name": "Codename: Windstorm",
-    "version": "1.0",
-    "mod_id": "codename-windstorm",
-    "author": "1237",
-    "lastUpdated": "2022-06-11T07:05:32Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod.\n\nmade by 1237."
   },
   {
     "repo": "TippierPark8961/Green-Void",
@@ -5211,19 +5172,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
-  },
-  {
-    "repo": "Mitch-JAR/Mindustry-Chronicles",
-    "name": "MiniChrone",
-    "version": "1.0",
-    "mod_id": "MiniChrone",
-    "author": "MitchJAR",
-    "lastUpdated": "2021-11-05T23:39:16Z",
-    "stars": 0,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "Boople-Beep/untiled-mindustry-mod",
