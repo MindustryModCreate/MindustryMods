@@ -5,7 +5,7 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-06-18T17:35:22Z",
+    "lastUpdated": "2022-06-19T09:50:53Z",
     "stars": 220,
     "minGameVersion": "22568",
     "hasScripts": false,
@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-18T22:59:51Z",
-    "stars": 151,
+    "stars": 152,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -1495,19 +1495,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.4 [U7]",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-06-12T01:05:03Z",
-    "stars": 9,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
-  },
-  {
     "repo": "RlCCJ/MinerTools",
     "name": "MinerTools",
     "version": "1.6.5",
@@ -1519,6 +1506,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.4 [U8]",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-06-19T09:53:33Z",
+    "stars": 9,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1651,19 +1651,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "THCworkshopCN/THC-Industry",
-    "name": "THC-Industry",
-    "version": "0.4.8.0_dev_legacy",
-    "mod_id": "THC Industry",
-    "author": "THC Workshop CN. uujuju",
-    "lastUpdated": "2022-02-26T04:21:48Z",
-    "stars": 8,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
     "repo": "RebornTrack970/GigaFortSector",
     "name": "GigaFort Sector",
     "version": "1.0",
@@ -1714,6 +1701,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "THCworkshopCN/THC-Industry",
+    "name": "THC-Industry",
+    "version": "0.4.8.0_dev_legacy",
+    "mod_id": "THC Industry",
+    "author": "THC Workshop CN. uujuju",
+    "lastUpdated": "2022-06-19T09:54:27Z",
+    "stars": 8,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
     "repo": "deltanedas/cliff",
@@ -1909,6 +1909,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
+  },
+  {
+    "repo": "Fabizocker456/test",
+    "name": "Test mod",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-06-18T21:14:40Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "MindustryInside/L1337n",
@@ -2208,19 +2221,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "Fabizocker456/test",
-    "name": "Test mod",
-    "version": "1.0",
-    "mod_id": "test",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-06-18T21:14:40Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2938,6 +2938,19 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "Toriwake/Kannadustry",
+    "name": "Kannadustry",
+    "version": "1.0",
+    "mod_id": "Kannadustry",
+    "author": "Toriwake/Kanna",
+    "lastUpdated": "2022-06-15T19:31:28Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
+  },
+  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.45 Pre-Alpha",
@@ -2962,6 +2975,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-06-19T00:04:42Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "oh no."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3157,6 +3183,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a faster Duo (and other stuff)"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/AutomaticModUpdator",
+    "name": "automatic mod updater",
+    "version": "1.5",
+    "mod_id": "automatic mod updater",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2021-09-08T07:05:35Z",
+    "stars": 3,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically checks for updates everytime you start the game"
   },
   {
     "repo": "FreezeMandu/siriuschem-v7",
@@ -3497,32 +3536,6 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
-    "repo": "Toriwake/Kannadustry",
-    "name": "Kannadustry",
-    "version": "1.0",
-    "mod_id": "Kannadustry",
-    "author": "Toriwake/Kanna",
-    "lastUpdated": "2022-06-15T19:31:28Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Kanna mod"
-  },
-  {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-19T00:04:42Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "oh no."
-  },
-  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -3822,19 +3835,6 @@
     "description": "New units and defenses for  all stages of the game.  Not complete also Looking for spriter!"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/AutomaticModUpdator",
-    "name": "automatic mod updater",
-    "version": "1.5",
-    "mod_id": "automatic mod updater",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2021-09-08T07:05:35Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically checks for updates everytime you start the game"
-  },
-  {
     "repo": "SMOLKEYS/AnimeBundles",
     "name": "Anime Bundles",
     "version": "1",
@@ -4095,6 +4095,19 @@
     "description": "Adds new features."
   },
   {
+    "repo": "Auseawesome/MindustryPlus",
+    "name": "Mindustry+ Core",
+    "version": "Alpha 0.4",
+    "mod_id": "mindustry-plus",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-05-21T06:48:36Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to alter vanilla progression"
+  },
+  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "version": "1.5.5",
@@ -4134,30 +4147,30 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "Mythril382/AmmoSwap",
-    "name": "Ammo Swap",
-    "version": "0.2",
-    "mod_id": "ammo-swap",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-18T14:41:44Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
-  },
-  {
     "repo": "liplum/BottledLiquid",
     "name": "Bottled Liquid",
     "version": "1.0",
     "mod_id": "bottled-liquid",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-18T17:07:01Z",
+    "lastUpdated": "2022-06-19T06:56:18Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
     "hasJava": true,
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
+    "repo": "Mythril382/AmmoSwap",
+    "name": "Ammo Swap",
+    "version": "0.3",
+    "mod_id": "ammo-swap",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-19T09:00:24Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
   },
   {
     "repo": "4156/Infintory",
@@ -4602,19 +4615,6 @@
     "description": "A Mindusry Java Mods thai I working on"
   },
   {
-    "repo": "Auseawesome/MindustryPlus",
-    "name": "Mindustry+ Core",
-    "version": "Alpha 0.4",
-    "mod_id": "mindustry-plus",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-05-21T06:48:36Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to alter vanilla progression"
-  },
-  {
     "repo": "Antlrr/bitches",
     "name": "Getting Bitches",
     "version": "1.0",
@@ -4698,7 +4698,7 @@
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-06-19T05:07:49Z",
+    "lastUpdated": "2022-06-19T09:09:04Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
