@@ -44,7 +44,7 @@
     "version": "1.4",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-05-18T22:59:51Z",
+    "lastUpdated": "2022-06-20T17:19:28Z",
     "stars": 153,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -286,6 +286,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progression Ministry",
+    "version": "26.0",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
+    "lastUpdated": "2022-06-15T19:34:38Z",
+    "stars": 46,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
+  },
+  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.5.1",
@@ -297,19 +310,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progression Ministry",
-    "version": "26.0",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-06-15T19:34:38Z",
-    "stars": 45,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -780,6 +780,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-06-15T12:46:26Z",
+    "stars": 18,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "41",
@@ -845,25 +858,12 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-06-15T12:46:26Z",
-    "stars": 17,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
     "mod_id": "Vanilla Extended",
     "author": "Tom Petrou",
-    "lastUpdated": "2022-06-18T01:09:47Z",
+    "lastUpdated": "2022-06-20T19:34:49Z",
     "stars": 17,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -2579,7 +2579,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-20T14:53:06Z",
+    "lastUpdated": "2022-06-20T16:18:02Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3008,7 +3008,7 @@
     "version": "0.45 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-06-20T05:50:08Z",
+    "lastUpdated": "2022-06-20T18:08:57Z",
     "stars": 4,
     "minGameVersion": "22610",
     "hasScripts": false,
@@ -4782,19 +4782,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
-  },
-  {
-    "repo": "avocado5182/FirstMindustryMod",
-    "name": "Epic Mindustry Mod",
-    "version": "1.5",
-    "mod_id": "firstmod-a5182",
-    "author": "avocado5182",
-    "lastUpdated": "2020-12-12T12:48:22Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dumb mod that does dumb stuff."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
