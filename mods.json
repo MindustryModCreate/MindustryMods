@@ -195,6 +195,19 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-20T12:50:30Z",
+    "stars": 55,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "3.16.6",
@@ -206,19 +219,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-18T17:58:16Z",
-    "stars": 54,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "Eschatologue/Unlimited-Armament-Works",
@@ -442,6 +442,19 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "14.1",
+    "mod_id": "adc",
+    "author": "Snake & SuperJaba2000",
+    "lastUpdated": "2022-05-16T01:02:52Z",
+    "stars": 31,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of additional content like turrets, factories and other."
+  },
+  {
     "repo": "NickName73/GRavillaso",
     "name": "GRavillaso",
     "version": "2 b41",
@@ -453,19 +466,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "14.1",
-    "mod_id": "adc",
-    "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-05-16T01:02:52Z",
-    "stars": 30,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
     "repo": "Goobrr/amogus",
@@ -1513,7 +1513,7 @@
     "version": "1.4 [U8]",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2022-06-19T09:53:33Z",
+    "lastUpdated": "2022-06-20T15:04:12Z",
     "stars": 9,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -1929,7 +1929,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-20T01:16:33Z",
+    "lastUpdated": "2022-06-20T12:26:39Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2561,6 +2561,32 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-06-19T14:26:30Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-20T14:53:06Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -2977,19 +3003,6 @@
     "description": "oh no."
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-06-19T14:26:30Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.45 Pre-Alpha",
@@ -3001,19 +3014,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-20T09:46:49Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3534,6 +3534,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Write some developers of teeworks into the game!"
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "2.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-19T14:29:28Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4160,25 +4173,12 @@
     "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
   },
   {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "2.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-19T14:29:28Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
-  },
-  {
     "repo": "12three7/CodenameWindstorm",
     "name": "Codename: Windstorm",
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-06-20T04:36:41Z",
+    "lastUpdated": "2022-06-20T13:15:06Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4782,6 +4782,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
+  },
+  {
+    "repo": "avocado5182/FirstMindustryMod",
+    "name": "Epic Mindustry Mod",
+    "version": "1.5",
+    "mod_id": "firstmod-a5182",
+    "author": "avocado5182",
+    "lastUpdated": "2020-12-12T12:48:22Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dumb mod that does dumb stuff."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
