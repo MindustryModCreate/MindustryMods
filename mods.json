@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-18T22:59:51Z",
-    "stars": 152,
+    "stars": 153,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -208,32 +208,6 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.6",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-06-05T14:09:32Z",
-    "stars": 54,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "0.7.8.1",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-06-17T12:36:11Z",
-    "stars": 54,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "3.4",
@@ -245,6 +219,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "0.7.8.1",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-06-20T06:12:55Z",
+    "stars": 54,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.6",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-06-20T09:29:08Z",
+    "stars": 54,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -793,6 +793,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.4-alpha(buggy)",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-06-19T19:57:44Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little Mindustry java mod"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.3",
@@ -856,19 +869,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.4-alpha(buggy)",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-06-19T19:57:44Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little Mindustry java mod"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -2912,6 +2912,19 @@
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.41",
+    "mod_id": "newconsole",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-05-19T06:25:04Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
+  },
+  {
     "repo": "KarlsonVive/A-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "version": "1.0.1",
@@ -2982,12 +2995,25 @@
     "version": "0.45 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-06-20T04:29:15Z",
+    "lastUpdated": "2022-06-20T05:50:08Z",
     "stars": 4,
     "minGameVersion": "22610",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-20T09:46:49Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3263,19 +3289,6 @@
     "description": "Seitumbra"
   },
   {
-    "repo": "avitran0/VanillaEnhanced",
-    "name": "VanillaEnhanced",
-    "version": "2.3",
-    "mod_id": "Vanilla Enhanced",
-    "author": "HolyHades",
-    "lastUpdated": "2021-11-03T22:50:50Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few things that enhance the vanilla experience."
-  },
-  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3443,19 +3456,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.41",
-    "mod_id": "newconsole",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-05-19T06:25:04Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
   },
   {
     "repo": "xjamiex/CreativeCores",
@@ -4173,6 +4173,19 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
+    "repo": "12three7/CodenameWindstorm",
+    "name": "Codename: Windstorm",
+    "version": "1.0",
+    "mod_id": "codename-windstorm",
+    "author": "1237",
+    "lastUpdated": "2022-06-20T04:36:41Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a mindustry mod.\n\nmade by 1237."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4691,19 +4704,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
-  },
-  {
-    "repo": "12three7/CodenameWindstorm",
-    "name": "Codename: Windstorm",
-    "version": "1.0",
-    "mod_id": "codename-windstorm",
-    "author": "1237",
-    "lastUpdated": "2022-06-20T04:36:41Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod.\n\nmade by 1237."
   },
   {
     "repo": "Nikisos/TheBattleMod",
