@@ -239,7 +239,7 @@
     "version": "1.6",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-06-22T17:20:53Z",
+    "lastUpdated": "2022-06-23T11:01:52Z",
     "stars": 54,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -403,6 +403,19 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "younggam/multi-lib",
+    "name": "Multi Lib",
+    "version": "1.0.7",
+    "mod_id": "multi-lib",
+    "author": "younggam",
+    "lastUpdated": "2022-01-21T05:16:39Z",
+    "stars": 32,
+    "minGameVersion": "112.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
+  },
+  {
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "version": "2.11",
@@ -427,19 +440,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "younggam/multi-lib",
-    "name": "Multi Lib",
-    "version": "1.0.7",
-    "mod_id": "multi-lib",
-    "author": "younggam",
-    "lastUpdated": "2022-01-21T05:16:39Z",
-    "stars": 31,
-    "minGameVersion": "112.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
     "repo": "3Snake3/Sapphirium",
@@ -780,19 +780,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.65",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-06-15T12:46:26Z",
-    "stars": 18,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "41",
@@ -817,6 +804,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A little Mindustry java mod"
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.65",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-06-23T10:24:12Z",
+    "stars": 18,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1942,7 +1942,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-23T01:06:04Z",
+    "lastUpdated": "2022-06-23T12:28:49Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2886,19 +2886,6 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "0.1",
-    "mod_id": "VanillaPlus",
-    "author": "Dagger(Кинжал)",
-    "lastUpdated": "2022-04-03T11:00:48Z",
-    "stars": 4,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
-  },
-  {
     "repo": "RlCCJ/Logic-Completion",
     "name": "LogicCompletion",
     "version": "2.0",
@@ -3027,6 +3014,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "0.1",
+    "mod_id": "VanillaPlus",
+    "author": "Dagger(Кинжал)",
+    "lastUpdated": "2022-06-23T10:17:25Z",
+    "stars": 4,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3783,19 +3783,6 @@
     "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
   },
   {
-    "repo": "RebornTrack970/Destroyer",
-    "name": "Destroyer",
-    "version": "1.0",
-    "mod_id": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2021-06-07T09:26:32Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
-  },
-  {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
     "name": "Diamond Mod",
     "version": "2.4",
@@ -4054,19 +4041,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Powerful weapons that use electromagnetism to make big pew."
-  },
-  {
-    "repo": "WilloIzCitron/Mindustry-Devilish-mod",
-    "name": "Devilish Mode",
-    "version": "1.2",
-    "mod_id": "devilish-mode",
-    "author": "[THREAT LEVEL: HIGH] Plays",
-    "lastUpdated": "2022-04-23T12:04:39Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
   },
   {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
@@ -4797,19 +4771,6 @@
     "description": "test mod"
   },
   {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
     "repo": "AmateurPotion/Mindustry-JavaMod-Template",
     "name": "Mindustry Java mod Template",
     "version": "2",
@@ -5044,19 +5005,6 @@
     "description": "planet test"
   },
   {
-    "repo": "Yagoi23/Yagois-Mindustry-Mod",
-    "name": "Yagois-Mindustry-Mod",
-    "version": "2.1",
-    "mod_id": "Yagoi's Mod",
-    "author": "Yagoi",
-    "lastUpdated": "2021-08-12T05:39:16Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "????"
-  },
-  {
     "repo": "haywyre124/Diamond-Mod-Naub",
     "name": "Diamond-Mod-Naub",
     "version": "1.0",
@@ -5211,19 +5159,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
-  },
-  {
-    "repo": "Mitch-JAR/Mindustry-Chronicles",
-    "name": "MiniChrone",
-    "version": "1.0",
-    "mod_id": "MiniChrone",
-    "author": "MitchJAR",
-    "lastUpdated": "2021-11-05T23:39:16Z",
-    "stars": 0,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "Boople-Beep/untiled-mindustry-mod",
@@ -5614,5 +5549,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "There is no suitable profile for the time being."
+  },
+  {
+    "repo": "Sheep-Hugger/Colonization-industry",
+    "name": "Colonization & industry",
+    "version": "0.25",
+    "mod_id": "Colonization & industry",
+    "author": "Radiance of Dove",
+    "lastUpdated": "2022-06-23T14:58:41Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "To be filled"
   }
 ]
