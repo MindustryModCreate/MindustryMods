@@ -5,7 +5,7 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-06-19T14:43:18Z",
+    "lastUpdated": "2022-06-23T15:13:04Z",
     "stars": 221,
     "minGameVersion": "22568",
     "hasScripts": false,
@@ -344,7 +344,7 @@
     "mod_id": "testmod",
     "author": "Sharlotte",
     "lastUpdated": "2021-08-21T09:35:11Z",
-    "stars": 40,
+    "stars": 41,
     "minGameVersion": "130",
     "hasScripts": true,
     "hasJava": false,
@@ -780,19 +780,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "41",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-06-18T20:57:19Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "xStaBUx/Omaloon-mod-public",
     "name": "Omaloon-Mod",
     "version": "0.4-alpha(buggy)",
@@ -817,6 +804,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "41",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-06-23T19:00:45Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -3783,6 +3783,19 @@
     "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
   },
   {
+    "repo": "RebornTrack970/Destroyer",
+    "name": "Destroyer",
+    "version": "1.0",
+    "mod_id": "Destroyer",
+    "author": "RebornTrack970",
+    "lastUpdated": "2021-06-07T09:26:32Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is just a simple Mindustry mod."
+  },
+  {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
     "name": "Diamond Mod",
     "version": "2.4",
@@ -4771,6 +4784,19 @@
     "description": "test mod"
   },
   {
+    "repo": "LottieVixen/example-resprite-mod",
+    "name": "Resprite Example",
+    "version": "0.1",
+    "mod_id": "example-resprite-mod",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-17T06:47:19Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An example to help respriting"
+  },
+  {
     "repo": "AmateurPotion/Mindustry-JavaMod-Template",
     "name": "Mindustry Java mod Template",
     "version": "2",
@@ -5005,6 +5031,19 @@
     "description": "planet test"
   },
   {
+    "repo": "Yagoi23/Yagois-Mindustry-Mod",
+    "name": "Yagois-Mindustry-Mod",
+    "version": "2.1",
+    "mod_id": "Yagoi's Mod",
+    "author": "Yagoi",
+    "lastUpdated": "2021-08-12T05:39:16Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "????"
+  },
+  {
     "repo": "haywyre124/Diamond-Mod-Naub",
     "name": "Diamond-Mod-Naub",
     "version": "1.0",
@@ -5159,6 +5198,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
+  },
+  {
+    "repo": "Mitch-JAR/Mindustry-Chronicles",
+    "name": "MiniChrone",
+    "version": "1.0",
+    "mod_id": "MiniChrone",
+    "author": "MitchJAR",
+    "lastUpdated": "2021-11-05T23:39:16Z",
+    "stars": 0,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "Boople-Beep/untiled-mindustry-mod",
@@ -5556,7 +5608,7 @@
     "version": "0.25",
     "mod_id": "Colonization & industry",
     "author": "Radiance of Dove",
-    "lastUpdated": "2022-06-23T14:58:41Z",
+    "lastUpdated": "2022-06-23T17:16:16Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
