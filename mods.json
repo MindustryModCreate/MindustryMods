@@ -156,6 +156,19 @@
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.5.8",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-05-12T22:16:37Z",
+    "stars": 59,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.5.8",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-05-12T22:16:37Z",
-    "stars": 58,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "sk7725/TimeControl",
@@ -2215,7 +2215,7 @@
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-06-24T12:29:17Z",
+    "lastUpdated": "2022-06-26T08:47:26Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2561,6 +2561,19 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.41",
+    "mod_id": "newconsole",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-05-19T06:25:04Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
+  },
+  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2899,6 +2912,19 @@
     "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
+    "repo": "sebmeister2077/GifToLogic",
+    "name": "GifToLogic",
+    "version": "2.6.0",
+    "mod_id": "giftologic",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-03-29T20:11:14Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Work in progress (not working)"
+  },
+  {
     "repo": "RlCCJ/Logic-Completion",
     "name": "LogicCompletion",
     "version": "2.0",
@@ -2949,19 +2975,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.41",
-    "mod_id": "newconsole",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-05-19T06:25:04Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
   },
   {
     "repo": "KarlsonVive/A-bad-mindustry-mod",
@@ -3016,30 +3029,30 @@
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.60 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-06-25T17:16:06Z",
-    "stars": 4,
-    "minGameVersion": "22610",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "TeamNeiaron/Ion",
     "name": "Ion",
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-06-26T05:04:18Z",
+    "lastUpdated": "2022-06-26T05:49:01Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "oh no."
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.60 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-06-26T08:31:09Z",
+    "stars": 4,
+    "minGameVersion": "22610",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3430,19 +3443,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A vanilla expansion mod that add a new system"
-  },
-  {
-    "repo": "sebmeister2077/GifToLogic",
-    "name": "GifToLogic",
-    "version": "2.6.0",
-    "mod_id": "giftologic",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-03-29T20:11:14Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Work in progress (not working)"
   },
   {
     "repo": "RayanZ22/OP-Mod",
