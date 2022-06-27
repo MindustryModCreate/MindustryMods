@@ -291,7 +291,7 @@
     "version": "26.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-06-20T23:23:51Z",
+    "lastUpdated": "2022-06-27T19:59:00Z",
     "stars": 46,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1729,6 +1729,19 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-06-27T12:29:46Z",
+    "stars": 8,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "deltanedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -1935,19 +1948,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-27T12:29:46Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/no",
@@ -2247,6 +2247,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -3034,7 +3047,7 @@
     "version": "0.60 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-06-27T14:38:08Z",
+    "lastUpdated": "2022-06-27T18:01:39Z",
     "stars": 4,
     "minGameVersion": "22610",
     "hasScripts": false,
@@ -3144,6 +3157,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
+  },
+  {
+    "repo": "bloool/aquarium",
+    "name": "Aquarium",
+    "version": "0.01",
+    "mod_id": "aquarium",
+    "author": "blool",
+    "lastUpdated": "2021-05-17T21:29:14Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Small mod that currently only adds turrets focused on scripting."
   },
   {
     "repo": "lordReddx/mindustry-creator-mod",
@@ -4147,19 +4173,6 @@
     "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "version": "1.0.5",
-    "mod_id": "pyratite",
-    "author": "vali#5378",
-    "lastUpdated": "2022-06-25T19:44:13Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "youngterror3/MindustryJavaMod",
     "name": "Mindustry Java Mod",
     "version": "0.1",
@@ -4171,6 +4184,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new features."
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "version": "1.0.5",
+    "mod_id": "pyratite",
+    "author": "vali#5378",
+    "lastUpdated": "2022-06-27T18:26:28Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "4156/Infintory",
@@ -4685,7 +4711,7 @@
     "version": "0.1.0",
     "mod_id": "example-clojure-mod",
     "author": "Weathercold",
-    "lastUpdated": "2022-06-27T14:49:27Z",
+    "lastUpdated": "2022-06-27T16:35:15Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
