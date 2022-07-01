@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-06-23T15:13:04Z",
-    "stars": 224,
+    "stars": 225,
     "minGameVersion": "22568",
     "hasScripts": false,
     "hasJava": true,
@@ -279,7 +279,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-06-11T15:10:41Z",
-    "stars": 49,
+    "stars": 48,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -520,19 +520,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "Fresh791/mindustry-extended",
-    "name": "Mindustry-Extended",
-    "version": "1.09",
-    "mod_id": "me",
-    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-01T15:07:43Z",
-    "stars": 27,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
-  },
-  {
     "repo": "Xeloboyo/PvP-Notifs",
     "name": "PvP notifs",
     "version": "0.1",
@@ -557,6 +544,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
+  },
+  {
+    "repo": "Fresh791/mindustry-extended",
+    "name": "Mindustry-Extended",
+    "version": "1.09",
+    "mod_id": "me",
+    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
+    "lastUpdated": "2022-07-01T18:12:08Z",
+    "stars": 26,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
   },
   {
     "repo": "pixecoz/MindustrySchematics",
@@ -2249,6 +2249,19 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "SpaceEarthEX/letter-sound-effect",
+    "name": "Letter sound effect",
+    "version": "0.1",
+    "mod_id": "letter-sound-effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
+  },
+  {
     "repo": "RebornTrack970/Multiplayerntnt",
     "name": "Multiplayern'tn't",
     "version": "1.0",
@@ -2548,19 +2561,6 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.41",
-    "mod_id": "newconsole",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-05-19T06:25:04Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2624,6 +2624,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "oh no."
+  },
+  {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.41",
+    "mod_id": "newconsole",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-01T17:11:56Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3469,6 +3482,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
+  },
+  {
+    "repo": "A5TR0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.2",
+    "mod_id": "astro-adds",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-06-03T03:12:20Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
   },
   {
     "repo": "Cry0flu1d/Project-Frost-In-Java",
