@@ -169,6 +169,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-23T08:14:51Z",
+    "stars": 59,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -180,19 +193,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-23T08:14:51Z",
-    "stars": 58,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Eschatologue/Unlimited-Armament-Works",
@@ -551,7 +551,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-01T18:12:08Z",
+    "lastUpdated": "2022-07-02T09:51:24Z",
     "stars": 26,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -2215,7 +2215,7 @@
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-07-02T04:45:24Z",
+    "lastUpdated": "2022-07-02T07:46:42Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2574,19 +2574,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-06-19T14:26:30Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "liplum/MultiCrafterLib",
     "name": "MultiCrafter Lib",
     "version": "1.0",
@@ -2637,6 +2624,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "oh no."
+  },
+  {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-07-02T07:49:43Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3536,19 +3536,6 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "2.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-19T14:29:28Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
-  },
-  {
     "repo": "xjamiex/CreativeCores",
     "name": "Creative Cores",
     "version": "0.1",
@@ -3560,6 +3547,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod thats goog"
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "2.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-02T10:05:55Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
