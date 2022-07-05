@@ -689,6 +689,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "41",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-06-29T23:15:46Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "41",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-06-29T23:15:46Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "AureusStratus/Advancements",
@@ -1734,7 +1734,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-04T12:37:32Z",
+    "lastUpdated": "2022-07-05T01:13:47Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2631,7 +2631,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-04T16:52:16Z",
+    "lastUpdated": "2022-07-05T03:50:15Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4795,6 +4795,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
+  },
+  {
+    "repo": "AmateurPotion/Mindustry-JavaMod-Template",
+    "name": "Mindustry Java mod Template",
+    "version": "2",
+    "mod_id": "mindustry-jm-template",
+    "author": "AmateurPotion",
+    "lastUpdated": "2020-12-27T16:38:32Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
   },
   {
     "repo": "Sonnicon/GroovyModMod",
