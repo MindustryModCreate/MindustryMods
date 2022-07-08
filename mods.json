@@ -156,6 +156,19 @@
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-23T08:14:51Z",
+    "stars": 60,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "version": "1.5.8",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-23T08:14:51Z",
-    "stars": 59,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -2639,19 +2639,6 @@
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-08T12:29:09Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "once apon a time, a mod was born, it consists of the darkest energy known to man..."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.65 Pre-Alpha",
@@ -2663,6 +2650,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-07-08T17:01:45Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "once apon a time, a mod was born, it consists of the darkest energy known to man..."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3580,7 +3580,7 @@
     "version": "0.1.0",
     "mod_id": "publicMod",
     "author": "luxDuck",
-    "lastUpdated": "2022-07-08T14:55:01Z",
+    "lastUpdated": "2022-07-08T18:49:44Z",
     "stars": 3,
     "minGameVersion": "130.1",
     "hasScripts": true,
