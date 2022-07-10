@@ -201,7 +201,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-07-10T10:40:37Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -525,7 +525,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-09T21:56:53Z",
+    "lastUpdated": "2022-07-10T16:52:35Z",
     "stars": 28,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -884,6 +884,19 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "deltanedas/ldb",
+    "name": "Logic Debugger",
+    "version": "1.3.3",
+    "mod_id": "ldb",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-02-27T02:11:44Z",
+    "stars": 16,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "z0mbiesrock/Larger-Cores",
     "name": "Larger Cores",
     "version": "1.0",
@@ -908,19 +921,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "deltanedas/ldb",
-    "name": "Logic Debugger",
-    "version": "1.3.3",
-    "mod_id": "ldb",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-02-27T02:11:44Z",
-    "stars": 15,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -2249,6 +2249,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-07-10T18:37:11Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "once apon a time, a mod was born, it consists of the darkest energy known to man..."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2637,19 +2650,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-10T12:04:12Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "once apon a time, a mod was born, it consists of the darkest energy known to man..."
   },
   {
     "repo": "EmanuelG-Gaming/erekir-expansion",
@@ -4243,7 +4243,7 @@
     "version": "1b",
     "mod_id": "BomberMod",
     "author": "main developer: nekit508",
-    "lastUpdated": "2022-07-08T09:18:57Z",
+    "lastUpdated": "2022-07-10T16:17:00Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
