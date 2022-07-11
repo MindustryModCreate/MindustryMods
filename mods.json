@@ -525,7 +525,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-10T21:45:03Z",
+    "lastUpdated": "2022-07-11T14:30:25Z",
     "stars": 28,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1092,6 +1092,19 @@
     "description": "Explore minerals and mechanisms."
   },
   {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "v1.3.1",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-07-11T13:57:05Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "so random, you feel like playing first time\nEPILEPSY WARNING"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1142,19 +1155,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon."
-  },
-  {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "v1.3.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-11T10:09:54Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "so random, you feel like playing first time\nEPILEPSY WARNING"
   },
   {
     "repo": "Gdeft/bleach",
@@ -1552,7 +1552,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-11T01:19:22Z",
+    "lastUpdated": "2022-07-11T12:28:50Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1753,6 +1753,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-09T17:09:41Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "deltanedas/cliff",
@@ -1963,25 +1976,12 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-09T17:09:41Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
-  },
-  {
     "repo": "12three7/CodenameWindstorm",
     "name": "Codename: Windstorm",
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-07-10T13:28:48Z",
+    "lastUpdated": "2022-07-11T12:48:28Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2657,7 +2657,7 @@
     "version": "0.65 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-11T09:31:46Z",
+    "lastUpdated": "2022-07-11T11:16:46Z",
     "stars": 5,
     "minGameVersion": "22610",
     "hasScripts": false,
@@ -5627,18 +5627,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
-  },
-  {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.18.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-06-26T14:31:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
