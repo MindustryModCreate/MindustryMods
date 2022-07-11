@@ -525,7 +525,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-10T16:52:35Z",
+    "lastUpdated": "2022-07-10T21:45:03Z",
     "stars": 28,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -897,19 +897,6 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "z0mbiesrock/Larger-Cores",
-    "name": "Larger Cores",
-    "version": "1.0",
-    "mod_id": "larger-cores",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2022-07-06T10:29:29Z",
-    "stars": 16,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds T4 and T5 Cores."
-  },
-  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -973,6 +960,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
+  },
+  {
+    "repo": "z0mbiesrock/Larger-Cores",
+    "name": "Larger Cores",
+    "version": "1.0",
+    "mod_id": "larger-cores",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2022-07-06T10:29:29Z",
+    "stars": 15,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds T4 and T5 Cores."
   },
   {
     "repo": "sk7725/Commands",
@@ -2254,7 +2254,7 @@
     "version": "0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-10T18:37:11Z",
+    "lastUpdated": "2022-07-10T23:46:46Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3105,6 +3105,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
+  },
+  {
+    "repo": "1qwaka/Item-transfer",
+    "name": "Item Transfer",
+    "version": "1",
+    "mod_id": "item-transfer",
+    "author": "code: Qwaka\nsprites: Gorilla Glue",
+    "lastUpdated": "2021-02-02T12:45:56Z",
+    "stars": 3,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
     "repo": "Ar01Zar/NewWorldMod",
@@ -5627,18 +5640,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
-  },
-  {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.18.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-06-26T14:31:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
