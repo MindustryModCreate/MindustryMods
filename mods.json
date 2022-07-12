@@ -182,6 +182,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-12T14:12:53Z",
+    "stars": 59,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -193,19 +206,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-10T10:40:37Z",
-    "stars": 58,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -525,7 +525,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-11T14:30:25Z",
+    "lastUpdated": "2022-07-12T12:56:54Z",
     "stars": 28,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1097,7 +1097,7 @@
     "version": "v1.3.1",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-12T09:39:28Z",
+    "lastUpdated": "2022-07-12T13:57:41Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1261,6 +1261,19 @@
     "description": "My first java Mindustry mod"
   },
   {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-09T17:09:41Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "version": "1.7.0",
@@ -1324,19 +1337,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-09T17:09:41Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "EchoVespy/Simplistic",
@@ -1565,7 +1565,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-12T01:22:34Z",
+    "lastUpdated": "2022-07-12T12:31:43Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1981,7 +1981,7 @@
     "version": "1.0",
     "mod_id": "codename-windstorm",
     "author": "1237",
-    "lastUpdated": "2022-07-11T12:48:28Z",
+    "lastUpdated": "2022-07-12T13:39:41Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2247,6 +2247,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "liplum/MdtModTemplate",
+    "name": "Template Mod",
+    "version": "1.0",
+    "mod_id": "template",
+    "author": "[#FBC02D]YourName[]",
+    "lastUpdated": "2022-07-09T16:44:11Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
     "repo": "TeamNeiaron/Ion",
@@ -2639,25 +2652,12 @@
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
-    "repo": "liplum/MdtModTemplate",
-    "name": "Template Mod",
-    "version": "1.0",
-    "mod_id": "template",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-07-09T16:44:11Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.65 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-12T10:03:25Z",
+    "lastUpdated": "2022-07-12T13:10:28Z",
     "stars": 5,
     "minGameVersion": "22610",
     "hasScripts": false,
@@ -3040,6 +3040,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "2.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-02T10:05:55Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -3560,19 +3573,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod thats goog"
-  },
-  {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "2.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-02T10:05:55Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "A5TR0spud/astro-additions",
@@ -4121,19 +4121,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "TheEE145/ohNoNooh",
-    "name": "ohNoNooh",
-    "version": "6",
-    "mod_id": "ohNoNooh",
-    "author": "TheEE145",
-    "lastUpdated": "2022-05-08T08:08:00Z",
-    "stars": 2,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this game with this mod was cursed"
-  },
-  {
     "repo": "deltanedas/routorio",
     "name": "routorio",
     "version": "3.36.4",
@@ -4652,6 +4639,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
+  },
+  {
+    "repo": "TheEE145/ohNoNooh",
+    "name": "ohNoNooh",
+    "version": "6",
+    "mod_id": "ohNoNooh",
+    "author": "TheEE145",
+    "lastUpdated": "2022-05-08T08:08:00Z",
+    "stars": 1,
+    "minGameVersion": "116",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this game with this mod was cursed"
   },
   {
     "repo": "ExplerHD/unnamedMods",
