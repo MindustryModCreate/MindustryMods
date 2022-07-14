@@ -291,7 +291,7 @@
     "version": "26.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-07-11T21:24:12Z",
+    "lastUpdated": "2022-07-13T23:49:47Z",
     "stars": 46,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -767,6 +767,19 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.5",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-07-13T19:35:36Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -804,19 +817,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.5",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-07-13T19:35:36Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -2264,15 +2264,15 @@
   {
     "repo": "TeamNeiaron/Ion",
     "name": "Ion",
-    "version": "0",
+    "version": "0.1.0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-13T15:40:56Z",
+    "lastUpdated": "2022-07-14T00:05:14Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "once apon a time, a mod was born, it consists of the darkest energy known to man..."
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2977,19 +2977,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "Rex-Hm/Quality-Implementations-Mod",
-    "name": "Quality Implementations",
-    "version": "1.1",
-    "mod_id": "q-impl",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-05-06T19:45:15Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
-  },
-  {
     "repo": "deltanedas/radar",
     "name": "Radar",
     "version": "3.10.5",
@@ -3495,6 +3482,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack."
+  },
+  {
+    "repo": "Rex-Hm/Quality-Implementations-Mod",
+    "name": "Quality Implementations",
+    "version": "1.1",
+    "mod_id": "q-impl",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-05-06T19:45:15Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "Lepisma-0/Extended-Tech",
