@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-07-07T12:44:18Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "135.0",
     "hasScripts": false,
     "hasJava": true,
@@ -525,7 +525,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-14T18:51:35Z",
+    "lastUpdated": "2022-07-14T21:13:27Z",
     "stars": 28,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -2275,6 +2275,19 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.65 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-07-14T19:13:20Z",
+    "stars": 6,
+    "minGameVersion": "22610",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2650,19 +2663,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.65 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-07-14T19:13:20Z",
-    "stars": 5,
-    "minGameVersion": "22610",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3042,32 +3042,6 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
-    "repo": "luxDuck/PublicMod",
-    "name": "Public Mod",
-    "version": "0.1.0",
-    "mod_id": "publicmod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-10T00:10:53Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
-  },
-  {
-    "repo": "mishakorzik/MikelMod",
-    "name": "MikelMod",
-    "version": "1.2.4 Stable",
-    "mod_id": "MikelMod",
-    "author": ".he1zen",
-    "lastUpdated": "2022-07-13T12:54:06Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " The mod adds: walls, units, repairers and much more."
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
@@ -3079,6 +3053,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "mishakorzik/MikelMod",
+    "name": "MikelMod",
+    "version": "1.2.4 Stable",
+    "mod_id": "MikelMod",
+    "author": ".he1zen",
+    "lastUpdated": "2022-07-14T20:32:55Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " The mod adds: walls, units, repairers and much more."
+  },
+  {
+    "repo": "luxDuck/PublicMod",
+    "name": "Public Mod",
+    "version": "0.1.0",
+    "mod_id": "publicmod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-14T20:44:23Z",
+    "stars": 4,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -5631,14 +5631,14 @@
   {
     "repo": "Yaroslav242/yfjs",
     "name": "yfjs",
-    "version": "0.1.1",
+    "version": "0.1.4",
     "mod_id": "YFJS",
     "author": "Yaroslav242",
-    "lastUpdated": "2022-07-14T19:21:05Z",
+    "lastUpdated": "2022-07-15T00:40:45Z",
     "stars": 0,
     "minGameVersion": "125",
     "hasScripts": true,
     "hasJava": false,
-    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Russian: flow) - An artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Russian: sickle) - A spider unit that automatically mines titanium, lead and copper"
+    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper\n  'Uley' (Rus: beehive) - Spore-infected mega with a new artillery turret"
   }
 ]
