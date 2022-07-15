@@ -1565,7 +1565,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-14T12:29:03Z",
+    "lastUpdated": "2022-07-15T01:43:07Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2280,7 +2280,7 @@
     "version": "0.65 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-14T19:13:20Z",
+    "lastUpdated": "2022-07-15T05:32:46Z",
     "stars": 6,
     "minGameVersion": "22610",
     "hasScripts": false,
@@ -4745,6 +4745,19 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
+    "repo": "Yaroslav242/yfjs",
+    "name": "yfjs",
+    "version": "0.1.4",
+    "mod_id": "YFJS",
+    "author": "Yaroslav242",
+    "lastUpdated": "2022-07-15T00:40:45Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper\n  'Uley' (Rus: beehive) - Spore-infected mega with a new artillery turret"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5627,18 +5640,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
-  },
-  {
-    "repo": "Yaroslav242/yfjs",
-    "name": "yfjs",
-    "version": "0.1.4",
-    "mod_id": "YFJS",
-    "author": "Yaroslav242",
-    "lastUpdated": "2022-07-15T00:40:45Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper\n  'Uley' (Rus: beehive) - Spore-infected mega with a new artillery turret"
   }
 ]
