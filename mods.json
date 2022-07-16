@@ -473,7 +473,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-15T21:20:23Z",
+    "lastUpdated": "2022-07-16T09:59:00Z",
     "stars": 30,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1266,7 +1266,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-07-15T06:51:52Z",
+    "lastUpdated": "2022-07-16T07:12:48Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2262,30 +2262,30 @@
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.65 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-07-15T08:27:28Z",
-    "stars": 6,
-    "minGameVersion": "22610",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "TeamNeiaron/Ion",
     "name": "Ion",
     "version": "0.1.0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-16T04:42:39Z",
+    "lastUpdated": "2022-07-16T07:07:00Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.65 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-07-16T07:50:13Z",
+    "stars": 6,
+    "minGameVersion": "22610",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2670,7 +2670,7 @@
     "version": "0.1.0",
     "mod_id": "publicmod",
     "author": "luxDuck",
-    "lastUpdated": "2022-07-16T04:25:56Z",
+    "lastUpdated": "2022-07-16T07:34:43Z",
     "stars": 5,
     "minGameVersion": "135.2",
     "hasScripts": true,
@@ -3562,19 +3562,6 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
-    "repo": "A5TR0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "version": "0.0.2",
-    "mod_id": "astro-adds",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-07-07T00:00:55Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
-  },
-  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1",
@@ -4173,6 +4160,19 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "TippierPark8961/Green-Void",
+    "name": "Green Void",
+    "version": "1",
+    "mod_id": "modo",
+    "author": "TippierPark8961",
+    "lastUpdated": "2022-06-17T06:23:41Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod"
+  },
+  {
     "repo": "Mythril382/AmmoSwap",
     "name": "Ammo Swap",
     "version": "0.3",
@@ -4485,6 +4485,19 @@
     "description": "my first mod."
   },
   {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "version": "0.0 build 2 alpha",
+    "mod_id": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-12-21T07:31:19Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
+  },
+  {
     "repo": "Goobrr/Finality",
     "name": "Finality",
     "version": "0",
@@ -4717,19 +4730,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
-  },
-  {
-    "repo": "TippierPark8961/Green-Void",
-    "name": "Green Void",
-    "version": "1",
-    "mod_id": "modo",
-    "author": "TippierPark8961",
-    "lastUpdated": "2022-06-17T06:23:41Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod"
   },
   {
     "repo": "Weathercold/MindustryClojureModTemplate",
@@ -5341,19 +5341,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
   },
   {
     "repo": "SMOLKEYS/cursed-units",
