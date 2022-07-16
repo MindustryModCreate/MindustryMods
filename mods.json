@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-06-22T12:44:46Z",
+    "lastUpdated": "2022-07-16T03:39:13Z",
     "stars": 105,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -169,6 +169,19 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "3.4",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-12T14:12:53Z",
+    "stars": 60,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "version": "1.5.8",
@@ -180,19 +193,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-12T14:12:53Z",
-    "stars": 59,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -213,7 +213,7 @@
     "version": "3.16.6",
     "mod_id": "ui-lib",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:24:00Z",
+    "lastUpdated": "2022-07-16T02:37:54Z",
     "stars": 55,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -845,6 +845,19 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-16T12:59:32Z",
+    "stars": 17,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -869,19 +882,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.3",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2022-01-16T12:59:32Z",
-    "stars": 16,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "deltanedas/ldb",
@@ -1565,7 +1565,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-15T12:29:50Z",
+    "lastUpdated": "2022-07-16T01:21:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1779,6 +1779,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
+    "repo": "RebornTrack970/Multiplayernt",
+    "name": "Multiplayern't",
+    "version": "1.0",
+    "mod_id": "multiplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-16T10:13:43Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "7tySevenn/Unit-Turrets",
@@ -2249,19 +2262,6 @@
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-14T11:21:06Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.65 Pre-Alpha",
@@ -2273,6 +2273,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0.1.0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-07-16T04:42:39Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2650,6 +2663,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "luxDuck/PublicMod",
+    "name": "Public Mod",
+    "version": "0.1.0",
+    "mod_id": "publicmod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-16T04:25:56Z",
+    "stars": 5,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3053,19 +3079,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " The mod adds: walls, units, repairers and much more."
-  },
-  {
-    "repo": "luxDuck/PublicMod",
-    "name": "Public Mod",
-    "version": "0.1.0",
-    "mod_id": "publicmod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-14T20:44:23Z",
-    "stars": 4,
-    "minGameVersion": "135.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
