@@ -473,12 +473,12 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-16T20:28:51Z",
+    "lastUpdated": "2022-07-17T13:28:57Z",
     "stars": 30,
-    "minGameVersion": "126",
+    "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
+    "description": "A content extension mod for the game Mindustry. \nIncludes a custom map, blocks, units, items, liquids and custom ammo types!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nWe try to balance blocks and units as well as we can. Therefore, some things look too strong on paper but don't worry!"
   },
   {
     "repo": "Goobrr/amogus",
@@ -832,19 +832,6 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.3",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2021-10-04T04:23:03Z",
-    "stars": 17,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
     "repo": "EclipseTheOldOne/Project-Eclipse",
     "name": "Project Eclipse",
     "version": "0.1.0.3",
@@ -882,6 +869,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-17T14:44:24Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "deltanedas/ldb",
@@ -973,6 +973,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.5.1",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-07-17T15:05:48Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "sk7725/Commands",
@@ -1077,19 +1090,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
-  },
-  {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.5.1",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-17T04:17:01Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
@@ -1266,7 +1266,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-07-17T06:50:46Z",
+    "lastUpdated": "2022-07-17T14:40:56Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1638,6 +1638,19 @@
     "description": "Please no..."
   },
   {
+    "repo": "Pietro303HD/ShitShow",
+    "name": "Shit Show",
+    "version": "0.1",
+    "mod_id": "shitshow",
+    "author": "Pietro",
+    "lastUpdated": "2021-08-14T03:16:59Z",
+    "stars": 8,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "pixecoz/better-menders",
     "name": "Better menders",
     "version": "1.0",
@@ -1831,19 +1844,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Green technologies are the future. AVE MODS!"
-  },
-  {
-    "repo": "Pietro303HD/ShitShow",
-    "name": "Shit Show",
-    "version": "0.1",
-    "mod_id": "shitshow",
-    "author": "Pietro",
-    "lastUpdated": "2021-08-14T03:16:59Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "ZoGGerS-cc/Major",
@@ -2280,7 +2280,7 @@
     "version": "0.65 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-17T10:00:44Z",
+    "lastUpdated": "2022-07-17T11:00:46Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2520,19 +2520,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n\nChanges will be indicated on the github. \n\nDiscord - https://discord.gg/HeHv24swmT\n\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. \n\nReset the version number from 5.6 to 1.0 (does not affect the modification)\n"
-  },
-  {
-    "repo": "Kingfrankbob/Extra-Support",
-    "name": "Extra Support",
-    "version": "1.0",
-    "mod_id": "extrasupport",
-    "author": "MC B)",
-    "lastUpdated": "2021-11-24T01:35:58Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bruh"
   },
   {
     "repo": "Blerp23/Blerptest-mod",
@@ -3991,19 +3978,6 @@
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
-    "repo": "SrOtaku/ModNathilha",
-    "name": "NathilhaMod",
-    "version": "1.71(Public-Beta)",
-    "mod_id": "nathilhamod",
-    "author": "RedGame",
-    "lastUpdated": "2022-01-30T18:33:29Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
-  },
-  {
     "repo": "Sheep-Hugger/Frozen-Silver-Fortress",
     "name": "Frozen Silver Fortress",
     "version": "0.25",
@@ -4249,6 +4223,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod adds bomber unit tree."
+  },
+  {
+    "repo": "SrOtaku/ModNathilha",
+    "name": "NathilhaMod",
+    "version": "1.71(Public-Beta)",
+    "mod_id": "nathilhamod",
+    "author": "RedGame",
+    "lastUpdated": "2022-07-17T10:21:23Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
     "repo": "4156/Infintory",
