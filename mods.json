@@ -175,7 +175,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-07-12T14:12:53Z",
-    "stars": 60,
+    "stars": 61,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -728,6 +728,19 @@
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-17T14:44:24Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "Anuken/wind3",
     "name": "wind3",
     "version": "No version provided.",
@@ -778,19 +791,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-07-17T14:44:24Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -977,10 +977,10 @@
   {
     "repo": "sporrus/randomMindustry",
     "name": "Random Mindustry",
-    "version": "1.5.1",
+    "version": "v1.5.1",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-18T05:16:09Z",
+    "lastUpdated": "2022-07-18T09:47:20Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1508,6 +1508,19 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
+    "repo": "Cynthion21x/prismatic",
+    "name": "Prismatic",
+    "version": "1.10.125",
+    "mod_id": "prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2022-01-07T19:00:13Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
     "repo": "deltanedas/anuke-logic",
     "name": "Anuke Logic",
     "version": "1.9.6",
@@ -1675,19 +1688,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is dead, we have killed it."
-  },
-  {
-    "repo": "Cynthion21x/prismatic",
-    "name": "Prismatic",
-    "version": "1.10.125",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2022-01-07T19:00:13Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
     "repo": "MEEPofFaith/anuke-approaching",
@@ -2678,6 +2678,19 @@
     "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "version": "2.5",
+    "mod_id": "parkour-mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-07-18T08:33:30Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -3079,19 +3092,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " The mod adds: walls, units, repairers and much more."
-  },
-  {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "version": "2.5",
-    "mod_id": "parkour-mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-18T04:55:06Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4199,19 +4199,6 @@
     "description": "Adds new features."
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "version": "1.0.5",
-    "mod_id": "pyratite",
-    "author": "vali#5378",
-    "lastUpdated": "2022-06-28T18:33:12Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "MaxSMokeSkaarj/SMoA-Modpack",
     "name": "SMoke of Anarchy New",
     "version": "3.1 bugfix#5",
@@ -4230,7 +4217,7 @@
     "version": "1b",
     "mod_id": "BomberMod",
     "author": "main developer: nekit508",
-    "lastUpdated": "2022-07-10T16:17:00Z",
+    "lastUpdated": "2022-07-18T06:24:37Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4238,12 +4225,12 @@
     "description": "Mod adds bomber unit tree."
   },
   {
-    "repo": "SrOtaku/ModNathilha",
+    "repo": "SrOtaku/ModNathilha-v6",
     "name": "NathilhaMod",
     "version": "1.71(Public-Beta)",
     "mod_id": "nathilhamod",
     "author": "RedGame",
-    "lastUpdated": "2022-07-17T10:21:23Z",
+    "lastUpdated": "2022-07-18T10:10:19Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
