@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-07-18T14:11:18Z",
-    "stars": 106,
+    "stars": 107,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -473,7 +473,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-18T14:38:34Z",
+    "lastUpdated": "2022-07-18T19:19:40Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -689,6 +689,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.73",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-06-24T10:01:23Z",
+    "stars": 21,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "42",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.73",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-06-24T10:01:23Z",
-    "stars": 20,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1144,6 +1144,19 @@
     "description": "Very pog."
   },
   {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-09T17:09:41Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
+  },
+  {
     "repo": "MQ-1175/larger-vanilla-blocks",
     "name": "Larger blocks",
     "version": "1.2",
@@ -1246,19 +1259,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that im working on."
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-09T17:09:41Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "AshesKaiser-KR/Mindustry-Ages",
@@ -2522,19 +2522,6 @@
     "description": "\n\nChanges will be indicated on the github. \n\nDiscord - https://discord.gg/HeHv24swmT\n\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. \n\nReset the version number from 5.6 to 1.0 (does not affect the modification)\n"
   },
   {
-    "repo": "Kingfrankbob/Extra-Support",
-    "name": "Extra Support",
-    "version": "1.0",
-    "mod_id": "extrasupport",
-    "author": "MC B)",
-    "lastUpdated": "2021-11-24T01:35:58Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bruh"
-  },
-  {
     "repo": "Blerp23/Blerptest-mod",
     "name": "Blerp's Content Mod",
     "version": "0.98 Beta",
@@ -2689,19 +2676,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that luxDuck and other people are working on. Star the mod for access."
-  },
-  {
-    "repo": "als39175/Infinity-Cheat",
-    "name": "Infinity Cheat",
-    "version": "2.1.444",
-    "mod_id": "infinity-cheat",
-    "author": "SMIPE444",
-    "lastUpdated": "2020-11-28T17:48:57Z",
-    "stars": 4,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3081,19 +3055,6 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-07-14T15:27:44Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "mishakorzik/MikelMod",
     "name": "MikelMod",
     "version": "1.2.4 Stable",
@@ -3105,6 +3066,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " The mod adds: walls, units, repairers and much more."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-07-18T17:01:04Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "als39175/Infinity-Cheat",
+    "name": "Infinity Cheat",
+    "version": "2.1.444",
+    "mod_id": "infinity-cheat",
+    "author": "SMIPE444",
+    "lastUpdated": "2022-07-18T19:26:21Z",
+    "stars": 4,
+    "minGameVersion": "116",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -5653,5 +5640,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
+  },
+  {
+    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.18.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-06-26T14:31:27Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
