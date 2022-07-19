@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-19T07:50:49Z",
-    "stars": 227,
+    "stars": 228,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-06-20T17:19:28Z",
-    "stars": 159,
+    "stars": 160,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -123,7 +123,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2022-05-12T05:23:40Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -162,7 +162,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-06-23T08:14:51Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -473,12 +473,12 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "Dev and Translators:\n    Fresh791 (Developer and German translations)\n    HairyNugget (Spanish translations)\n    \nContributers:\n    Many, many people! Check Discord for more information!",
-    "lastUpdated": "2022-07-18T19:19:40Z",
+    "lastUpdated": "2022-07-19T15:01:17Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A content extension mod for the game Mindustry. \nIncludes a custom map, blocks, units, items, liquids and custom ammo types!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nWe try to balance blocks and units as well as we can. Therefore, some things look too strong on paper but don't worry!"
+    "description": "A content extension mod for the game Mindustry. \nIncludes a custom map, blocks, units, items, liquids and custom ammo types!\n\nSupported Languages: English, Spanish, German and Ukrainian.\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nWe try to balance blocks and units as well as we can. Therefore, some things look too strong on paper but don't worry!"
   },
   {
     "repo": "Goobrr/amogus",
@@ -832,6 +832,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "version": "1.82",
+    "mod_id": "Vanilla Extended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2022-06-22T01:03:42Z",
+    "stars": 18,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -856,19 +869,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
-  },
-  {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "version": "1.82",
-    "mod_id": "Vanilla Extended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2022-06-22T01:03:42Z",
-    "stars": 17,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "EB-wilson/Singularity",
@@ -980,7 +980,7 @@
     "version": "v1.6.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-19T09:20:59Z",
+    "lastUpdated": "2022-07-19T12:43:38Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "1.2",
     "mod_id": "large",
     "author": "M.Q.",
-    "lastUpdated": "2022-07-10T14:49:56Z",
+    "lastUpdated": "2022-07-19T15:05:27Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1578,7 +1578,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-19T01:24:50Z",
+    "lastUpdated": "2022-07-19T12:29:03Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1781,6 +1781,19 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "12three7/CodenameWindstorm",
+    "name": "Codename: Windstorm",
+    "version": "1.0",
+    "mod_id": "codename-windstorm",
+    "author": "1237",
+    "lastUpdated": "2022-07-13T05:41:17Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a mindustry mod.\n\nmade by 1237."
+  },
+  {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.1.1",
@@ -1805,6 +1818,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
+    "repo": "RebornTrack970/Multiplayernt",
+    "name": "Multiplayern't",
+    "version": "1.0",
+    "mod_id": "multiplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-16T10:13:43Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "7tySevenn/Unit-Turrets",
@@ -1948,19 +1974,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
-  },
-  {
-    "repo": "12three7/CodenameWindstorm",
-    "name": "Codename: Windstorm",
-    "version": "1.0",
-    "mod_id": "codename-windstorm",
-    "author": "1237",
-    "lastUpdated": "2022-07-13T05:41:17Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod.\n\nmade by 1237."
   },
   {
     "repo": "Fabizocker456/test",
@@ -4745,19 +4758,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "Weathercold/MindustryClojureModTemplate",
-    "name": "Clojure Mod Template",
-    "version": "0.1.0",
-    "mod_id": "example-clojure-mod",
-    "author": "Weathercold",
-    "lastUpdated": "2022-07-02T13:59:11Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Clojure mod template."
-  },
-  {
     "repo": "Yaroslav242/yfjs",
     "name": "yfjs",
     "version": "1.0.1",
@@ -4769,6 +4769,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
+  },
+  {
+    "repo": "Weathercold/MindustryClojureModTemplate",
+    "name": "Clojure Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-clojure-mod",
+    "author": "Weathercold",
+    "lastUpdated": "2022-07-19T14:18:28Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Clojure mod template."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5640,5 +5653,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
+  },
+  {
+    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.18.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-06-26T14:31:27Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
