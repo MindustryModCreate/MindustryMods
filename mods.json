@@ -1963,19 +1963,6 @@
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "Fabizocker456/test",
-    "name": "Test mod",
-    "version": "1.0",
-    "mod_id": "test",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-06-18T21:14:40Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
     "repo": "12three7/CodenameWindstorm",
     "name": "Codename: Windstorm",
     "version": "1.0",
@@ -1987,6 +1974,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "a mindustry mod.\n\nmade by 1237."
+  },
+  {
+    "repo": "Fabizocker456/test",
+    "name": "Test mod",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-07-18T21:42:25Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "deltanedas/no",
@@ -2522,6 +2522,19 @@
     "description": "\n\nChanges will be indicated on the github. \n\nDiscord - https://discord.gg/HeHv24swmT\n\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. \n\nReset the version number from 5.6 to 1.0 (does not affect the modification)\n"
   },
   {
+    "repo": "Kingfrankbob/Extra-Support",
+    "name": "Extra Support",
+    "version": "1.0",
+    "mod_id": "extrasupport",
+    "author": "MC B)",
+    "lastUpdated": "2021-11-24T01:35:58Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "bruh"
+  },
+  {
     "repo": "Blerp23/Blerptest-mod",
     "name": "Blerp's Content Mod",
     "version": "0.98 Beta",
@@ -2670,7 +2683,7 @@
     "version": "0.1.0",
     "mod_id": "publicmod",
     "author": "luxDuck",
-    "lastUpdated": "2022-07-18T14:31:17Z",
+    "lastUpdated": "2022-07-18T22:31:23Z",
     "stars": 5,
     "minGameVersion": "135.2",
     "hasScripts": true,
@@ -5640,18 +5653,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
-  },
-  {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.18.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-06-26T14:31:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
