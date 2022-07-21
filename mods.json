@@ -174,7 +174,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-21T15:07:30Z",
+    "lastUpdated": "2022-07-21T16:39:29Z",
     "stars": 62,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "\nDevelopers\n- Fresh791\n\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\nLots of people, check the\nDiscord for more information!\n\n",
-    "lastUpdated": "2022-07-21T15:05:03Z",
+    "lastUpdated": "2022-07-21T19:10:46Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1976,19 +1976,6 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.65 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-07-20T19:09:45Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "Fabizocker456/test",
     "name": "Test mod",
     "version": "1.0",
@@ -2000,6 +1987,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.65 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-07-21T15:45:31Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/no",
@@ -2379,19 +2379,6 @@
     "description": "Очень странный перевод для игры... \nГоворят он может убить..."
   },
   {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "version": "0.10",
-    "mod_id": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-06-13T04:01:35Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
-  },
-  {
     "repo": "MindustryInside/AdvancedDevMode",
     "name": "Advanced Developer Mode",
     "version": "1.2",
@@ -2665,30 +2652,30 @@
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "version": "2.5",
-    "mod_id": "parkour-mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-18T08:33:30Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
     "repo": "luxDuck/PublicMod",
     "name": "Public Mod",
     "version": "0.1.0",
     "mod_id": "publicmod",
     "author": "luxDuck",
-    "lastUpdated": "2022-07-20T15:26:20Z",
+    "lastUpdated": "2022-07-21T18:41:50Z",
     "stars": 5,
-    "minGameVersion": "135.2",
+    "minGameVersion": "22879",
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that luxDuck and other people are working on. Star the mod for access."
+  },
+  {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "version": "2.5",
+    "mod_id": "parkour-mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-07-21T19:03:14Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -2806,6 +2793,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "jhrushbe/MOARdustry",
+    "name": "MOARdustry",
+    "version": "0.10",
+    "mod_id": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2021-06-13T04:01:35Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
     "repo": "superwibr/etigeox-mod",
@@ -4225,6 +4225,19 @@
     "description": "Mod adds bomber unit tree."
   },
   {
+    "repo": "Yaroslav242/yfjs",
+    "name": "yfjs",
+    "version": "1.0.1",
+    "mod_id": "YFJS",
+    "author": "Yaroslav242",
+    "lastUpdated": "2022-07-18T10:49:30Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
+  },
+  {
     "repo": "SrOtaku/ModNathilha-v6",
     "name": "NathilhaMod",
     "version": "1.71(Public-Beta)",
@@ -4743,19 +4756,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
-  },
-  {
-    "repo": "Yaroslav242/yfjs",
-    "name": "yfjs",
-    "version": "1.0.1",
-    "mod_id": "YFJS",
-    "author": "Yaroslav242",
-    "lastUpdated": "2022-07-18T10:49:30Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
     "repo": "mishakorzik/MikelMod",
@@ -5655,16 +5655,16 @@
     "description": "To be filled"
   },
   {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.18.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-06-26T14:31:27Z",
+    "repo": "luxDuck/Refraction",
+    "name": "Refraction",
+    "version": "1.0",
+    "mod_id": "refraction",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-21T19:51:07Z",
     "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "22879",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
+    "hasJava": true,
+    "description": "My first Mindustry java mod."
   }
 ]
