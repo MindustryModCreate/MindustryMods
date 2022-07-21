@@ -291,7 +291,7 @@
     "version": "26.1",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-07-13T23:49:47Z",
+    "lastUpdated": "2022-07-20T20:57:33Z",
     "stars": 48,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "\nDevelopers\n- Fresh791\n\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\nLots of people, check the\nDiscord for more information!\n\n",
-    "lastUpdated": "2022-07-20T16:32:13Z",
+    "lastUpdated": "2022-07-20T20:12:17Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1976,6 +1976,19 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.65 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-07-20T19:09:45Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "Fabizocker456/test",
     "name": "Test mod",
     "version": "1.0",
@@ -2273,19 +2286,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.65 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-07-20T19:09:45Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5655,16 +5655,16 @@
     "description": "To be filled"
   },
   {
-    "repo": "luxDuck/Refraction",
-    "name": "Refraction",
-    "version": "1.0",
-    "mod_id": "refraction-java",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-20T15:52:18Z",
+    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.18.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-06-26T14:31:27Z",
     "stars": 0,
-    "minGameVersion": "129",
+    "minGameVersion": "136",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
