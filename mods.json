@@ -174,7 +174,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-22T07:07:07Z",
+    "lastUpdated": "2022-07-22T19:34:18Z",
     "stars": 63,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "1.09",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-07-22T12:53:16Z",
+    "lastUpdated": "2022-07-22T17:51:25Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -668,7 +668,7 @@
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-20T11:11:25Z",
+    "lastUpdated": "2022-07-22T18:16:50Z",
     "stars": 23,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -720,7 +720,7 @@
     "version": "0.73",
     "mod_id": "extended-ui",
     "author": "wizer",
-    "lastUpdated": "2022-07-22T07:44:31Z",
+    "lastUpdated": "2022-07-22T16:25:57Z",
     "stars": 21,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1599,19 +1599,6 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.1.1",
-    "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-07-17T07:21:34Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1623,6 +1610,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.1.2",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-22T18:24:40Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -5668,16 +5668,16 @@
     "description": "To be filled"
   },
   {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary Industries",
-    "version": "0.18.0 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-06-26T14:31:27Z",
+    "repo": "luxDuck/HeresyMod",
+    "name": "HeresyMod",
+    "version": "ersion is none of your secured contained protected ducking buisness",
+    "mod_id": "Heresy Mod",
+    "author": "luxDuck - Creator",
+    "lastUpdated": "2022-07-22T18:53:27Z",
     "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": false,
-    "description": "至少135的垃圾代码全部重写完毕了"
+    "description": "all the dumb ideas pressed into one mod"
   }
 ]
