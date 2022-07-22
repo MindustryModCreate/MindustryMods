@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-21T06:06:30Z",
-    "stars": 231,
+    "stars": 230,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -468,6 +468,19 @@
     "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
+    "repo": "Fresh791/Fading-Revelations",
+    "name": "Fading Revelations",
+    "version": "1.09",
+    "mod_id": "me",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
+    "lastUpdated": "2022-07-22T12:53:16Z",
+    "stars": 30,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids & ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "Goobrr/amogus",
     "name": "amogus",
     "version": "ery sus",
@@ -689,6 +702,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-19T17:52:54Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.73",
@@ -871,6 +897,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.7.0",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-07-20T17:25:30Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -947,19 +986,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.7.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-20T17:25:30Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "sk7725/Commands",
@@ -1118,19 +1144,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-20T04:09:17Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.6",
@@ -1162,12 +1175,25 @@
     "version": "1.2",
     "mod_id": "extension",
     "author": "M.Q.",
-    "lastUpdated": "2022-07-22T09:49:42Z",
+    "lastUpdated": "2022-07-22T10:43:34Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-22T11:14:14Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "Gdeft/bleach",
@@ -1591,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-22T01:23:05Z",
+    "lastUpdated": "2022-07-22T12:29:01Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1976,19 +2002,6 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
-    "repo": "Fabizocker456/test",
-    "name": "Test mod",
-    "version": "1.0",
-    "mod_id": "test",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-07-21T11:19:34Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.65 Pre-Alpha",
@@ -2000,6 +2013,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "Fabizocker456/test",
+    "name": "Test mod",
+    "version": "1.0",
+    "mod_id": "test",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-07-22T11:27:22Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "deltanedas/no",
@@ -2249,19 +2275,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-17T09:37:45Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "liplum/MdtModTemplate",
     "name": "Template Mod",
     "version": "1.0",
@@ -2273,6 +2286,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
+  },
+  {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0.1.0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-07-22T14:48:24Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2657,7 +2683,7 @@
     "version": "2.5",
     "mod_id": "parkour-mod",
     "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-21T20:53:21Z",
+    "lastUpdated": "2022-07-22T13:46:52Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5640,5 +5666,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
+  },
+  {
+    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
+    "name": "Interplanetary Industries",
+    "version": "0.18.0 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-06-26T14:31:27Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "至少135的垃圾代码全部重写完毕了"
   }
 ]
