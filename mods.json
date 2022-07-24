@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-06-20T17:19:28Z",
-    "stars": 162,
+    "stars": 163,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -54,15 +54,15 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "1.11.0.6.1, Interrupted Content Update until the Release of v7",
+    "version": "0.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-06-09T00:04:57Z",
+    "lastUpdated": "2022-07-24T08:28:17Z",
     "stars": 154,
-    "minGameVersion": "135",
+    "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, maps, etc. Mod content are presented with pretty textures and amazing effects, and some maps have their unique cutscenes.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
+    "description": "Warning: Unfinished For V7"
   },
   {
     "repo": "Slava0135/reVision",
@@ -279,7 +279,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-06-11T15:10:41Z",
-    "stars": 50,
+    "stars": 51,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -292,7 +292,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2022-07-22T20:33:07Z",
-    "stars": 50,
+    "stars": 51,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -637,19 +637,6 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1.2",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-04-25T21:33:14Z",
-    "stars": 23,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "version": "3.5.0",
@@ -674,6 +661,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1.2",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-04-25T21:33:14Z",
+    "stars": 22,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -741,19 +741,6 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
-    "repo": "Anuken/wind3",
-    "name": "wind3",
-    "version": "No version provided.",
-    "mod_id": "wind3",
-    "author": "Anuke (real)",
-    "lastUpdated": "2022-03-17T13:24:04Z",
-    "stars": 19,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "AureusStratus/Advancements",
     "name": "Advancements",
     "version": "1.0",
@@ -804,6 +791,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
+    "repo": "Anuken/wind3",
+    "name": "wind3",
+    "version": "No version provided.",
+    "mod_id": "wind3",
+    "author": "Anuke (real)",
+    "lastUpdated": "2022-03-17T13:24:04Z",
+    "stars": 18,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
@@ -1066,19 +1066,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "EclipseTheOldOne/Project-Tvakot",
-    "name": "Project Tvakot",
-    "version": "0.1.0.3",
-    "mod_id": "tvakot",
-    "author": "Eclipse",
-    "lastUpdated": "2022-03-31T05:49:58Z",
-    "stars": 14,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Trying Kotlin."
-  },
-  {
     "repo": "GlennFolker/Confictura",
     "name": "Confictura",
     "version": "0.1",
@@ -1123,12 +1110,25 @@
     "version": "1.2",
     "mod_id": "extension",
     "author": "M.Q.",
-    "lastUpdated": "2022-07-23T13:16:46Z",
+    "lastUpdated": "2022-07-24T06:06:57Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-24T08:46:30Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1155,6 +1155,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Tvakot",
+    "name": "Project Tvakot",
+    "version": "0.1.0.3",
+    "mod_id": "tvakot",
+    "author": "Eclipse",
+    "lastUpdated": "2022-03-31T05:49:58Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Trying Kotlin."
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1194,19 +1207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-24T04:49:10Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "Gdeft/bleach",
@@ -1305,7 +1305,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-07-24T02:40:52Z",
+    "lastUpdated": "2022-07-24T07:07:22Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1742,19 +1742,6 @@
     "description": "Do not the Anuke"
   },
   {
-    "repo": "RebornTrack970/GigaFortSector",
-    "name": "GigaFort Sector",
-    "version": "1.0",
-    "mod_id": "gigafortsector",
-    "author": "RTOmega",
-    "lastUpdated": "2022-03-07T14:07:49Z",
-    "stars": 8,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Replaces sector 0 (next to PLT with GigaFort."
-  },
-  {
     "repo": "RebornTrack970/OmegaCursed",
     "name": "Omega-Cursed.bat",
     "version": "0.3",
@@ -1844,19 +1831,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
-  },
-  {
-    "repo": "RebornTrack970/Multiplayernt",
-    "name": "Multiplayern't",
-    "version": "1.0",
-    "mod_id": "multiplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-16T10:13:43Z",
-    "stars": 7,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "lordReddx/GreenTech",
@@ -1963,6 +1937,19 @@
     "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
   },
   {
+    "repo": "RebornTrack970/GigaFortSector",
+    "name": "GigaFort Sector",
+    "version": "1.0",
+    "mod_id": "gigafortsector",
+    "author": "RTOmega",
+    "lastUpdated": "2022-03-07T14:07:49Z",
+    "stars": 7,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Replaces sector 0 (next to PLT with GigaFort."
+  },
+  {
     "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "42.0",
@@ -2033,12 +2020,25 @@
     "version": "0.65 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-23T11:16:27Z",
+    "lastUpdated": "2022-07-24T06:32:32Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "RebornTrack970/Multiplayernt",
+    "name": "Multiplayern't",
+    "version": "1.0",
+    "mod_id": "multiplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:54:06Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Download this Mindustry Mod NOW!"
   },
   {
     "repo": "deltanedas/no",
@@ -2299,6 +2299,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
+  },
+  {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "version": "2.5",
+    "mod_id": "parkour-mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-07-22T13:46:52Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "TeamNeiaron/Ion",
@@ -2704,17 +2717,17 @@
     "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "version": "2.5",
-    "mod_id": "parkour-mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-22T13:46:52Z",
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3601,12 +3614,25 @@
     "description": "  Adds various things  "
   },
   {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1.1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
+  },
+  {
     "repo": "nilederg/Galactustry",
     "name": "Galactustry",
     "version": "Alpha",
     "mod_id": "Galactustry",
     "author": "NileDerg",
-    "lastUpdated": "2022-07-23T02:21:03Z",
+    "lastUpdated": "2022-07-24T09:44:27Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3614,17 +3640,17 @@
     "description": "Adds many new features, drastically altering the endgame."
   },
   {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2020-10-29T15:34:46Z",
-    "stars": 2,
-    "minGameVersion": "105",
+    "repo": "aawwaaa/aimClient",
+    "name": "AimClient",
+    "version": "1.0.0",
+    "mod_id": "aimclient",
+    "author": "awa",
+    "lastUpdated": "2022-07-24T09:53:43Z",
+    "stars": 3,
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Makes you sandbox."
+    "description": "for Aim"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -3833,19 +3859,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
-  },
-  {
-    "repo": "RebornTrack970/Destroyer",
-    "name": "Destroyer",
-    "version": "1.0",
-    "mod_id": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2021-06-07T09:26:32Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
   },
   {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
@@ -4303,30 +4316,17 @@
     "description": "- 全新ui\n- 修复一些bug"
   },
   {
-    "repo": "aawwaaa/aimClient",
-    "name": "AimClient",
-    "version": "1.0.0",
-    "mod_id": "aimclient",
-    "author": "awa",
-    "lastUpdated": "2022-07-23T18:45:09Z",
+    "repo": "RebornTrack970/Destroyer",
+    "name": "Destroyer",
+    "version": "1.0",
+    "mod_id": "Destroyer",
+    "author": "RebornTrack970",
+    "lastUpdated": "2022-07-24T07:52:07Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "for Aim"
-  },
-  {
-    "repo": "driftednotes/BackToTheMinimal",
-    "name": "Back To the Minimal",
-    "version": "1.0",
-    "mod_id": "btm",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-07-24T03:40:23Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1x1 block & 1 item only mindustry mod challenge.\n\nmade by Drifted Notes."
+    "description": "This is just a simple Mindustry mod."
   },
   {
     "repo": "4156/Infintory",
@@ -4745,19 +4745,6 @@
     "description": "A Mindusry Java Mods thai I working on"
   },
   {
-    "repo": "Antlrr/bitches",
-    "name": "Getting Bitches",
-    "version": "1.0",
-    "mod_id": "bitches",
-    "author": "Antlrr",
-    "lastUpdated": "2022-05-26T14:57:43Z",
-    "stars": 1,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds bitches"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -4810,19 +4797,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "mishakorzik/MikelMod",
-    "name": "MikelMod",
-    "version": "1.2.4 Stable",
-    "mod_id": "MikelMod",
-    "author": ".he1zen",
-    "lastUpdated": "2022-07-20T07:46:35Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " The mod adds: walls, units, repairers and much more."
-  },
-  {
     "repo": "Weathercold/MindustryClojureModTemplate",
     "name": "Clojure Mod Template",
     "version": "0.1.0",
@@ -4847,6 +4821,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this game with this mod was cursed"
+  },
+  {
+    "repo": "mishakorzik/MikelMod",
+    "name": "MikelMod",
+    "version": "1.2.4 Stable",
+    "mod_id": "MikelMod",
+    "author": ".he1zen",
+    "lastUpdated": "2022-07-24T07:50:05Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " The mod adds: walls, units, repairers and much more."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5666,6 +5653,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "Antlrr/bitches",
+    "name": "Getting Bitches",
+    "version": "1.0",
+    "mod_id": "bitches",
+    "author": "Antlrr",
+    "lastUpdated": "2022-05-26T14:57:43Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds bitches"
   },
   {
     "repo": "knacko/MindustryMods",
