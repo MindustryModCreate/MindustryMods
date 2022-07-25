@@ -486,7 +486,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-07-24T18:44:55Z",
+    "lastUpdated": "2022-07-25T08:55:50Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -603,7 +603,7 @@
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-24T21:36:18Z",
+    "lastUpdated": "2022-07-25T10:01:44Z",
     "stars": 24,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1144,19 +1144,6 @@
     "description": "EXP Library for 6.0!"
   },
   {
-    "repo": "Slotterleet/fictional-octo-system",
-    "name": "fictional-octo-system",
-    "version": "1.0",
-    "mod_id": "Fictional Octo System",
-    "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-01-09T14:06:23Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A space-related mod."
-  },
-  {
     "repo": "EclipseTheOldOne/Project-Tvakot",
     "name": "Project Tvakot",
     "version": "0.1.0.3",
@@ -1207,6 +1194,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "Slotterleet/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "version": "1.0",
+    "mod_id": "Fictional Octo System",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-07-25T08:56:38Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
   },
   {
     "repo": "Gdeft/bleach",
@@ -1305,7 +1305,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-07-24T07:07:22Z",
+    "lastUpdated": "2022-07-25T07:39:25Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2301,6 +2301,19 @@
     "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   },
   {
+    "repo": "luxDuck/PublicMod",
+    "name": "Public Mod",
+    "version": "0.1.0",
+    "mod_id": "publicmod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-21T18:41:50Z",
+    "stars": 6,
+    "minGameVersion": "22879",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
+  },
+  {
     "repo": "Def-Try/parkour-mod",
     "name": "Parkour mod",
     "version": "2.5",
@@ -2717,19 +2730,6 @@
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
-    "repo": "luxDuck/PublicMod",
-    "name": "Public Mod",
-    "version": "0.1.0",
-    "mod_id": "publicmod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-21T18:41:50Z",
-    "stars": 5,
-    "minGameVersion": "22879",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
-  },
-  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -2845,19 +2845,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
-  },
-  {
-    "repo": "jhrushbe/MOARdustry",
-    "name": "MOARdustry",
-    "version": "0.10",
-    "mod_id": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2021-06-13T04:01:35Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
     "repo": "superwibr/etigeox-mod",
@@ -3131,6 +3118,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "jhrushbe/MOARdustry",
+    "name": "MOARdustry",
+    "version": "0.10",
+    "mod_id": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2022-07-25T05:23:51Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4511,19 +4511,6 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
-    "repo": "mrcactiseed21/ultranium-mod-mindustry",
-    "name": "ultranium mod",
-    "version": "0",
-    "mod_id": "ultranium",
-    "author": "mrcactiseed21",
-    "lastUpdated": "2021-10-20T08:29:38Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "wip content mod"
-  },
-  {
     "repo": "NewJumper/Futurdustry",
     "name": "Futurdustry",
     "version": "0.2.3",
@@ -4834,6 +4821,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " The mod adds: walls, units, repairers and much more."
+  },
+  {
+    "repo": "mrcactiseed21/ultranium-mod-mindustry",
+    "name": "umod",
+    "version": "0.1",
+    "mod_id": "umod",
+    "author": "mrcactiseed21",
+    "lastUpdated": "2022-07-25T08:29:27Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "wip content mod"
   },
   {
     "repo": "Nikisos/TheBattleMod",
