@@ -45,7 +45,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-06-20T17:19:28Z",
-    "stars": 163,
+    "stars": 164,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -598,19 +598,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.2.20 + 0.1.7",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-25T10:01:44Z",
-    "stars": 24,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
-  },
-  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -650,6 +637,19 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "0.1.2",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-04-25T21:33:14Z",
+    "stars": 23,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "version": "3.5.0",
@@ -661,19 +661,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "0.1.2",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-04-25T21:33:14Z",
-    "stars": 22,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -1123,7 +1110,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-24T21:58:46Z",
+    "lastUpdated": "2022-07-25T12:34:37Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1183,25 +1170,12 @@
     "description": "Very pog."
   },
   {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "version": "2.3",
-    "mod_id": "oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-07-21T04:30:08Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
-  },
-  {
     "repo": "Slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
     "mod_id": "Fictional Octo System",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-07-25T08:56:38Z",
+    "lastUpdated": "2022-07-25T13:45:53Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1417,19 +1391,6 @@
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
-    "repo": "Mnemotechnician/CKAT",
-    "name": "Скат [kotlin]",
-    "version": "2.2",
-    "mod_id": "ckat-stingray",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-06-03T12:44:21Z",
-    "stars": 10,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.4 [U8]",
@@ -1441,6 +1402,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "Mnemotechnician/CKAT",
+    "name": "Скат [kotlin]",
+    "version": "2.2",
+    "mod_id": "ckat-stingray",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-25T13:51:40Z",
+    "stars": 10,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1617,7 +1591,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-24T12:25:40Z",
+    "lastUpdated": "2022-07-25T12:30:38Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2728,6 +2702,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "SolarPH/Mindustry-Crystal-Pack",
+    "name": "Mindustry-Crystal-Pack",
+    "version": "1.1.4",
+    "mod_id": "Crystal Pack",
+    "author": "SolarPH",
+    "lastUpdated": "2022-07-25T12:02:01Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that contains an OP yet super expensive weapon."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -5718,5 +5705,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
+  },
+  {
+    "repo": "osp54/AdminTools",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-07-25T13:57:28Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
