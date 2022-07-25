@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-07-18T14:11:18Z",
+    "lastUpdated": "2022-07-24T23:15:21Z",
     "stars": 107,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -174,7 +174,7 @@
     "version": "3.4",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-24T20:02:10Z",
+    "lastUpdated": "2022-07-24T23:34:04Z",
     "stars": 65,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -603,7 +603,7 @@
     "version": "2.2.20 + 0.1.7",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-24T19:32:31Z",
+    "lastUpdated": "2022-07-24T21:36:18Z",
     "stars": 24,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1123,12 +1123,12 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-24T18:43:37Z",
+    "lastUpdated": "2022-07-24T21:58:46Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods."
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -2327,6 +2327,19 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2715,19 +2728,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that luxDuck and other people are working on. Star the mod for access."
-  },
-  {
-    "repo": "RebornTrack970/infinicampaign",
-    "name": "InfiniCampaign",
-    "version": "1.0",
-    "mod_id": "inficamp",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
