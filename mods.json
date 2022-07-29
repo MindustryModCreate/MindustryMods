@@ -32,7 +32,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-06-20T17:19:28Z",
-    "stars": 168,
+    "stars": 169,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -156,6 +156,19 @@
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "4.0",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-28T22:55:07Z",
+    "stars": 66,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v4.0, while v4.1 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "3.4",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-28T20:05:20Z",
-    "stars": 65,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -910,19 +910,6 @@
     "description": "a binary themed mod for mindustry 7.135."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.7.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-27T09:51:19Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
     "version": "0.10.4",
@@ -947,6 +934,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.7.0",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-07-28T22:09:31Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "Drullkus/Unnerf-Core-Units",
@@ -5738,7 +5738,7 @@
     "version": "1",
     "mod_id": "Megadustry",
     "author": "mega",
-    "lastUpdated": "2022-07-28T02:51:45Z",
+    "lastUpdated": "2022-07-28T23:40:37Z",
     "stars": 0,
     "minGameVersion": "135.2",
     "hasScripts": false,
