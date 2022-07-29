@@ -143,6 +143,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "version": "4.0",
+    "mod_id": "cyber-io",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-28T22:55:07Z",
+    "stars": 68,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v4.0, while v4.1 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "version": "2.4.8",
@@ -154,19 +167,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "version": "4.0",
-    "mod_id": "cyber-io",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-28T22:55:07Z",
-    "stars": 67,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v4.0, while v4.1 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -473,7 +473,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-07-29T08:37:34Z",
+    "lastUpdated": "2022-07-29T14:49:40Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -577,8 +577,8 @@
     "version": "No version provided.",
     "mod_id": "No name provided.",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-28T18:00:20Z",
-    "stars": 26,
+    "lastUpdated": "2022-07-29T13:32:16Z",
+    "stars": 27,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -785,7 +785,7 @@
     "version": "0.4",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-07-27T19:28:01Z",
+    "lastUpdated": "2022-07-29T15:09:41Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -843,6 +843,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.7.0",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-07-29T14:30:27Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -936,17 +949,17 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.7.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-29T09:38:39Z",
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.4",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2022-07-29T07:00:21Z",
     "stars": 16,
     "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "Drullkus/Unnerf-Core-Units",
@@ -1038,19 +1051,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
-  },
-  {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.4",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2022-07-29T07:00:21Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "sk7725/Commands",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-29T01:19:50Z",
+    "lastUpdated": "2022-07-29T12:30:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
