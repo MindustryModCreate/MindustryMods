@@ -148,7 +148,7 @@
     "version": "4.0",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-30T14:24:45Z",
+    "lastUpdated": "2022-07-30T18:29:20Z",
     "stars": 69,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -850,7 +850,7 @@
     "version": "1.7.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-30T07:37:08Z",
+    "lastUpdated": "2022-07-30T19:10:48Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -895,6 +895,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-30T09:50:27Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
   },
   {
     "repo": "deltanedas/ldb",
@@ -947,19 +960,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-30T09:50:27Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
   },
   {
     "repo": "Drullkus/Unnerf-Core-Units",
@@ -1214,7 +1214,7 @@
     "version": "1.0",
     "mod_id": "Fictional Octo System",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-07-27T08:36:18Z",
+    "lastUpdated": "2022-07-30T16:52:53Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1521,19 +1521,6 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
-    "repo": "Cynthion21x/prismatic",
-    "name": "Prismatic",
-    "version": "1.10.125",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2022-01-07T19:00:13Z",
-    "stars": 9,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
-  },
-  {
     "repo": "deltanedas/anuke-logic",
     "name": "Anuke Logic",
     "version": "1.9.6",
@@ -1610,6 +1597,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Cynthion21x/prismatic",
+    "name": "Prismatic",
+    "version": "1.10.125",
+    "mod_id": "prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2022-07-30T18:40:23Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
     "repo": "deltanedas/override-lib",
@@ -5538,19 +5538,6 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "JHdreemurr/Mindustry-Mod-V2",
-    "name": "Simple Mod",
-    "version": "0.1",
-    "mod_id": "Simple-Mod",
-    "author": "jh_dreemurr",
-    "lastUpdated": "2022-02-12T04:25:35Z",
-    "stars": 0,
-    "minGameVersion": "126.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
-  },
-  {
     "repo": "TechFish3000/Techfish-Innovations",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5601,19 +5588,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more units to mindustry"
-  },
-  {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -PRE ALPHA",
-    "mod_id": "prism",
-    "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-04-07T11:13:03Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "dukmu/mindustry_mod",
@@ -5733,19 +5707,6 @@
     "description": "To be filled"
   },
   {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "version": "1",
-    "mod_id": "Megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-07-30T04:30:16Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
-  },
-  {
     "repo": "driftednotes/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "1.0",
@@ -5757,5 +5718,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that can break your game. v7.136 only."
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -PRE ALPHA",
+    "mod_id": "prism",
+    "author": "ice100k & thecrisperson",
+    "lastUpdated": "2022-07-30T18:44:28Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "version": "1",
+    "mod_id": "Megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-07-30T20:06:31Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
   }
 ]
