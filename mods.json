@@ -850,7 +850,7 @@
     "version": "1.7.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-30T21:25:07Z",
+    "lastUpdated": "2022-07-31T03:57:49Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1586,19 +1586,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-30T01:13:44Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Cynthion21x/prismatic",
     "name": "Prismatic",
     "version": "1.10.125",
@@ -1610,6 +1597,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-07-31T01:28:11Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2319,7 +2319,7 @@
     "version": "0.1.0",
     "mod_id": "ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-30T05:35:04Z",
+    "lastUpdated": "2022-07-31T04:53:13Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2689,19 +2689,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
-  },
-  {
-    "repo": "notMEEPoffaith/dumb-dump",
-    "name": "Dumb Dump",
-    "version": "3.5",
-    "mod_id": "dumb dump",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2022-07-01T16:36:24Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -3549,7 +3536,7 @@
     "description": "OP Things which game more easy, but isn't a hack."
   },
   {
-    "repo": "Rex-Hm/Quality-Implementations-Mod",
+    "repo": "RexAliis/Quality-Implementations-Mod",
     "name": "Quality Implementations",
     "version": "1.1",
     "mod_id": "q-impl",
@@ -4379,6 +4366,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
+  },
+  {
+    "repo": "RexAliis/Colorful-Darkness-Mod",
+    "name": "Colorful Darkness",
+    "version": "1.0",
+    "mod_id": "c-dark",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-07-31T03:53:22Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
     "repo": "4156/Infintory",
@@ -5239,19 +5239,6 @@
     "description": "snad"
   },
   {
-    "repo": "middlewhite/Mindustry_powerdrill_mod",
-    "name": "Mindustry_powerdrill_mod",
-    "version": "1.0",
-    "mod_id": "电动钻头 by mid",
-    "author": "中白",
-    "lastUpdated": "2021-08-27T15:42:30Z",
-    "stars": 0,
-    "minGameVersion": "111",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "使用电力驱动的钻头"
-  },
-  {
     "repo": "wilfulsummer/New-mod",
     "name": "Wilfulsummers mod",
     "version": "1.0",
@@ -5551,19 +5538,6 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "JHdreemurr/Mindustry-Mod-V2",
-    "name": "Simple Mod",
-    "version": "0.1",
-    "mod_id": "Simple-Mod",
-    "author": "jh_dreemurr",
-    "lastUpdated": "2022-02-12T04:25:35Z",
-    "stars": 0,
-    "minGameVersion": "126.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
-  },
-  {
     "repo": "TechFish3000/Techfish-Innovations",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -5731,19 +5705,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
-  },
-  {
-    "repo": "driftednotes/BreakingMindustry",
-    "name": "Breaking Mindustry",
-    "version": "1.0",
-    "mod_id": "breaking-mindustry",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-07-30T14:08:36Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that can break your game. v7.136 only."
   },
   {
     "repo": "Cynthion21x/prismaticExperimental",
