@@ -135,7 +135,7 @@
     "version": "4.0",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-04T23:55:34Z",
+    "lastUpdated": "2022-08-05T01:36:03Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -174,7 +174,7 @@
     "version": "2.4.8",
     "mod_id": "btm",
     "author": "guiY & Carrot",
-    "lastUpdated": "2022-03-10T11:11:59Z",
+    "lastUpdated": "2022-08-05T04:57:42Z",
     "stars": 67,
     "minGameVersion": "133",
     "hasScripts": true,
@@ -288,10 +288,10 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
-    "version": "26.2",
+    "version": "26.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-07-22T20:33:07Z",
+    "lastUpdated": "2022-08-05T01:17:14Z",
     "stars": 51,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -850,7 +850,7 @@
     "version": "1.7.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-04T21:38:45Z",
+    "lastUpdated": "2022-08-05T04:46:55Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-04T12:28:37Z",
+    "lastUpdated": "2022-08-05T01:23:48Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2676,6 +2676,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -4199,19 +4212,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "TippierPark8961/Green-Void",
-    "name": "Green Void",
-    "version": "1",
-    "mod_id": "modo",
-    "author": "TippierPark8961",
-    "lastUpdated": "2022-06-17T06:23:41Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod"
-  },
-  {
     "repo": "Mythril382/AmmoSwap",
     "name": "Ammo Swap",
     "version": "0.3",
@@ -4379,6 +4379,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
+    "repo": "TippierPark8961/Green-Void",
+    "name": "Green Void",
+    "version": "1",
+    "mod_id": "modo",
+    "author": "TippierPark8961",
+    "lastUpdated": "2022-08-05T01:54:20Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod"
   },
   {
     "repo": "4156/Infintory",
