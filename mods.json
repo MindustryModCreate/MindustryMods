@@ -5,7 +5,7 @@
     "version": "1.09",
     "mod_id": "betamindy",
     "author": "sk7725",
-    "lastUpdated": "2022-07-21T06:06:30Z",
+    "lastUpdated": "2022-08-06T09:42:59Z",
     "stars": 243,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -135,7 +135,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-05T23:16:12Z",
+    "lastUpdated": "2022-08-06T10:01:46Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -395,7 +395,7 @@
     "version": "15.0",
     "mod_id": "adc",
     "author": "Snake",
-    "lastUpdated": "2022-08-04T04:25:26Z",
+    "lastUpdated": "2022-08-06T06:28:47Z",
     "stars": 35,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -850,7 +850,7 @@
     "version": "1.7.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-05T17:07:41Z",
+    "lastUpdated": "2022-08-06T05:05:54Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1131,6 +1131,19 @@
     "description": "... far beneath the reality."
   },
   {
+    "repo": "code-explorer786/ChessDustry",
+    "name": "ChessDustry",
+    "version": "0.1devel",
+    "mod_id": "chess",
+    "author": "code-explorer786",
+    "lastUpdated": "2022-04-27T14:55:34Z",
+    "stars": 14,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds Chess pieces in Mindustry."
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
@@ -1194,19 +1207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
-  },
-  {
-    "repo": "AshesKaiser-KR/Mindustry-Ages",
-    "name": "Mindustry: Ages",
-    "version": "0.1",
-    "mod_id": "ages",
-    "author": "AshesKaiser",
-    "lastUpdated": "2022-07-25T07:39:25Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first java Mindustry mod"
   },
   {
     "repo": "Slotterleet/fictional-octo-system",
@@ -1300,12 +1300,25 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "AshesKaiser-KR/Mindustry-Ages",
+    "name": "Mindustry: Ages",
+    "version": "0.1",
+    "mod_id": "ages",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-08-06T05:30:42Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
+  },
+  {
     "repo": "RICCJ/MinerTools",
     "name": "MinerTools",
     "version": "1.7.4",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2022-08-04T02:02:35Z",
+    "lastUpdated": "2022-08-06T07:48:46Z",
     "stars": 12,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1604,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-05T12:28:11Z",
+    "lastUpdated": "2022-08-06T01:10:42Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2046,7 +2059,7 @@
     "version": "0.70 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-04T17:48:06Z",
+    "lastUpdated": "2022-08-06T07:05:11Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2379,6 +2392,19 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
+    "repo": "TheSaus/DubiousWhiteLiquidustry",
+    "name": "DubiousWhiteLiquidustry",
+    "version": "1.0.1",
+    "mod_id": "dubiouswhiteliquidustry",
+    "author": "The-Saus#1038",
+    "lastUpdated": "2021-04-21T04:21:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
+  },
+  {
     "repo": "Vandomas/bad_tr",
     "name": "Bad TR",
     "version": "6.2",
@@ -2691,19 +2717,6 @@
     "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.1",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2022-07-03T03:11:01Z",
-    "stars": 5,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "version": "1.1.4",
@@ -2728,6 +2741,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.1",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-06T04:09:32Z",
+    "stars": 5,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3658,7 +3684,7 @@
     "version": "Alpha",
     "mod_id": "galactustry",
     "author": "Nilederg",
-    "lastUpdated": "2022-08-05T23:08:58Z",
+    "lastUpdated": "2022-08-06T03:59:15Z",
     "stars": 3,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -4329,19 +4355,6 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.3",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2022-07-31T08:49:43Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "- 全新ui\n- 修复一些bug"
-  },
-  {
     "repo": "CLUET-op/Green-Technology",
     "name": "Green-Technologies",
     "version": "0.4",
@@ -4379,6 +4392,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.3",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-06T04:14:13Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "- 全新ui\n- 修复一些bug"
   },
   {
     "repo": "4156/Infintory",
@@ -5536,19 +5562,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
-  },
-  {
-    "repo": "JHdreemurr/Mindustry-Mod-V2",
-    "name": "Simple Mod",
-    "version": "0.1",
-    "mod_id": "Simple-Mod",
-    "author": "jh_dreemurr",
-    "lastUpdated": "2022-02-12T04:25:35Z",
-    "stars": 0,
-    "minGameVersion": "126.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds stuff and things (this mod is mainly for me and my friends although it is public)"
   },
   {
     "repo": "TechFish3000/Techfish-Innovations",
