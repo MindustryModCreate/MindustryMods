@@ -110,7 +110,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2022-02-08T09:34:31Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -135,8 +135,8 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-06T21:07:30Z",
-    "stars": 71,
+    "lastUpdated": "2022-08-07T04:56:32Z",
+    "stars": 72,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "mod_id": "btm",
     "author": "guiY & Carrot",
     "lastUpdated": "2022-08-05T04:57:42Z",
-    "stars": 67,
+    "stars": 68,
     "minGameVersion": "133",
     "hasScripts": true,
     "hasJava": false,
@@ -676,6 +676,19 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.5",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-07-29T18:21:32Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.4",
@@ -739,19 +752,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.5",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-07-29T18:21:32Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "sk7725/Testers",
@@ -1058,7 +1058,7 @@
     "version": "1.3",
     "mod_id": "extension",
     "author": "M.Q.",
-    "lastUpdated": "2022-07-29T06:26:21Z",
+    "lastUpdated": "2022-08-07T06:07:23Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1617,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-06T12:23:13Z",
+    "lastUpdated": "2022-08-07T01:21:29Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2059,7 +2059,7 @@
     "version": "0.70 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-06T07:05:11Z",
+    "lastUpdated": "2022-08-07T04:47:56Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2717,6 +2717,19 @@
     "description": "A mod that contains an OP yet super expensive weapon."
   },
   {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "3.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-08-04T04:37:59Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
     "repo": "TeamNeiaron/Ion",
     "name": "Ion",
     "version": "0.1.0",
@@ -3133,17 +3146,17 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "3.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-04T04:37:59Z",
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "galactustry",
+    "author": "Nilederg",
+    "lastUpdated": "2022-08-07T04:23:41Z",
     "stars": 4,
-    "minGameVersion": "136",
+    "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+    "description": "Revived after 17 months, now in Java! Nowhere near done."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3664,19 +3677,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds various things  "
-  },
-  {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "galactustry",
-    "author": "Nilederg",
-    "lastUpdated": "2022-08-06T23:59:38Z",
-    "stars": 3,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Revived after 17 months, now in Java! Nowhere near done."
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -4888,6 +4888,19 @@
     "description": " The mod adds: walls, units, repairers and much more."
   },
   {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "version": "1",
+    "mod_id": "Megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-04T04:26:52Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5744,18 +5757,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
-  },
-  {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "version": "1",
-    "mod_id": "Megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-04T04:26:52Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
   }
 ]
