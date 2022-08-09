@@ -15,12 +15,12 @@
   {
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
-    "version": "1.4",
+    "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-09T02:29:11Z",
+    "lastUpdated": "2022-08-09T19:15:41Z",
     "stars": 174,
-    "minGameVersion": "134.1",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in a butt load of content"
@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-09T13:16:22Z",
+    "lastUpdated": "2022-08-09T16:03:13Z",
     "stars": 76,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T14:23:25Z",
+    "lastUpdated": "2022-08-09T19:39:35Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1001,6 +1001,19 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Scrap",
+    "name": "Project Scrap",
+    "version": "0.2.4.5",
+    "mod_id": "industrial",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-02T03:00:27Z",
+    "stars": 15,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
     "repo": "Zeniku/HeavyMachinery",
     "name": "Heavy Machinery",
     "version": "1.0",
@@ -1038,6 +1051,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
+  },
+  {
+    "repo": "z0mbiesrock/Larger-Cores",
+    "name": "Larger Cores",
+    "version": "1.0",
+    "mod_id": "larger-cores",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2022-07-06T10:29:29Z",
+    "stars": 15,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds T4 and T5 Cores."
   },
   {
     "repo": "MQ-1175/vanilla-extension",
@@ -1118,6 +1144,32 @@
     "description": "Adds Chess pieces in Mindustry."
   },
   {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "version": "0.4.1",
+    "mod_id": "additional-content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-07-20T19:52:26Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+  },
+  {
+    "repo": "sk7725/EXP-lib",
+    "name": "EXP Library",
+    "version": "3.0",
+    "mod_id": "exp-lib",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-27T03:50:40Z",
+    "stars": 13,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "EXP Library for 6.0!"
+  },
+  {
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "version": "0.4.4",
@@ -1155,6 +1207,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "Slotterleet/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "version": "1.0",
+    "mod_id": "Fictional Octo System",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-08-07T19:46:22Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
   },
   {
     "repo": "Gdeft/bleach",
@@ -1233,6 +1298,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "AshesKaiser-KR/Mindustry-Ages",
+    "name": "Mindustry: Ages",
+    "version": "0.1",
+    "mod_id": "ages",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-08-06T05:30:42Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
   },
   {
     "repo": "RICCJ/MinerTools",
@@ -3073,7 +3151,7 @@
     "version": "1.0.0",
     "mod_id": "aimclient",
     "author": "awa",
-    "lastUpdated": "2022-08-09T14:57:36Z",
+    "lastUpdated": "2022-08-09T15:58:50Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4828,7 +4906,7 @@
     "version": "1",
     "mod_id": "Megadustry",
     "author": "mega",
-    "lastUpdated": "2022-08-04T04:26:52Z",
+    "lastUpdated": "2022-08-09T15:25:20Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -5686,7 +5764,7 @@
     "version": "1.0",
     "mod_id": "TNTM-TheEE145",
     "author": "TheEE145",
-    "lastUpdated": "2022-08-09T15:02:28Z",
+    "lastUpdated": "2022-08-09T16:38:28Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
