@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-10T00:23:33Z",
-    "stars": 176,
+    "lastUpdated": "2022-08-10T03:44:29Z",
+    "stars": 177,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -728,19 +728,6 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "42",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-07-17T22:22:51Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.73",
@@ -752,6 +739,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "43",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-08-10T02:41:26Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "version": "1.0",
+    "mod_id": "advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-04-03T00:43:31Z",
+    "stars": 20,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "sk7725/Testers",
@@ -791,19 +804,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "version": "1.0",
-    "mod_id": "advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-04-03T00:43:31Z",
-    "stars": 19,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -1617,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-09T12:31:28Z",
+    "lastUpdated": "2022-08-10T01:15:57Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1805,6 +1805,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.70 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-10T04:53:38Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2054,19 +2067,6 @@
     "description": ""
   },
   {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.70 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-09T14:13:06Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -2275,19 +2275,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-05-25T05:34:10Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "Def-Try/parkour-mod",
     "name": "Parkour mod",
     "version": "2.5",
@@ -2338,6 +2325,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-08-10T03:04:48Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3404,6 +3404,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Normal Mindustry Mod, nothing special"
+  },
+  {
+    "repo": "GitIcon65/BruhMod",
+    "name": "Bruh Mod",
+    "version": "1.0",
+    "mod_id": "Bruh",
+    "author": "[MTF_OMEGA-7]nova",
+    "lastUpdated": "2021-10-26T15:43:10Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "ax-nikita/uranium-mod",
