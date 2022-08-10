@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-09T19:15:41Z",
-    "stars": 174,
+    "lastUpdated": "2022-08-10T00:23:33Z",
+    "stars": 176,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-05-10T05:23:03Z",
-    "stars": 173,
+    "stars": 174,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -473,7 +473,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T19:39:35Z",
+    "lastUpdated": "2022-08-09T20:28:30Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2327,6 +2327,19 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "TeamNeiaron/Ion",
+    "name": "Ion",
+    "version": "0.1.0",
+    "mod_id": "ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-08-08T14:20:55Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2728,19 +2741,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
-    "repo": "TeamNeiaron/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
-    "mod_id": "ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-08T14:20:55Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "liplum/BottledLiquid",
@@ -3404,19 +3404,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Normal Mindustry Mod, nothing special"
-  },
-  {
-    "repo": "GitIcon65/BruhMod",
-    "name": "Bruh Mod",
-    "version": "1.0",
-    "mod_id": "Bruh",
-    "author": "[MTF_OMEGA-7]nova",
-    "lastUpdated": "2021-10-26T15:43:10Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "ax-nikita/uranium-mod",
