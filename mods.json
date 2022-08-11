@@ -717,12 +717,12 @@
   {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
-    "version": "44",
+    "version": "45",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-10T19:16:05Z",
+    "lastUpdated": "2022-08-11T05:05:33Z",
     "stars": 22,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
@@ -1365,19 +1365,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.3.0",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-07-23T03:29:04Z",
-    "stars": 11,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
     "repo": "3Snake3/Units-mod",
     "name": "Units Mod",
     "version": "2.0",
@@ -1389,6 +1376,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.4.0",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-08-11T04:12:07Z",
+    "stars": 11,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Slotterleet/Basic-Schematics",
@@ -1617,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-10T12:28:31Z",
+    "lastUpdated": "2022-08-11T01:11:36Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.70 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-10T15:29:52Z",
+    "lastUpdated": "2022-08-11T05:09:19Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3055,6 +3055,19 @@
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Cry0flu1d/Project-Frost-In-Java",
+    "name": "Project Frost in a Jar",
+    "version": "0.0",
+    "mod_id": "project-frost",
+    "author": "Cry0flu1d & 2356",
+    "lastUpdated": "2022-06-04T04:40:28Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
+  },
+  {
     "repo": "Toriwake/Kannadustry",
     "name": "Kannadustry",
     "version": "1.0",
@@ -3638,19 +3651,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
-  },
-  {
-    "repo": "Cry0flu1d/Project-Frost-In-Java",
-    "name": "Project Frost in a Jar",
-    "version": "0.0",
-    "mod_id": "project-frost",
-    "author": "Cry0flu1d & 2356",
-    "lastUpdated": "2022-06-04T04:40:28Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
     "repo": "wshon/MinerTools135",
@@ -5601,19 +5601,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more units to mindustry"
-  },
-  {
-    "repo": "dukmu/mindustry_mod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-04-13T09:07:31Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "AHRumjungle/Matter",
