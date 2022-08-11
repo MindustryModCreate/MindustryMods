@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-10T22:27:16Z",
-    "stars": 177,
+    "stars": 178,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -473,7 +473,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-10T20:49:47Z",
+    "lastUpdated": "2022-08-11T10:09:34Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -720,7 +720,7 @@
     "version": "45",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-11T05:05:33Z",
+    "lastUpdated": "2022-08-11T05:19:17Z",
     "stars": 22,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.70 Pre-Alpha",
     "mod_id": "erekir-expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-11T05:09:19Z",
+    "lastUpdated": "2022-08-11T08:37:25Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2262,6 +2262,19 @@
     "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
   },
   {
+    "repo": "deltanedas/waisa",
+    "name": "WAISA",
+    "version": "3.3.3",
+    "mod_id": "waisa",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:47Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "RICCJ/ItemBridgeX",
     "name": "ItemBridgeX",
     "version": "2.0",
@@ -2652,17 +2665,17 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:47Z",
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2022-05-12T13:33:41Z",
     "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
+    "minGameVersion": "119",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Mnemotechnician/calculus",
@@ -2702,19 +2715,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
-  },
-  {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Endless Rusting: Termernation Forthcoming",
-    "version": "_i_ co__u__s a__ 7.1",
-    "mod_id": "endless-rusting",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-07-09T02:17:53Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3094,6 +3094,19 @@
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
   },
   {
+    "repo": "A5TR0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "version": "0.0.2",
+    "mod_id": "astro-adds",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-07-07T00:00:55Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -3144,19 +3157,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \nПереоткройте гениальные технологии старой заброшенной студии. Овладейте силой чернил. Научитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
-  },
-  {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-03T19:47:48Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "nilederg/Galactustry",
@@ -3690,19 +3690,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
-    "repo": "A5TR0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "version": "0.0.2",
-    "mod_id": "astro-adds",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-07-07T00:00:55Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -5601,6 +5588,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more units to mindustry"
+  },
+  {
+    "repo": "dukmu/mindustry_mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-13T09:07:31Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "AHRumjungle/Matter",
