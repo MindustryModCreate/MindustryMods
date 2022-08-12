@@ -473,7 +473,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-11T18:38:30Z",
+    "lastUpdated": "2022-08-12T09:40:30Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -694,7 +694,7 @@
     "version": "0.5",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-07-29T18:21:32Z",
+    "lastUpdated": "2022-08-12T08:35:05Z",
     "stars": 23,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -720,7 +720,7 @@
     "version": "45",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-11T05:19:17Z",
+    "lastUpdated": "2022-08-12T05:35:40Z",
     "stars": 22,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1612,19 +1612,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.70 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-11T08:37:25Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1636,6 +1623,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.70 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-12T09:59:26Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2665,6 +2665,19 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2022-05-12T13:33:41Z",
+    "stars": 5,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2691,6 +2704,19 @@
     "description": "Adds a few distribution blocks"
   },
   {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
+  },
+  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.41",
@@ -2702,19 +2728,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a much better console ui.\n\nAlso includes a file browser, a scripts menu, an events menu and much much more!\n\nSee README.md for more info."
-  },
-  {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Endless Rusting: Termernation Forthcoming",
-    "version": "_i_ co__u__s a__ 7.1",
-    "mod_id": "endless-rusting",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-07-09T02:17:53Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3274,6 +3287,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "GlennFolker/Enumodify-Mod",
+    "name": "Enumodify",
+    "version": "1.0",
+    "mod_id": "enumodify",
+    "author": "GlennFolker",
+    "lastUpdated": "2021-05-06T09:00:32Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "MrDuck557/HomebrewMindustry",
@@ -5783,5 +5809,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New ores added."
+  },
+  {
+    "repo": "HubertBDLB/Jobert_Factories",
+    "name": "Jobert Factories",
+    "version": "1.0",
+    "mod_id": "jobert_factories",
+    "author": "Jobert Industries",
+    "lastUpdated": "2022-08-12T09:37:37Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds Tier 2 and Tier 3 factories"
   }
 ]
