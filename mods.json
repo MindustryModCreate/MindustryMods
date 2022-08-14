@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-13T14:14:38Z",
+    "lastUpdated": "2022-08-14T04:52:30Z",
     "stars": 77,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1612,19 +1612,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-13T12:23:52Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.75 Pre-Alpha",
@@ -1636,6 +1623,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-14T01:18:14Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2704,6 +2704,19 @@
     "description": "Adds a few distribution blocks"
   },
   {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
+  },
+  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "version": "1.1.4",
@@ -3146,19 +3159,6 @@
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \nПереоткройте гениальные технологии старой заброшенной студии. Овладейте силой чернил. Научитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "endrium 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-03T19:47:48Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "nilederg/Galactustry",
     "name": "Galactustry",
     "version": "Alpha",
@@ -3196,6 +3196,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "endrium 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-08-14T02:03:23Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4810,19 +4823,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "DivisionByZero80/mindustry-launchpads",
-    "name": "Serpulo Launchpad Hub",
-    "version": "1.0",
-    "mod_id": "launchpad-destination-changer",
-    "author": "DivisionByZero",
-    "lastUpdated": "2022-03-11T09:39:36Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Change sector export destination from list on planet screen"
-  },
-  {
     "repo": "CoCuCka-XD/ReloadedMod",
     "name": "Reloaded",
     "version": "0.0.0.1 ALPHA",
@@ -4958,7 +4958,7 @@
     "version": "0.1 beta",
     "mod_id": "jobert-factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-13T21:16:44Z",
+    "lastUpdated": "2022-08-14T04:20:00Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5822,5 +5822,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New ores added."
+  },
+  {
+    "repo": "Him-Python/mindustry-mod",
+    "name": "mindustry-mod",
+    "version": "0.01",
+    "mod_id": "Strong mod(first)",
+    "author": "Him-Mod",
+    "lastUpdated": "2022-08-14T01:05:15Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is my first mod, please be kind."
   }
 ]
