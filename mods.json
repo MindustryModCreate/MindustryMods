@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-16T05:41:38Z",
-    "stars": 181,
+    "stars": 182,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-16T09:49:47Z",
+    "lastUpdated": "2022-08-16T11:40:23Z",
     "stars": 77,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -447,7 +447,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-16T07:15:42Z",
+    "lastUpdated": "2022-08-16T13:07:40Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1027,19 +1027,6 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-06-21T14:09:28Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "TheSkyFather/Minerals",
     "name": "Minerals",
     "version": "0.9.6.1 Final",
@@ -1077,6 +1064,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-08-16T10:34:49Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -1214,7 +1214,7 @@
     "version": "1.0",
     "mod_id": "Fictional Octo System",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-08-15T15:26:48Z",
+    "lastUpdated": "2022-08-16T14:59:40Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1396,7 +1396,7 @@
     "version": "1.5 Alpha",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2022-08-13T00:02:26Z",
+    "lastUpdated": "2022-08-16T12:26:39Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1630,7 +1630,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-16T01:25:04Z",
+    "lastUpdated": "2022-08-16T12:25:17Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2652,6 +2652,19 @@
     "description": "Alex version of MEEPofFaith/anuke-approaching"
   },
   {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-04-23T00:45:06Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
     "name": "2R2T Mod",
     "version": "You Dont See This",
@@ -2702,6 +2715,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3768,6 +3794,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Worst mod! Never play with it!"
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
