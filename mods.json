@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-15T22:51:56Z",
-    "stars": 182,
+    "lastUpdated": "2022-08-16T05:41:38Z",
+    "stars": 181,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-14T08:23:13Z",
-    "stars": 160,
+    "stars": 159,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-16T02:43:09Z",
+    "lastUpdated": "2022-08-16T09:49:47Z",
     "stars": 77,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -446,8 +446,8 @@
     "name": "Fading Revelations",
     "version": "1.1",
     "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-15T13:44:10Z",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
+    "lastUpdated": "2022-08-16T07:15:42Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2184,6 +2184,19 @@
     "description": "This is the v6 version of a mod called S-Pack.This mod adds new cores as well as S-Class items and buildings."
   },
   {
+    "repo": "Slotterleet/hard-mode-mod",
+    "name": "hard-mode-mod",
+    "version": "1.2.1",
+    "mod_id": "Hard Mode",
+    "author": "The Slaylord",
+    "lastUpdated": "2021-08-25T09:29:59Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
+  },
+  {
     "repo": "Mnemotechnician/UwUBundles",
     "name": "UwU bundles",
     "version": "1.3",
@@ -2639,19 +2652,6 @@
     "description": "Alex version of MEEPofFaith/anuke-approaching"
   },
   {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-04-23T00:45:06Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
     "name": "2R2T Mod",
     "version": "You Dont See This",
@@ -2702,32 +2702,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
-  },
-  {
-    "repo": "notMEEPoffaith/dumb-dump",
-    "name": "Dumb Dump",
-    "version": "3.5",
-    "mod_id": "dumb dump",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2022-07-01T16:36:24Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
-  },
-  {
-    "repo": "Sh1penfire/Endless-Rusting",
-    "name": "Endless Rusting: Termernation Forthcoming",
-    "version": "_i_ co__u__s a__ 7.1",
-    "mod_id": "endless-rusting",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-07-09T02:17:53Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3287,6 +3261,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
+    "repo": "GlennFolker/Enumodify-Mod",
+    "name": "Enumodify",
+    "version": "1.0",
+    "mod_id": "enumodify",
+    "author": "GlennFolker",
+    "lastUpdated": "2021-05-06T09:00:32Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "MrDuck557/HomebrewMindustry",
@@ -4067,6 +4054,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds an advanced weapons platform. Dread it. \n\n[ SANDBOX ONLY ]"
+  },
+  {
+    "repo": "SMOLKEYS/random-stuff",
+    "name": "Random Stuff",
+    "version": "ela 5",
+    "mod_id": "random-stuff",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-16T01:11:52Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "something and nothing"
   },
   {
     "repo": "FreezeMandu/invisibleblocks",
