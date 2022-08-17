@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-17T01:03:40Z",
+    "lastUpdated": "2022-08-17T19:53:09Z",
     "stars": 182,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-16T22:09:07Z",
+    "lastUpdated": "2022-08-17T17:39:36Z",
     "stars": 78,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -170,16 +170,16 @@
   },
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "Extra Utilities Mod(更多实用设备)",
-    "version": "2.4.8",
-    "mod_id": "btm",
-    "author": "guiY & Carrot",
-    "lastUpdated": "2022-08-05T04:57:42Z",
+    "name": "ExtraUtilities",
+    "version": "1.0",
+    "mod_id": "extra-utilities",
+    "author": "guiY",
+    "lastUpdated": "2022-08-17T11:53:15Z",
     "stars": 68,
-    "minGameVersion": "133",
+    "minGameVersion": "137",
     "hasScripts": true,
-    "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+    "hasJava": true,
+    "description": "没"
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -447,7 +447,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-16T16:26:02Z",
+    "lastUpdated": "2022-08-17T13:29:34Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -525,7 +525,7 @@
     "version": "No version provided.",
     "mod_id": "No name provided.",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-16T18:24:48Z",
+    "lastUpdated": "2022-08-17T18:39:50Z",
     "stars": 29,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -964,10 +964,10 @@
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
-    "version": "0.11.2b",
+    "version": "0.11.3",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-08-15T12:32:59Z",
+    "lastUpdated": "2022-08-17T14:39:10Z",
     "stars": 16,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-17T01:26:54Z",
+    "lastUpdated": "2022-08-17T12:30:10Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2184,19 +2184,6 @@
     "description": "This is the v6 version of a mod called S-Pack.This mod adds new cores as well as S-Class items and buildings."
   },
   {
-    "repo": "Slotterleet/hard-mode-mod",
-    "name": "hard-mode-mod",
-    "version": "1.2.1",
-    "mod_id": "Hard Mode",
-    "author": "The Slaylord",
-    "lastUpdated": "2021-08-25T09:29:59Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
-  },
-  {
     "repo": "Mnemotechnician/UwUBundles",
     "name": "UwU bundles",
     "version": "1.3",
@@ -2691,6 +2678,19 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2022-05-12T13:33:41Z",
+    "stars": 5,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2715,6 +2715,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "Sh1penfire/Endless-Rusting",
+    "name": "Endless Rusting: Termernation Forthcoming",
+    "version": "_i_ co__u__s a__ 7.1",
+    "mod_id": "endless-rusting",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-07-09T02:17:53Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3185,19 +3198,6 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
-    "repo": "xjamiex/CreativeCores",
-    "name": "Creative Cores",
-    "version": "1.0",
-    "mod_id": "creativecores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-16T17:12:11Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
@@ -3209,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "xjamiex/CreativeCores",
+    "name": "Creative Cores",
+    "version": "1.0",
+    "mod_id": "creativecores",
+    "author": "xjammuux",
+    "lastUpdated": "2022-08-17T19:37:17Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4834,19 +4847,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
-  },
-  {
-    "repo": "VANIKO5265/mindustry-mod",
-    "name": "Crystalium",
-    "version": "0.2",
-    "mod_id": "crystalium-mod",
-    "author": "VANIKO",
-    "lastUpdated": "2022-04-22T13:05:44Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod which adding underground Crystalite and.."
   },
   {
     "repo": "Icewav3/mindustry-vanilla-expanded",
