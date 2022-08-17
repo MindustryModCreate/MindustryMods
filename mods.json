@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-16T20:10:09Z",
+    "lastUpdated": "2022-08-17T00:20:09Z",
     "stars": 182,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-16T15:42:11Z",
+    "lastUpdated": "2022-08-16T22:09:07Z",
     "stars": 78,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -882,6 +882,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-16T12:59:32Z",
+    "stars": 17,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "EB-wilson/Singularity",
@@ -2262,19 +2275,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "version": "2.5",
-    "mod_id": "parkour-mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-22T13:46:52Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
     "repo": "RebornTrack970/infinicampaign",
     "name": "InfiniCampaign",
     "version": "1.0",
@@ -2338,6 +2338,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "version": "2.5",
+    "mod_id": "parkour-mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-08-16T20:51:50Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2624,19 +2637,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alex version of MEEPofFaith/anuke-approaching"
-  },
-  {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "version": "0.1",
-    "mod_id": "nuclear-mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-04-23T00:45:06Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -3185,12 +3185,25 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
+    "repo": "xjamiex/CreativeCores",
+    "name": "Creative Cores",
+    "version": "1.0",
+    "mod_id": "creativecores",
+    "author": "xjammuux",
+    "lastUpdated": "2022-08-16T17:12:11Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
     "mod_id": "endrium 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-16T00:55:11Z",
+    "lastUpdated": "2022-08-16T21:49:46Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -3729,19 +3742,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
-    "repo": "xjamiex/CreativeCores",
-    "name": "Creative Cores",
-    "version": "1.0",
-    "mod_id": "creativecores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-16T17:12:11Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -4451,7 +4451,7 @@
     "version": "0.1 beta",
     "mod_id": "stellar-mind",
     "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-16T02:43:55Z",
+    "lastUpdated": "2022-08-16T23:25:00Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
