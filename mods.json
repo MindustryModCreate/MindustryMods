@@ -122,7 +122,7 @@
     "version": "4.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-20T05:43:25Z",
+    "lastUpdated": "2022-08-20T12:02:42Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -234,6 +234,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-06-11T15:10:41Z",
+    "stars": 55,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.6",
@@ -245,19 +258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-06-11T15:10:41Z",
-    "stars": 54,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "deltanedas/rtfm",
@@ -317,7 +317,7 @@
     "version": "0.2v",
     "mod_id": "shar",
     "author": "Sharlottes",
-    "lastUpdated": "2022-08-19T17:38:51Z",
+    "lastUpdated": "2022-08-20T14:54:47Z",
     "stars": 45,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -447,7 +447,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-20T09:40:59Z",
+    "lastUpdated": "2022-08-20T14:53:14Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -858,19 +858,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.7.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-13T04:07:16Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
     "version": "0.11.3",
@@ -895,6 +882,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.8.0",
+    "mod_id": "random-mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-08-20T14:16:01Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1643,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-20T01:18:49Z",
+    "lastUpdated": "2022-08-20T12:24:32Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4459,19 +4459,6 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.3",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2022-08-17T03:50:11Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "- 全新ui\n- 修复一些bug"
-  },
-  {
     "repo": "HubertBDLB/Jobert_Factories",
     "name": "Stellar Mind",
     "version": "0.1 beta",
@@ -4485,12 +4472,25 @@
     "description": "Adds lot of things that are not existant for now."
   },
   {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.3",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-20T10:17:28Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "- 全新ui\n- 修复一些bug"
+  },
+  {
     "repo": "driftheque/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
     "mod_id": "breakustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-20T08:39:04Z",
+    "lastUpdated": "2022-08-20T10:22:25Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -4984,7 +4984,7 @@
     "version": "0.2",
     "mod_id": "tantros",
     "author": "Jasmarkelina",
-    "lastUpdated": "2022-08-20T10:05:33Z",
+    "lastUpdated": "2022-08-20T12:01:09Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5850,29 +5850,29 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -BETA",
-    "mod_id": "prism",
-    "author": "cynthion21x & [organge]thecrisperson",
-    "lastUpdated": "2022-08-20T10:06:46Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.1",
     "mod_id": "better_js",
     "author": "I hope...",
-    "lastUpdated": "2022-08-20T10:07:35Z",
+    "lastUpdated": "2022-08-20T10:19:01Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
-    "hasJava": false,
+    "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   }
 ]
