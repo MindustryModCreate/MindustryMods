@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-21T09:14:00Z",
-    "stars": 184,
+    "lastUpdated": "2022-08-21T23:51:37Z",
+    "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -96,7 +96,7 @@
     "version": "0.1-youngcha.2.8",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-08-21T14:32:12Z",
+    "lastUpdated": "2022-08-21T22:42:39Z",
     "stars": 107,
     "minGameVersion": "135.0",
     "hasScripts": false,
@@ -180,6 +180,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
+    "repo": "What42Pizza/Mindustry-Production-Mod",
+    "name": "Mindustry-Production-Mod",
+    "version": "A4.0.0",
+    "mod_id": "Production Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2022-08-21T23:08:33Z",
+    "stars": 67,
+    "minGameVersion": "126.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -637,6 +650,19 @@
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.5",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-08-13T03:12:00Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -687,19 +713,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.5",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-08-13T03:12:00Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -3731,6 +3744,19 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
+    "repo": "YukuSOH/Hardustry-mod",
+    "name": "Hardustry",
+    "version": "0.116",
+    "mod_id": "hardustry-mod",
+    "author": "YukuSOH",
+    "lastUpdated": "2022-06-21T12:58:58Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod make this game difficult."
+  },
+  {
     "repo": "RebornTrack970/Destroyer",
     "name": "Destroyer",
     "version": "1.0",
@@ -3788,12 +3814,25 @@
     "version": "0.4.2",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-21T20:06:12Z",
+    "lastUpdated": "2022-08-21T20:45:50Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack."
+  },
+  {
+    "repo": "HubertBDLB/StellarMind",
+    "name": "Stellar Mind",
+    "version": "0.1 beta",
+    "mod_id": "stellar-mind",
+    "author": "Jobert Industries™",
+    "lastUpdated": "2022-08-21T22:49:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds lot of things that are not existant for now."
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -3846,19 +3885,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Worst mod! Never play with it!"
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
@@ -4509,19 +4535,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
-  },
-  {
-    "repo": "HubertBDLB/StellarMind",
-    "name": "Stellar Mind",
-    "version": "0.1 beta",
-    "mod_id": "stellar-mind",
-    "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-21T20:06:31Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds lot of things that are not existant for now."
   },
   {
     "repo": "4156/Infintory",
