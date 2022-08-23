@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-22T10:03:03Z",
+    "lastUpdated": "2022-08-23T01:57:32Z",
     "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -825,7 +825,7 @@
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2022-08-17T14:39:10Z",
-    "stars": 19,
+    "stars": 20,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -967,7 +967,7 @@
     "version": "14",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-08-18T11:02:41Z",
+    "lastUpdated": "2022-08-23T02:04:15Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1638,19 +1638,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-22T01:18:09Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.75 Pre-Alpha",
@@ -1662,6 +1649,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-23T01:39:05Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -3887,6 +3887,19 @@
     "description": "Worst mod! Never play with it!"
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4529,7 +4542,7 @@
     "version": "0.4",
     "mod_id": "Green Tech",
     "author": " CLUET",
-    "lastUpdated": "2022-08-23T00:36:18Z",
+    "lastUpdated": "2022-08-23T05:19:10Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4860,19 +4873,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
-  },
-  {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
   },
   {
     "repo": "SakuraLilly/Trade-It",
