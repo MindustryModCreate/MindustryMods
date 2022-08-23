@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-23T01:57:32Z",
+    "lastUpdated": "2022-08-23T19:08:26Z",
     "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-08-23T08:00:10Z",
-    "stars": 108,
+    "stars": 109,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -145,15 +145,28 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "ExtraUtilities",
-    "version": "1.0",
+    "version": "1.041",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2022-08-20T06:56:36Z",
+    "lastUpdated": "2022-08-23T15:54:54Z",
     "stars": 72,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": true,
-    "description": "没"
+    "description": "槑"
+  },
+  {
+    "repo": "z0mbiesrock/Diamond-Ore",
+    "name": "Diamond Ore Mod",
+    "version": "2.6.0",
+    "mod_id": "diamond-ore",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2021-08-05T13:27:09Z",
+    "stars": 71,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "sk7725/TimeControl",
@@ -167,19 +180,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "z0mbiesrock/Diamond-Ore",
-    "name": "Diamond Ore Mod",
-    "version": "2.6.0",
-    "mod_id": "diamond-ore",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 70,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "What42Pizza/Mindustry-Production-Mod",
@@ -2444,6 +2444,19 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "QmelZ/v5dustry",
+    "name": "v5dustry",
+    "version": "0.1",
+    "mod_id": "v5dustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-01-29T15:34:02Z",
+    "stars": 5,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds v5 features"
+  },
+  {
     "repo": "SpaceEarthEX/letter-sound-effect",
     "name": "Letter sound effect",
     "version": "0.1",
@@ -2754,6 +2767,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
+  },
+  {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1.1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3144,19 +3183,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
-  },
-  {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1.1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T06:55:03Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3887,19 +3913,6 @@
     "description": "Worst mod! Never play with it!"
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4511,19 +4524,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantros",
-    "version": "0.2",
-    "mod_id": "tantros",
-    "author": "Jasmarkelina",
-    "lastUpdated": "2022-08-21T07:13:55Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
-  },
-  {
     "repo": "CLUET-op/Green-Technology",
     "name": "Green-Technologies",
     "version": "0.4",
@@ -4548,6 +4548,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
+  },
+  {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantros",
+    "version": "0.2",
+    "mod_id": "tantros",
+    "author": "Jasmarkelina",
+    "lastUpdated": "2022-08-23T17:57:59Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
   },
   {
     "repo": "4156/Infintory",
