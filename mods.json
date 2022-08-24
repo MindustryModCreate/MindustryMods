@@ -45,7 +45,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 167,
+    "stars": 168,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -240,7 +240,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-06-11T15:10:41Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -1222,6 +1222,19 @@
     "description": "Very pog."
   },
   {
+    "repo": "RICCJ/MinerTools",
+    "name": "MinerTools",
+    "version": "1.7.4.2",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2022-08-10T14:38:23Z",
+    "stars": 13,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "AshesKaiser-KR/Mindustry-Ages",
     "name": "Mindustry: Ages",
     "version": "0.1",
@@ -1337,19 +1350,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "RICCJ/MinerTools",
-    "name": "MinerTools",
-    "version": "1.7.4.2",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2022-08-10T14:38:23Z",
-    "stars": 12,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "Shadowpazzo99/shadowdustry",
@@ -2442,19 +2442,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
-  },
-  {
-    "repo": "QmelZ/v5dustry",
-    "name": "v5dustry",
-    "version": "0.1",
-    "mod_id": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 5,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
   },
   {
     "repo": "SpaceEarthEX/letter-sound-effect",
@@ -3850,15 +3837,15 @@
   {
     "repo": "HubertBDLB/StellarMind",
     "name": "Stellar Mind",
-    "version": "0.1 beta",
+    "version": "0.1",
     "mod_id": "stellar-mind",
-    "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-23T13:12:15Z",
+    "author": "Jobert [#bebebe]Industries[]",
+    "lastUpdated": "2022-08-24T00:29:43Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds lot of things that are not existant for now."
+    "description": "Not that much, still very new.\n\nSupport Language: English and French."
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -3911,6 +3898,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Worst mod! Never play with it!"
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
