@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-23T19:08:26Z",
-    "stars": 185,
+    "stars": 186,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-08-15T08:57:14Z",
+    "lastUpdated": "2022-08-24T14:41:44Z",
     "stars": 112,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -145,10 +145,10 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "ExtraUtilities",
-    "version": "1.041",
+    "version": "1.043",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2022-08-23T15:54:54Z",
+    "lastUpdated": "2022-08-24T12:15:30Z",
     "stars": 72,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -187,7 +187,7 @@
     "version": "A4.1.0",
     "mod_id": "Production Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-22T23:25:59Z",
+    "lastUpdated": "2022-08-24T14:03:46Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -265,9 +265,9 @@
     "version": "1.6",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-08-18T07:27:20Z",
+    "lastUpdated": "2022-08-24T13:11:44Z",
     "stars": 55,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
@@ -369,7 +369,7 @@
     "version": "15.0",
     "mod_id": "adc",
     "author": "Snake",
-    "lastUpdated": "2022-08-17T01:08:37Z",
+    "lastUpdated": "2022-08-24T13:48:27Z",
     "stars": 40,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -598,19 +598,6 @@
     "description": "Alerts you to enemy tech progression and unit production"
   },
   {
-    "repo": "realshizi/oxynoe",
-    "name": "Oxynoe",
-    "version": "1",
-    "mod_id": "oxynoe",
-    "author": "oxynoe",
-    "lastUpdated": "2022-02-23T02:13:21Z",
-    "stars": 25,
-    "minGameVersion": "130.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "oxynoe :>"
-  },
-  {
     "repo": "xStaBUx/Omaloon-mod-public",
     "name": "Omaloon-Mod",
     "version": "0.5",
@@ -622,6 +609,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
+  },
+  {
+    "repo": "realshizi/oxynoe",
+    "name": "Oxynoe",
+    "version": "1",
+    "mod_id": "oxynoe",
+    "author": "oxynoe",
+    "lastUpdated": "2022-08-24T10:11:29Z",
+    "stars": 25,
+    "minGameVersion": "130.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "oxynoe :>"
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -1656,7 +1656,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-24T01:25:35Z",
+    "lastUpdated": "2022-08-24T12:29:17Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1844,6 +1844,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "LighterTimes/Block-Placer",
+    "name": "Block Placer",
+    "version": "42.0",
+    "mod_id": "block-placer",
+    "author": "Light",
+    "lastUpdated": "2022-08-17T21:59:08Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2117,19 +2130,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
-    "repo": "LighterTimes/Block-Placer",
-    "name": "Block Placer",
-    "version": "42.0",
-    "mod_id": "block-placer",
-    "author": "Light",
-    "lastUpdated": "2022-08-17T21:59:08Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
   },
   {
     "repo": "deltanedas/no",
@@ -4524,19 +4524,6 @@
     "description": "- 全新ui\n- 修复一些bug"
   },
   {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-08-21T05:31:01Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
-  },
-  {
     "repo": "CLUET-op/Green-Technology",
     "name": "Green-Technologies",
     "version": "0.4",
@@ -4563,12 +4550,25 @@
     "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
   },
   {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "2.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-08-24T11:26:15Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
+  },
+  {
     "repo": "driftheque/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
     "mod_id": "breakustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-24T07:03:54Z",
+    "lastUpdated": "2022-08-24T14:24:02Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": true,
