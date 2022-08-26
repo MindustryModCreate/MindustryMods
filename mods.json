@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 161,
+    "stars": 163,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -1669,7 +1669,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-26T01:24:33Z",
+    "lastUpdated": "2022-08-26T12:29:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2769,19 +2769,6 @@
     "description": "Adds a few distribution blocks"
   },
   {
-    "repo": "notMEEPoffaith/dumb-dump",
-    "name": "Dumb Dump",
-    "version": "3.5",
-    "mod_id": "dumb dump",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2022-07-01T16:36:24Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
-  },
-  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1.1",
@@ -3250,19 +3237,6 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "0.1",
-    "mod_id": "VanillaPlus",
-    "author": "Dagger(Кинжал)",
-    "lastUpdated": "2022-08-20T20:21:22Z",
-    "stars": 4,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -3274,6 +3248,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
+  },
+  {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "[#FFC000]0.1 [#FF4747]Alpha",
+    "mod_id": "vanillaplus",
+    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-08-26T11:03:27Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF]Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4568,7 +4555,7 @@
     "version": "0.0",
     "mod_id": "breakustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-26T05:32:54Z",
+    "lastUpdated": "2022-08-26T11:58:49Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -4899,6 +4886,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
+  },
+  {
+    "repo": "Choobyshroom8450/MoreUnitsMod",
+    "name": "More Units Mod",
+    "version": "1.0",
+    "mod_id": "moreuints",
+    "author": "choobyshroom",
+    "lastUpdated": "2022-02-24T04:26:14Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more units to mindustry"
   },
   {
     "repo": "SakuraLilly/Trade-It",
@@ -5484,19 +5484,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
-  },
-  {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
