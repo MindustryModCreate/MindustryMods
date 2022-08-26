@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-23T19:08:26Z",
+    "lastUpdated": "2022-08-26T00:37:53Z",
     "stars": 186,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 160,
+    "stars": 161,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -824,7 +824,7 @@
     "version": "0.11.3",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-08-17T14:39:10Z",
+    "lastUpdated": "2022-08-25T23:41:12Z",
     "stars": 20,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -3853,7 +3853,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-25T19:33:30Z",
+    "lastUpdated": "2022-08-25T22:52:07Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5499,19 +5499,6 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -5939,5 +5926,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
+  },
+  {
+    "repo": "Partyboy-Mindustry/Beskar",
+    "name": "Beskar",
+    "version": "0.0.4",
+    "mod_id": "beskar",
+    "author": "Partyboy&Void_Fox",
+    "lastUpdated": "2022-08-26T00:37:25Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fügt Sachen hinzu"
   }
 ]
