@@ -460,7 +460,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-25T20:04:24Z",
+    "lastUpdated": "2022-08-26T05:35:28Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1365,6 +1365,19 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.5 Alpha",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-08-16T12:26:39Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
+  },
+  {
     "repo": "Shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "version": "3.9.9",
@@ -1415,19 +1428,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.5 Alpha",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-16T12:26:39Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -1669,7 +1669,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-25T12:30:22Z",
+    "lastUpdated": "2022-08-26T01:24:33Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3913,19 +3913,6 @@
     "description": "Worst mod! Never play with it!"
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4550,19 +4537,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "driftheque/BreakingMindustry",
-    "name": "Breaking Mindustry",
-    "version": "0.0",
-    "mod_id": "breakustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-25T12:59:06Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantros",
     "version": "0.2",
@@ -4574,6 +4548,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
+  },
+  {
+    "repo": "driftheque/BreakingMindustry",
+    "name": "Breaking Mindustry",
+    "version": "0.0",
+    "mod_id": "breakustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-26T05:32:54Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "4156/Infintory",
@@ -5497,6 +5484,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
