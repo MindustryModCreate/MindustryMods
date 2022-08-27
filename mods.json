@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 163,
+    "stars": 164,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-08-26T08:05:35Z",
-    "stars": 109,
+    "stars": 110,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -993,7 +993,7 @@
     "version": "0.0.7",
     "mod_id": "b11",
     "author": "1237",
-    "lastUpdated": "2022-08-23T13:58:49Z",
+    "lastUpdated": "2022-08-27T08:37:48Z",
     "stars": 16,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1220,6 +1220,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that im working on."
+  },
+  {
+    "repo": "Just-a-Unity-Dev/atomdustry",
+    "name": "Atomdustry",
+    "version": "0.2",
+    "mod_id": "atomdustry",
+    "author": "eclips_e#0001",
+    "lastUpdated": "2022-05-04T08:00:10Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1495,6 +1508,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.75 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-27T07:26:40Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1636,19 +1662,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.75 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-22T04:35:58Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "MindustryInside/L1337n",
@@ -1857,6 +1870,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
+  },
+  {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.7",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-08-26T20:32:15Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2130,19 +2156,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.7",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-26T20:32:15Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "deltanedas/no",
@@ -2444,19 +2457,6 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
-    "repo": "QmelZ/v5dustry",
-    "name": "v5dustry",
-    "version": "0.1",
-    "mod_id": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 5,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
-  },
-  {
     "repo": "SpaceEarthEX/letter-sound-effect",
     "name": "Letter sound effect",
     "version": "0.1",
@@ -2494,6 +2494,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "TheSaus/DubiousWhiteLiquidustry",
+    "name": "DubiousWhiteLiquidustry",
+    "version": "1.0.1",
+    "mod_id": "dubiouswhiteliquidustry",
+    "author": "The-Saus#1038",
+    "lastUpdated": "2021-04-21T04:21:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
   },
   {
     "repo": "Vandomas/bad_tr",
@@ -2756,19 +2769,6 @@
     "description": "Adds a few distribution blocks"
   },
   {
-    "repo": "notMEEPoffaith/dumb-dump",
-    "name": "Dumb Dump",
-    "version": "3.5",
-    "mod_id": "dumb dump",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2022-07-01T16:36:24Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
-  },
-  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "version": "1.1",
@@ -2832,6 +2832,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "[#FFC000]0.1 [#FF4747]Alpha",
+    "mod_id": "vanillaplus",
+    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-08-27T08:14:31Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF]Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3248,19 +3261,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
-  },
-  {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "[#FFC000]0.1 [#FF4747]Alpha",
-    "mod_id": "vanillaplus",
-    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-08-26T11:03:27Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF]Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3846,6 +3846,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
+  },
+  {
+    "repo": "driftheque/BreakingMindustry",
+    "name": "Breaking Mindustry",
+    "version": "0.0",
+    "mod_id": "breakustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-27T09:44:43Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -4537,19 +4550,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "driftheque/BreakingMindustry",
-    "name": "Breaking Mindustry",
-    "version": "0.0",
-    "mod_id": "breakustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-26T11:58:49Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantros",
     "version": "0.2A",
@@ -4886,19 +4886,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
-  },
-  {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
   },
   {
     "repo": "SakuraLilly/Trade-It",
