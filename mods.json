@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-08-24T14:41:44Z",
-    "stars": 114,
+    "stars": 115,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -96,7 +96,7 @@
     "version": "0.1-youngcha.2.8",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-08-27T17:14:24Z",
+    "lastUpdated": "2022-08-28T23:06:54Z",
     "stars": 110,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -2457,6 +2457,19 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "QmelZ/v5dustry",
+    "name": "v5dustry",
+    "version": "0.1",
+    "mod_id": "v5dustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-01-29T15:34:02Z",
+    "stars": 5,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds v5 features"
+  },
+  {
     "repo": "SpaceEarthEX/letter-sound-effect",
     "name": "Letter sound effect",
     "version": "0.1",
@@ -2767,6 +2780,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3913,6 +3939,19 @@
     "description": "Worst mod! Never play with it!"
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4303,19 +4342,6 @@
     "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
-    "repo": "Duvent-mindustry/Mindustry-GG-Mod",
-    "name": "Duvents Turrets",
-    "version": "0.1.4",
-    "mod_id": "Mindustry-GG-Mod",
-    "author": "Duvent",
-    "lastUpdated": "2022-04-29T11:14:06Z",
-    "stars": 2,
-    "minGameVersion": "124",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a small mod"
-  },
-  {
     "repo": "deltanedas/item-grabber",
     "name": "Item Grabber",
     "version": "2.0.3",
@@ -4542,7 +4568,7 @@
     "version": "0.2A",
     "mod_id": "tantros",
     "author": "Jasmarkelina & Plastel",
-    "lastUpdated": "2022-08-28T13:07:56Z",
+    "lastUpdated": "2022-08-28T21:35:18Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5913,5 +5939,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
+  },
+  {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "version": "1.0",
+    "mod_id": "hello",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-08-29T00:35:17Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
   }
 ]
