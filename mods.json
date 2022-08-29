@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-27T04:05:19Z",
+    "lastUpdated": "2022-08-29T15:54:39Z",
     "stars": 186,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-08-28T23:06:54Z",
-    "stars": 110,
+    "stars": 112,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -460,7 +460,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-29T12:20:25Z",
+    "lastUpdated": "2022-08-29T18:21:34Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -613,12 +613,12 @@
   {
     "repo": "xStaBUx/Omaloon-mod-public",
     "name": "Omaloon-Mod",
-    "version": "0.5",
+    "version": "0.6",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-08-28T16:59:32Z",
+    "lastUpdated": "2022-08-29T17:57:51Z",
     "stars": 25,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
@@ -1877,12 +1877,12 @@
     "version": "1.8",
     "mod_id": "newconsole",
     "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-29T12:32:11Z",
+    "lastUpdated": "2022-08-29T18:02:44Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1909,6 +1909,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
+    "repo": "MrDuck557/MoarWaterUnits",
+    "name": "Moar Water Units",
+    "version": "1.3",
+    "mod_id": "moar-water-units",
+    "author": "MrDuck557",
+    "lastUpdated": "2021-05-27T18:36:15Z",
+    "stars": 7,
+    "minGameVersion": "126.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds 2 new water unit paths"
   },
   {
     "repo": "lordReddx/GreenTech",
@@ -2262,19 +2275,6 @@
     "description": "Raw materials processing"
   },
   {
-    "repo": "MrDuck557/MoarWaterUnits",
-    "name": "Moar Water Units",
-    "version": "1.3",
-    "mod_id": "moar-water-units",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-27T18:36:15Z",
-    "stars": 6,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds 2 new water unit paths"
-  },
-  {
     "repo": "SearcherG60/S-Edition",
     "name": "S-Edition",
     "version": "2.5",
@@ -2520,19 +2520,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "TheSaus/DubiousWhiteLiquidustry",
-    "name": "DubiousWhiteLiquidustry",
-    "version": "1.0.1",
-    "mod_id": "dubiouswhiteliquidustry",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-04-21T04:21:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
   },
   {
     "repo": "Vandomas/bad_tr",
@@ -2782,19 +2769,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0.1",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-05-29T07:20:39Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks"
-  },
-  {
     "repo": "notMEEPoffaith/dumb-dump",
     "name": "Dumb Dump",
     "version": "3.5",
@@ -2871,6 +2845,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.2",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-08-29T15:45:12Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3939,6 +3926,19 @@
     "description": "Worst mod! Never play with it!"
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4485,19 +4485,6 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "version": "1.0.5",
-    "mod_id": "pyratite",
-    "author": "vali#5378",
-    "lastUpdated": "2022-08-11T13:55:33Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "RexAliis/Colorful-Darkness-Mod",
     "name": "Colorful Darkness",
     "version": "1.0",
@@ -4555,12 +4542,25 @@
     "version": "0.3",
     "mod_id": "Tantros-mod",
     "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-08-29T15:10:30Z",
+    "lastUpdated": "2022-08-29T15:10:55Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "version": "1.0.6",
+    "mod_id": "pyratite",
+    "author": "vali#5378",
+    "lastUpdated": "2022-08-29T19:35:48Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "4156/Infintory",
@@ -5484,6 +5484,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a few content."
+  },
+  {
+    "repo": "lantice3720/MIndustrial-Thermodynamics",
+    "name": "Mindustrial Thermodynamics",
+    "version": "1.0",
+    "mod_id": "mindustrial-thermodynamics",
+    "author": "lan",
+    "lastUpdated": "2021-11-03T09:35:04Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
     "repo": "zio-coder/mindustry_mods",
