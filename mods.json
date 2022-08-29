@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-08-06T10:23:30Z",
-    "stars": 248,
+    "stars": 249,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -148,7 +148,7 @@
     "version": "1.043",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2022-08-28T02:57:33Z",
+    "lastUpdated": "2022-08-29T14:39:27Z",
     "stars": 73,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -460,7 +460,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-29T10:09:24Z",
+    "lastUpdated": "2022-08-29T12:20:25Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1656,7 +1656,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-29T01:46:55Z",
+    "lastUpdated": "2022-08-29T12:30:08Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1874,10 +1874,10 @@
   {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
-    "version": "1.7",
+    "version": "1.8",
     "mod_id": "newconsole",
     "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-28T11:43:32Z",
+    "lastUpdated": "2022-08-29T12:32:11Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2158,6 +2158,19 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "[#FFC000]0.1 [#FF4747]Alpha",
+    "mod_id": "vanillaplus",
+    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-08-29T12:49:29Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+  },
+  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -2431,19 +2444,6 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "[#FFC000]0.1 [#FF4747]Alpha",
-    "mod_id": "vanillaplus",
-    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-08-29T07:26:40Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
-  },
-  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2468,6 +2468,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "QmelZ/v5dustry",
+    "name": "v5dustry",
+    "version": "0.1",
+    "mod_id": "v5dustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-01-29T15:34:02Z",
+    "stars": 5,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds v5 features"
   },
   {
     "repo": "SpaceEarthEX/letter-sound-effect",
@@ -2780,6 +2793,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3853,7 +3879,7 @@
     "version": "0.0",
     "mod_id": "breakustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-28T13:27:09Z",
+    "lastUpdated": "2022-08-29T13:54:15Z",
     "stars": 3,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -3911,19 +3937,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Worst mod! Never play with it!"
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
@@ -4539,15 +4552,15 @@
   {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantros",
-    "version": "0.2A",
-    "mod_id": "tantros",
-    "author": "Jasmarkelina & Plastel",
-    "lastUpdated": "2022-08-29T06:21:31Z",
+    "version": "0.3",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-08-29T15:10:30Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
-    "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "4156/Infintory",
@@ -5031,6 +5044,19 @@
     "description": " The mod adds: walls, units, repairers and much more."
   },
   {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.1",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-20T10:19:01Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5460,19 +5486,6 @@
     "description": "Add a few content."
   },
   {
-    "repo": "lantice3720/MIndustrial-Thermodynamics",
-    "name": "Mindustrial Thermodynamics",
-    "version": "1.0",
-    "mod_id": "mindustrial-thermodynamics",
-    "author": "lan",
-    "lastUpdated": "2021-11-03T09:35:04Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes your gameplay more hotter and hotter..maybe harder?"
-  },
-  {
     "repo": "zio-coder/mindustry_mods",
     "name": "Template",
     "version": "0",
@@ -5874,19 +5887,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.1",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2022-08-20T10:19:01Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "Cynthion21x/prismaticExperimental",
