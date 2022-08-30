@@ -54,15 +54,28 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.1.5",
+    "version": "0.1.6.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 164,
-    "minGameVersion": "137",
+    "lastUpdated": "2022-08-30T10:02:47Z",
+    "stars": 165,
+    "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
     "description": "Warning: Unfinished For V7"
+  },
+  {
+    "repo": "BlueWolf3682/Exotic-Mod",
+    "name": "Exotic Mod",
+    "version": "0.7 Alpha",
+    "mod_id": "exotic-mod",
+    "author": "BlueWolf",
+    "lastUpdated": "2022-08-24T14:41:44Z",
+    "stars": 116,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "Slava0135/reVision",
@@ -78,26 +91,13 @@
     "description": "The other way around"
   },
   {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "version": "0.7 Alpha",
-    "mod_id": "exotic-mod",
-    "author": "BlueWolf",
-    "lastUpdated": "2022-08-24T14:41:44Z",
-    "stars": 115,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
-  },
-  {
     "repo": "AvantTeam/ProjectUnityPublic",
     "name": "Project Unity",
     "version": "0.1-youngcha.2.8",
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-08-28T23:06:54Z",
-    "stars": 112,
+    "stars": 113,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -460,7 +460,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-29T21:12:09Z",
+    "lastUpdated": "2022-08-30T09:03:23Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -613,10 +613,10 @@
   {
     "repo": "xStaBUx/Omaloon-mod-public",
     "name": "Omaloon-Mod",
-    "version": "0.6",
+    "version": "0.5.1",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-08-29T17:57:51Z",
+    "lastUpdated": "2022-08-30T07:36:48Z",
     "stars": 25,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -845,6 +845,19 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-16T12:59:32Z",
+    "stars": 18,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -923,19 +936,6 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "version": "0.1.0.3",
-    "mod_id": "mindus",
-    "author": "Eclipse",
-    "lastUpdated": "2022-01-16T12:59:32Z",
-    "stars": 17,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
-  },
-  {
     "repo": "paulieg626/Cheat",
     "name": "CheatMod",
     "version": "2.4",
@@ -967,12 +967,25 @@
     "version": "14",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-08-29T03:55:06Z",
+    "lastUpdated": "2022-08-30T09:34:50Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
+  },
+  {
+    "repo": "EclipseTheOldOne/Project-Scrap",
+    "name": "Project Scrap",
+    "version": "0.2.4.5",
+    "mod_id": "industrial",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-02T03:00:27Z",
+    "stars": 16,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "deltanedas/ldb",
@@ -1038,19 +1051,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod template."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Scrap",
-    "name": "Project Scrap",
-    "version": "0.2.4.5",
-    "mod_id": "industrial",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-02T03:00:27Z",
-    "stars": 15,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1656,7 +1656,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-29T12:30:08Z",
+    "lastUpdated": "2022-08-30T01:47:25Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1948,6 +1948,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "no9527dada/free-campaign",
+    "name": "free-campaign-自由战役",
+    "version": "0.2",
+    "mod_id": "free-campaign",
+    "author": "呵呵哒",
+    "lastUpdated": "2021-10-31T02:59:50Z",
+    "stars": 7,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
     "repo": "uujuju1/randomStuff",
@@ -3913,19 +3926,6 @@
     "description": "Worst mod! Never play with it!"
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4524,19 +4524,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantros",
-    "version": "0.3",
-    "mod_id": "Tantros-mod",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-08-29T15:10:55Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
-  },
-  {
     "repo": "valigaming15/pyra-mod",
     "name": "pyra mod",
     "version": "1.0.6",
@@ -4548,6 +4535,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
+  },
+  {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantros",
+    "version": "0.3",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-08-30T06:04:30Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "4156/Infintory",
@@ -5920,10 +5920,10 @@
     "version": "1.0",
     "mod_id": "hello",
     "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-29T09:11:57Z",
+    "lastUpdated": "2022-08-30T09:10:48Z",
     "stars": 0,
     "minGameVersion": "137",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
   }
