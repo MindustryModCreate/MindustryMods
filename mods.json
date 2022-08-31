@@ -96,7 +96,7 @@
     "version": "0.1-youngcha.2.8",
     "mod_id": "unity",
     "author": "Avant Team",
-    "lastUpdated": "2022-08-28T23:06:54Z",
+    "lastUpdated": "2022-08-31T12:49:15Z",
     "stars": 112,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -226,9 +226,9 @@
     "version": "V7 TESTING (0.7.8.1)",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-08-19T08:13:35Z",
+    "lastUpdated": "2022-08-31T13:06:50Z",
     "stars": 60,
-    "minGameVersion": "136",
+    "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
@@ -455,19 +455,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "Fresh791/Fading-Revelations",
-    "name": "Fading Revelations",
-    "version": "1.1",
-    "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-30T16:36:43Z",
-    "stars": 33,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "No version provided.",
@@ -479,6 +466,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
+    "repo": "Fresh791/Fading-Revelations",
+    "name": "Fading Revelations",
+    "version": "1.1",
+    "mod_id": "me",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2022-08-31T12:43:09Z",
+    "stars": 33,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "NickName73/GRavillaso",
@@ -1656,7 +1656,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-31T01:52:31Z",
+    "lastUpdated": "2022-08-31T12:30:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2533,6 +2533,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds Dubious White Liquid. Oddly good as a coolant"
+  },
+  {
+    "repo": "MindustryInside/AdvancedDevMode",
+    "name": "Advanced Developer Mode",
+    "version": "1.2",
+    "mod_id": "advanced-dev-mode",
+    "author": "Summet",
+    "lastUpdated": "2021-06-14T15:27:24Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
     "repo": "NiChrosia/Acceleration",
@@ -3900,19 +3913,6 @@
     "description": "Worst mod! Never play with it!"
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "SakuraLilly/Powered-by-nature",
     "name": "Powered by Nature",
     "version": "2.0",
@@ -4784,6 +4784,19 @@
     "description": "my first mod."
   },
   {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "version": "0.0 build 2 alpha",
+    "mod_id": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-12-21T07:31:19Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
+  },
+  {
     "repo": "Goobrr/Finality",
     "name": "Finality",
     "version": "0",
@@ -4847,19 +4860,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
-  },
-  {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
   },
   {
     "repo": "SakuraLilly/Trade-It",
@@ -5023,7 +5023,7 @@
     "version": "1.17.1 Alpha",
     "mod_id": "Interplanetary-Industries",
     "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-31T08:01:58Z",
+    "lastUpdated": "2022-08-31T10:34:08Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5907,7 +5907,7 @@
     "version": "1.0",
     "mod_id": "hello",
     "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-31T08:38:56Z",
+    "lastUpdated": "2022-08-31T12:43:23Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5920,7 +5920,7 @@
     "version": "Beta 0.1",
     "mod_id": "mmm",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-31T09:24:51Z",
+    "lastUpdated": "2022-08-31T12:51:09Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
