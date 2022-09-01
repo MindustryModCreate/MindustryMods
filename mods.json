@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-31T08:23:31Z",
-    "stars": 186,
+    "lastUpdated": "2022-08-31T23:14:42Z",
+    "stars": 187,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -187,7 +187,7 @@
     "version": "A4.3.0",
     "mod_id": "Production Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-31T03:44:00Z",
+    "lastUpdated": "2022-08-31T21:01:39Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -2483,6 +2483,19 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "QmelZ/v5dustry",
+    "name": "v5dustry",
+    "version": "0.1",
+    "mod_id": "v5dustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-01-29T15:34:02Z",
+    "stars": 5,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds v5 features"
+  },
+  {
     "repo": "SpaceEarthEX/letter-sound-effect",
     "name": "Letter sound effect",
     "version": "0.1",
@@ -2520,19 +2533,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "TheSaus/DubiousWhiteLiquidustry",
-    "name": "DubiousWhiteLiquidustry",
-    "version": "1.0.1",
-    "mod_id": "dubiouswhiteliquidustry",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-04-21T04:21:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
   },
   {
     "repo": "MindustryInside/AdvancedDevMode",
@@ -2767,6 +2767,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "notMEEPoffaith/dumb-dump",
+    "name": "Dumb Dump",
+    "version": "3.5",
+    "mod_id": "dumb dump",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2022-07-01T16:36:24Z",
+    "stars": 5,
+    "minGameVersion": "128",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3911,6 +3924,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Worst mod! Never play with it!"
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "SakuraLilly/Powered-by-nature",
@@ -5486,19 +5512,6 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -5915,19 +5928,6 @@
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "version": "1.0",
-    "mod_id": "hello",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-31T12:43:23Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
-  },
-  {
     "repo": "ValkovY/MarsiumModMindustry",
     "name": "MarsiumMod",
     "version": "Beta 0.1",
@@ -5939,5 +5939,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod."
+  },
+  {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "version": "1.0",
+    "mod_id": "hello",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-09-01T00:31:31Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
   }
 ]
