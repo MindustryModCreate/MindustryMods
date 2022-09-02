@@ -1175,7 +1175,7 @@
     "version": "0.1",
     "mod_id": "ages",
     "author": "AshesKaiser",
-    "lastUpdated": "2022-08-26T06:49:42Z",
+    "lastUpdated": "2022-09-02T06:54:19Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2470,19 +2470,6 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
-    "repo": "QmelZ/v5dustry",
-    "name": "v5dustry",
-    "version": "0.1",
-    "mod_id": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 5,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
-  },
-  {
     "repo": "SpaceEarthEX/letter-sound-effect",
     "name": "Letter sound effect",
     "version": "0.1",
@@ -2520,6 +2507,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
+  },
+  {
+    "repo": "TheSaus/DubiousWhiteLiquidustry",
+    "name": "DubiousWhiteLiquidustry",
+    "version": "1.0.1",
+    "mod_id": "dubiouswhiteliquidustry",
+    "author": "The-Saus#1038",
+    "lastUpdated": "2021-04-21T04:21:43Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
   },
   {
     "repo": "MindustryInside/AdvancedDevMode",
@@ -2730,19 +2730,6 @@
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2022-05-12T13:33:41Z",
-    "stars": 5,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "version": "1.1",
@@ -2754,19 +2741,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "notMEEPoffaith/dumb-dump",
-    "name": "Dumb Dump",
-    "version": "3.5",
-    "mod_id": "dumb dump",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2022-07-01T16:36:24Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4862,19 +4836,6 @@
     "description": "Mod with nice weapons"
   },
   {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
-  },
-  {
     "repo": "SakuraLilly/Trade-It",
     "name": "Trade it",
     "version": "2.3",
@@ -5486,6 +5447,19 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -5692,6 +5666,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Still in development(only started since Ian 2022)"
+  },
+  {
+    "repo": "SomeCoder1/MindustryMod",
+    "name": "Mindustry Mod",
+    "version": "0.1",
+    "mod_id": "mindustry-mod-somecoder",
+    "author": "This mod doesn't have a theme, I just add random cool things.",
+    "lastUpdated": "2022-02-20T15:38:58Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod with random things."
   },
   {
     "repo": "dukmu/mindustry_mod",
@@ -5920,7 +5907,7 @@
     "version": "1.0",
     "mod_id": "hello",
     "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-09-01T07:24:41Z",
+    "lastUpdated": "2022-09-02T09:31:21Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
