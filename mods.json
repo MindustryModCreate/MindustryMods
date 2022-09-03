@@ -201,7 +201,7 @@
     "mod_id": "goldmod",
     "author": "The Slaylord",
     "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -473,7 +473,7 @@
     "version": "No version provided.",
     "mod_id": "No name provided.",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-02T16:36:50Z",
+    "lastUpdated": "2022-09-03T19:34:16Z",
     "stars": 34,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1586,19 +1586,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.8",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-29T18:02:44Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1610,6 +1597,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.8.1",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-09-03T16:51:08Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1989,19 +1989,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "VvSeanGTvV/V5-Classic",
-    "name": "V5 Reborn",
-    "version": "1.0 Beta",
-    "mod_id": "ClassicV5",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2022-05-02T00:44:56Z",
-    "stars": 8,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
-  },
-  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -2078,6 +2065,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "VvSeanGTvV/V5-Classic",
+    "name": "V5 Reborn",
+    "version": "1.02 Beta",
+    "mod_id": "ClassicV5",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2022-09-03T19:58:54Z",
+    "stars": 8,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds V5 in v137 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 137, since some sounds are not avaliable in v137!"
   },
   {
     "repo": "deltanedas/no",
@@ -4823,19 +4823,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5018,19 +5005,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -5055,19 +5029,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5978,6 +5939,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
