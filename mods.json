@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-09-03T05:37:51Z",
-    "stars": 188,
+    "stars": 189,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -57,7 +57,7 @@
     "version": "0.1.6.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-09-01T15:28:50Z",
+    "lastUpdated": "2022-09-03T12:37:43Z",
     "stars": 166,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -71,7 +71,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-08-25T07:54:20Z",
-    "stars": 117,
+    "stars": 119,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-09-03T09:25:24Z",
-    "stars": 117,
+    "stars": 118,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-08-25T12:22:42Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -149,7 +149,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2022-08-29T14:39:27Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": true,
@@ -227,7 +227,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-09-01T06:40:53Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -305,7 +305,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2022-09-02T17:46:35Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -598,6 +598,19 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "xStaBUx/Omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "version": "0.5.1",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-09-02T14:17:58Z",
+    "stars": 26,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -622,19 +635,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.5.1",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-09-02T14:17:58Z",
-    "stars": 25,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -1404,6 +1404,19 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.75 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-09-03T08:54:10Z",
+    "stars": 12,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1480,19 +1493,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.75 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-09-03T08:54:10Z",
-    "stars": 11,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-03T01:21:20Z",
+    "lastUpdated": "2022-09-03T12:25:00Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1872,6 +1872,19 @@
     "description": "Enables the cliff button and any map size in the editor."
   },
   {
+    "repo": "Slava0135/reFine",
+    "name": "reFine",
+    "version": "2.2",
+    "mod_id": "refine",
+    "author": "Slava0135",
+    "lastUpdated": "2021-02-11T20:08:12Z",
+    "stars": 8,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Raw materials processing"
+  },
+  {
     "repo": "MrDuck557/MoarWaterUnits",
     "name": "Moar Water Units",
     "version": "1.3",
@@ -2130,19 +2143,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds simple things, like the ability to build Huge and Gigantic walls, a new resource, an upgraded launch pad and more"
-  },
-  {
-    "repo": "Slava0135/reFine",
-    "name": "reFine",
-    "version": "2.2",
-    "mod_id": "refine",
-    "author": "Slava0135",
-    "lastUpdated": "2021-02-11T20:08:12Z",
-    "stars": 7,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Raw materials processing"
   },
   {
     "repo": "SearcherG60/S-Edition",
@@ -4368,6 +4368,19 @@
     "description": "Not that much, still very new.\n\nSupport Language: English and French."
   },
   {
+    "repo": "drfn/WhatToDo",
+    "name": "What to do",
+    "version": "1.0",
+    "mod_id": "wtd",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-09-01T13:54:35Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
+  },
+  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -5042,6 +5055,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5952,19 +5978,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
-  },
-  {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -BETA",
-    "mod_id": "prism",
-    "author": "cynthion21x & thekayperson",
-    "lastUpdated": "2022-08-20T11:28:53Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
