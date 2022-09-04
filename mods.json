@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-09-03T12:37:43Z",
-    "stars": 166,
+    "stars": 167,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -473,7 +473,7 @@
     "version": "No version provided.",
     "mod_id": "No name provided.",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-04T15:03:31Z",
+    "lastUpdated": "2022-09-04T19:28:59Z",
     "stars": 34,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -702,6 +702,19 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-19T17:52:54Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "version": "3.5.0",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-07-19T17:52:54Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -908,19 +908,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.0",
-    "mod_id": "random-mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-09-04T10:31:36Z",
-    "stars": 19,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "paulieg626/Cheat",
@@ -2379,6 +2366,19 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
+    "repo": "xjamiex/CreativeCores",
+    "name": "Creative Cores",
+    "version": "1.0",
+    "mod_id": "creativecores",
+    "author": "xjammuux",
+    "lastUpdated": "2022-08-28T02:46:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
     "version": "[#FFC000]0.1 [#FF4747]Alpha",
@@ -2702,19 +2702,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
-  },
-  {
-    "repo": "xjamiex/CreativeCores",
-    "name": "Creative Cores",
-    "version": "1.0",
-    "mod_id": "creativecores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-28T02:46:53Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
   },
   {
     "repo": "KarlsonVive/A-bad-mindustry-mod",
@@ -4979,6 +4966,19 @@
     "description": ""
   },
   {
+    "repo": "konkitoman/SpeedCtlMan",
+    "name": "SpeedCtlMan",
+    "version": "0.2",
+    "mod_id": "speed-ctl-man",
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-22T06:05:19Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
+  },
+  {
     "repo": "mindustry-space/pulverizer",
     "name": "Pulverizer",
     "version": "2.0.0",
@@ -5055,19 +5055,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5302,19 +5289,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "konkitoman/SpeedCtlMan",
-    "name": "SpeedCtlMan",
-    "version": "0.2",
-    "mod_id": "speed-ctl-man",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-22T06:05:19Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
     "repo": "936338156/mindustry-Interplanetary-Industries-mod",
@@ -5577,19 +5551,6 @@
     "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
-    "repo": "AHRumjungle/Snad",
-    "name": "Snad",
-    "version": "0.1",
-    "mod_id": "snad",
-    "author": "OCRumjungle",
-    "lastUpdated": "2021-08-22T20:36:43Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "snad"
-  },
-  {
     "repo": "wilfulsummer/New-mod",
     "name": "Wilfulsummers mod",
     "version": "1.0",
@@ -5757,19 +5718,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "dashmaster-c/DS-Industry",
-    "name": "DS Industry",
-    "version": "0.2",
-    "mod_id": "DS-Industry",
-    "author": "dashmaster",
-    "lastUpdated": "2022-01-10T08:40:48Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "Miniontoby/mindustrirc",
