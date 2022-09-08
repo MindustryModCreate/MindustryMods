@@ -148,7 +148,7 @@
     "version": "1.043",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2022-08-29T14:39:27Z",
+    "lastUpdated": "2022-09-08T17:35:41Z",
     "stars": 75,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-09-02T17:46:35Z",
+    "lastUpdated": "2022-09-08T18:59:54Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -377,6 +377,19 @@
     "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
+    "repo": "Fresh791/Fading-Revelations",
+    "name": "Fading Revelations",
+    "version": "1.1",
+    "mod_id": "me",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2022-09-08T18:10:18Z",
+    "stars": 38,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "abomb4/super-cheat",
     "name": "(v6) Invincible Cheat 无敌作弊",
     "version": "2.8.4",
@@ -388,19 +401,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "Fresh791/Fading-Revelations",
-    "name": "Fading Revelations",
-    "version": "1.1",
-    "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-08T14:43:08Z",
-    "stars": 37,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
@@ -902,7 +902,7 @@
     "version": "1.8.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-09-04T10:31:36Z",
+    "lastUpdated": "2022-09-08T17:12:44Z",
     "stars": 19,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -3068,19 +3068,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "version": "1.0.8",
-    "mod_id": "pyratite",
-    "author": "vali#5378",
-    "lastUpdated": "2022-09-07T14:25:25Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "2",
@@ -3092,6 +3079,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "version": "1.0.8",
+    "mod_id": "pyratite",
+    "author": "vali#5378",
+    "lastUpdated": "2022-09-08T16:14:14Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -3567,7 +3567,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-09-02T12:18:33Z",
+    "lastUpdated": "2022-09-08T20:10:11Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
