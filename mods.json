@@ -45,7 +45,7 @@
     "mod_id": "vu",
     "author": "Mesokrix",
     "lastUpdated": "2020-12-18T12:58:41Z",
-    "stars": 169,
+    "stars": 170,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": true,
@@ -395,7 +395,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-07T17:20:34Z",
+    "lastUpdated": "2022-09-08T14:43:08Z",
     "stars": 37,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -466,19 +466,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "No version provided.",
-    "mod_id": "No name provided.",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-07T19:36:19Z",
-    "stars": 34,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "NickName73/GRavillaso",
@@ -1118,6 +1105,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "SnakkiZXZ/Coppermod",
+    "name": "Coppermod",
+    "version": "2.4.1",
+    "mod_id": "Copper",
+    "author": "Snakki",
+    "lastUpdated": "2021-10-22T17:05:44Z",
+    "stars": 15,
+    "minGameVersion": "115",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Немного читов"
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1181,19 +1181,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "EXP Library for 6.0!"
-  },
-  {
-    "repo": "SnakkiZXZ/Coppermod",
-    "name": "Coppermod",
-    "version": "2.4.1",
-    "mod_id": "Copper",
-    "author": "Snakki",
-    "lastUpdated": "2021-10-22T17:05:44Z",
-    "stars": 14,
-    "minGameVersion": "115",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Немного читов"
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1617,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-08T01:25:29Z",
+    "lastUpdated": "2022-09-08T12:30:35Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1976,6 +1963,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "hortiSquash/hortiblocks",
+    "name": "horti blocks",
+    "version": "1.1",
+    "mod_id": "horti blocks",
+    "author": "hortiSquash",
+    "lastUpdated": "2022-04-05T03:21:23Z",
+    "stars": 8,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Collection of joke blocks"
+  },
+  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -2078,6 +2078,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "zeroCore-salamander/HackForAll",
+    "name": "HackForAll",
+    "version": "0.1",
+    "mod_id": "HackForAll",
+    "author": "zeroCore",
+    "lastUpdated": "2020-11-14T10:58:09Z",
+    "stars": 7,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
   },
   {
     "repo": "deltanedas/no",
@@ -2262,19 +2275,6 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
-    "repo": "hortiSquash/hortiblocks",
-    "name": "horti blocks",
-    "version": "1.1",
-    "mod_id": "horti blocks",
-    "author": "hortiSquash",
-    "lastUpdated": "2022-04-05T03:21:23Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Collection of joke blocks"
-  },
-  {
     "repo": "deltanedas/waisa",
     "name": "WAISA",
     "version": "3.3.3",
@@ -2392,19 +2392,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "zeroCore-salamander/HackForAll",
-    "name": "HackForAll",
-    "version": "0.1",
-    "mod_id": "HackForAll",
-    "author": "zeroCore",
-    "lastUpdated": "2020-11-14T10:58:09Z",
-    "stars": 6,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
-  },
-  {
     "repo": "Vixelot/Facdustrio",
     "name": "Facdustrio",
     "version": "0.1",
@@ -2455,19 +2442,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
-  },
-  {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "MindustryInside/AdvancedDevMode",
@@ -2886,6 +2860,19 @@
     "description": "Pre-alpha version of mod"
   },
   {
+    "repo": "ax-nikita/uranium-mod",
+    "name": "Uranium Global Survival Mod.",
+    "version": "3.2",
+    "mod_id": "Uranium-Mod",
+    "author": "AX",
+    "lastUpdated": "2021-10-26T16:27:33Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
     "repo": "qwerytty/infinite-units",
     "name": "Infinite units",
     "version": "0.1",
@@ -3003,6 +2990,19 @@
     "description": "Kanna mod"
   },
   {
+    "repo": "YukuSOH/Hardustry-mod",
+    "name": "Hardustry",
+    "version": "0.116",
+    "mod_id": "hardustry-mod",
+    "author": "YukuSOH",
+    "lastUpdated": "2022-06-21T12:58:58Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod make this game difficult."
+  },
+  {
     "repo": "A5TR0spud/astro-additions",
     "name": "Astronomical Additions [pre alpha]",
     "version": "0.0.2",
@@ -3066,6 +3066,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry Overhaul"
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "version": "1.0.8",
+    "mod_id": "pyratite",
+    "author": "vali#5378",
+    "lastUpdated": "2022-09-07T14:25:25Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -3185,6 +3198,19 @@
     "description": "Small mod that currently only adds turrets focused on scripting."
   },
   {
+    "repo": "TheBabinator/Toaster",
+    "name": "Toaster",
+    "version": "1.2.2",
+    "mod_id": "toaster",
+    "author": "TheBabinator",
+    "lastUpdated": "2021-05-22T07:54:10Z",
+    "stars": 4,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
+  },
+  {
     "repo": "INSANEANDSAD/generic-mod",
     "name": "Mod Name",
     "version": "1.0",
@@ -3274,19 +3300,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ax-nikita/uranium-mod",
-    "name": "Uranium Global Survival Mod.",
-    "version": "3.2",
-    "mod_id": "Uranium-Mod",
-    "author": "AX",
-    "lastUpdated": "2021-10-26T16:27:33Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
     "repo": "Antlrr/seitumbra",
@@ -3497,19 +3510,6 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
-    "repo": "YukuSOH/Hardustry-mod",
-    "name": "Hardustry",
-    "version": "0.116",
-    "mod_id": "hardustry-mod",
-    "author": "YukuSOH",
-    "lastUpdated": "2022-06-21T12:58:58Z",
-    "stars": 4,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod make this game difficult."
-  },
-  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "version": "2.1.444",
@@ -3573,19 +3573,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
-  },
-  {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "version": "1.0.8",
-    "mod_id": "pyratite",
-    "author": "vali#5378",
-    "lastUpdated": "2022-09-07T14:25:25Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -3781,19 +3768,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\n\r\n  郑重声明：\r\n已经更新2.0，国内用户请在QQ群中下载\r\n群1：316035230。群1如果进不去可以去群2\r\n群2：316035230\r\nMOD文件数太多，创意工坊已经无法上传\r\n工坊版本可能永远停留在1.026了\r\n\r\n这个MOD已经更新到2.0版本了\r\n创意工坊由于特殊原因已经无法更新\r\n请到github下载安装\r\nhttps://github.com/guiYMOUR/mindustry-creator-mod\r\n另外，代码源已经上传到github。在游戏mod界面输入它直接导入：\r\nguiYMOUR/mindustry-creator-mod\r\n\r\n\r\n\r\n  Newly added content:\r\n\r\n  Resources: 36\r\n  Factory: 100+\r\n  Wall: 13\r\n  Transmission: 20\r\n  Turret: 16\r\n  Mineral: 6\r\n  Liquid: 5\r\n  State: 2\r\n  Unit: 43\r\n  Map: 40\r\n  Planets: 11\r\n  If you like this module, please click thumbs on this page *⸜(^_^)⸝*\r\n  Subsequent will update more if you have Suggestions or comments please go to the QQ group 316035230 and discussion of the author.\r\n  Or send email to cyj674971336@163.com\r\n  新增加的内容:\r\n  \r\n  资源 36\r\n  工厂 100+\r\n  墙：13\r\n  传输 20\r\n  炮塔 16\r\n  矿物 6\r\n  液体 5\r\n  状态 2\r\n  单位：43\r\n  地图：40\r\n  行星：11\r\n  \r\n  如果您觉得此模组不错，请对本模组点赞*⸜(^_^)⸝*\r\n  如果你有建议或者意见请到QQ群316035230与作者讨论。或者发送邮件至cyj674971336@163.com\r\n  —————————————————————————创世神-creator"
-  },
-  {
-    "repo": "TheBabinator/Toaster",
-    "name": "Toaster",
-    "version": "1.2.2",
-    "mod_id": "toaster",
-    "author": "TheBabinator",
-    "lastUpdated": "2021-05-22T07:54:10Z",
-    "stars": 3,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
   },
   {
     "repo": "pavel-8516/upLevel",
@@ -4667,19 +4641,6 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
-    "repo": "NemesisTheory/SMGuardianRevert",
-    "name": "SM Guardian Revert",
-    "version": "1.0",
-    "mod_id": "SMGuardianRevert",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-09T07:34:01Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the Stained Mountain Guardian back to Scepter."
-  },
-  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -5005,19 +4966,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -5306,10 +5254,10 @@
   {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
     "name": "Mindustry Turrets Extension",
-    "version": "0.2: Basic",
+    "version": "0.37: Additional",
     "mod_id": "new-turrets",
     "author": "Evo04Taser",
-    "lastUpdated": "2022-09-08T09:05:48Z",
+    "lastUpdated": "2022-09-08T12:25:41Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5367,6 +5315,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "version": "0.1",
+    "mod_id": "Green Mod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5965,6 +5926,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Helium-ion/TheFirstMindustryTestMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-08-18T03:54:16Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
