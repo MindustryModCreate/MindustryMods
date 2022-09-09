@@ -148,8 +148,8 @@
     "version": "1.043",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2022-09-08T17:35:41Z",
-    "stars": 76,
+    "lastUpdated": "2022-09-09T12:00:03Z",
+    "stars": 77,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": true,
@@ -226,7 +226,7 @@
     "version": "V7 TESTING (0.7.8.1)",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-09-07T07:02:36Z",
+    "lastUpdated": "2022-09-09T14:36:46Z",
     "stars": 62,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-09T10:08:02Z",
+    "lastUpdated": "2022-09-09T15:09:37Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "1.8.0",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-09-09T04:15:53Z",
+    "lastUpdated": "2022-09-09T14:19:39Z",
     "stars": 19,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1443,6 +1443,19 @@
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.1.2",
+    "mod_id": "newcontrols",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-22T18:24:40Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.2",
@@ -1591,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-09T01:46:41Z",
+    "lastUpdated": "2022-09-09T12:30:36Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1753,6 +1766,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds more thorium development"
+  },
+  {
+    "repo": "deltanedas/mobile-ui",
+    "name": "Mobile UI",
+    "version": "3.0.0",
+    "mod_id": "mobile-ui",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:17:19Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "Zelaux/GasLibrary",
@@ -3541,7 +3567,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-09-09T04:03:18Z",
+    "lastUpdated": "2022-09-09T13:41:51Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4615,6 +4641,19 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
+    "repo": "NemesisTheory/SMGuardianRevert",
+    "name": "SM Guardian Revert",
+    "version": "1.0",
+    "mod_id": "SMGuardianRevert",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-09T07:34:01Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Reverts the Stained Mountain Guardian back to Scepter."
+  },
+  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -4769,19 +4808,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "warcry98/SpeedControl",
@@ -5231,7 +5257,7 @@
     "version": "0.37: Additional",
     "mod_id": "new-turrets",
     "author": "Evo04Taser",
-    "lastUpdated": "2022-09-09T04:28:49Z",
+    "lastUpdated": "2022-09-09T11:33:41Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5289,19 +5315,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5902,17 +5915,17 @@
     "description": "This is my first mod, please be kind."
   },
   {
-    "repo": "Helium-ion/TheFirstMindustryTestMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-08-18T03:54:16Z",
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
     "stars": 0,
-    "minGameVersion": "129",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
