@@ -149,7 +149,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2022-09-08T17:35:41Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-09-08T18:59:54Z",
+    "lastUpdated": "2022-09-09T00:23:05Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-08T18:10:18Z",
+    "lastUpdated": "2022-09-08T20:46:31Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3068,19 +3068,6 @@
     "description": "Mindustry Overhaul"
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "2",
-    "mod_id": "Endrium mod 2",
-    "author": "tommyboo (antumbra)#4708 & Aegires",
-    "lastUpdated": "2022-09-08T04:03:39Z",
-    "stars": 5,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "valigaming15/pyra-mod",
     "name": "pyra mod",
     "version": "1.0.8",
@@ -3092,6 +3079,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "2",
+    "mod_id": "Endrium mod 2",
+    "author": "tommyboo (antumbra)#4708 & Aegires",
+    "lastUpdated": "2022-09-09T00:52:18Z",
+    "stars": 5,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -3567,7 +3567,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-09-08T20:10:11Z",
+    "lastUpdated": "2022-09-08T23:24:50Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4641,6 +4641,19 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
+    "repo": "NemesisTheory/SMGuardianRevert",
+    "name": "SM Guardian Revert",
+    "version": "1.0",
+    "mod_id": "SMGuardianRevert",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-09T07:34:01Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Reverts the Stained Mountain Guardian back to Scepter."
+  },
+  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -4966,6 +4979,19 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -4990,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5213,19 +5252,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary_Industries",
-    "version": "1.17.1 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-31T10:34:08Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "一些破坏性操作，解决了部分语法上的问题"
-  },
-  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -5263,6 +5289,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
+    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
+    "name": "Interplanetary_Industries",
+    "version": "1.17.3 Alpha",
+    "mod_id": "Interplanetary-Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-09-08T23:26:35Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "教程有误害死人啊qwq"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5315,19 +5354,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5926,19 +5952,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
-  },
-  {
-    "repo": "Helium-ion/TheFirstMindustryTestMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-08-18T03:54:16Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
