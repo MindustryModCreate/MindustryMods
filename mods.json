@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-09-07T09:05:52Z",
+    "lastUpdated": "2022-09-10T01:50:42Z",
     "stars": 190,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-09-03T12:37:43Z",
-    "stars": 168,
+    "stars": 169,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-09-09T00:23:05Z",
+    "lastUpdated": "2022-09-10T06:02:34Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "15.0",
     "mod_id": "adc",
     "author": "Snake",
-    "lastUpdated": "2022-08-25T04:43:14Z",
+    "lastUpdated": "2022-09-10T03:58:40Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -910,6 +910,19 @@
     "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T17:01:41Z",
+    "stars": 18,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "paulieg626/Cheat",
     "name": "CheatMod",
     "version": "2.4",
@@ -921,19 +934,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-19T17:01:41Z",
-    "stars": 17,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "EclipseTheOldOne/Project-Scrap",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-09T12:30:36Z",
+    "lastUpdated": "2022-09-10T01:28:11Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2028,19 +2028,6 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
-    "repo": "PKChaos/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
-    "mod_id": "ion",
-    "author": "PKChaos",
-    "lastUpdated": "2022-08-28T03:30:20Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "Def-Try/parkour-mod",
     "name": "Parkour mod",
     "version": "2.5",
@@ -2078,6 +2065,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "PKChaos/Ion",
+    "name": "Ion",
+    "version": "0.1.0",
+    "mod_id": "ion",
+    "author": "PKChaos",
+    "lastUpdated": "2022-09-10T05:12:52Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3073,7 +3073,7 @@
     "version": "3",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo (antumbra)#4708 & Aegires",
-    "lastUpdated": "2022-09-09T06:36:54Z",
+    "lastUpdated": "2022-09-10T04:37:56Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4628,6 +4628,19 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
+    "repo": "NemesisTheory/SMGuardianRevert",
+    "name": "SM Guardian Revert",
+    "version": "1.0",
+    "mod_id": "SMGuardianRevert",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-09T07:34:01Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Reverts the Stained Mountain Guardian back to Scepter."
+  },
+  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -4927,6 +4940,19 @@
     "description": "this game with this mod was cursed"
   },
   {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.37: Additional",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-09-10T09:18:35Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4953,6 +4979,19 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -4977,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5239,19 +5291,6 @@
     "description": "教程有误害死人啊qwq"
   },
   {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.37: Additional",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-09-09T23:40:38Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets(maybe not a lot)"
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -5302,19 +5341,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5913,19 +5939,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
-  },
-  {
-    "repo": "Helium-ion/TheFirstMindustryTestMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-08-18T03:54:16Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
