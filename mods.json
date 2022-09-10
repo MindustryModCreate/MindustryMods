@@ -54,10 +54,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.1.6.1",
+    "version": "0.1.7",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-09-03T12:37:43Z",
+    "lastUpdated": "2022-09-10T13:14:52Z",
     "stars": 169,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -590,7 +590,7 @@
     "version": "0.5.1",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-09-07T06:42:29Z",
+    "lastUpdated": "2022-09-10T11:44:19Z",
     "stars": 26,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -819,6 +819,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-08-22T08:04:24Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Eclipse",
     "name": "Project Eclipse",
     "version": "0.1.0.3",
@@ -882,19 +895,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
-  },
-  {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-22T08:04:24Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "sporrus/randomMindustry",
@@ -1040,19 +1040,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "MQ-1175/more-structures",
-    "name": "More Structures",
-    "version": "1.1",
-    "mod_id": "extension",
-    "author": "M.Q.",
-    "lastUpdated": "2022-09-07T05:20:16Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
-  },
-  {
     "repo": "driftheque/Binary0011",
     "name": "Binary0011",
     "version": "0.0.7",
@@ -1064,6 +1051,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "binary0011 reworked and ported to 7.136.\n\nmade by 1237."
+  },
+  {
+    "repo": "MQ-1175/more-structures",
+    "name": "More Structures",
+    "version": "1.1",
+    "mod_id": "extension",
+    "author": "M.Q.",
+    "lastUpdated": "2022-09-10T13:39:25Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "sk7725/Commands",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-10T01:28:11Z",
+    "lastUpdated": "2022-09-10T12:27:26Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5018,19 +5018,6 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "SkyDraco-8bit/mindustry-mod",
     "name": "a mod in developpement",
     "version": "1.0",
@@ -5939,6 +5926,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
