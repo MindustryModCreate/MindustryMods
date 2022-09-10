@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-09-08T01:34:38Z",
+    "lastUpdated": "2022-09-09T23:39:44Z",
     "stars": 118,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -3554,7 +3554,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-09-09T13:41:51Z",
+    "lastUpdated": "2022-09-09T22:43:06Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4628,19 +4628,6 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
-    "repo": "NemesisTheory/SMGuardianRevert",
-    "name": "SM Guardian Revert",
-    "version": "1.0",
-    "mod_id": "SMGuardianRevert",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-09T07:34:01Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the Stained Mountain Guardian back to Scepter."
-  },
-  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "version": "1.0",
@@ -5257,7 +5244,7 @@
     "version": "0.37: Additional",
     "mod_id": "new-turrets",
     "author": "Evo04Taser",
-    "lastUpdated": "2022-09-09T11:33:41Z",
+    "lastUpdated": "2022-09-09T23:40:38Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5315,6 +5302,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "version": "0.1",
+    "mod_id": "Green Mod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5913,6 +5913,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Helium-ion/TheFirstMindustryTestMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-08-18T03:54:16Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
