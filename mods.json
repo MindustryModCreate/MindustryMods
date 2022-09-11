@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-09-09T23:39:44Z",
+    "lastUpdated": "2022-09-11T03:38:58Z",
     "stars": 118,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -383,7 +383,7 @@
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2022-09-09T15:36:54Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-10T12:27:26Z",
+    "lastUpdated": "2022-09-11T01:37:26Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2067,6 +2067,19 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "[#FFC000]0.1 [#FF4747]Alpha",
+    "mod_id": "vanillaplus",
+    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-09-07T04:49:51Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+  },
+  {
     "repo": "PKChaos/Ion",
     "name": "Ion",
     "version": "0.1.0",
@@ -2364,19 +2377,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
-  },
-  {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "[#FFC000]0.1 [#FF4747]Alpha",
-    "mod_id": "vanillaplus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-09-07T04:49:51Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "Zeniku/HeavyMachineryJava",
@@ -3070,10 +3070,10 @@
   {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
-    "version": "3",
+    "version": "3.1",
     "mod_id": "Endrium mod 2",
-    "author": "tommyboo (antumbra)#4708 & Aegires",
-    "lastUpdated": "2022-09-10T21:27:28Z",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2022-09-11T03:14:07Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4888,19 +4888,6 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.1",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2022-08-20T10:19:01Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "konkitoman/SpeedCtlMan",
     "name": "SpeedCtlMan",
     "version": "0.2",
@@ -4953,6 +4940,19 @@
     "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.1",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2022-09-11T03:46:00Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -4977,6 +4977,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
@@ -5317,19 +5330,6 @@
     "description": "oh no"
   },
   {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
-  },
-  {
     "repo": "LottieVixen/test-mindustry-mod",
     "name": "Test Mindustry Mod",
     "version": "0.0.1",
@@ -5341,19 +5341,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -5720,19 +5707,6 @@
     "description": "duo"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -5952,6 +5926,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
