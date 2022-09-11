@@ -130,6 +130,19 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v4.1, while v5 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "ExtraUtilities",
+    "version": "1.043",
+    "mod_id": "extra-utilities",
+    "author": "guiY",
+    "lastUpdated": "2022-09-09T12:00:03Z",
+    "stars": 78,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "槑"
+  },
+  {
     "repo": "QmelZ/hackustry",
     "name": "Hackustry",
     "version": "4",
@@ -141,19 +154,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Hackustry v4"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "ExtraUtilities",
-    "version": "1.043",
-    "mod_id": "extra-utilities",
-    "author": "guiY",
-    "lastUpdated": "2022-09-09T12:00:03Z",
-    "stars": 77,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "槑"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -382,7 +382,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-11T15:08:09Z",
+    "lastUpdated": "2022-09-11T18:55:23Z",
     "stars": 40,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1196,6 +1196,19 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-07-09T19:20:54Z",
+    "stars": 14,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.6",
@@ -1285,19 +1298,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that im working on."
-  },
-  {
-    "repo": "EchoVespy/Simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.8.1",
-    "mod_id": "Simplistic",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-07-09T19:20:54Z",
-    "stars": 13,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "RICCJ/MinerTools",
@@ -2548,6 +2548,19 @@
     "description": "bruh"
   },
   {
+    "repo": "HappyGingerWolf/Small-Drill",
+    "name": "Small Drill",
+    "version": "1",
+    "mod_id": "small-drill",
+    "author": "GingerWolf",
+    "lastUpdated": "2021-11-30T12:29:53Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds small drills. A part of my elementary mod."
+  },
+  {
     "repo": "xzxADIxzx/JustMod",
     "name": "JustMod",
     "version": "0.3",
@@ -2912,19 +2925,6 @@
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
   },
   {
-    "repo": "HappyGingerWolf/Small-Drill",
-    "name": "Small Drill",
-    "version": "1",
-    "mod_id": "small-drill",
-    "author": "GingerWolf",
-    "lastUpdated": "2021-11-30T12:29:53Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds small drills. A part of my elementary mod."
-  },
-  {
     "repo": "uujuju1/creatiive-mod",
     "name": "creatiive mod.",
     "version": "0.4",
@@ -3099,7 +3099,7 @@
     "version": "0.6",
     "mod_id": "op-things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-09-11T15:06:04Z",
+    "lastUpdated": "2022-09-11T16:56:49Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4992,19 +4992,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -5341,6 +5328,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "version": "0.1",
+    "mod_id": "Green Mod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5978,5 +5978,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   }
 ]
