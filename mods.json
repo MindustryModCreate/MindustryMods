@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-09-10T13:14:52Z",
-    "stars": 170,
+    "stars": 169,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -837,7 +837,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-09-10T23:49:16Z",
+    "lastUpdated": "2022-09-12T03:12:06Z",
     "stars": 20,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-11T01:37:26Z",
+    "lastUpdated": "2022-09-12T01:49:06Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2249,19 +2249,6 @@
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
-    "name": "Max Rate Calculator (V6 v126.2)",
-    "version": "3.0-pa-0.1",
-    "mod_id": "MaxRateCalculatorV6",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-03-02T21:04:49Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
     "repo": "breadbug23/Somas",
     "name": "Somas",
     "version": "1.4",
@@ -2390,6 +2377,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
+    "name": "Max Rate Calculator (V6 v126.2)",
+    "version": "3.0-pa-0.1",
+    "mod_id": "MaxRateCalculatorV6",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-09-12T04:47:29Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3081,19 +3081,6 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "3.1",
-    "mod_id": "Endrium mod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2022-09-11T14:31:15Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "RayanZ22/OP-Mod",
     "name": "OP Things",
     "version": "0.6",
@@ -3105,6 +3092,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "3.1",
+    "mod_id": "Endrium mod 2",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2022-09-12T05:49:18Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -4810,19 +4810,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -4964,6 +4951,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "sheptalo/ponchik-test",
+    "name": "ponchik",
+    "version": "1.0",
+    "mod_id": "pon",
+    "author": "sheptalo",
+    "lastUpdated": "2022-09-12T03:35:32Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "mod for doing chaotic things"
   },
   {
     "repo": "4156/Infintory",
@@ -5328,19 +5328,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -5941,6 +5928,19 @@
     "description": "This is my first mod, please be kind."
   },
   {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
     "repo": "ElectronicsArchiver/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
@@ -5978,18 +5978,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Kasp19/Metalextension",
-    "name": "Metal Extension (1.0 Beta)",
-    "version": "1.0 beta",
-    "mod_id": "Metalextension",
-    "author": "Inc.Mr.rpgKasp",
-    "lastUpdated": "2022-09-11T02:17:49Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   }
 ]
