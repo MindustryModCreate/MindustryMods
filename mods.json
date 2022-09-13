@@ -58,7 +58,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-09-10T13:14:52Z",
-    "stars": 169,
+    "stars": 170,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2022-09-11T14:59:25Z",
-    "stars": 114,
+    "stars": 115,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -162,7 +162,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -227,7 +227,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-09-09T14:36:46Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -247,6 +247,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.6",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-08-24T13:11:44Z",
+    "stars": 59,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -258,19 +271,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.6",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2022-08-24T13:11:44Z",
-    "stars": 58,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "deltanedas/rtfm",
@@ -369,7 +369,7 @@
     "version": "1.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-12T19:59:09Z",
+    "lastUpdated": "2022-09-12T20:46:41Z",
     "stars": 42,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -2938,19 +2938,6 @@
     "description": "creative stuff"
   },
   {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 5,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
-  },
-  {
     "repo": "Skrrby/Community-Mod",
     "name": "CommunityMod",
     "version": "0.2",
@@ -3081,19 +3068,6 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "3.1",
-    "mod_id": "Endrium mod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2022-09-12T17:44:25Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "RayanZ22/OP-Mod",
     "name": "OP Things",
     "version": "0.6",
@@ -3105,6 +3079,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "3.1",
+    "mod_id": "Endrium mod 2",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2022-09-12T23:17:12Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -3378,6 +3365,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first mod for mindustry"
+  },
+  {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "Txar/DenseCreations",
@@ -5343,19 +5343,6 @@
     "description": "oh no"
   },
   {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
-  },
-  {
     "repo": "LottieVixen/test-mindustry-mod",
     "name": "Test Mindustry Mod",
     "version": "0.0.1",
@@ -5952,6 +5939,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   },
   {
     "repo": "ElectronicsArchiver/BreakingMindustry",
