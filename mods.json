@@ -252,7 +252,7 @@
     "version": "1.6",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-09-14T15:12:31Z",
+    "lastUpdated": "2022-09-15T15:07:21Z",
     "stars": 59,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "Beta 1.20",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-15T10:07:06Z",
+    "lastUpdated": "2022-09-15T11:15:00Z",
     "stars": 42,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -689,19 +689,6 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-07-19T17:52:54Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "version": "3.5.0",
@@ -713,6 +700,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-19T17:52:54Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-15T01:48:22Z",
+    "lastUpdated": "2022-09-15T12:34:47Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5005,6 +5005,19 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -5029,19 +5042,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6004,5 +6004,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "XenoForce/Happy-Times-Mod",
+    "name": "Happy Times Mod",
+    "version": "1.0.1",
+    "mod_id": "happy-times-mod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-09-15T15:06:00Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Make Erekir components available on Serpulo."
   }
 ]
