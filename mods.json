@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-09-11T20:56:39Z",
-    "stars": 191,
+    "stars": 192,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-05-10T05:23:03Z",
-    "stars": 175,
+    "stars": 176,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -44,7 +44,7 @@
     "version": "0.1.7",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-09-17T11:41:23Z",
+    "lastUpdated": "2022-09-17T17:55:50Z",
     "stars": 173,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -175,7 +175,7 @@
     "mod_id": "diamond-ore",
     "author": "z0mbiesrock",
     "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 72,
+    "stars": 73,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-09-15T17:04:37Z",
+    "lastUpdated": "2022-09-17T15:23:05Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -806,6 +806,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "version": "1.82",
+    "mod_id": "Vanilla Extended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2022-08-12T21:00:36Z",
+    "stars": 20,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -856,19 +869,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "version": "1.82",
-    "mod_id": "Vanilla Extended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2022-08-12T21:00:36Z",
-    "stars": 19,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
@@ -2951,6 +2951,19 @@
     "description": "A mindustry mod for logic"
   },
   {
+    "repo": "BalaM314/no-invasions",
+    "name": "No Invasions",
+    "version": "1.0",
+    "mod_id": "no-invasions",
+    "author": "BalaM314",
+    "lastUpdated": "2022-05-30T05:15:50Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
+  },
+  {
     "repo": "Toriwake/Kannadustry",
     "name": "Kannadustry",
     "version": "1.0",
@@ -3482,19 +3495,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
-  },
-  {
-    "repo": "BalaM314/no-invasions",
-    "name": "No Invasions",
-    "version": "1.0",
-    "mod_id": "no-invasions",
-    "author": "BalaM314",
-    "lastUpdated": "2022-05-30T05:15:50Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "wshon/MinerTools135",
