@@ -1105,17 +1105,17 @@
     "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
-    "repo": "driftheque/Binary0011",
-    "name": "Binary0011",
-    "version": "0.0.7",
-    "mod_id": "b11",
-    "author": "1237",
-    "lastUpdated": "2022-09-19T09:28:42Z",
-    "stars": 16,
-    "minGameVersion": "137",
-    "hasScripts": false,
+    "repo": "sk7725/Commands",
+    "name": "Commands",
+    "version": "0.2",
+    "mod_id": "cmd",
+    "author": "sk7725",
+    "lastUpdated": "2020-11-19T05:26:24Z",
+    "stars": 15,
+    "minGameVersion": "110",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "binary0011 reworked and ported to 7.136.\n\nmade by 1237."
+    "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
     "repo": "Anuken/MindustryKotlinModTemplate",
@@ -1144,6 +1144,84 @@
     "description": "... far beneath the reality."
   },
   {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "version": "0.4.1",
+    "mod_id": "additional-content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-07-20T19:52:26Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+  },
+  {
+    "repo": "AshesKaiser-KR/Mindustry-Ages",
+    "name": "Mindustry: Ages",
+    "version": "0.1",
+    "mod_id": "ages",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-09-18T15:51:01Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "sk7725/EXP-lib",
+    "name": "EXP Library",
+    "version": "3.0",
+    "mod_id": "exp-lib",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-27T03:50:40Z",
+    "stars": 14,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "EXP Library for 6.0!"
+  },
+  {
+    "repo": "DaGamerFiles/classic-music",
+    "name": "<Mindustry> Classic Music",
+    "version": "2.0",
+    "mod_id": "classic-music",
+    "author": "DaGamerFiles",
+    "lastUpdated": "2022-05-12T09:25:35Z",
+    "stars": 14,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
+  },
+  {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-07-09T19:20:54Z",
+    "stars": 14,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "driftheque/Binary0011",
+    "name": "Binary0011",
+    "version": "0.0.7",
+    "mod_id": "b11",
+    "author": "1237",
+    "lastUpdated": "2022-09-19T09:28:42Z",
+    "stars": 14,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "binary0011 reworked and ported to 7.136.\n\nmade by 1237."
+  },
+  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "version": "0.6",
@@ -1168,6 +1246,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
+  },
+  {
+    "repo": "o7-Fire/Mindustry-Ozone",
+    "name": "Ozone Mindustry",
+    "version": "0.24.2:0.19.0",
+    "mod_id": "Ozone-Mindustry",
+    "author": "o7-Fire",
+    "lastUpdated": "2021-03-31T23:01:22Z",
+    "stars": 13,
+    "minGameVersion": "123",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
     "repo": "Antlrr/best-texture-pack",
@@ -1443,6 +1534,19 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "QmelZ/mainstreamdustry",
+    "name": "mainstreamdustry",
+    "version": "dustry",
+    "mod_id": "mainstreamdustry",
+    "author": "QmelZdustry",
+    "lastUpdated": "2020-12-06T19:02:54Z",
+    "stars": 10,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
+  },
+  {
     "repo": "spmlk/DreamscapeMod",
     "name": "Dreamscape Mod",
     "version": "1.1",
@@ -1454,6 +1558,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Harness the power of dreams in this content mod."
+  },
+  {
+    "repo": "Solokil/V6AdventureU",
+    "name": "Solokil Underground Adventure",
+    "version": "1.1",
+    "mod_id": "underground-adventure-v6",
+    "author": "Solokil",
+    "lastUpdated": "2021-06-24T18:57:06Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
+  },
+  {
+    "repo": "Janssendel/Opposing-Front",
+    "name": "Opposing Front",
+    "version": "ask Jans",
+    "mod_id": "opposing-front",
+    "author": "Janssendel",
+    "lastUpdated": "2021-12-10T08:46:17Z",
+    "stars": 10,
+    "minGameVersion": "129.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
     "repo": "pixecoz/better-vaults",
@@ -1506,6 +1636,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "deltanedas/override-lib",
+    "name": "Override Lib",
+    "version": "1.0.1",
+    "mod_id": "override-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-20T01:10:00Z",
+    "stars": 9,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -1716,6 +1859,32 @@
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
+    "repo": "LottieVixen/2xConveyors",
+    "name": "2X Conveyors",
+    "version": "0.2",
+    "mod_id": "2xconveyors",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-03T04:18:24Z",
+    "stars": 8,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Two (2) times faster conveyors, at twice the cost"
+  },
+  {
+    "repo": "deltanedas/cliff",
+    "name": "cliff",
+    "version": "1.1.0",
+    "mod_id": "cliff",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-03T13:17:34Z",
+    "stars": 8,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
     "repo": "Slava0135/reFine",
     "name": "reFine",
     "version": "2.2",
@@ -1805,6 +1974,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A fun mod for a fun New Year's event"
+  },
+  {
+    "repo": "MEEPofFaith/anuke-approaching",
+    "name": "Do not the Anuke",
+    "version": "oh no",
+    "mod_id": "do-not-the-cat",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-01-28T05:38:39Z",
+    "stars": 8,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do not the Anuke"
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
@@ -1937,6 +2119,32 @@
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
   },
   {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
+  },
+  {
+    "repo": "deltanedas/yes",
+    "name": "yes",
+    "version": "1.1.1",
+    "mod_id": "yes",
+    "author": "deltanedas",
+    "lastUpdated": "2020-12-19T21:21:48Z",
+    "stars": 7,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "yes\nAlso try Gdeft/bleach!"
+  },
+  {
     "repo": "EmanuelG-Gaming/emanuels-mod",
     "name": "Emanuel's Mod",
     "version": "0.7 pre alpha",
@@ -1989,6 +2197,19 @@
     "description": "This is the v6 version of a mod called S-Pack.This mod adds new cores as well as S-Class items and buildings."
   },
   {
+    "repo": "paulieg626/AdminTool",
+    "name": "AdminTool",
+    "version": "1.0",
+    "mod_id": "admintool",
+    "author": "paulieg626",
+    "lastUpdated": "2021-07-28T22:39:06Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
     "repo": "Mnemotechnician/UwUBundles",
     "name": "UwU bundles",
     "version": "1.3",
@@ -2026,6 +2247,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Upload your maps:\nDiscord pixecoz#3275"
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "breadbug23/Somas",
@@ -2091,6 +2325,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A jar mod. Glory to the cat"
+  },
+  {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "liplum/MdtModTemplate",
@@ -4418,19 +4665,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Super Mecha. 一个超强的机甲"
-  },
-  {
-    "repo": "NemesisTheory/SMGuardianRevert",
-    "name": "SM Guardian Revert",
-    "version": "1.0",
-    "mod_id": "SMGuardianRevert",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-09T07:34:01Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the Stained Mountain Guardian back to Scepter."
   },
   {
     "repo": "NemesisTheory/wort-wort-wort",
