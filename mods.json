@@ -382,7 +382,7 @@
     "version": "Beta 1.20",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-09-19T12:42:44Z",
+    "lastUpdated": "2022-09-25T16:45:54Z",
     "stars": 43,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -470,10 +470,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.4.16",
+    "version": "2.4.17",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-24T12:38:06Z",
+    "lastUpdated": "2022-09-25T18:41:26Z",
     "stars": 35,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -728,19 +728,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-07-19T17:52:54Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "47",
@@ -778,6 +765,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-19T17:52:54Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
@@ -967,7 +967,7 @@
     "version": "14",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-09-22T15:32:09Z",
+    "lastUpdated": "2022-09-25T20:01:34Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1196,6 +1196,19 @@
     "description": "EXP Library for 6.0!"
   },
   {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "version": "0.9",
+    "mod_id": "auto-updater",
+    "author": "Skat",
+    "lastUpdated": "2021-08-13T16:05:47Z",
+    "stars": 14,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "DaGamerFiles/classic-music",
     "name": "<Mindustry> Classic Music",
     "version": "2.0",
@@ -1259,19 +1272,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "pain and suffering"
-  },
-  {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "version": "0.9",
-    "mod_id": "auto-updater",
-    "author": "Skat",
-    "lastUpdated": "2021-08-13T16:05:47Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
   },
   {
     "repo": "Goobrr/Goobriculture",
@@ -2072,7 +2072,7 @@
     "version": "0.1.0",
     "mod_id": "ion",
     "author": "PKChaos",
-    "lastUpdated": "2022-09-25T15:04:30Z",
+    "lastUpdated": "2022-09-25T19:20:45Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4823,6 +4823,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5003,19 +5016,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
@@ -6004,18 +6004,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
-  },
-  {
-    "repo": "mega2335/Project-Nova",
-    "name": "Project Nova",
-    "version": "1.0",
-    "mod_id": "project-nova",
-    "author": "mega2335",
-    "lastUpdated": "2022-09-25T15:09:32Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A JS mod.\nThis mod is NOT balanced!!!"
   }
 ]
