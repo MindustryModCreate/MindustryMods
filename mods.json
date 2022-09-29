@@ -162,7 +162,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -195,6 +195,32 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-09-05T13:15:19Z",
+    "stars": 66,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "V7 TESTING (0.7.8.1)",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-09-09T14:36:46Z",
+    "stars": 66,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -208,39 +234,13 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-09-05T13:15:19Z",
-    "stars": 65,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "V7 TESTING (0.7.8.1)",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-09-09T14:36:46Z",
-    "stars": 65,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.7",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-09-28T07:39:12Z",
-    "stars": 63,
+    "lastUpdated": "2022-09-29T01:15:05Z",
+    "stars": 64,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -455,6 +455,19 @@
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.4.25",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-09-28T14:32:13Z",
+    "stars": 36,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "version": "3.3.2",
@@ -466,19 +479,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.4.25",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-28T14:32:13Z",
-    "stars": 35,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "NickName73/GRavillaso",
@@ -1235,6 +1235,19 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.8.1",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-09-21T05:45:25Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "Gdeft/bleach",
     "name": "Bleach",
     "version": "1.4",
@@ -1337,19 +1350,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "something perhaps"
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.8.1",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-09-21T05:45:25Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1604,7 +1604,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-28T12:33:18Z",
+    "lastUpdated": "2022-09-29T01:45:19Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5733,19 +5733,6 @@
     "description": "duo"
   },
   {
-    "repo": "dashmaster-c/DS-Industry",
-    "name": "DS Industry",
-    "version": "0.2",
-    "mod_id": "DS-Industry",
-    "author": "dashmaster",
-    "lastUpdated": "2022-01-10T08:40:48Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Miniontoby/mindustrirc",
     "name": "MindustrIRC",
     "version": "1.1.0",
@@ -5913,19 +5900,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "There is no suitable profile for the time being."
-  },
-  {
-    "repo": "Sheep-Hugger/Colonization-industry",
-    "name": "Colonization & industry",
-    "version": "0.25",
-    "mod_id": "Colonization & industry",
-    "author": "Radiance of Dove",
-    "lastUpdated": "2022-06-24T15:45:53Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "To be filled"
   },
   {
     "repo": "ElectronicsArchiver/the-new-tech-mod",
