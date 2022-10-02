@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-09-11T20:56:39Z",
-    "stars": 194,
+    "stars": 195,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -343,7 +343,7 @@
     "version": "2.0 - The Erekir Update(1)",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-10-02T10:04:24Z",
+    "lastUpdated": "2022-10-02T10:40:00Z",
     "stars": 46,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1617,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-02T01:45:42Z",
+    "lastUpdated": "2022-10-02T12:30:42Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2085,7 +2085,7 @@
     "version": "0.1.0",
     "mod_id": "ion",
     "author": "PKChaos",
-    "lastUpdated": "2022-09-27T14:09:22Z",
+    "lastUpdated": "2022-10-02T10:14:01Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2444,19 +2444,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
     "repo": "Voz-Duh/progressed-factorio",
     "name": "Progressed Factorio - TexturePack",
     "version": "0.0.1",
@@ -2468,19 +2455,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "version": "0.7 alpha",
-    "mod_id": "pvpmod",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "MindustryInside/AdvancedDevMode",
@@ -2574,19 +2548,6 @@
     "description": "random ideas"
   },
   {
-    "repo": "sk7725/BetaMindyMusic",
-    "name": "BetaMindy Music",
-    "version": "1.0",
-    "mod_id": "betamindy-music",
-    "author": "sk7725",
-    "lastUpdated": "2021-09-23T11:55:21Z",
-    "stars": 6,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "BetaMindy music assets. Does nothing on its own!"
-  },
-  {
     "repo": "Kingfrankbob/Extra-Support",
     "name": "Extra Support",
     "version": "1.0",
@@ -2676,19 +2637,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "Sh1penfire/pixelcraft",
-    "name": "Pixelcraft: The endless rust",
-    "version": "0.9.85",
-    "mod_id": "pixelcraft",
-    "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2022-06-05T23:00:15Z",
-    "stars": 6,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -4823,6 +4771,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "RouterXdd/TD-mod",
+    "name": "TD mod",
+    "version": "1.0",
+    "mod_id": "td",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-03-26T06:20:10Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for TD maps"
+  },
+  {
     "repo": "VladTheEvilCat/Electro-Magnetic-Weaponry",
     "name": "Electro-Magnetic Weaponry",
     "version": "1.8.11",
@@ -4860,19 +4821,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "warcry98/SpeedControl",
@@ -5018,6 +4966,32 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
+    "repo": "sheptalo/ponchik-test",
+    "name": "ponchik",
+    "version": "1.1",
+    "mod_id": "pon",
+    "author": "sheptalo",
+    "lastUpdated": "2022-09-16T19:50:51Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "mod for doing chaotic things"
+  },
+  {
+    "repo": "Yoru-Kitsune/Beskar",
+    "name": "Beskar",
+    "version": "0.0.7",
+    "mod_id": "beskar-mod",
+    "author": "夜狐 & Void_Fox",
+    "lastUpdated": "2022-10-02T12:37:46Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Hardcore Mod\n\nEnglish: 夜狐\nGerman: 夜狐"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5042,19 +5016,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
