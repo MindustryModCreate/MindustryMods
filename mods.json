@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-09-23T17:23:08Z",
+    "lastUpdated": "2022-10-04T19:40:16Z",
     "stars": 120,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -5029,6 +5029,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
