@@ -97,7 +97,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-08-25T07:54:20Z",
-    "stars": 118,
+    "stars": 119,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -208,6 +208,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "V7 TESTING (0.7.8.1)",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-09-30T14:26:42Z",
+    "stars": 66,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -219,19 +232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "V7 TESTING (0.7.8.1)",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-09-30T14:26:42Z",
-    "stars": 65,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "Sharlottes/Informatis",
@@ -1508,6 +1508,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "Slotterleet/distributor",
+    "name": "Distributor",
+    "version": "1.1",
+    "mod_id": "distributor",
+    "author": "Slotterleet",
+    "lastUpdated": "2022-09-06T18:31:51Z",
+    "stars": 11,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
+  },
+  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.4.1",
@@ -1586,19 +1599,6 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
-    "repo": "Slotterleet/distributor",
-    "name": "Distributor",
-    "version": "1.1",
-    "mod_id": "distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-09-06T18:31:51Z",
-    "stars": 10,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
     "version": "[#FFC000]0.1 [#FF4747]Alpha",
@@ -1617,7 +1617,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-04T01:41:19Z",
+    "lastUpdated": "2022-10-04T12:36:36Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4823,6 +4823,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5016,19 +5029,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
