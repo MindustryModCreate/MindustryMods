@@ -240,7 +240,7 @@
     "mod_id": "informatis",
     "author": "Sharlotte",
     "lastUpdated": "2022-09-29T01:15:05Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -928,7 +928,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-08T19:49:11Z",
+    "lastUpdated": "2022-10-09T08:33:01Z",
     "stars": 19,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1092,19 +1092,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow",
-    "version": "0.6",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-08T17:07:00Z",
-    "stars": 16,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
-  },
-  {
     "repo": "MQ-1175/more-vanilla",
     "name": "More Than Vanilla",
     "version": "1.1",
@@ -1116,6 +1103,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow",
+    "version": "0.6",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-10-09T08:26:57Z",
+    "stars": 16,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
   },
   {
     "repo": "sk7725/Commands",
@@ -4823,6 +4823,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -6030,18 +6043,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
-  },
-  {
-    "repo": "driftheque/Nothing",
-    "name": "Nothing",
-    "version": "1.0",
-    "mod_id": "Nothing",
-    "author": "driftheque",
-    "lastUpdated": "2022-10-09T01:47:07Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   }
 ]
