@@ -28,12 +28,12 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.1.7",
+    "version": "0.2.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-10-02T05:49:32Z",
+    "lastUpdated": "2022-10-09T05:16:03Z",
     "stars": 179,
-    "minGameVersion": "138",
+    "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
     "description": "Warning: Unfinished For V7"
@@ -1092,19 +1092,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "version": "1.1",
-    "mod_id": "extension",
-    "author": "M.Q.",
-    "lastUpdated": "2022-10-08T14:52:56Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.6",
@@ -1116,6 +1103,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "version": "1.1",
+    "mod_id": "extension",
+    "author": "M.Q.",
+    "lastUpdated": "2022-10-09T04:18:14Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "sk7725/Commands",
@@ -1630,7 +1630,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-08T12:29:46Z",
+    "lastUpdated": "2022-10-09T01:27:49Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4823,19 +4823,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5029,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
@@ -6006,6 +6006,19 @@
     "description": "A Mindustry Kotlin mod."
   },
   {
+    "repo": "mega-industries/MindustryModTemplate",
+    "name": "template",
+    "version": "0",
+    "mod_id": "mindustry-hjson-template",
+    "author": "e",
+    "lastUpdated": "2022-09-04T14:22:47Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "XenoForce/Happy-Times-Mod",
     "name": "Happy Times Mod",
     "version": "1.0.1",
@@ -6017,5 +6030,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
+  },
+  {
+    "repo": "driftheque/Nothing",
+    "name": "Nothing",
+    "version": "1.0",
+    "mod_id": "Nothing",
+    "author": "driftheque",
+    "lastUpdated": "2022-10-09T01:47:07Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   }
 ]
