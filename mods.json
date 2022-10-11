@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-11T01:29:37Z",
+    "lastUpdated": "2022-10-11T19:20:13Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -743,10 +743,10 @@
   {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
-    "version": "47",
+    "version": "48",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-10-11T04:50:19Z",
+    "lastUpdated": "2022-10-11T18:55:44Z",
     "stars": 23,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-11T14:32:28Z",
+    "lastUpdated": "2022-10-11T19:52:05Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1014,6 +1014,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "version": "1.1",
+    "mod_id": "extension",
+    "author": "M.Q.",
+    "lastUpdated": "2022-10-11T10:19:56Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
     "repo": "Drullkus/Unnerf-Core-Units",
     "name": "Unnerf Core Units",
     "version": "1.1",
@@ -1090,19 +1103,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "version": "1.1",
-    "mod_id": "extension",
-    "author": "M.Q.",
-    "lastUpdated": "2022-10-11T10:19:56Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "SMOLKEYS/yellow-java",
@@ -3497,19 +3497,6 @@
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "Lepisma-0/Extended-Tech",
-    "name": "Extended Tech",
-    "version": "0.91 Under develop",
-    "mod_id": "exttech",
-    "author": "Lepisma & Manezoid",
-    "lastUpdated": "2022-05-11T15:49:49Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
-  },
-  {
     "repo": "YamiyoshinLevi/gun-mod",
     "name": "GunneryUnlimited",
     "version": "2.3.2.1",
@@ -3638,6 +3625,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-10-11T18:15:03Z",
+    "stars": 4,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v139)\r\n"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -4849,19 +4849,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -6050,7 +6037,7 @@
     "version": "1.0.1",
     "mod_id": "happy-times-mod",
     "author": "XenoTale",
-    "lastUpdated": "2022-10-11T15:05:36Z",
+    "lastUpdated": "2022-10-11T16:17:03Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
