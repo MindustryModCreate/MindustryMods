@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-05-10T05:23:03Z",
-    "stars": 177,
+    "stars": 178,
     "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
@@ -253,7 +253,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-10-09T21:29:57Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-11T19:20:13Z",
+    "lastUpdated": "2022-10-12T01:25:12Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-11T19:52:05Z",
+    "lastUpdated": "2022-10-12T03:33:41Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -962,19 +962,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-09-29T20:09:55Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
@@ -986,6 +973,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-10-12T03:13:01Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "SnakkiZXZ/Coppermod",
@@ -1110,7 +1110,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-11T23:44:02Z",
+    "lastUpdated": "2022-10-12T05:37:13Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-11T12:35:41Z",
+    "lastUpdated": "2022-10-12T01:52:46Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2717,6 +2717,19 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3068,19 +3081,6 @@
     "description": "Kanna mod"
   },
   {
-    "repo": "sleepnevercomes/everything-is-grey",
-    "name": "EVERYTHING IS GREY",
-    "version": "0.03",
-    "mod_id": "everything-is-grey",
-    "author": "NEW GIRLFRIEND#1955",
-    "lastUpdated": "2022-10-10T06:31:08Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "CONVERSION OF ALL VANILLA SPRITES TO GREY"
-  },
-  {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantros",
     "version": "0.3",
@@ -3092,6 +3092,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+  },
+  {
+    "repo": "sleepnevercomes/everything-is-grey",
+    "name": "EVERYTHING IS GREY",
+    "version": "0.04a",
+    "mod_id": "everything-is-grey",
+    "author": "NEW GIRLFRIEND#1955",
+    "lastUpdated": "2022-10-12T03:15:31Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Vanilla decoloring project."
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -3716,6 +3729,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description."
+  },
+  {
+    "repo": "Ar01Zar/NewWorldMod",
+    "name": "NewWorldMod",
+    "version": "[beta]6.0",
+    "mod_id": "42",
+    "author": "ArZar",
+    "lastUpdated": "2021-02-22T10:47:38Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Масштабный мод который добавляет много-чего нового.\n-------------------\nArZar-Глав разработчик.\n------------------\n"
   },
   {
     "repo": "sisit135/ExtendedGroundUnit",
@@ -4641,6 +4667,19 @@
     "description": "Various additions by Nifley and Spacecheddar"
   },
   {
+    "repo": "ZZY2357/super-mecha",
+    "name": "Super Mecha",
+    "version": "1.0",
+    "mod_id": "super-mecha",
+    "author": "zzy2357@outlook.com",
+    "lastUpdated": "2021-10-05T09:16:42Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Super Mecha. 一个超强的机甲"
+  },
+  {
     "repo": "NemesisTheory/SMGuardianRevert",
     "name": "SM Guardian Revert",
     "version": "1.0",
@@ -4808,6 +4847,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "warcry98/SpeedControl",
@@ -5848,6 +5900,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds matter to extange materials"
+  },
+  {
+    "repo": "Pepa3/MindustryMod",
+    "name": "AllThings",
+    "version": "0.1",
+    "mod_id": "allthings",
+    "author": "Pepa_3",
+    "lastUpdated": "2022-05-16T16:07:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod with All Things in the World"
   },
   {
     "repo": "nmarshall23/MindustryAsmControllerMod",
