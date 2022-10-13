@@ -305,7 +305,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2022-10-12T01:25:12Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -405,12 +405,12 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.4.34hf",
+    "version": "2.4.36",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-10-10T11:15:09Z",
+    "lastUpdated": "2022-10-13T11:38:03Z",
     "stars": 37,
-    "minGameVersion": "138",
+    "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
@@ -1110,7 +1110,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-12T08:29:31Z",
+    "lastUpdated": "2022-10-13T11:16:40Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-13T01:39:45Z",
+    "lastUpdated": "2022-10-13T12:35:35Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1807,19 +1807,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "VvSeanGTvV/V5-Classic",
-    "name": "V5 Reborn",
-    "version": "1.022 Beta",
-    "mod_id": "ClassicV5",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2022-09-04T03:59:53Z",
-    "stars": 9,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds V5 in v137 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 137, since some sounds are not avaliable in v137!"
-  },
-  {
     "repo": "bloool/CobaltMod",
     "name": "Cobalt Mod",
     "version": "0.8",
@@ -1857,6 +1844,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "VvSeanGTvV/V5-Classic",
+    "name": "V5 Reborn",
+    "version": "Preview 1.065 Beta",
+    "mod_id": "ClassicV5",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2022-10-13T14:54:02Z",
+    "stars": 9,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -3508,6 +3508,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
+  },
+  {
+    "repo": "wshon/MinerTools135",
+    "name": "MinerTools 135",
+    "version": "1.6.5.1",
+    "mod_id": "miner-tools-135",
+    "author": "miner, adapter by wshon",
+    "lastUpdated": "2022-06-05T01:13:11Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry 135.2"
   },
   {
     "repo": "TeeworldsFun/Mindustry-teeworlds",
