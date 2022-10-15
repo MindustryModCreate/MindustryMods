@@ -1110,7 +1110,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-15T03:10:56Z",
+    "lastUpdated": "2022-10-15T09:46:11Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -2977,19 +2977,6 @@
     "description": "A mindustry mod for logic"
   },
   {
-    "repo": "BalaM314/no-invasions",
-    "name": "No Invasions",
-    "version": "1.0",
-    "mod_id": "no-invasions",
-    "author": "BalaM314",
-    "lastUpdated": "2022-05-30T05:15:50Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
-  },
-  {
     "repo": "YukuSOH/Hardustry-mod",
     "name": "Hardustry",
     "version": "0.116",
@@ -3118,6 +3105,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
+  },
+  {
+    "repo": "BalaM314/no-invasions",
+    "name": "No Sector Re Attacks",
+    "version": "1.0",
+    "mod_id": "no-invasions",
+    "author": "BalaM314",
+    "lastUpdated": "2022-10-15T09:40:16Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -5941,19 +5941,6 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
-    "repo": "MBTiAmo712DEV/parachutists-mod",
-    "name": "parachutists",
-    "version": "1.0",
-    "mod_id": "parachutists",
-    "author": "mb",
-    "lastUpdated": "2022-06-16T08:07:49Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "There is no suitable profile for the time being."
-  },
-  {
     "repo": "Sheep-Hugger/Colonization-industry",
     "name": "Colonization & industry",
     "version": "0.25",
@@ -6017,19 +6004,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod."
-  },
-  {
-    "repo": "mega-industries/MindustryModTemplate",
-    "name": "template",
-    "version": "0",
-    "mod_id": "mindustry-hjson-template",
-    "author": "e",
-    "lastUpdated": "2022-09-04T14:22:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "XenoForce/Happy-Times-Mod",
