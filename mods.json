@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-14T19:53:17Z",
+    "lastUpdated": "2022-10-14T21:05:57Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1848,15 +1848,15 @@
   {
     "repo": "VvSeanGTvV/V5-Classic",
     "name": "V5 Reborn",
-    "version": "Preview 1.066 Beta",
+    "version": "1.07 Beta",
     "mod_id": "ClassicV5",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2022-10-13T22:24:43Z",
+    "lastUpdated": "2022-10-14T22:23:52Z",
     "stars": 9,
     "minGameVersion": "138",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138."
+    "description": "Current Version: Preview 1.07 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1935,6 +1935,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
+  },
+  {
+    "repo": "uujuju1/randomStuff",
+    "name": "Random Stuff",
+    "version": "0.6",
+    "mod_id": "random-stuff",
+    "author": "Uujuju",
+    "lastUpdated": "2021-11-17T23:51:45Z",
+    "stars": 8,
+    "minGameVersion": "129",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "iarkn/mind-util",
@@ -2208,19 +2221,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod dat wepwaces da Engwish wocawization with da UwU wanguage.\nI'm weawwy suwpwised dat somye peopwe awe using it! \n\nSuppowts v7 now!"
-  },
-  {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "version": "0.6",
-    "mod_id": "random-stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-11-17T23:51:45Z",
-    "stars": 7,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "Antlrr/basement",
@@ -3614,6 +3614,19 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-08T14:49:34Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "Lepisma-0/Extended-Tech",
     "name": "Extended Tech",
     "version": "0.91 Under develop",
@@ -4366,19 +4379,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-08T14:49:34Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "ColdAnkles/mindustry-trade-terminals",
