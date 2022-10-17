@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-17T06:02:37Z",
+    "lastUpdated": "2022-10-17T10:16:08Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1110,7 +1110,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-17T04:47:18Z",
+    "lastUpdated": "2022-10-17T09:05:51Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1833,19 +1833,6 @@
     "description": "Library mod that allows multiple mods to override the same content."
   },
   {
-    "repo": "PKChaos/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
-    "mod_id": "ion",
-    "author": "PKChaos",
-    "lastUpdated": "2022-10-07T23:56:27Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "VvSeanGTvV/V5-Classic",
     "name": "V5 Reborn",
     "version": "1.07 Beta",
@@ -1857,6 +1844,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Current Version: Preview 1.07 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
+  },
+  {
+    "repo": "PKChaos/Ion",
+    "name": "Ion",
+    "version": "0.1.0",
+    "mod_id": "ion",
+    "author": "PKChaos",
+    "lastUpdated": "2022-10-17T08:34:28Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -4849,6 +4849,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5486,19 +5499,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -5785,19 +5785,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2022-01-20T16:16:20Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
-  },
-  {
     "repo": "GameStuffOffical/morebulletsmodforhjson",
     "name": "More Bullets Extension",
     "version": "1.0",
@@ -5941,19 +5928,6 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
-    "repo": "MBTiAmo712DEV/parachutists-mod",
-    "name": "parachutists",
-    "version": "1.0",
-    "mod_id": "parachutists",
-    "author": "mb",
-    "lastUpdated": "2022-06-16T08:07:49Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "There is no suitable profile for the time being."
-  },
-  {
     "repo": "Sheep-Hugger/Colonization-industry",
     "name": "Colonization & industry",
     "version": "0.25",
@@ -6017,19 +5991,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod."
-  },
-  {
-    "repo": "mega-industries/MindustryModTemplate",
-    "name": "template",
-    "version": "0",
-    "mod_id": "mindustry-hjson-template",
-    "author": "e",
-    "lastUpdated": "2022-09-04T14:22:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "XenoForce/Happy-Times-Mod",
