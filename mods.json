@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-10-10T17:38:32Z",
-    "stars": 200,
+    "stars": 201,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -200,7 +200,7 @@
     "version": "v0.8",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-10-18T14:35:55Z",
+    "lastUpdated": "2022-10-20T15:14:02Z",
     "stars": 67,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-19T02:51:56Z",
+    "lastUpdated": "2022-10-20T07:34:06Z",
     "stars": 52,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "2.0 - The Erekir Update(1)",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-10-18T11:49:24Z",
+    "lastUpdated": "2022-10-20T10:28:22Z",
     "stars": 45,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -585,6 +585,19 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "xStaBUx/Omaloon-public",
+    "name": "Omaloon",
+    "version": "0.5.1",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-10-20T06:20:26Z",
+    "stars": 29,
+    "minGameVersion": "138.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "Xeloboyo/PvP-Notifs",
     "name": "PvP notifs",
     "version": "0.1",
@@ -596,19 +609,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alerts you to enemy tech progression and unit production"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "version": "0.5.1",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-09-14T10:55:05Z",
-    "stars": 28,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "AureusStratus/Advancements",
@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-20T04:43:34Z",
+    "lastUpdated": "2022-10-20T06:58:25Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -962,19 +962,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-12T03:13:01Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
@@ -999,6 +986,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-10-20T06:27:32Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "SnakkiZXZ/Coppermod",
@@ -1105,12 +1105,25 @@
     "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
   },
   {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.42",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-10-16T03:22:35Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-19T12:28:11Z",
+    "lastUpdated": "2022-10-20T15:09:38Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1630,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-19T12:36:08Z",
+    "lastUpdated": "2022-10-20T12:35:45Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4797,6 +4810,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "RouterXdd/TD-mod",
+    "name": "TD mod",
+    "version": "1.0",
+    "mod_id": "td",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-03-26T06:20:10Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for TD maps"
+  },
+  {
     "repo": "VladTheEvilCat/Electro-Magnetic-Weaponry",
     "name": "Electro-Magnetic Weaponry",
     "version": "1.8.11",
@@ -4834,6 +4860,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "warcry98/SpeedControl",
@@ -5343,6 +5382,19 @@
     "description": "Don't play it"
   },
   {
+    "repo": "Thinkystuff7/MindustryMod-1",
+    "name": "Mind ustry Mod1",
+    "version": "3.1",
+    "mod_id": "Mod 1",
+    "author": "thinkystuff7",
+    "lastUpdated": "2020-10-19T16:39:48Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
     "repo": "Aweguy/pixelcraft",
     "name": "a Pixelcraft",
     "version": "0.5",
@@ -5458,19 +5510,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds moon"
-  },
-  {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
@@ -5759,19 +5798,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2022-01-20T16:16:20Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
-  },
-  {
     "repo": "GameStuffOffical/morebulletsmodforhjson",
     "name": "More Bullets Extension",
     "version": "1.0",
@@ -5913,6 +5939,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
+  },
+  {
+    "repo": "MBTiAmo712DEV/parachutists-mod",
+    "name": "parachutists",
+    "version": "1.0",
+    "mod_id": "parachutists",
+    "author": "mb",
+    "lastUpdated": "2022-06-16T08:07:49Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "There is no suitable profile for the time being."
   },
   {
     "repo": "Sheep-Hugger/Colonization-industry",
