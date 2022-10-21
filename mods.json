@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-21T00:32:08Z",
+    "lastUpdated": "2022-10-21T04:59:33Z",
     "stars": 52,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -715,6 +715,19 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "version": "1.4",
+    "mod_id": "classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2022-04-23T10:11:06Z",
+    "stars": 23,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
+  },
+  {
     "repo": "FlinTyX/Animalia",
     "name": "Animalia",
     "version": "0.1.2",
@@ -752,19 +765,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "version": "1.4",
-    "mod_id": "classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2022-04-23T10:11:06Z",
-    "stars": 22,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "TheRealIvyX/MoreDefences",
@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2022-10-20T19:06:13Z",
+    "lastUpdated": "2022-10-21T04:16:34Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1643,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-20T12:35:45Z",
+    "lastUpdated": "2022-10-21T01:23:13Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3094,6 +3094,19 @@
     "description": "Kanna mod"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-08T14:49:34Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "BalaM314/no-invasions",
     "name": "No Sector Re Attacks",
     "version": "1.0",
@@ -3625,19 +3638,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-08T14:49:34Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Lepisma-0/Extended-Tech",
@@ -4862,19 +4862,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5796,6 +5783,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Miniontoby/mindustrirc",
+    "name": "MindustrIRC",
+    "version": "1.1.0",
+    "mod_id": "mindustrirc",
+    "author": "Miniontoby",
+    "lastUpdated": "2022-01-20T16:16:20Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "GameStuffOffical/morebulletsmodforhjson",
