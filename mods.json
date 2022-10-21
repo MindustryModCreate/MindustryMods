@@ -590,7 +590,7 @@
     "version": "0.5.1",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-10-20T06:20:26Z",
+    "lastUpdated": "2022-10-21T10:00:16Z",
     "stars": 29,
     "minGameVersion": "138.1",
     "hasScripts": false,
@@ -863,7 +863,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2022-10-21T04:16:34Z",
+    "lastUpdated": "2022-10-21T07:53:24Z",
     "stars": 20,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -975,19 +975,6 @@
     "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-20T06:27:32Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "fictional-octo-system",
     "version": "1.0",
@@ -999,6 +986,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A space-related mod."
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-10-21T09:53:54Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "SnakkiZXZ/Coppermod",
@@ -3094,19 +3094,6 @@
     "description": "Kanna mod"
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-08T14:49:34Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "BalaM314/no-invasions",
     "name": "No Sector Re Attacks",
     "version": "1.0",
@@ -3144,6 +3131,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sometimes glitchy ideas."
+  },
+  {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-21T09:19:44Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -4862,6 +4862,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5783,19 +5796,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2022-01-20T16:16:20Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "GameStuffOffical/morebulletsmodforhjson",
