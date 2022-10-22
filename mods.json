@@ -304,7 +304,7 @@
     "version": "26.4",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-21T04:59:33Z",
+    "lastUpdated": "2022-10-22T01:09:35Z",
     "stars": 52,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1123,7 +1123,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-10-20T15:56:40Z",
+    "lastUpdated": "2022-10-22T04:26:30Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1391,19 +1391,6 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.5 Alpha",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-16T12:26:39Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
-  },
-  {
     "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "eicular manslaughter 2",
@@ -1441,6 +1428,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.5 Alpha",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-10-22T05:05:43Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "Slotterleet/Basic-Schematics",
@@ -1643,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-21T12:35:45Z",
+    "lastUpdated": "2022-10-22T01:37:09Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2719,10 +2719,10 @@
   {
     "repo": "sleepnevercomes/everything-is-grey",
     "name": "EVERYTHING IS GREY",
-    "version": "0.04a",
+    "version": "0.05a",
     "mod_id": "everything-is-grey",
     "author": "NEW GIRLFRIEND#1955",
-    "lastUpdated": "2022-10-20T23:43:45Z",
+    "lastUpdated": "2022-10-22T03:40:53Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -4171,6 +4171,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to alter vanilla progression"
+  },
+  {
+    "repo": "iarkn/crescendo",
+    "name": "Crescendo",
+    "version": "0.1.0",
+    "mod_id": "crescendo",
+    "author": "iarkn",
+    "lastUpdated": "2022-06-04T01:09:56Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod written in Clojure!"
   },
   {
     "repo": "Weathercold/ExtraLogging",
