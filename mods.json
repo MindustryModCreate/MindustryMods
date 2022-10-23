@@ -26,6 +26,19 @@
     "description": "A mod that adds in a butt load of content"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "New Horizon",
+    "version": "0.2.1",
+    "mod_id": "new-horizon",
+    "author": "Yuria",
+    "lastUpdated": "2022-10-09T05:16:03Z",
+    "stars": 182,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Warning: Unfinished For V7"
+  },
+  {
     "repo": "Xeloboyo/Factoriodustry",
     "name": "FactoryDustry - TexturePack",
     "version": "0.4.1",
@@ -37,19 +50,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "New Horizon",
-    "version": "0.2.1",
-    "mod_id": "new-horizon",
-    "author": "Yuria",
-    "lastUpdated": "2022-10-09T05:16:03Z",
-    "stars": 181,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Warning: Unfinished For V7"
   },
   {
     "repo": "Mesokrix/Vanilla-Upgraded",
@@ -188,7 +188,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-23T01:45:11Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -201,7 +201,7 @@
     "mod_id": "Production Mod",
     "author": "What42Pizza",
     "lastUpdated": "2022-09-01T02:40:02Z",
-    "stars": 67,
+    "stars": 68,
     "minGameVersion": "126.3",
     "hasScripts": false,
     "hasJava": false,
@@ -1092,32 +1092,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.7.0",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-10-10T01:27:30Z",
-    "stars": 16,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.42",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-10-16T03:22:35Z",
-    "stars": 16,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.6",
@@ -1129,6 +1103,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.42",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-10-23T08:14:06Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.7.4",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-10-23T09:02:01Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
     "repo": "sk7725/Commands",
@@ -4862,6 +4862,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "warcry98/SpeedControl",
     "name": "Speed Control",
     "version": "0.1",
@@ -5796,19 +5809,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2022-01-20T16:16:20Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "GameStuffOffical/morebulletsmodforhjson",
