@@ -188,7 +188,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-23T12:51:01Z",
-    "stars": 70,
+    "stars": 71,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -253,7 +253,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-10-09T21:29:57Z",
-    "stars": 63,
+    "stars": 62,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -266,7 +266,7 @@
     "mod_id": "ui-lib",
     "author": "deltanedas",
     "lastUpdated": "2022-07-16T02:37:54Z",
-    "stars": 60,
+    "stars": 59,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -343,8 +343,8 @@
     "version": "2.0 - The Erekir Update(1)",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-10-21T16:21:53Z",
-    "stars": 46,
+    "lastUpdated": "2022-10-23T17:15:50Z",
+    "stars": 47,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -577,7 +577,7 @@
     "version": "0.5.1",
     "mod_id": "ol",
     "author": "StaBU",
-    "lastUpdated": "2022-10-21T10:00:16Z",
+    "lastUpdated": "2022-10-23T19:28:10Z",
     "stars": 30,
     "minGameVersion": "138.1",
     "hasScripts": false,
@@ -1144,19 +1144,6 @@
     "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
-    "repo": "Anuken/MindustryKotlinModTemplate",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2021-08-21T03:02:48Z",
-    "stars": 15,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
-  },
-  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1246,6 +1233,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry auto updater"
+  },
+  {
+    "repo": "Anuken/MindustryKotlinModTemplate",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2021-08-21T03:02:48Z",
+    "stars": 14,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   },
   {
     "repo": "EchoVespy/Simplistic",
@@ -3125,7 +3125,7 @@
     "version": "v0.3",
     "mod_id": "flow",
     "author": "Uujuju",
-    "lastUpdated": "2022-10-23T04:03:33Z",
+    "lastUpdated": "2022-10-23T18:08:29Z",
     "stars": 5,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -5512,19 +5512,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -6056,5 +6043,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
+  },
+  {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0",
+    "mod_id": "malwork-mod",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-23T19:12:02Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
   }
 ]
