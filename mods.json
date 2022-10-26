@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-10-09T05:16:03Z",
-    "stars": 182,
+    "stars": 183,
     "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "version": "2.0 - The Erekir Update(1)",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-10-25T16:56:53Z",
+    "lastUpdated": "2022-10-26T13:28:19Z",
     "stars": 47,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -520,6 +520,19 @@
     "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
+    "repo": "xStaBUx/Omaloon-public",
+    "name": "Omaloon",
+    "version": "0.5.1",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-10-26T18:09:25Z",
+    "stars": 31,
+    "minGameVersion": "138.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -572,19 +585,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "xStaBUx/Omaloon-public",
-    "name": "Omaloon",
-    "version": "0.5.1",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-10-23T19:28:10Z",
-    "stars": 30,
-    "minGameVersion": "138.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
-  },
-  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "version": "9.0",
@@ -629,7 +629,7 @@
     "version": "0.24.2",
     "mod_id": "Dimension Shard",
     "author": "滞人",
-    "lastUpdated": "2022-10-20T15:19:24Z",
+    "lastUpdated": "2022-10-26T15:01:15Z",
     "stars": 25,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1643,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-26T01:23:36Z",
+    "lastUpdated": "2022-10-26T12:35:20Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2444,17 +2444,17 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "sergeyoshpo/avaritia",
-    "name": "avaritia",
-    "version": "2.0",
-    "mod_id": "avaritia",
-    "author": "CAT",
-    "lastUpdated": "2021-03-29T16:03:24Z",
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
     "stars": 6,
-    "minGameVersion": "120",
+    "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": false,
-    "description": "этот мод заставит тебя попыхтеть"
+    "description": ""
   },
   {
     "repo": "MindustryInside/AdvancedDevMode",
@@ -3125,7 +3125,7 @@
     "version": "v0.3",
     "mod_id": "flow",
     "author": "Uujuju",
-    "lastUpdated": "2022-10-26T01:31:19Z",
+    "lastUpdated": "2022-10-26T16:53:26Z",
     "stars": 5,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -3404,6 +3404,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
+  },
+  {
+    "repo": "Mnemotechnician/total-chaos",
+    "name": "Total Chaos",
+    "version": "1.0",
+    "mod_id": "totalchaos",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-08T09:40:54Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "Alexander397172YT/Alex39-Mod",
@@ -5005,6 +5018,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "gorodmi/shapez",
+    "name": "Shapez",
+    "version": "1.0",
+    "mod_id": "shapez",
+    "author": "gorodmi",
+    "lastUpdated": "2022-10-25T14:43:27Z",
+    "stars": 2,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "shapes shapes shapes shapes"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -6004,19 +6030,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "gorodmi/shapez",
-    "name": "Shapez",
-    "version": "1.0",
-    "mod_id": "shapez",
-    "author": "gorodmi",
-    "lastUpdated": "2022-10-25T14:43:27Z",
-    "stars": 0,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "shapes shapes shapes shapes"
   },
   {
     "repo": "TheMalaysianDude/malwork",
