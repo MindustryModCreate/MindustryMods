@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-10-28T17:36:23Z",
+    "lastUpdated": "2022-10-29T12:21:58Z",
     "stars": 203,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -253,7 +253,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2022-10-25T15:10:04Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
@@ -1643,7 +1643,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-29T01:15:20Z",
+    "lastUpdated": "2022-10-29T12:27:35Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3640,6 +3640,19 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
+    "repo": "gorodmi/shapez",
+    "name": "Shapez",
+    "version": "1.0",
+    "mod_id": "shapez",
+    "author": "gorodmi",
+    "lastUpdated": "2022-10-28T22:02:54Z",
+    "stars": 4,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "shapes shapes shapes shapes"
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -5031,19 +5044,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "gorodmi/shapez",
-    "name": "Shapez",
-    "version": "1.0",
-    "mod_id": "shapez",
-    "author": "gorodmi",
-    "lastUpdated": "2022-10-28T22:02:54Z",
-    "stars": 2,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "shapes shapes shapes shapes"
-  },
-  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -6082,5 +6082,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "为所以氢气mod提供前置"
+  },
+  {
+    "repo": "EmmmM9O/mindustry-mod-HydrogenCore-java",
+    "name": "hc",
+    "version": "1.0",
+    "mod_id": "氢气核心jqva",
+    "author": "m9O",
+    "lastUpdated": "2022-10-29T13:50:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "氢气核心为一些mod提供前置"
   }
 ]
