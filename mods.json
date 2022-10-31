@@ -96,7 +96,7 @@
     "version": "13.0",
     "mod_id": "revision",
     "author": "Slava0135",
-    "lastUpdated": "2022-08-25T07:54:20Z",
+    "lastUpdated": "2022-10-31T09:03:14Z",
     "stars": 120,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -122,7 +122,7 @@
     "version": "5.0",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-10-23T14:06:58Z",
+    "lastUpdated": "2022-10-31T06:26:29Z",
     "stars": 87,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -187,7 +187,7 @@
     "version": "v0.8.3",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2022-10-23T12:51:01Z",
+    "lastUpdated": "2022-10-31T07:22:09Z",
     "stars": 71,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1742,6 +1742,19 @@
     "description": "This mod is dead, we have killed it."
   },
   {
+    "repo": "no9527dada/free-campaign",
+    "name": "free-campaign-自由战役",
+    "version": "0.2",
+    "mod_id": "free-campaign",
+    "author": "呵呵哒",
+    "lastUpdated": "2021-10-31T02:59:50Z",
+    "stars": 9,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
+  },
+  {
     "repo": "Janssendel/Opposing-Front",
     "name": "Opposing Front",
     "version": "ask Jans",
@@ -1885,6 +1898,19 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
+    "repo": "Slava0135/reFine",
+    "name": "reFine",
+    "version": "3.0",
+    "mod_id": "refine",
+    "author": "Slava0135",
+    "lastUpdated": "2022-10-31T09:55:43Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Raw materials processing"
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1909,19 +1935,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
-  },
-  {
-    "repo": "Slava0135/reFine",
-    "name": "reFine",
-    "version": "2.2",
-    "mod_id": "refine",
-    "author": "Slava0135",
-    "lastUpdated": "2021-02-11T20:08:12Z",
-    "stars": 8,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Raw materials processing"
   },
   {
     "repo": "MrDuck557/MoarWaterUnits",
@@ -3510,6 +3523,19 @@
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
   },
   {
+    "repo": "wshon/MinerTools135",
+    "name": "MinerTools 135",
+    "version": "1.6.5.1",
+    "mod_id": "miner-tools-135",
+    "author": "miner, adapter by wshon",
+    "lastUpdated": "2022-06-05T01:13:11Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry 135.2"
+  },
+  {
     "repo": "TeeworldsFun/Mindustry-teeworlds",
     "name": "Teeworlds Developers Coming!(Tws/DDNet)",
     "version": "0.6.4",
@@ -4425,7 +4451,7 @@
     "version": "1.1.0",
     "mod_id": "yr2-logic-debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-10-31T04:34:39Z",
+    "lastUpdated": "2022-10-31T05:58:28Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5005,6 +5031,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "TheEE145/the-new-tech-mod",
+    "name": "The new tech mod",
+    "version": "1.0",
+    "mod_id": "the-new-tech-mod",
+    "author": "TheEE145",
+    "lastUpdated": "2022-10-31T09:37:34Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "mod that add more technologies"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5237,19 +5276,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
-  },
-  {
-    "repo": "TheEE145/the-new-tech-mod",
-    "name": "The New Tech Mod",
-    "version": "1.0",
-    "mod_id": "TNTM-TheEE145",
-    "author": "TheEE145",
-    "lastUpdated": "2022-08-09T16:38:28Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "nekit508/MindustryExtendedRecipeModule",
