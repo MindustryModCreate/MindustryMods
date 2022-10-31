@@ -507,19 +507,6 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
-    "repo": "NickName73/GRavillaso",
-    "name": "GRavillaso",
-    "version": "2 b41",
-    "mod_id": "gravillaso",
-    "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-27T09:34:09Z",
-    "stars": 31,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
     "repo": "xStaBUx/Omaloon-public",
     "name": "Omaloon",
     "version": "0.5.1",
@@ -531,6 +518,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
+  },
+  {
+    "repo": "NiTiSon/GRavillaso",
+    "name": "GRavillaso [Abandoned]",
+    "version": "2 b41",
+    "mod_id": "gravillaso",
+    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-10-31T19:09:15Z",
+    "stars": 31,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "Gdeft/substructure",
@@ -2106,6 +2106,19 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
+    "repo": "gorodmi/shapez",
+    "name": "Shapez",
+    "version": "1.0",
+    "mod_id": "shapez",
+    "author": "gorodmi",
+    "lastUpdated": "2022-10-31T18:56:08Z",
+    "stars": 8,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "shapes shapes shapes shapes"
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -3144,19 +3157,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stuff."
-  },
-  {
-    "repo": "gorodmi/shapez",
-    "name": "Shapez",
-    "version": "1.0",
-    "mod_id": "shapez",
-    "author": "gorodmi",
-    "lastUpdated": "2022-10-30T19:48:33Z",
-    "stars": 5,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "shapes shapes shapes shapes"
   },
   {
     "repo": "1qwaka/Item-transfer",
@@ -4472,6 +4472,19 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a fun mod and will probably not be all that balanced.\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
+    "repo": "TheEE145/the-new-tech-mod",
+    "name": "The new tech mod",
+    "version": "1.0",
+    "mod_id": "the-new-tech-mod",
+    "author": "TheEE145",
+    "lastUpdated": "2022-10-31T18:39:31Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "mod that add more technologies"
+  },
+  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -5044,19 +5057,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "TheEE145/the-new-tech-mod",
-    "name": "The new tech mod",
-    "version": "1.0",
-    "mod_id": "the-new-tech-mod",
-    "author": "TheEE145",
-    "lastUpdated": "2022-10-31T09:37:34Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "mod that add more technologies"
-  },
-  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5367,6 +5367,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Work In Progress.\n\nAdd futuristic factory and a new planet."
+  },
+  {
+    "repo": "mrybs/dasuas",
+    "name": "Dasuas",
+    "version": "0.1",
+    "mod_id": "dasuas",
+    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nproneslow - pixelartist\nfist - pixelartist",
+    "lastUpdated": "2022-10-30T16:02:47Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dausas Project mod"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6095,18 +6108,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "氢气核心为一些mod提供前置"
-  },
-  {
-    "repo": "mrybs/dasuas",
-    "name": "Dasuas",
-    "version": "0.1",
-    "mod_id": "dasuas",
-    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nproneslow - pixelartist\nfist - pixelartist",
-    "lastUpdated": "2022-10-30T16:02:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dausas Project mod"
   }
 ]
