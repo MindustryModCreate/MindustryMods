@@ -149,7 +149,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2022-10-04T08:29:03Z",
-    "stars": 81,
+    "stars": 82,
     "minGameVersion": "138.1",
     "hasScripts": true,
     "hasJava": true,
@@ -513,7 +513,7 @@
     "mod_id": "ol",
     "author": "StaBU",
     "lastUpdated": "2022-10-26T18:09:25Z",
-    "stars": 31,
+    "stars": 32,
     "minGameVersion": "138.1",
     "hasScripts": false,
     "hasJava": true,
@@ -793,19 +793,6 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-07-19T17:52:54Z",
-    "stars": 22,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -830,6 +817,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-01T04:28:04Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "sk7725/Testers",
@@ -1560,6 +1560,19 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-11-01T01:45:54Z",
+    "stars": 11,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1649,19 +1662,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-10-31T12:33:45Z",
-    "stars": 10,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -4992,19 +4992,6 @@
     "description": "this game with this mod was cursed"
   },
   {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.37: Additional",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-09-10T09:18:35Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets(maybe not a lot)"
-  },
-  {
     "repo": "RouterXdd/Xsoverd-Remake",
     "name": "Xsoverd Remake",
     "version": "alpha 1.4",
@@ -5045,9 +5032,9 @@
   },
   {
     "repo": "zeutd/Degradation",
-    "name": "degradation",
+    "name": "disintegration",
     "version": "1.0",
-    "mod_id": "degradation",
+    "mod_id": "disintegration",
     "author": "zeutd",
     "lastUpdated": "2022-10-19T12:28:27Z",
     "stars": 2,
