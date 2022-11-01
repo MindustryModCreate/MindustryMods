@@ -824,7 +824,7 @@
     "version": "1.2.4",
     "mod_id": "fooInstaller",
     "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-01T04:28:04Z",
+    "lastUpdated": "2022-11-01T07:29:05Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1105,6 +1105,19 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.7.4",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-10-23T09:02:01Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.6",
@@ -1194,19 +1207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.7.4",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-10-23T09:02:01Z",
-    "stars": 15,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1443,6 +1443,19 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.4.4",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-10-15T13:00:15Z",
+    "stars": 12,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1519,19 +1532,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.4.4",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-10-15T13:00:15Z",
-    "stars": 11,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Slotterleet/distributor",
@@ -4472,12 +4472,25 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a fun mod and will probably not be all that balanced.\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2022-11-01T05:47:46Z",
+    "stars": 3,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "TheEE145/the-new-tech-mod",
     "name": "The new tech mod",
     "version": "1.0",
     "mod_id": "the-new-tech-mod",
     "author": "TheEE145",
-    "lastUpdated": "2022-10-31T18:39:31Z",
+    "lastUpdated": "2022-11-01T09:14:52Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4992,6 +5005,19 @@
     "description": "this game with this mod was cursed"
   },
   {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.37: Additional",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-09-10T09:18:35Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
     "repo": "RouterXdd/Xsoverd-Remake",
     "name": "Xsoverd Remake",
     "version": "alpha 1.4",
@@ -5029,19 +5055,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）"
-  },
-  {
-    "repo": "zeutd/Degradation",
-    "name": "disintegration",
-    "version": "1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2022-10-19T12:28:27Z",
-    "stars": 2,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "4156/Infintory",
