@@ -188,7 +188,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-31T07:22:09Z",
-    "stars": 72,
+    "stars": 73,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -301,12 +301,12 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
-    "version": "26.4",
+    "version": "26.5",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-29T05:55:20Z",
+    "lastUpdated": "2022-11-01T22:33:13Z",
     "stars": 52,
-    "minGameVersion": "138",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
@@ -949,6 +949,19 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.42",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-10-31T13:07:43Z",
+    "stars": 19,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "EclipseTheOldOne/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -999,19 +1012,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A space themed mod. Adds landable asteroids as well as a brand-new planet with unique gameplay.\n\nUses liplum/MultiCrafterLib, but you aren't required to install it."
-  },
-  {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.42",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-10-31T13:07:43Z",
-    "stars": 18,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "SnakkiZXZ/Coppermod",
@@ -1123,7 +1123,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-11-01T17:36:53Z",
+    "lastUpdated": "2022-11-02T03:04:40Z",
     "stars": 16,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1565,7 +1565,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-11-01T12:36:17Z",
+    "lastUpdated": "2022-11-02T01:27:51Z",
     "stars": 11,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1768,6 +1768,19 @@
     "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 9,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "RebornTrack970/OmegaCursed",
     "name": "Omega-Cursed.bat",
     "version": "0.3",
@@ -1909,6 +1922,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that alters ore processing (not designed for campaign!)"
+  },
+  {
+    "repo": "Sh1penfire/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "1.0",
+    "mod_id": "hollow-frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-11-02T03:41:41Z",
+    "stars": 9,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -3133,12 +3159,25 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "version": "1.1.0",
+    "mod_id": "yr2-logic-debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-10-31T10:42:05Z",
+    "stars": 5,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作"
+  },
+  {
     "repo": "uujuju1/Monolith",
     "name": "Flow",
     "version": "v0.3",
     "mod_id": "flow",
     "author": "Uujuju",
-    "lastUpdated": "2022-10-30T16:33:01Z",
+    "lastUpdated": "2022-11-02T01:07:02Z",
     "stars": 5,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -3651,19 +3690,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "version": "1.1.0",
-    "mod_id": "yr2-logic-debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-10-31T10:42:05Z",
-    "stars": 4,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -5380,19 +5406,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Don't play it"
-  },
-  {
-    "repo": "Thinkystuff7/MindustryMod-1",
-    "name": "Mind ustry Mod1",
-    "version": "3.1",
-    "mod_id": "Mod 1",
-    "author": "thinkystuff7",
-    "lastUpdated": "2020-10-19T16:39:48Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
     "repo": "Aweguy/pixelcraft",
