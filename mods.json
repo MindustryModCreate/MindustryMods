@@ -954,7 +954,7 @@
     "version": "1.1",
     "mod_id": "morevanilla",
     "author": "M.Q.",
-    "lastUpdated": "2022-11-02T15:10:25Z",
+    "lastUpdated": "2022-11-03T09:37:22Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1911,19 +1911,6 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "gorodmi/shapez",
-    "name": "Shapez",
-    "version": "1.0",
-    "mod_id": "shapez",
-    "author": "gorodmi",
-    "lastUpdated": "2022-11-01T14:09:26Z",
-    "stars": 9,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "shapes shapes shapes shapes"
-  },
-  {
     "repo": "Slava0135/reFine",
     "name": "reFine",
     "version": "3.1",
@@ -1935,6 +1922,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that alters ore processing (not designed for campaign!)"
+  },
+  {
+    "repo": "gorodmi/shapez",
+    "name": "Shapez",
+    "version": "1.0",
+    "mod_id": "shapez",
+    "author": "gorodmi",
+    "lastUpdated": "2022-11-03T09:15:42Z",
+    "stars": 9,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "wip\nif you want to test this download from actions"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -3692,6 +3692,19 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
+    "repo": "TheEE145/the-new-tech-mod",
+    "name": "The new tech mod",
+    "version": "1.0",
+    "mod_id": "the-new-tech-mod",
+    "author": "TheEE145",
+    "lastUpdated": "2022-11-02T20:32:51Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "mod that add more technologies"
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4498,19 +4511,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "TheEE145/the-new-tech-mod",
-    "name": "The new tech mod",
-    "version": "1.0",
-    "mod_id": "the-new-tech-mod",
-    "author": "TheEE145",
-    "lastUpdated": "2022-11-02T20:32:51Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "mod that add more technologies"
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0",
@@ -4574,19 +4574,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
-  },
-  {
-    "repo": "txomon/MindustryClientHostPauseMod",
-    "name": "Client host pause mod",
-    "version": "1.0",
-    "mod_id": "client-host-pause",
-    "author": "Javier Domingo Cansino",
-    "lastUpdated": "2021-03-04T20:24:02Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod to allow the host to pause the game."
   },
   {
     "repo": "martycagas/mindustry-mod-armored-conveyor",
@@ -5042,6 +5029,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.0.1",
+    "mod_id": "pyra",
+    "author": "valigaming15",
+    "lastUpdated": "2022-10-01T14:10:58Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "Yoru-Kitsune/Beskar",
