@@ -343,8 +343,8 @@
     "version": "2.0 - The Erekir Update(1)",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-11-01T12:42:12Z",
-    "stars": 48,
+    "lastUpdated": "2022-11-03T15:08:38Z",
+    "stars": 49,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -871,6 +871,19 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.42",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-11-03T11:11:57Z",
+    "stars": 20,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -936,25 +949,12 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.42",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-10-31T13:07:43Z",
-    "stars": 19,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "MQ-1175/more-vanilla",
     "name": "More Than Vanilla",
     "version": "1.1",
     "mod_id": "morevanilla",
     "author": "M.Q.",
-    "lastUpdated": "2022-11-03T09:37:22Z",
+    "lastUpdated": "2022-11-03T13:21:14Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1040,6 +1040,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow",
+    "version": "0.6",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-11-03T12:04:25Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
+  },
+  {
     "repo": "Drullkus/Unnerf-Core-Units",
     "name": "Unnerf Core Units",
     "version": "1.1",
@@ -1116,19 +1129,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow",
-    "version": "0.6",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-11-02T16:41:35Z",
-    "stars": 16,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
   },
   {
     "repo": "sk7725/Commands",
@@ -1565,7 +1565,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-11-03T01:20:01Z",
+    "lastUpdated": "2022-11-03T12:29:58Z",
     "stars": 11,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2423,7 +2423,7 @@
     "version": "v0.3",
     "mod_id": "flow",
     "author": "Uujuju",
-    "lastUpdated": "2022-11-03T00:04:17Z",
+    "lastUpdated": "2022-11-03T12:13:34Z",
     "stars": 7,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -3146,19 +3146,6 @@
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-21T12:23:02Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "Cry0flu1d/Project-Frost-In-Java",
     "name": "Project Frost in a Jar",
     "version": "0.1",
@@ -3172,12 +3159,25 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-03T11:02:58Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.1.0",
     "mod_id": "yr2-logic-debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-02T18:44:27Z",
+    "lastUpdated": "2022-11-03T14:44:11Z",
     "stars": 5,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -4574,6 +4574,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
+  },
+  {
+    "repo": "txomon/MindustryClientHostPauseMod",
+    "name": "Client host pause mod",
+    "version": "1.0",
+    "mod_id": "client-host-pause",
+    "author": "Javier Domingo Cansino",
+    "lastUpdated": "2021-03-04T20:24:02Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to allow the host to pause the game."
   },
   {
     "repo": "martycagas/mindustry-mod-armored-conveyor",
