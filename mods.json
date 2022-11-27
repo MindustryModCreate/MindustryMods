@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2022-09-26T04:50:14Z",
-    "stars": 261,
+    "stars": 263,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-11-25T18:39:49Z",
-    "stars": 208,
+    "stars": 209,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2022-10-09T05:16:03Z",
-    "stars": 193,
+    "stars": 194,
     "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
@@ -65,6 +65,19 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.2-youngcha.3.3",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2022-11-27T14:18:22Z",
+    "stars": 126,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
     "version": "0.7 Alpha",
@@ -76,19 +89,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.2-youngcha.3.3",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2022-11-21T11:57:10Z",
-    "stars": 125,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "Slava0135/reVision",
@@ -130,6 +130,19 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "ExtraUtilities",
+    "version": "1.05",
+    "mod_id": "extra-utilities",
+    "author": "guiY",
+    "lastUpdated": "2022-10-04T08:29:03Z",
+    "stars": 84,
+    "minGameVersion": "138.1",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "槑"
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -141,19 +154,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "ExtraUtilities",
-    "version": "1.05",
-    "mod_id": "extra-utilities",
-    "author": "guiY",
-    "lastUpdated": "2022-10-04T08:29:03Z",
-    "stars": 83,
-    "minGameVersion": "138.1",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "槑"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -317,7 +317,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-11-26T17:15:17Z",
+    "lastUpdated": "2022-11-27T15:03:52Z",
     "stars": 52,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -533,19 +533,6 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
-    "repo": "pixecoz/MindustrySchematics",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "mod_id": "schematics-pack",
-    "author": "pixecoz",
-    "lastUpdated": "2022-07-28T10:58:37Z",
-    "stars": 31,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
-  },
-  {
     "repo": "FlinTyX/DiverseTech",
     "name": "DiverseTech",
     "version": "0.2.2",
@@ -570,6 +557,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
+  },
+  {
+    "repo": "pixecoz/MindustrySchematics",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "mod_id": "schematics-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2022-07-28T10:58:37Z",
+    "stars": 30,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "Gdeft/substructure",
@@ -1747,7 +1747,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-11-27T01:12:05Z",
+    "lastUpdated": "2022-11-27T12:22:56Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2548,6 +2548,19 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "Toriwake/Kannadustry",
+    "name": "Kannadustry",
+    "version": "1.0",
+    "mod_id": "Kannadustry",
+    "author": "Toriwake/Kanna",
+    "lastUpdated": "2022-09-30T19:14:44Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
+  },
+  {
     "repo": "sleepnevercomes/everything-is-grey",
     "name": "EVERYTHING IS GREY",
     "version": "0.05a",
@@ -2858,19 +2871,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more production blocks."
-  },
-  {
-    "repo": "Toriwake/Kannadustry",
-    "name": "Kannadustry",
-    "version": "1.0",
-    "mod_id": "Kannadustry",
-    "author": "Toriwake/Kanna",
-    "lastUpdated": "2022-09-30T19:14:44Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Kanna mod"
   },
   {
     "repo": "Froomeeth/Emiluras-Discovery",
@@ -5512,6 +5512,19 @@
     "description": "대회용 모드 0.7"
   },
   {
+    "repo": "EmanuelG-Gaming/quizdustry",
+    "name": "Quizdustry",
+    "version": "0.1 Pre-Alpha",
+    "mod_id": "quiz-dustry",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-11-27T13:15:26Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "An experimental quiz engine and also a library on Mindustry."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -6206,7 +6219,7 @@
     "version": "0.1",
     "mod_id": "vm",
     "author": "ValkovY",
-    "lastUpdated": "2022-11-26T21:22:11Z",
+    "lastUpdated": "2022-11-27T12:42:29Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
