@@ -379,15 +379,15 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.5.15",
+    "version": "2.6.1",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-11-29T12:36:41Z",
-    "stars": 43,
+    "lastUpdated": "2022-11-29T19:20:22Z",
+    "stars": 44,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n"
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n"
   },
   {
     "repo": "AeronGreva/AeroMindustry",
@@ -668,7 +668,7 @@
     "version": "0.24.2",
     "mod_id": "Dimension Shard",
     "author": "滞人",
-    "lastUpdated": "2022-10-27T17:08:25Z",
+    "lastUpdated": "2022-11-29T18:07:43Z",
     "stars": 25,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -726,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "version": "2.3",
-    "mod_id": "oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-08-19T10:42:38Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "Ferlern/extended-UI",
@@ -804,6 +791,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
+    "repo": "uujuju1/project-oblivion",
+    "name": "Project Oblivion",
+    "version": "2.3",
+    "mod_id": "oblivion",
+    "author": "Uujuju",
+    "lastUpdated": "2022-08-19T10:42:38Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "Anuken/wind3",
@@ -1144,32 +1144,6 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.5.8",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-11-26T16:49:55Z",
-    "stars": 16,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.7.11",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-11-26T16:50:33Z",
-    "stars": 16,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.0.1",
@@ -1181,6 +1155,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.7.11",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-11-29T15:45:21Z",
+    "stars": 16,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.5.9",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-11-29T16:23:14Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -1755,6 +1755,19 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-22T14:19:20Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -1987,19 +2000,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-22T14:19:20Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2587,19 +2587,6 @@
     "description": "Kanna mod"
   },
   {
-    "repo": "sleepnevercomes/everything-is-grey",
-    "name": "EVERYTHING IS GREY",
-    "version": "0.05a",
-    "mod_id": "everything-is-grey",
-    "author": "NEW GIRLFRIEND#1955",
-    "lastUpdated": "2022-10-22T03:40:53Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Vanilla decoloring project."
-  },
-  {
     "repo": "deltanedas/modding-toolbox",
     "name": "Modding Toolbox",
     "version": "3.7.4",
@@ -2624,6 +2611,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
+  },
+  {
+    "repo": "sleepnevercomes/everything-is-grey",
+    "name": "EVERYTHING IS GREY",
+    "version": "0.05a",
+    "mod_id": "everything-is-grey",
+    "author": "NEW GIRLFRIEND#1955",
+    "lastUpdated": "2022-11-29T17:20:44Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Vanilla decoloring project."
   },
   {
     "repo": "Vixelot/Facdustrio",
