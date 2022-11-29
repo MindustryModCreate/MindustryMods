@@ -97,7 +97,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2022-11-28T15:43:20Z",
-    "stars": 122,
+    "stars": 123,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -382,7 +382,7 @@
     "version": "2.5.15",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-11-28T19:37:36Z",
+    "lastUpdated": "2022-11-28T21:31:51Z",
     "stars": 43,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -1131,6 +1131,19 @@
     "description": "Very pog."
   },
   {
+    "repo": "AshesKaiser-KR/Mindustry-Ages",
+    "name": "Mindustry: Ages",
+    "version": "0.1",
+    "mod_id": "ages",
+    "author": "AshesKaiser",
+    "lastUpdated": "2022-11-25T15:19:36Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first java Mindustry mod"
+  },
+  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.5.8",
@@ -1220,19 +1233,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
-  },
-  {
-    "repo": "AshesKaiser-KR/Mindustry-Ages",
-    "name": "Mindustry: Ages",
-    "version": "0.1",
-    "mod_id": "ages",
-    "author": "AshesKaiser",
-    "lastUpdated": "2022-11-25T15:19:36Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first java Mindustry mod"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1976,6 +1976,19 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-22T14:19:20Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2208,19 +2221,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stuff."
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-22T14:19:20Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Sh1penfire/Endless-Rusting",
@@ -2598,6 +2598,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds some utilities for mod developers.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "Froomeeth/Emiluras-Discovery",
+    "name": "Serilia's Discovery",
+    "version": "1.2",
+    "mod_id": "serilia",
+    "author": "\nDeveloper: Froomeeth\n\nGerman Translations: Fresh791\n",
+    "lastUpdated": "2022-11-23T16:17:40Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -4459,19 +4472,6 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
-    "repo": "CLUET-op/Green-Technology",
-    "name": "Green-Technologies",
-    "version": "0.4",
-    "mod_id": "Green Tech",
-    "author": " CLUET",
-    "lastUpdated": "2022-08-23T05:19:10Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
-  },
-  {
     "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
     "name": "[Kotlin] Mindustry Mod Template",
     "version": "2.0",
@@ -4646,12 +4646,25 @@
     "version": "0.2",
     "mod_id": "xenacia-mod",
     "author": "Thomas",
-    "lastUpdated": "2022-11-28T00:45:22Z",
+    "lastUpdated": "2022-11-29T00:15:56Z",
     "stars": 3,
     "minGameVersion": "140.3",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Test."
+  },
+  {
+    "repo": "CLUET-op/Green-Technology",
+    "name": "Green-Technologies",
+    "version": "0.4",
+    "mod_id": "Green Tech",
+    "author": " CLUET",
+    "lastUpdated": "2022-11-29T00:25:26Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5265,19 +5278,6 @@
     "description": "氢气核心为一些mod提供前置"
   },
   {
-    "repo": "hbuddz/Compress-this",
-    "name": "Compress this!",
-    "version": "1.7.6",
-    "mod_id": "COMPRESS THIS!",
-    "author": "Coding - hbuddz\nSprites - hbuddz & his twot of a brother",
-    "lastUpdated": "2022-11-28T07:46:17Z",
-    "stars": 2,
-    "minGameVersion": "140.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> https://discord.gg/Rfr2s8bQd9\n\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to Alex for encouraging me with making this mod, and supporting my ideas!"
-  },
-  {
     "repo": "ItsKirby69/minedusty",
     "name": "MineDusty",
     "version": "1.0",
@@ -5289,6 +5289,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WOrking on a java mod lol. ItsDaKIRBY69#5369"
+  },
+  {
+    "repo": "hbuddz/Compress-this",
+    "name": "Compress this!",
+    "version": "1.7.6",
+    "mod_id": "COMPRESS THIS!",
+    "author": "Coding - hbuddz\nSprites - hbuddz & his twot of a brother",
+    "lastUpdated": "2022-11-29T00:12:51Z",
+    "stars": 2,
+    "minGameVersion": "140.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> https://discord.gg/Rfr2s8bQd9\n\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to Alex for encouraging me with making this mod, and supporting my ideas!"
   },
   {
     "repo": "4156/Infintory",
@@ -6232,7 +6245,7 @@
     "version": "0.0.5",
     "mod_id": "mptv2-re",
     "author": "ゆなてゃ",
-    "lastUpdated": "2022-11-28T03:52:15Z",
+    "lastUpdated": "2022-11-29T00:04:45Z",
     "stars": 0,
     "minGameVersion": "139",
     "hasScripts": false,
