@@ -266,7 +266,7 @@
     "mod_id": "ui-lib",
     "author": "deltanedas",
     "lastUpdated": "2022-10-28T19:34:52Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "139",
     "hasScripts": true,
     "hasJava": false,
@@ -1170,6 +1170,19 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
+    "repo": "Zelaux/ByteLogicMod",
+    "name": "Byte Logic Mod",
+    "version": "v1.0.1",
+    "mod_id": "byte-logic-mod",
+    "author": "Zelaux",
+    "lastUpdated": "2022-11-27T13:44:17Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "ThatOneBepis/Infinitodustry",
     "name": "Infinitodustry",
     "version": "2",
@@ -1747,7 +1760,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-11-28T12:26:06Z",
+    "lastUpdated": "2022-11-29T01:07:08Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2886,6 +2899,19 @@
     "description": "Adds more production blocks."
   },
   {
+    "repo": "Fresh791/Floatydustry",
+    "name": "Floatydustry",
+    "version": "1",
+    "mod_id": "ftd",
+    "author": "\nAuthor: Fresh791\n",
+    "lastUpdated": "2022-11-15T12:06:02Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.6.4",
@@ -2910,6 +2936,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantros",
+    "version": "0.3",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-11-29T03:59:01Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3261,32 +3300,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
-  },
-  {
-    "repo": "Fresh791/Floatydustry",
-    "name": "Floatydustry",
-    "version": "1",
-    "mod_id": "ftd",
-    "author": "\nAuthor: Fresh791\n",
-    "lastUpdated": "2022-11-15T12:06:02Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
-  },
-  {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantros",
-    "version": "0.3",
-    "mod_id": "Tantros-mod",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-11-16T02:27:34Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -4667,6 +4680,19 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
+    "repo": "BalaM314/flarogus-mod",
+    "name": "Flarogus",
+    "version": "1.0",
+    "mod_id": "flarogus-mod",
+    "author": "BalaM314",
+    "lastUpdated": "2022-11-29T02:30:28Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds flarogus to Mindustry."
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -5226,19 +5252,6 @@
     "description": "search 'Logic Bench' in schematics!"
   },
   {
-    "repo": "EB-wilson/MindustryUNClibModTemplate",
-    "name": "UNC mod 模板",
-    "version": "0.1",
-    "mod_id": "uncTemplate",
-    "author": "author",
-    "lastUpdated": "2022-11-20T13:15:06Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个使用UniverseCore作为前置的mod模板"
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -5250,19 +5263,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
-    "repo": "BalaM314/flarogus-mod",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "flarogus-mod",
-    "author": "BalaM314",
-    "lastUpdated": "2022-11-25T10:40:44Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds flarogus to Mindustry."
   },
   {
     "repo": "EmmmM9O/Mindustry-mod-HydrogenCore-java",
@@ -5302,6 +5302,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> https://discord.gg/Rfr2s8bQd9\n\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to Alex for encouraging me with making this mod, and supporting my ideas!"
+  },
+  {
+    "repo": "EB-wilson/MindustryUNClibModTemplate",
+    "name": "UNC mod 模板",
+    "version": "0.1",
+    "mod_id": "uncTemplate",
+    "author": "author",
+    "lastUpdated": "2022-11-29T01:11:43Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个使用UniverseCore作为前置的mod模板"
   },
   {
     "repo": "4156/Infintory",
@@ -6245,7 +6258,7 @@
     "version": "0.0.5",
     "mod_id": "mptv2-re",
     "author": "ゆなてゃ",
-    "lastUpdated": "2022-11-29T00:04:45Z",
+    "lastUpdated": "2022-11-29T03:01:05Z",
     "stars": 0,
     "minGameVersion": "139",
     "hasScripts": false,
