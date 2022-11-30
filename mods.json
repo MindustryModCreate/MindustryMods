@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-10-31T06:26:29Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -845,6 +845,19 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "version": "1.2",
+    "mod_id": "morevanilla",
+    "author": "M.Q.",
+    "lastUpdated": "2022-11-21T12:36:25Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher (or lowers) tier of blocks. Mod is still in development, more contents coming soon."
+  },
+  {
     "repo": "paulieg626/Cheat",
     "name": "CheatMod",
     "version": "2.4",
@@ -869,19 +882,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "version": "1.2",
-    "mod_id": "morevanilla",
-    "author": "M.Q.",
-    "lastUpdated": "2022-11-21T12:36:25Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher (or lowers) tier of blocks. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "sporrus/randomMindustry",
@@ -1159,10 +1159,10 @@
   {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
-    "version": "alpha-0.7.11",
+    "version": "alpha-0.7.12",
     "mod_id": "singularity",
     "author": "EBwilson",
-    "lastUpdated": "2022-11-29T15:45:21Z",
+    "lastUpdated": "2022-11-30T09:02:58Z",
     "stars": 16,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1172,10 +1172,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "1.5.9",
+    "version": "1.5.10",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2022-11-29T16:23:14Z",
+    "lastUpdated": "2022-11-30T09:52:53Z",
     "stars": 16,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1773,7 +1773,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-11-29T12:26:22Z",
+    "lastUpdated": "2022-11-30T01:07:40Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4667,19 +4667,6 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.2",
-    "mod_id": "xenacia-mod",
-    "author": "Thomas",
-    "lastUpdated": "2022-11-29T00:15:56Z",
-    "stars": 3,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Test."
-  },
-  {
     "repo": "CLUET-op/Green-Technology",
     "name": "Green-Technologies",
     "version": "0.4",
@@ -4691,6 +4678,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.2",
+    "mod_id": "xenacia-mod",
+    "author": "Thomas",
+    "lastUpdated": "2022-11-30T02:34:04Z",
+    "stars": 3,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Test."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5309,7 +5309,7 @@
     "version": "1.7.6",
     "mod_id": "COMPRESS THIS!",
     "author": "Coding - hbuddz\nSprites - hbuddz & his twot of a brother",
-    "lastUpdated": "2022-11-29T06:37:11Z",
+    "lastUpdated": "2022-11-30T03:39:27Z",
     "stars": 2,
     "minGameVersion": "140.0",
     "hasScripts": false,
@@ -5393,19 +5393,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
-  },
-  {
-    "repo": "Auseawesome/Mindustry-GameBreaker",
-    "name": "Mindustry Gamebreaker",
-    "version": "Alpha 0.1",
-    "mod_id": "mindustry-gamebreaker",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T16:41:22Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to break mindustry"
   },
   {
     "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
@@ -6258,7 +6245,7 @@
     "version": "0.0.5",
     "mod_id": "mptv2-re",
     "author": "ゆなてゃ",
-    "lastUpdated": "2022-11-29T03:01:05Z",
+    "lastUpdated": "2022-11-30T08:07:01Z",
     "stars": 0,
     "minGameVersion": "139",
     "hasScripts": false,
