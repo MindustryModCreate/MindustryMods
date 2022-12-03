@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-10-31T06:26:29Z",
-    "stars": 90,
+    "stars": 91,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-11-26T02:27:31Z",
-    "stars": 77,
+    "stars": 78,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-12-03T09:40:55Z",
+    "lastUpdated": "2022-12-03T13:01:01Z",
     "stars": 54,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -850,7 +850,7 @@
     "version": "1.2",
     "mod_id": "morevanilla",
     "author": "M.Q.",
-    "lastUpdated": "2022-12-02T09:35:13Z",
+    "lastUpdated": "2022-12-03T11:07:10Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -897,19 +897,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.44",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-11-20T08:17:23Z",
-    "stars": 20,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -921,6 +908,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
+  },
+  {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.44",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-12-03T10:15:59Z",
+    "stars": 20,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1066,6 +1066,19 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
+    "repo": "Zelaux/ByteLogicMod",
+    "name": "Byte Logic Mod",
+    "version": "v1.0.1",
+    "mod_id": "byte-logic-mod",
+    "author": "Zelaux",
+    "lastUpdated": "2022-12-03T14:28:26Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "Drullkus/Unnerf-Core-Units",
     "name": "Unnerf Core Units",
     "version": "1.1",
@@ -1168,19 +1181,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "Zelaux/ByteLogicMod",
-    "name": "Byte Logic Mod",
-    "version": "v1.0.1",
-    "mod_id": "byte-logic-mod",
-    "author": "Zelaux",
-    "lastUpdated": "2022-11-30T15:48:18Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -1773,7 +1773,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-12-03T00:59:44Z",
+    "lastUpdated": "2022-12-03T12:21:22Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2236,6 +2236,19 @@
     "description": "Stuff."
   },
   {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.4",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 8,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
+  },
+  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -2611,19 +2624,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
-  },
-  {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0.4",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-12-01T15:37:01Z",
-    "stars": 7,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3352,19 +3352,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds an Item Transfer that allows you to exchange items with another teams"
-  },
-  {
-    "repo": "thunder4lpha/UnDeRtHeWaTeR",
-    "name": "UnDeRtHeWaTeR",
-    "version": "0.2.2",
-    "mod_id": "UnDeRtHeWaTeR",
-    "author": "thunder4lpha",
-    "lastUpdated": "2021-02-19T09:16:11Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description."
   },
   {
     "repo": "MKosmic/Swamp-Saga",
@@ -5317,6 +5304,19 @@
     "description": "WOrking on a java mod lol. ItsDaKIRBY69#5369"
   },
   {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader-",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-03T14:51:10Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5549,19 +5549,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "대회용 모드 0.7"
-  },
-  {
-    "repo": "drfn/overture",
-    "name": "Overture",
-    "version": "1.0",
-    "mod_id": "overture",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-12-01T12:45:55Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod."
   },
   {
     "repo": "EmanuelG-Gaming/quizdustry",
