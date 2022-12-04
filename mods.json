@@ -577,7 +577,7 @@
     "version": "1.0",
     "mod_id": "advancements",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-01T10:11:31Z",
+    "lastUpdated": "2022-12-03T20:12:51Z",
     "stars": 30,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -746,7 +746,7 @@
     "version": "48",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-12-03T09:25:53Z",
+    "lastUpdated": "2022-12-03T22:06:06Z",
     "stars": 24,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -2457,19 +2457,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2022-05-12T13:33:41Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2507,6 +2494,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "3.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-08-08T15:08:00Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -2858,19 +2858,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that contains an OP yet super expensive weapon."
-  },
-  {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "3.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-08T15:08:00Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "valigaming15/pyra-mod",
@@ -3391,19 +3378,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
-    "repo": "pixaxeofpixie/AzureFlareTech",
-    "name": "Azure Flare Technologies",
-    "version": "1.0",
-    "mod_id": "azure-flare-tech",
-    "author": "PixaxeOfPixie",
-    "lastUpdated": "2021-04-18T17:20:34Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that targets on visual effects and sprites."
   },
   {
     "repo": "GlennFolker/Enumodify-Mod",
@@ -4654,19 +4628,6 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.2",
-    "mod_id": "xenacia-mod",
-    "author": "Thomas",
-    "lastUpdated": "2022-11-30T02:34:04Z",
-    "stars": 3,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Test."
-  },
-  {
     "repo": "mrybs/dasuas",
     "name": "Dasuas",
     "version": "1.0",
@@ -4704,6 +4665,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.2",
+    "mod_id": "xenacia-mod",
+    "author": "Thomas",
+    "lastUpdated": "2022-12-04T00:16:12Z",
+    "stars": 3,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Test."
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader-",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-04T00:36:49Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5304,25 +5291,12 @@
     "description": "这是一个使用UniverseCore作为前置的mod模板"
   },
   {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader-",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-03T14:51:10Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
-  },
-  {
     "repo": "ItsKirby69/minedusty",
     "name": "MineDusty",
     "version": "1.0",
     "mod_id": "minedusty",
     "author": "ItsKirby",
-    "lastUpdated": "2022-12-03T17:47:36Z",
+    "lastUpdated": "2022-12-03T21:35:14Z",
     "stars": 2,
     "minGameVersion": "140.4",
     "hasScripts": false,
