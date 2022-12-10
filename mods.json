@@ -650,6 +650,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "48",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-12-05T00:09:52Z",
+    "stars": 26,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -674,19 +687,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "48",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-12-05T00:09:52Z",
-    "stars": 25,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "p101q/UNI",
@@ -889,7 +889,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2022-12-08T05:33:00Z",
+    "lastUpdated": "2022-12-10T02:01:42Z",
     "stars": 21,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1677,6 +1677,19 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-12-10T00:59:12Z",
+    "stars": 11,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1753,19 +1766,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "wip\nif you want to test this download from actions"
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-12-09T12:22:55Z",
-    "stars": 10,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -3294,7 +3294,7 @@
     "version": "0.2",
     "mod_id": "xenacia",
     "author": "Thomas",
-    "lastUpdated": "2022-12-09T23:36:38Z",
+    "lastUpdated": "2022-12-10T04:59:03Z",
     "stars": 5,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -4667,19 +4667,6 @@
     "description": "For load MarkDown"
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2022-12-09T11:14:38Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4",
@@ -4691,6 +4678,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2022-12-10T03:12:35Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6251,5 +6251,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>"
+  },
+  {
+    "repo": "ValkovY/MarsiumModMindustry",
+    "name": "MarsiumMod",
+    "version": "0.1",
+    "mod_id": "vm",
+    "author": "ValkovY",
+    "lastUpdated": "2022-12-08T14:56:34Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Industry on v7."
   }
 ]
