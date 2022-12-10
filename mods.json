@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-10-28T22:23:46Z",
+    "lastUpdated": "2022-12-09T22:47:58Z",
     "stars": 125,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -291,7 +291,7 @@
     "version": "26.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-12-08T02:29:07Z",
+    "lastUpdated": "2022-12-10T00:32:20Z",
     "stars": 56,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -429,6 +429,19 @@
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
+    "repo": "xStaBUx/Omaloon-public",
+    "name": "Omaloon",
+    "version": "ol-0.5.1",
+    "mod_id": "ol",
+    "author": "StaBU",
+    "lastUpdated": "2022-12-09T21:07:36Z",
+    "stars": 37,
+    "minGameVersion": "138.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "Gdeft/portal",
     "name": "Portal",
     "version": "0.1.0",
@@ -466,19 +479,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "xStaBUx/Omaloon-public",
-    "name": "Omaloon",
-    "version": "0.5.1",
-    "mod_id": "ol",
-    "author": "StaBU",
-    "lastUpdated": "2022-12-09T07:28:40Z",
-    "stars": 35,
-    "minGameVersion": "138.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -533,6 +533,19 @@
     "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
+    "name": "MI2-Utilities Java",
+    "version": "1.0",
+    "mod_id": "MI2-Utilities-Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-12-09T15:31:58Z",
+    "stars": 32,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
+  },
+  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "version": "0.2.2",
@@ -570,19 +583,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
-    "name": "MI2-Utilities Java",
-    "version": "0.13.1",
-    "mod_id": "MI2-Utilities-Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-12-07T10:19:06Z",
-    "stars": 30,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
     "repo": "Gdeft/substructure",
@@ -993,7 +993,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-12-07T15:45:59Z",
+    "lastUpdated": "2022-12-09T14:43:13Z",
     "stars": 19,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1071,7 +1071,7 @@
     "version": "v1.0.1",
     "mod_id": "byte-logic-mod",
     "author": "Zelaux",
-    "lastUpdated": "2022-12-04T13:45:51Z",
+    "lastUpdated": "2022-12-09T17:30:50Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1443,6 +1443,19 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
+    "repo": "Sh1penfire/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "v1.0.2-alpha",
+    "mod_id": "hollow-frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-12-05T05:08:52Z",
+    "stars": 13,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "version": "1.0",
@@ -1519,19 +1532,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Collection of joke blocks"
-  },
-  {
-    "repo": "Sh1penfire/Welcome-to-the-Frostscape",
-    "name": "Welcome to the Frostscape",
-    "version": "v1.0.2-alpha",
-    "mod_id": "hollow-frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-12-05T05:08:52Z",
-    "stars": 12,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1760,7 +1760,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-12-08T12:23:57Z",
+    "lastUpdated": "2022-12-09T12:22:55Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2628,12 +2628,12 @@
   {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantros",
-    "version": "0.3",
+    "version": "0.5",
     "mod_id": "Tantros-mod",
     "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-12-09T00:32:35Z",
+    "lastUpdated": "2022-12-09T10:36:22Z",
     "stars": 7,
-    "minGameVersion": "137",
+    "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
@@ -3294,7 +3294,7 @@
     "version": "0.2",
     "mod_id": "xenacia",
     "author": "Thomas",
-    "lastUpdated": "2022-12-08T22:01:20Z",
+    "lastUpdated": "2022-12-09T23:36:38Z",
     "stars": 5,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -3939,6 +3939,19 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.42: Additional",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-12-09T13:40:33Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4537,19 +4550,6 @@
     "description": "this game with this mod was cursed"
   },
   {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.37: Additional",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-09-10T09:18:35Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets(maybe not a lot)"
-  },
-  {
     "repo": "FreezeMandu/QA-Schemic",
     "name": "Q&A Schemic",
     "version": "1.0",
@@ -4561,19 +4561,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2022-10-03T07:52:51Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
     "repo": "HubertBDLB/StellarMind",
@@ -4685,12 +4672,25 @@
     "version": "1.0",
     "mod_id": "disintegration",
     "author": "zeutd",
-    "lastUpdated": "2022-12-09T10:04:13Z",
+    "lastUpdated": "2022-12-09T11:14:38Z",
     "stars": 3,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2022-12-09T13:18:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
     "repo": "SirMachinegun/EBM",
