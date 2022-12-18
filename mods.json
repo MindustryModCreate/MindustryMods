@@ -18,7 +18,7 @@
     "version": "[blue2.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-17T18:21:14Z",
+    "lastUpdated": "2022-12-18T09:53:19Z",
     "stars": 213,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -96,7 +96,7 @@
     "version": "13.2",
     "mod_id": "revision",
     "author": "Slava0135",
-    "lastUpdated": "2022-12-18T01:10:34Z",
+    "lastUpdated": "2022-12-18T07:58:11Z",
     "stars": 126,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -221,6 +221,19 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "version": "4.18.0",
+    "mod_id": "ui-lib",
+    "author": "deltanedas",
+    "lastUpdated": "2022-10-28T19:34:52Z",
+    "stars": 67,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "version": "4.18.0",
-    "mod_id": "ui-lib",
-    "author": "deltanedas",
-    "lastUpdated": "2022-10-28T19:34:52Z",
-    "stars": 66,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -1032,7 +1032,7 @@
     "version": "0.6",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-12-18T04:00:06Z",
+    "lastUpdated": "2022-12-18T07:25:44Z",
     "stars": 18,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -2236,6 +2236,19 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1",
+    "mod_id": "xenacia",
+    "author": "Thomas",
+    "lastUpdated": "2022-12-16T23:52:27Z",
+    "stars": 8,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -2624,19 +2637,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
-  },
-  {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1",
-    "mod_id": "xenacia",
-    "author": "Thomas",
-    "lastUpdated": "2022-12-16T23:52:27Z",
-    "stars": 7,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
     "repo": "Vixelot/Facdustrio",
