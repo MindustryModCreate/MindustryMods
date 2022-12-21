@@ -18,7 +18,7 @@
     "version": " 2.1.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-20T23:30:59Z",
+    "lastUpdated": "2022-12-21T03:59:39Z",
     "stars": 214,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1773,7 +1773,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-12-20T12:22:55Z",
+    "lastUpdated": "2022-12-21T00:57:42Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2210,6 +2210,32 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
+    "repo": "liplum/MdtModTemplate",
+    "name": "%Repository%",
+    "version": "1.0",
+    "mod_id": "%Repository%",
+    "author": "%Owner%",
+    "lastUpdated": "2022-08-04T01:47:10Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
+    "repo": "liplum/BottledLiquid",
+    "name": "Bottled Liquid",
+    "version": "3.0",
+    "mod_id": "bottled-liquid",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-08-08T15:08:00Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
     "repo": "ZoGGerS-cc/Major",
     "name": "Major",
     "version": "2.4",
@@ -2520,32 +2546,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
-  },
-  {
-    "repo": "liplum/MdtModTemplate",
-    "name": "%Repository%",
-    "version": "1.0",
-    "mod_id": "%Repository%",
-    "author": "%Owner%",
-    "lastUpdated": "2022-08-04T01:47:10Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "3.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-08T15:08:00Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -3965,19 +3965,6 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
-    "repo": "Ilya246/quoteStrings",
-    "name": "Quoted Strings",
-    "version": "1.6",
-    "mod_id": "quoteStrings",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-12-20T18:46:41Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Observation is prohibited."
-  },
-  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4665,6 +4652,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
+    "repo": "Ilya246/quoteStrings",
+    "name": "Quoted Strings",
+    "version": "1.6",
+    "mod_id": "quoteStrings",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-12-20T18:46:41Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Observation is prohibited."
   },
   {
     "repo": "SirMachinegun/EBM",
