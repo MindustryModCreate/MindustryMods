@@ -18,7 +18,7 @@
     "version": " 2.1.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-20T11:59:03Z",
+    "lastUpdated": "2022-12-20T23:30:59Z",
     "stars": 214,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -642,7 +642,7 @@
     "version": "48",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-12-20T18:19:21Z",
+    "lastUpdated": "2022-12-21T00:17:51Z",
     "stars": 27,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -1794,6 +1794,19 @@
     "description": "Мод добавляет множество новых турелей."
   },
   {
+    "repo": "deltanedas/cliff",
+    "name": "cliff",
+    "version": "1.1.0",
+    "mod_id": "cliff",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-03T13:17:34Z",
+    "stars": 9,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
     "repo": "valtsu41/bundle-chaos",
     "name": "Bundle chaos",
     "version": "4.2",
@@ -2026,19 +2039,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
-  },
-  {
-    "repo": "deltanedas/cliff",
-    "name": "cliff",
-    "version": "1.1.0",
-    "mod_id": "cliff",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-03T13:17:34Z",
-    "stars": 8,
-    "minGameVersion": "111",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables the cliff button and any map size in the editor."
   },
   {
     "repo": "MrDuck557/MoarWaterUnits",
@@ -2949,6 +2949,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
+    "repo": "Fresh791/Floatydustry",
+    "name": "Floatydustry",
+    "version": "1",
+    "mod_id": "ftd",
+    "author": "\nAuthor: Fresh791\n",
+    "lastUpdated": "2022-12-02T14:48:02Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
     "repo": "Jasmarkelina/Tantros-Mod",
@@ -5081,6 +5094,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "warcry98/SpeedControl",
+    "name": "Speed Control",
+    "version": "0.1",
+    "mod_id": "speed-control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-28T04:14:09Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Weathercold/MindustryClojureModTemplate",
