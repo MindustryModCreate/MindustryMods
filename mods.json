@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-01-21T00:28:46Z",
+    "lastUpdated": "2023-01-21T01:05:01Z",
     "stars": 222,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -291,7 +291,7 @@
     "version": "26.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-01-20T15:41:37Z",
+    "lastUpdated": "2023-01-21T01:22:43Z",
     "stars": 57,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -1146,10 +1146,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.24dev",
+    "version": "0.2.25dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-20T18:26:50Z",
+    "lastUpdated": "2023-01-21T04:19:48Z",
     "stars": 17,
     "minGameVersion": "141.2",
     "hasScripts": true,
@@ -2041,19 +2041,6 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-01-20T12:24:45Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "GermantovA/Erida",
     "name": "Erida",
     "version": "1.0",
@@ -2065,6 +2052,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "In developement..."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-01-21T01:02:12Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -6903,19 +6903,6 @@
     "description": "Adds many colored blocks"
   },
   {
-    "repo": "Yunatexya/MPTv2ModRE",
-    "name": "MPTv2 RE",
-    "version": "0.0.5",
-    "mod_id": "mptv2-re",
-    "author": "ゆなてゃ",
-    "lastUpdated": "2023-01-19T23:31:28Z",
-    "stars": 0,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>"
-  },
-  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -6927,5 +6914,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
+  },
+  {
+    "repo": "Yunatexya/MPTv2ModRE",
+    "name": "MPTv2 RE",
+    "version": "0.0.5",
+    "mod_id": "mptv2-re",
+    "author": "ゆなてゃ",
+    "lastUpdated": "2023-01-21T02:59:58Z",
+    "stars": 0,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry<V7>. It is beta."
   }
 ]
