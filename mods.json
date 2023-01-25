@@ -3008,12 +3008,25 @@
     "version": "v.1.2 beta v1",
     "mod_id": "chrono-nucleardustry",
     "author": "Chrono",
-    "lastUpdated": "2023-01-25T14:31:17Z",
+    "lastUpdated": "2023-01-25T15:44:01Z",
     "stars": 6,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks."
+  },
+  {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "@version@",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-25T18:33:17Z",
+    "stars": 6,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3196,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
