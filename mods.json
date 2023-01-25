@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-01-21T01:05:01Z",
+    "lastUpdated": "2023-01-25T04:38:51Z",
     "stars": 224,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -182,6 +182,19 @@
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-11-11T10:52:18Z",
+    "stars": 74,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "version": "2.6.0",
@@ -195,26 +208,13 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-11-11T10:52:18Z",
-    "stars": 72,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.7",
     "mod_id": "informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-01-15T17:34:38Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -694,7 +694,7 @@
     "version": "0.24.2",
     "mod_id": "Dimension Shard",
     "author": "滞人",
-    "lastUpdated": "2023-01-24T14:51:57Z",
+    "lastUpdated": "2023-01-25T04:07:50Z",
     "stars": 26,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -923,6 +923,19 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.7.13",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-01-19T04:50:39Z",
+    "stars": 20,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -1014,17 +1027,17 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.7.13",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-01-19T04:50:39Z",
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.54dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-01-24T21:59:50Z",
     "stars": 19,
-    "minGameVersion": "140",
-    "hasScripts": false,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
     "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French [red](WIP)\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1077,19 +1090,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.54dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-24T21:59:50Z",
-    "stars": 18,
-    "minGameVersion": "141.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French [red](WIP)\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "Drullkus/Unnerf-Core-Units",
@@ -2046,7 +2046,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-01-24T01:04:22Z",
+    "lastUpdated": "2023-01-25T01:00:19Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2631,7 +2631,7 @@
     "version": "0.10",
     "mod_id": "MOARdustry (broken)",
     "author": "Jhrushbe",
-    "lastUpdated": "2023-01-25T00:11:32Z",
+    "lastUpdated": "2023-01-25T04:45:09Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3008,7 +3008,7 @@
     "version": "v.1.2 beta v1",
     "mod_id": "chrono-nucleardustry",
     "author": "Chrono",
-    "lastUpdated": "2023-01-23T15:11:22Z",
+    "lastUpdated": "2023-01-25T03:54:25Z",
     "stars": 6,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -5473,19 +5473,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "BlackDeluxeCat/SettingSweep",
-    "name": "Setting Sweep",
-    "version": "1.0",
-    "mod_id": "SettingSweep",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-21T13:37:56Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Clean up your settings!"
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -5510,6 +5497,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "BlackDeluxeCat/SettingSweep",
+    "name": "Setting Sweep",
+    "version": "1.0",
+    "mod_id": "SettingSweep",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-25T04:13:05Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Clean up your settings!"
   },
   {
     "repo": "4156/Infintory",
