@@ -304,7 +304,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-01-26T16:27:58Z",
+    "lastUpdated": "2023-01-27T14:36:25Z",
     "stars": 57,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-01-26T20:59:57Z",
+    "lastUpdated": "2023-01-27T11:55:09Z",
     "stars": 45,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2046,7 +2046,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-01-27T01:04:12Z",
+    "lastUpdated": "2023-01-27T12:22:32Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3211,6 +3211,19 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
+  },
+  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3991,19 +4004,6 @@
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
-    "repo": "430230562/zerg",
-    "name": "虫族",
-    "version": "0.92",
-    "mod_id": "bugs",
-    "author": "pardon生物",
-    "lastUpdated": "2023-01-06T04:30:20Z",
-    "stars": 4,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
-  },
-  {
     "repo": "zeutd/Disintegration",
     "name": "disintegration",
     "version": "1.0",
@@ -4015,6 +4015,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "430230562/zerg",
+    "name": "虫族",
+    "version": "0.92",
+    "mod_id": "bugs",
+    "author": "pardon生物",
+    "lastUpdated": "2023-01-27T12:31:42Z",
+    "stars": 4,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
   },
   {
     "repo": "2938137849/MindustryMod",
@@ -4730,6 +4743,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Clojure mod template."
+  },
+  {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2023-01-23T11:08:02Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "Weathercold/extra-logging",
@@ -5486,19 +5512,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-01-23T11:08:02Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -5868,7 +5881,7 @@
     "version": "0.1",
     "mod_id": "ft",
     "author": "IvanDem",
-    "lastUpdated": "2023-01-25T07:21:43Z",
+    "lastUpdated": "2023-01-27T13:41:18Z",
     "stars": 1,
     "minGameVersion": "140.4",
     "hasScripts": false,
