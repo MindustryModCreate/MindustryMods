@@ -135,7 +135,7 @@
     "version": "5.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-01-29T12:47:18Z",
+    "lastUpdated": "2023-01-29T18:26:06Z",
     "stars": 93,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -327,10 +327,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.7.34",
+    "version": "2.7.37",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-01-22T12:33:10Z",
+    "lastUpdated": "2023-01-29T16:39:32Z",
     "stars": 53,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-01-28T16:06:35Z",
+    "lastUpdated": "2023-01-29T17:58:30Z",
     "stars": 45,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -663,6 +663,19 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "49",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2023-01-22T23:08:14Z",
+    "stars": 27,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.74",
@@ -674,19 +687,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "49",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2023-01-22T23:08:14Z",
-    "stars": 26,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -3211,6 +3211,19 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
+  },
+  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3300,19 +3313,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds various things  "
-  },
-  {
-    "repo": "als39175/Infinity-Cheat",
-    "name": "Infinity Cheat",
-    "version": "2.1.444",
-    "mod_id": "infinity-cheat",
-    "author": "SMIPE444",
-    "lastUpdated": "2022-07-18T19:26:21Z",
-    "stars": 5,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -5421,19 +5421,6 @@
     "description": "更新拉！."
   },
   {
-    "repo": "stacktrace-error/the-hearth",
-    "name": "The Hearth",
-    "version": "1.0",
-    "mod_id": "hearth",
-    "author": "Null",
-    "lastUpdated": "2023-01-09T02:55:06Z",
-    "stars": 2,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Froomeeth/JavaSerilia",
     "name": "Serilia",
     "version": "1.0",
@@ -5530,12 +5517,25 @@
     "version": "0.3",
     "mod_id": "iron",
     "author": "Floppa",
-    "lastUpdated": "2023-01-29T13:36:52Z",
+    "lastUpdated": "2023-01-29T15:48:40Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "stacktrace-error/the-hearth",
+    "name": "The Hearth",
+    "version": "1.0",
+    "mod_id": "hearth",
+    "author": "Null",
+    "lastUpdated": "2023-01-29T17:44:10Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "4156/Infintory",
