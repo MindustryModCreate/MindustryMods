@@ -123,7 +123,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-01-28T15:32:34Z",
-    "stars": 94,
+    "stars": 93,
     "minGameVersion": "138",
     "hasScripts": true,
     "hasJava": true,
@@ -135,7 +135,7 @@
     "version": "5.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-01-29T09:29:34Z",
+    "lastUpdated": "2023-01-29T12:47:18Z",
     "stars": 93,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -754,6 +754,19 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.75dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-01-29T01:03:45Z",
+    "stars": 24,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
+  },
+  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -817,19 +830,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.75dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-29T01:03:45Z",
-    "stars": 23,
-    "minGameVersion": "141.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -1769,16 +1769,16 @@
   },
   {
     "repo": "PKChaos/Ion",
-    "name": "Ion",
-    "version": "0.1.0",
+    "name": "Ion (Empty)",
+    "version": "0.0.0",
     "mod_id": "ion",
     "author": "PKChaos",
-    "lastUpdated": "2023-01-04T14:58:33Z",
+    "lastUpdated": "2023-01-29T12:12:03Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+    "description": "Time awaits..."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2033,7 +2033,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-01-29T01:07:55Z",
+    "lastUpdated": "2023-01-29T12:21:03Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5512,30 +5512,30 @@
     "description": "WIP mod"
   },
   {
-    "repo": "floppa-coder/IronExtened",
-    "name": "Iron Extended",
-    "version": "0.3",
-    "mod_id": "iron",
-    "author": "Floppa",
-    "lastUpdated": "2023-01-27T23:10:56Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "AlphaJRed1/Federal-X-Mod",
     "name": "Federal-X Mod",
     "version": "1.0",
     "mod_id": "Federal-X-Mod",
     "author": "AJR1",
-    "lastUpdated": "2023-01-28T20:10:23Z",
+    "lastUpdated": "2023-01-29T10:45:39Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "Extends the Serpulo Tech with monoliths, semi-guardians, turrets and all whatnot."
+  },
+  {
+    "repo": "floppa-coder/IronExtened",
+    "name": "Iron Extended",
+    "version": "0.3",
+    "mod_id": "iron",
+    "author": "Floppa",
+    "lastUpdated": "2023-01-29T13:36:52Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "4156/Infintory",
