@@ -71,7 +71,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2023-01-17T15:17:18Z",
-    "stars": 139,
+    "stars": 140,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
@@ -122,7 +122,7 @@
     "version": "5.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-01-30T14:06:27Z",
+    "lastUpdated": "2023-01-30T16:57:37Z",
     "stars": 95,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -689,6 +689,19 @@
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "version": "1.3",
+    "mod_id": "morevanilla",
+    "author": "M.Q.",
+    "lastUpdated": "2023-01-08T03:53:10Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tier of blocks, starting from factories and power generators.\nThe mod aims to expand further production and defense in late game\nMod is still in development more contents coming soon.\n\n-Update v1.3: Added tier 2-3 power blocks (wip)"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -715,25 +728,12 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "version": "1.3",
-    "mod_id": "morevanilla",
-    "author": "M.Q.",
-    "lastUpdated": "2023-01-08T03:53:10Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tier of blocks, starting from factories and power generators.\nThe mod aims to expand further production and defense in late game\nMod is still in development more contents coming soon.\n\n-Update v1.3: Added tier 2-3 power blocks (wip)"
-  },
-  {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.76dev",
+    "version": "0.2.77dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-30T02:46:56Z",
+    "lastUpdated": "2023-01-30T15:34:02Z",
     "stars": 25,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -845,6 +845,19 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "version": "1.82",
+    "mod_id": "Vanilla Extended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2022-08-12T21:00:36Z",
+    "stars": 22,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
     "repo": "Anuken/wind3",
     "name": "wind3",
     "version": "No version provided.",
@@ -869,19 +882,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
-  },
-  {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "version": "1.82",
-    "mod_id": "Vanilla Extended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2022-08-12T21:00:36Z",
-    "stars": 21,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "KayyAyeAre/Dusted-Lands",
@@ -3209,19 +3209,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
