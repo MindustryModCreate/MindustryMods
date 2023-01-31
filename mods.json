@@ -135,7 +135,7 @@
     "version": "1.07",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-01-28T15:32:34Z",
+    "lastUpdated": "2023-01-31T09:12:54Z",
     "stars": 94,
     "minGameVersion": "138",
     "hasScripts": true,
@@ -304,7 +304,7 @@
     "version": "26.6",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-01-26T02:33:40Z",
+    "lastUpdated": "2023-01-31T08:21:07Z",
     "stars": 57,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -2041,6 +2041,19 @@
     "description": "Leet speak localisator."
   },
   {
+    "repo": "liplum/MindustryModTemplate",
+    "name": "%Repository%",
+    "version": "1.0",
+    "mod_id": "%Repository%",
+    "author": "%Owner%",
+    "lastUpdated": "2023-01-31T09:39:04Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2234,19 +2247,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
-    "repo": "liplum/MdtModTemplate",
-    "name": "%Repository%",
-    "version": "1.0",
-    "mod_id": "%Repository%",
-    "author": "%Owner%",
-    "lastUpdated": "2022-08-04T01:47:10Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "liplum/BottledLiquid",
@@ -3211,19 +3211,6 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
-  },
-  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3352,6 +3339,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "remixes to Mindustry tracks"
+  },
+  {
+    "repo": "SakuraLilly/Powered-by-nature",
+    "name": "Powered by Nature",
+    "version": "3.0",
+    "mod_id": "Powered by Nature",
+    "author": "SakuraLilly",
+    "lastUpdated": "2022-11-12T15:22:58Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "GenericSomeone/RejecteDustry",
@@ -3911,19 +3911,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
-  },
-  {
-    "repo": "SakuraLilly/Powered-by-nature",
-    "name": "Powered by Nature",
-    "version": "3.0",
-    "mod_id": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-11-12T15:22:58Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "CBMShadowGD/terrariamod",
@@ -4732,19 +4719,6 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-01-23T11:08:02Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "Weathercold/extra-logging",
     "name": "Extra Logging 2",
     "version": "2.0.0-alpha",
@@ -4769,6 +4743,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2023-01-31T08:45:43Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6942,19 +6929,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "Yunatexya/MPTv2ModRE",
-    "name": "MPTv2 RE",
-    "version": "0.0.5",
-    "mod_id": "mptv2-re",
-    "author": "��ȂĂ�",
-    "lastUpdated": "2023-01-30T05:26:25Z",
-    "stars": 0,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>. It is beta."
-  },
-  {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "version": "1.0",
@@ -6966,5 +6940,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry java modular mod."
+  },
+  {
+    "repo": "Yunatexya/MPTv2ModRE",
+    "name": "MPTv2 RE",
+    "version": "0.0.5",
+    "mod_id": "mptv2-re",
+    "author": "��ȂĂ�",
+    "lastUpdated": "2023-01-31T10:06:56Z",
+    "stars": 0,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry<V7>. It is beta."
   }
 ]
