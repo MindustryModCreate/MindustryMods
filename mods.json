@@ -330,7 +330,7 @@
     "version": "2.7.37",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-01-29T16:39:32Z",
+    "lastUpdated": "2023-02-01T12:41:22Z",
     "stars": 53,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -728,6 +728,19 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.80dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-02-01T14:55:04Z",
+    "stars": 25,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -765,19 +778,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.80dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-31T20:09:42Z",
-    "stars": 24,
-    "minGameVersion": "141.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -910,6 +910,19 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "Eclipse-04/Project-Scrap",
+    "name": "Project Scrap",
+    "version": "0.2.4.5",
+    "mod_id": "industrial",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-02T03:00:27Z",
+    "stars": 20,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
     "repo": "ereHyddeS/NeonNights_v7",
     "name": "NeonNights v7",
     "version": "1.5",
@@ -947,19 +960,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
-  },
-  {
-    "repo": "Eclipse-04/Project-Scrap",
-    "name": "Project Scrap",
-    "version": "0.2.4.5",
-    "mod_id": "industrial",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-02T03:00:27Z",
-    "stars": 19,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -2033,7 +2033,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-01T01:11:05Z",
+    "lastUpdated": "2023-02-01T12:25:25Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2520,19 +2520,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2022-05-12T13:33:41Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "deltanedas/ExampleJavaMod",
@@ -3209,19 +3196,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4654,19 +4628,6 @@
     "description": "Adds flarogus to Mindustry."
   },
   {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.50: Additional",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-12-11T14:53:59Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets(maybe not a lot)"
-  },
-  {
     "repo": "Ilya246/quoteStrings",
     "name": "Quoted Strings",
     "version": "1.6",
@@ -4769,6 +4730,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
+  },
+  {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.57: Advanced",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2023-02-01T14:28:16Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4951,6 +4925,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Help your mod-making-mood with this motivational mod!"
+  },
+  {
+    "repo": "Delourians/Mindustry-mod",
+    "name": "Mindustry-mod",
+    "version": "0.1",
+    "mod_id": "OP mod to finish the campaign",
+    "author": "Gab??... and AZU",
+    "lastUpdated": "2021-06-09T00:33:53Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Finish the campaign....NOW"
   },
   {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
@@ -5512,19 +5499,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "TeamOct/FOS-OST",
-    "name": "Fictional Octo System OST",
-    "version": "1.0",
-    "mod_id": "fosost",
-    "author": "Team Oct",
-    "lastUpdated": "2023-01-29T19:42:36Z",
-    "stars": 2,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4",
@@ -5536,6 +5510,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
+  },
+  {
+    "repo": "TeamOct/FOS-OST",
+    "name": "Fictional Octo System OST",
+    "version": "1.0",
+    "mod_id": "fosost",
+    "author": "Team Oct",
+    "lastUpdated": "2023-02-01T12:18:24Z",
+    "stars": 2,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
     "repo": "4156/Infintory",
