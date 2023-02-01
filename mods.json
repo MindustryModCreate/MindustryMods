@@ -624,6 +624,19 @@
     "description": "Alerts you to enemy tech progression and unit production"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "49",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2023-01-31T18:49:45Z",
+    "stars": 28,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "version": "1",
@@ -661,19 +674,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "49",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2023-01-31T18:49:45Z",
-    "stars": 27,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "Ferlern/extended-UI",
@@ -728,19 +728,6 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.80dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-31T18:36:33Z",
-    "stars": 25,
-    "minGameVersion": "141.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
-  },
-  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -778,6 +765,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.80dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-01-31T20:09:42Z",
+    "stars": 24,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -2015,19 +2015,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "GermantovA/Erida",
-    "name": "Erida",
-    "version": "1.0",
-    "mod_id": "erida",
-    "author": "ArtemG",
-    "lastUpdated": "2023-01-20T16:22:56Z",
-    "stars": 9,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "In developement..."
-  },
-  {
     "repo": "Redstonneur1256/Mindustry-ModLib",
     "name": "Mod Library",
     "version": "@version@",
@@ -2299,6 +2286,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that alters ore processing (not designed for campaign!)"
+  },
+  {
+    "repo": "GermantovA/Erida",
+    "name": "Erida",
+    "version": "1.0",
+    "mod_id": "erida",
+    "author": "ArtemG",
+    "lastUpdated": "2023-01-20T16:22:56Z",
+    "stars": 8,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In developement..."
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -2637,6 +2637,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "Chrono-Heritage/Nucleardustry",
+    "name": "Nucleardustry",
+    "version": "v.1.2 beta v1",
+    "mod_id": "chrono-nucleardustry",
+    "author": "Chrono",
+    "lastUpdated": "2023-01-25T15:44:01Z",
+    "stars": 7,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that add nuclear related items and blocks."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3003,19 +3016,6 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
-    "repo": "Chrono-Heritage/Nucleardustry",
-    "name": "Nucleardustry",
-    "version": "v.1.2 beta v1",
-    "mod_id": "chrono-nucleardustry",
-    "author": "Chrono",
-    "lastUpdated": "2023-01-25T15:44:01Z",
-    "stars": 6,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that add nuclear related items and blocks."
-  },
-  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.0.3",
@@ -3209,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5356,19 +5369,6 @@
     "description": "这是一个使用UniverseCore作为前置的mod模板"
   },
   {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
-  },
-  {
     "repo": "adamlolgaming/Furry-zenith",
     "name": "furry zenith",
     "version": "1",
@@ -5380,19 +5380,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "why? furry zenith."
-  },
-  {
-    "repo": "BlueTheCube/Interality",
-    "name": "Interality",
-    "version": "0.0.01",
-    "mod_id": "interality",
-    "author": "Calreiboz",
-    "lastUpdated": "2022-12-19T04:59:33Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod."
   },
   {
     "repo": "lvdanyi/lvdanyi_CopperMoneyMod",
@@ -5861,6 +5848,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
+  },
+  {
+    "repo": "BlueTheCube/Interality",
+    "name": "Interality",
+    "version": "0.0.01",
+    "mod_id": "interality",
+    "author": "Calreiboz",
+    "lastUpdated": "2022-12-19T04:59:33Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod."
   },
   {
     "repo": "936338156/mindustry-Interplanetary-Industries-mod",
