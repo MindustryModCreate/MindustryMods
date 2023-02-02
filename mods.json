@@ -122,7 +122,7 @@
     "version": "5.1",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-01-30T16:57:37Z",
+    "lastUpdated": "2023-02-02T19:51:58Z",
     "stars": 96,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -1250,10 +1250,10 @@
   {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
-    "version": "Algorithm 1.1",
+    "version": "Algorithm 1.2",
     "mod_id": "auto-research",
     "author": "Flin",
-    "lastUpdated": "2023-01-15T03:31:41Z",
+    "lastUpdated": "2023-02-02T18:55:58Z",
     "stars": 15,
     "minGameVersion": "141",
     "hasScripts": true,
@@ -1786,7 +1786,7 @@
     "version": "1.0",
     "mod_id": "%Repository%",
     "author": "%Owner%",
-    "lastUpdated": "2023-01-31T17:04:33Z",
+    "lastUpdated": "2023-02-02T19:52:33Z",
     "stars": 10,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -2522,19 +2522,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2022-05-12T13:33:41Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -3209,19 +3196,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5694,6 +5668,19 @@
     "description": "A mod made to add more plants into Mindustry"
   },
   {
+    "repo": "Choobyshroom8450/MoreUnitsMod",
+    "name": "More Units Mod",
+    "version": "1.0",
+    "mod_id": "moreuints",
+    "author": "choobyshroom",
+    "lastUpdated": "2022-02-24T04:26:14Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more units to mindustry"
+  },
+  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -6955,19 +6942,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "Yunatexya/MPTv2ModRE",
-    "name": "MPTv2 RE",
-    "version": "0.0.5",
-    "mod_id": "mptv2-re",
-    "author": "��ȂĂ�",
-    "lastUpdated": "2023-01-31T12:27:37Z",
-    "stars": 0,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>. It is beta."
-  },
-  {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "version": "1.0",
@@ -6979,5 +6953,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry java modular mod."
+  },
+  {
+    "repo": "Yunatexya/MPTv2ModRE",
+    "name": "MPTv2 RE",
+    "version": "0.0.5",
+    "mod_id": "mptv2-re",
+    "author": "��ȂĂ�",
+    "lastUpdated": "2023-02-02T16:21:27Z",
+    "stars": 0,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry<V7>. It is beta."
   }
 ]
