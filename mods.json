@@ -221,6 +221,19 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "version": "4.18.0",
+    "mod_id": "ui-lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-01-21T15:53:22Z",
+    "stars": 69,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.1",
@@ -234,17 +247,17 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "version": "4.18.0",
-    "mod_id": "ui-lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-01-21T15:53:22Z",
-    "stars": 68,
-    "minGameVersion": "139",
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-09-05T13:15:19Z",
+    "stars": 67,
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -258,19 +271,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-09-05T13:15:19Z",
-    "stars": 66,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "deltanedas/rtfm",
@@ -2033,7 +2033,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-02T12:24:47Z",
+    "lastUpdated": "2023-02-03T01:05:52Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2306,7 +2306,7 @@
     "version": "0.10",
     "mod_id": "MOARdustry",
     "author": "Jhrushbe",
-    "lastUpdated": "2023-02-02T01:05:43Z",
+    "lastUpdated": "2023-02-03T04:51:01Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2520,6 +2520,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2022-05-12T13:33:41Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "deltanedas/ExampleJavaMod",
@@ -5666,19 +5679,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made to add more plants into Mindustry"
-  },
-  {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
   },
   {
     "repo": "MinDoUser/ExtendedMind",
