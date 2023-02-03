@@ -253,7 +253,7 @@
     "mod_id": "goldmod",
     "author": "The Slaylord",
     "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 67,
+    "stars": 66,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -377,6 +377,19 @@
     "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
+    "repo": "xStaBUx/Omaloon-public",
+    "name": "Omaloon",
+    "version": "0.6.1",
+    "mod_id": "ol",
+    "author": "StaBU, TheEE145",
+    "lastUpdated": "2023-02-01T19:50:13Z",
+    "stars": 45,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
+  },
+  {
     "repo": "Sharlottes/ExampleMod",
     "name": "Example Mod",
     "version": "1.4.9",
@@ -401,19 +414,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "xStaBUx/Omaloon-public",
-    "name": "Omaloon",
-    "version": "0.6.1",
-    "mod_id": "ol",
-    "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-01T19:50:13Z",
-    "stars": 44,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
   },
   {
     "repo": "AeronGreva/AeroMindustry",
@@ -637,6 +637,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.82dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-02-01T16:43:54Z",
+    "stars": 28,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "version": "1",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.82dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-02-01T16:43:54Z",
-    "stars": 26,
-    "minGameVersion": "141.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "p101q/UNI",
@@ -1253,7 +1253,7 @@
     "version": "Algorithm 1.2",
     "mod_id": "auto-research",
     "author": "Flin",
-    "lastUpdated": "2023-02-02T18:55:58Z",
+    "lastUpdated": "2023-02-03T00:10:52Z",
     "stars": 15,
     "minGameVersion": "141",
     "hasScripts": true,
