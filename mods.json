@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-01-29T06:31:58Z",
-    "stars": 230,
+    "stars": 231,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-02T14:12:12Z",
+    "lastUpdated": "2023-02-03T20:04:40Z",
     "stars": 58,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1352,6 +1352,19 @@
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantros",
+    "version": "0.6",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2023-01-17T22:54:35Z",
+    "stars": 14,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
+  },
+  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.5 [B5]",
@@ -1480,19 +1493,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "something perhaps"
-  },
-  {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantros",
-    "version": "0.6",
-    "mod_id": "Tantros-mod",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2023-01-17T22:54:35Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
     "repo": "pixecoz/better-menders",
@@ -3209,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5512,19 +5525,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "TeamOct/FOS-OST",
-    "name": "Fictional Octo System OST",
-    "version": "1.0",
-    "mod_id": "fosost",
-    "author": "Team Oct",
-    "lastUpdated": "2023-02-02T13:21:26Z",
-    "stars": 2,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -5536,6 +5536,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "TeamOct/FOS-OST",
+    "name": "Fictional Octo System OST",
+    "version": "1.0",
+    "mod_id": "fosost",
+    "author": "Team Oct",
+    "lastUpdated": "2023-02-03T18:22:45Z",
+    "stars": 2,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
     "repo": "4156/Infintory",
@@ -6957,10 +6970,10 @@
   {
     "repo": "Yunatexya/MPTv2ModRE",
     "name": "MPTv2 RE",
-    "version": "0.0.5",
+    "version": "0.1.2",
     "mod_id": "mptv2-re",
-    "author": "��ȂĂ�",
-    "lastUpdated": "2023-02-02T16:21:27Z",
+    "author": "Yunatexya",
+    "lastUpdated": "2023-02-03T18:17:58Z",
     "stars": 0,
     "minGameVersion": "140.1",
     "hasScripts": false,
