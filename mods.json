@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-05T15:06:55Z",
+    "lastUpdated": "2023-02-05T17:41:45Z",
     "stars": 59,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -318,7 +318,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-02-01T12:41:22Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-04T17:02:29Z",
+    "lastUpdated": "2023-02-05T16:03:20Z",
     "stars": 46,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1131,6 +1131,19 @@
     "description": "My first java Mindustry mod"
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "version": "Algorithm 1.2",
+    "mod_id": "auto-research",
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 17,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1181,19 +1194,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "Algorithm 1.2",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 16,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
