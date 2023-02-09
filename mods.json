@@ -175,7 +175,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2022-12-22T06:42:31Z",
-    "stars": 81,
+    "stars": 82,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -1058,7 +1058,7 @@
     "version": "1.6.2",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-02-09T07:21:11Z",
+    "lastUpdated": "2023-02-09T11:45:38Z",
     "stars": 18,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -2033,7 +2033,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-09T01:03:37Z",
+    "lastUpdated": "2023-02-09T12:26:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2834,6 +2834,19 @@
     "description": "Alex version of MEEPofFaith/anuke-approaching"
   },
   {
+    "repo": "ErrorInCode27/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "version": "0.1",
+    "mod_id": "nuclear-mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-04-23T00:45:06Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
     "name": "2R2T Mod",
     "version": "You Dont See This",
@@ -3183,19 +3196,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5850,6 +5850,19 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
+  },
+  {
     "repo": "BlueTheCube/Interality",
     "name": "Interality",
     "version": "0.0.01",
@@ -6929,19 +6942,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "TheEE145/solid-octo-chainsaw-mod",
-    "name": "Solid Octo Chainsaw (SOC) mod",
-    "version": "1.0",
-    "mod_id": "octo",
-    "author": "TheEE145",
-    "lastUpdated": "2023-02-02T14:53:13Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry java modular mod."
-  },
-  {
     "repo": "GermantovA/Program-Error",
     "name": "Program Error",
     "version": "1.0",
@@ -6966,5 +6966,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "TheEE145/solid-octo-chainsaw-mod",
+    "name": "Solid Octo Chainsaw (SOC) mod",
+    "version": "1.0",
+    "mod_id": "octo",
+    "author": "TheEE145",
+    "lastUpdated": "2023-02-09T15:01:45Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry java modular mod."
   }
 ]
