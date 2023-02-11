@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-10T19:56:23Z",
+    "lastUpdated": "2023-02-11T09:37:45Z",
     "stars": 60,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -897,19 +897,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.44",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-12-25T06:56:55Z",
-    "stars": 21,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "sporrus/randomMindustry",
     "name": "Random Mindustry",
     "version": "1.8.2",
@@ -936,12 +923,25 @@
     "description": "A mod focused on space exploration."
   },
   {
+    "repo": "KayyAyeAre/Dusted-Lands",
+    "name": "Dusted Lands",
+    "version": "0.44",
+    "mod_id": "dusted-lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2023-02-11T07:11:02Z",
+    "stars": 21,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "alpha-0.7.14",
     "mod_id": "singularity",
     "author": "EBwilson",
-    "lastUpdated": "2023-02-10T14:33:46Z",
+    "lastUpdated": "2023-02-11T07:11:23Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1029,10 +1029,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-02-10T10:40:09Z",
+    "lastUpdated": "2023-02-11T07:14:45Z",
     "stars": 19,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -1339,6 +1339,19 @@
     "description": "Mindustry auto updater"
   },
   {
+    "repo": "Anuken/MindustryKotlinModTemplate",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2021-08-21T03:02:48Z",
+    "stars": 14,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
+  },
+  {
     "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "eicular manslaughter 2",
@@ -1467,19 +1480,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "pain and suffering"
-  },
-  {
-    "repo": "Anuken/MindustryKotlinModTemplate",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2021-08-21T03:02:48Z",
-    "stars": 13,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
   },
   {
     "repo": "Goobrr/Goobriculture",
@@ -2535,19 +2535,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2022-05-12T13:33:41Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -3209,19 +3196,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5540,15 +5514,15 @@
   {
     "repo": "Mythril382/Sardines",
     "name": "Sardines",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "mod_id": "mythril-sardines",
     "author": "Mythril",
     "lastUpdated": "2023-02-10T14:33:36Z",
     "stars": 2,
-    "minGameVersion": "141.1",
+    "minGameVersion": "141.3",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod that adds random stuffs.\nNot recommended for multiplayer!"
+    "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
     "repo": "floppa-coder/IronExtened",
@@ -5861,6 +5835,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
   },
   {
     "repo": "BlueTheCube/Interality",
