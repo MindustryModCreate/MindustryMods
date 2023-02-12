@@ -533,6 +533,19 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "version": "java 1.0",
+    "mod_id": "animalia",
+    "author": "Flin",
+    "lastUpdated": "2023-02-11T16:26:17Z",
+    "stars": 32,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
+  },
+  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "version": "0.2.2",
@@ -587,28 +600,15 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.84dev",
+    "version": "0.2.85dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-02-10T04:41:47Z",
+    "lastUpdated": "2023-02-12T04:12:58Z",
     "stars": 30,
     "minGameVersion": "141.3",
     "hasScripts": true,
     "hasJava": true,
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "version": "java 1.0",
-    "mod_id": "animalia",
-    "author": "Flin",
-    "lastUpdated": "2023-02-11T16:26:17Z",
-    "stars": 30,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
     "repo": "Gdeft/substructure",
@@ -949,6 +949,19 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
+    "repo": "Zelaux/ByteLogicMod",
+    "name": "Byte Logic Mod",
+    "version": "v1.2.1",
+    "mod_id": "byte-logic-mod",
+    "author": "Zelaux",
+    "lastUpdated": "2023-02-11T13:21:50Z",
+    "stars": 21,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "Eclipse-04/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -973,19 +986,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Hello there"
-  },
-  {
-    "repo": "Zelaux/ByteLogicMod",
-    "name": "Byte Logic Mod",
-    "version": "v1.2.1",
-    "mod_id": "byte-logic-mod",
-    "author": "Zelaux",
-    "lastUpdated": "2023-02-11T13:21:50Z",
-    "stars": 20,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -1014,19 +1014,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-11-26T00:49:30Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "1.6.3",
@@ -1038,6 +1025,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-02-12T03:15:03Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -2033,7 +2033,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-11T12:21:32Z",
+    "lastUpdated": "2023-02-12T01:08:08Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3209,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4732,19 +4745,6 @@
     "description": "Adds a button that sends colorful  in chat"
   },
   {
-    "repo": "Weathercold/mindustry-clj-mod-template",
-    "name": "Clojure Mod Template",
-    "version": "0.1.0",
-    "mod_id": "example-clojure-mod",
-    "author": "Weathercold",
-    "lastUpdated": "2023-01-16T23:18:09Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Clojure mod template."
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -5434,6 +5434,19 @@
     "description": "Serilia but on steroids (Java)"
   },
   {
+    "repo": "Weathercold/mindustry-clj-mod-template",
+    "name": "Clojure Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-clojure-mod",
+    "author": "Weathercold",
+    "lastUpdated": "2023-01-16T23:18:09Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Clojure mod template."
+  },
+  {
     "repo": "mrybs/dasuas",
     "name": "Dasuas",
     "version": "1.0",
@@ -5655,19 +5668,6 @@
     "description": "7.0 vanila-like mod"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
     "repo": "Auseawesome/Mindustry-GameBreaker",
     "name": "Mindustry Gamebreaker",
     "version": "Alpha 0.1",
@@ -5861,6 +5861,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
   },
   {
     "repo": "BlueTheCube/Interality",
@@ -6706,19 +6719,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
-    "repo": "mega-industries/MindustryModTemplate",
-    "name": "template",
-    "version": "0",
-    "mod_id": "mindustry-hjson-template",
-    "author": "e",
-    "lastUpdated": "2022-09-04T14:22:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "XenoForce/PlayMod",
