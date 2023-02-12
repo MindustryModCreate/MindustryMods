@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-02-10T00:13:32Z",
-    "stars": 232,
+    "stars": 231,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-02-06T06:47:43Z",
-    "stars": 220,
+    "stars": 219,
     "minGameVersion": "141.2",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2023-01-01T03:16:34Z",
-    "stars": 126,
+    "stars": 125,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -314,10 +314,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.7.37",
+    "version": "2.7.38",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-02-01T12:41:22Z",
+    "lastUpdated": "2023-02-12T14:28:28Z",
     "stars": 55,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-09T19:38:16Z",
+    "lastUpdated": "2023-02-12T15:53:32Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2046,7 +2046,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-12T01:08:08Z",
+    "lastUpdated": "2023-02-12T12:22:08Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3209,19 +3209,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4849,19 +4836,6 @@
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "version": "2.3.4",
@@ -5666,6 +5640,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "7.0 vanila-like mod"
+  },
+  {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "version": "0.0 build 2 alpha",
+    "mod_id": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-12-21T07:31:19Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
   },
   {
     "repo": "Auseawesome/Mindustry-GameBreaker",
@@ -6942,32 +6929,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "GermantovA/Program-Error",
-    "name": "Program Error",
-    "version": "1.0",
-    "mod_id": "program-error",
-    "author": "ArtemG",
-    "lastUpdated": "2023-02-08T17:56:27Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The world is just a error of a program"
-  },
-  {
-    "repo": "TheEE145/solid-octo-chainsaw-mod",
-    "name": "Solid Octo Chainsaw (SOC) mod",
-    "version": "1.0",
-    "mod_id": "octo",
-    "author": "TheEE145",
-    "lastUpdated": "2023-02-09T17:11:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry java modular mod."
-  },
-  {
     "repo": "Yunatexya/MPTv2ModRE",
     "name": "MPTv2 RE",
     "version": "0.1.4",
@@ -6979,5 +6940,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "TheEE145/solid-octo-chainsaw-mod",
+    "name": "Solid Octo Chainsaw (SOC) mod",
+    "version": "1.0",
+    "mod_id": "octo",
+    "author": "TheEE145",
+    "lastUpdated": "2023-02-12T14:21:32Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry java modular mod with 16 java syntax. The mod adds new content in this game and countries"
   }
 ]
