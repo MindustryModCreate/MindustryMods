@@ -301,12 +301,12 @@
   {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
-    "version": "26.6",
+    "version": "27.0",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-02-10T20:41:14Z",
+    "lastUpdated": "2023-02-11T23:32:55Z",
     "stars": 58,
-    "minGameVersion": "140.4",
+    "minGameVersion": "141.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
@@ -383,7 +383,7 @@
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
     "lastUpdated": "2023-02-09T19:38:16Z",
-    "stars": 47,
+    "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
     "hasJava": true,
@@ -4745,19 +4745,6 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.0-alpha",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-01-24T04:00:22Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -4782,6 +4769,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.0-alpha",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-11T21:45:07Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4847,6 +4847,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -5848,19 +5861,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
-  },
-  {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
   },
   {
     "repo": "BlueTheCube/Interality",
