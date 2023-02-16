@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-02-03T23:54:28Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -318,7 +318,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-02-12T14:28:28Z",
-    "stars": 55,
+    "stars": 56,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -600,10 +600,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.89dev",
+    "version": "0.2.90dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-02-15T01:46:26Z",
+    "lastUpdated": "2023-02-16T01:36:49Z",
     "stars": 30,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -819,19 +819,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.5",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2023-01-03T03:00:40Z",
-    "stars": 23,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -843,6 +830,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.6",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2023-02-16T05:55:02Z",
+    "stars": 23,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -2046,7 +2046,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-15T12:25:25Z",
+    "lastUpdated": "2023-02-16T01:05:16Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5569,7 +5569,7 @@
     "version": "0.0.198964",
     "mod_id": "suck_mod",
     "author": "8097's troops",
-    "lastUpdated": "2023-02-13T13:19:04Z",
+    "lastUpdated": "2023-02-16T09:51:27Z",
     "stars": 2,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -6929,19 +6929,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "TheEE145/solid-octo-chainsaw-mod",
-    "name": "Solid Octo Chainsaw (SOC) mod",
-    "version": "1.0",
-    "mod_id": "octo",
-    "author": "TheEE145",
-    "lastUpdated": "2023-02-13T14:59:08Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry java modular mod with 16 java syntax. The mod adds new content in this game and countries"
-  },
-  {
     "repo": "Yunatexya/MPTv2ModRE",
     "name": "MPTv2 RE",
     "version": "0.1.4",
@@ -6966,5 +6953,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod"
+  },
+  {
+    "repo": "TheEE145/solid-octo-chainsaw-mod",
+    "name": "Solid Octo Chainsaw (SOC) mod",
+    "version": "1.0",
+    "mod_id": "octo",
+    "author": "TheEE145",
+    "lastUpdated": "2023-02-16T09:38:03Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry java modular mod with 16 java syntax. The mod adds new content in this game and countries"
   }
 ]
