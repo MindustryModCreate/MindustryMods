@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-13T17:53:50Z",
+    "lastUpdated": "2023-02-16T20:44:58Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1716,6 +1716,19 @@
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "@version@",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-02-16T21:38:06Z",
+    "stars": 11,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
+  },
+  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "version": "1.1",
@@ -2000,19 +2013,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
-    "repo": "Redstonneur1256/Mindustry-ModLib",
-    "name": "Mod Library",
-    "version": "@version@",
-    "mod_id": "!mod-library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-28T14:06:55Z",
-    "stars": 9,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "liplum/MindustryModTemplate",
@@ -6136,6 +6136,19 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
+    "repo": "rumulus/Mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-04-01T18:22:27Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -6342,19 +6355,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
-  },
-  {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
