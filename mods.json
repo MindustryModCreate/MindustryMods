@@ -655,7 +655,7 @@
     "version": "49",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2023-02-08T03:39:49Z",
+    "lastUpdated": "2023-02-17T07:43:08Z",
     "stars": 28,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -3354,6 +3354,19 @@
     "description": "Work in progress (not working)"
   },
   {
+    "repo": "uujuju1/poost",
+    "name": "Project Oblivion Ost",
+    "version": "1",
+    "mod_id": "poost",
+    "author": "Uujuju, 12three7 and DJ Silin",
+    "lastUpdated": "2022-12-19T03:52:35Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
+  },
+  {
     "repo": "GenericSomeone/RejecteDustry",
     "name": "RejecteDustry",
     "version": "1.3",
@@ -3991,19 +4004,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "uujuju1/poost",
-    "name": "Project Oblivion Ost",
-    "version": "1",
-    "mod_id": "poost",
-    "author": "Uujuju, 12three7 and DJ Silin",
-    "lastUpdated": "2022-12-19T03:52:35Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
     "repo": "zeutd/Disintegration",
     "name": "disintegration",
     "version": "1.0",
@@ -4589,6 +4589,19 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
+    "repo": "sheptalo/ponchik-test",
+    "name": "ponchik",
+    "version": "1.1",
+    "mod_id": "pon",
+    "author": "sheptalo",
+    "lastUpdated": "2022-10-16T09:19:57Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "mod for doing chaotic things"
+  },
+  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0.1",
@@ -4808,6 +4821,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -5616,19 +5642,6 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "version": "0",
-    "mod_id": "newhorizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-08T21:44:54Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
-  },
-  {
     "repo": "Serg230/Overdustry",
     "name": "Overdustry",
     "version": "2.0 — production update",
@@ -5863,17 +5876,17 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
-    "repo": "r0kade/worst-defenses",
-    "name": "Worst Defenses",
+    "repo": "r0kade/worse-defenses",
+    "name": "Worse Defenses",
     "version": "1.0",
     "mod_id": "wdef",
     "author": "Rokade",
-    "lastUpdated": "2023-02-17T04:50:53Z",
+    "lastUpdated": "2023-02-17T07:21:56Z",
     "stars": 1,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "the worst mindustry mod that adds new defense blocks..."
+    "description": "a mindustry mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6030,19 +6043,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds blocks that allow you to play music!"
-  },
-  {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "version": "1.0",
-    "mod_id": "more-batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "MemFaceGo/mod",
@@ -6368,6 +6368,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds faster and better logic blocks"
+  },
+  {
+    "repo": "BalaM314/mindustry-magic-mod-dead",
+    "name": "Mindustry Magic Mod",
+    "version": "1.0",
+    "mod_id": "mindustry-magic-mod",
+    "author": "BalaM314",
+    "lastUpdated": "2021-12-04T08:14:09Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some magic to mindustry... soon"
   },
   {
     "repo": "Antlrr/atrac",
@@ -6901,6 +6914,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "Test mod",
+    "version": "0.0",
+    "mod_id": "situvngcd-test",
+    "author": "SITUVNgcd",
+    "lastUpdated": "2023-02-15T14:08:53Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
