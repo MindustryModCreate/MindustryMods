@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-18T11:31:56Z",
+    "lastUpdated": "2023-02-18T18:47:00Z",
     "stars": 61,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -318,7 +318,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-02-12T14:28:28Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -551,7 +551,7 @@
     "version": "java 1.0",
     "mod_id": "animalia",
     "author": "Flin",
-    "lastUpdated": "2023-02-18T01:20:38Z",
+    "lastUpdated": "2023-02-18T17:29:06Z",
     "stars": 31,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -2678,6 +2678,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -4277,6 +4290,19 @@
     "description": "Texture pack that makes some blocks look cursed"
   },
   {
+    "repo": "ExplerHD/OldEraJava",
+    "name": "Old Era Revival (Java)",
+    "version": "1.0",
+    "mod_id": "OldEraJava",
+    "author": "ExplerHD, 12three7",
+    "lastUpdated": "2022-01-22T03:54:20Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that added maybe lot of content."
+  },
+  {
     "repo": "EmanuelG-Gaming/barrier",
     "name": "Barrier",
     "version": "1.0, the Final Update...?",
@@ -4524,19 +4550,6 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
-    "repo": "MCDRA135/sorterimages",
-    "name": "SorterImages",
-    "version": "1.0",
-    "mod_id": "sorterimages",
-    "author": "MCDRA",
-    "lastUpdated": "2022-07-27T20:08:27Z",
-    "stars": 3,
-    "minGameVersion": "135.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
-  },
-  {
     "repo": "TippierPark8961/Green-Void",
     "name": "Green Void",
     "version": "1",
@@ -4745,19 +4758,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.0-alpha",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-17T02:22:17Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "Fresh791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -4769,6 +4769,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Contains soundtracks that go with Fresh791's Fading Revelations.\n\nCurrently overwrites the soundtracks game4 and boss2 with the Fading Revelations \nsoundtracks Impending Doom and Mysterious World."
+  },
+  {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.0-alpha",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-18T16:42:57Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5369,6 +5382,19 @@
     "description": "why? furry zenith."
   },
   {
+    "repo": "lvdanyi/lvdanyi_CopperMoneyMod",
+    "name": "铜钱2.2.6.2",
+    "version": "2.2.6.2",
+    "mod_id": "铜钱2.2.6.2",
+    "author": "@bilibili绿弹易",
+    "lastUpdated": "2022-12-22T05:46:12Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "更新拉！."
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5536,6 +5562,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "it is suck."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.4 probably",
+    "mod_id": "DuverxusTitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-02-18T16:51:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Skel hates balls"
   },
   {
     "repo": "4156/Infintory",
@@ -6019,6 +6058,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "ghvtv/Music-mod-mindustry",
+    "name": "Music Mod1.0",
+    "version": "1.0",
+    "mod_id": "MusicMod1.0",
+    "author": "Chen Rhong",
+    "lastUpdated": "2021-01-19T03:46:03Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds blocks that allow you to play music!"
+  },
+  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -6082,19 +6134,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
-    "repo": "rumulus/Mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-01T18:22:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
@@ -6303,19 +6342,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
-  },
-  {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
