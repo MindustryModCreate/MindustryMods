@@ -331,7 +331,7 @@
     "mod_id": "routorio",
     "author": "DeltaNedas",
     "lastUpdated": "2022-05-14T15:45:33Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "131",
     "hasScripts": true,
     "hasJava": false,
@@ -2059,7 +2059,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-18T12:21:58Z",
+    "lastUpdated": "2023-02-19T01:06:24Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4745,19 +4745,6 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "MEEPofFaith/tranqol",
-    "name": "Tranqol",
-    "version": "1",
-    "mod_id": "tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2023-02-12T21:18:08Z",
-    "stars": 3,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
     "repo": "Fresh791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -4782,6 +4769,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp\n- Translate chat messages to your locale\n- Change log level\n- Colorize `[name]` in log messages\n- Print event triggers to the console\n- Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "MEEPofFaith/tranqol",
+    "name": "Tranqol",
+    "version": "1",
+    "mod_id": "tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2023-02-19T01:11:05Z",
+    "stars": 3,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
     "repo": "SirMachinegun/EBM",
