@@ -318,7 +318,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-02-12T14:28:28Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -2678,19 +2678,6 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -4550,6 +4537,19 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
+    "repo": "MCDRA135/sorterimages",
+    "name": "SorterImages",
+    "version": "1.0",
+    "mod_id": "sorterimages",
+    "author": "MCDRA",
+    "lastUpdated": "2022-07-27T20:08:27Z",
+    "stars": 3,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
+  },
+  {
     "repo": "TippierPark8961/Green-Void",
     "name": "Green Void",
     "version": "1",
@@ -4773,15 +4773,15 @@
   {
     "repo": "Weathercold/extra-logging",
     "name": "Extra Logging 2",
-    "version": "2.0.0-alpha",
+    "version": "2.0.0-delta",
     "mod_id": "extra-logging",
     "author": "Weathercold",
-    "lastUpdated": "2023-02-18T16:42:57Z",
+    "lastUpdated": "2023-02-18T21:04:55Z",
     "stars": 3,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp\n- Translate chat messages to your locale\n- Change log level\n- Colorize `[name]` in log messages\n- Print event triggers to the console\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5226,6 +5226,19 @@
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
+    "repo": "deltanedas/item-grabber",
+    "name": "Item Grabber",
+    "version": "2.0.3",
+    "mod_id": "item-grabber",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:01:23Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "version": "1.5",
@@ -5276,6 +5289,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
+    "repo": "Mythril382/MorseCode",
+    "name": "Morse Code",
+    "version": "1.0.0",
+    "mod_id": "morse-code",
+    "author": "Mythril",
+    "lastUpdated": "2022-08-11T06:31:30Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
     "repo": "konkitoman/SpeedCtlMan",
@@ -6947,7 +6973,7 @@
     "version": "0.1.5",
     "mod_id": "mptv2-re",
     "author": "Yunatexya",
-    "lastUpdated": "2023-02-18T04:53:55Z",
+    "lastUpdated": "2023-02-18T22:07:44Z",
     "stars": 0,
     "minGameVersion": "140.1",
     "hasScripts": false,
