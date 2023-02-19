@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-18T18:47:00Z",
+    "lastUpdated": "2023-02-19T07:11:58Z",
     "stars": 61,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-16T20:44:58Z",
+    "lastUpdated": "2023-02-19T08:56:34Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -897,19 +897,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2023-01-14T16:22:30Z",
-    "stars": 21,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "KayyAyeAre/Dusted-Lands",
     "name": "Dusted Lands",
     "version": "0.44",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.8.2",
+    "mod_id": "random-mindustry",
+    "author": "sporrus",
+    "lastUpdated": "2023-02-19T08:37:53Z",
+    "stars": 21,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "Eclipse-04/Project-Scrap",
@@ -1131,19 +1131,6 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "jslkr2707/focus-lib",
-    "name": "Mindustry: Ages",
-    "version": "0.1",
-    "mod_id": "ages",
-    "author": "AshesKaiser",
-    "lastUpdated": "2023-01-04T15:55:39Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first java Mindustry mod"
-  },
-  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "Algorithm 1.2",
@@ -1155,6 +1142,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
+    "repo": "jslkr2707/focus-lib",
+    "name": "Focus System Lib",
+    "version": "0.1",
+    "mod_id": "focus-lib",
+    "author": "AshesKaiser",
+    "lastUpdated": "2023-02-19T09:16:45Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Create a hoi4-like research tree"
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -2678,6 +2678,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -3198,19 +3211,6 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
-  },
-  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3380,19 +3380,6 @@
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.0.5",
-    "mod_id": "pyra",
-    "author": "\nOwner: vali#5378\nHelper: Fresh791\n",
-    "lastUpdated": "2023-01-07T16:01:26Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys"
-  },
-  {
     "repo": "430230562/zerg",
     "name": "虫族",
     "version": "0.92",
@@ -3404,6 +3391,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.0.5",
+    "mod_id": "pyra",
+    "author": "\nOwner: vali#5378\nHelper: Fresh791\n",
+    "lastUpdated": "2023-02-19T08:06:08Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5421,6 +5421,19 @@
     "description": "更新拉！."
   },
   {
+    "repo": "sheptalo/mindustry-minecraft-mod",
+    "name": "Minecraft mod",
+    "version": "1.0",
+    "mod_id": "minecraft",
+    "author": "sheptalo",
+    "lastUpdated": "2022-12-24T19:46:25Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft in mindustry"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5590,12 +5603,25 @@
     "description": "it is suck."
   },
   {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.1",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-02-19T03:49:20Z",
+    "stars": 2,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
     "repo": "skulzyetagain/FirstMod",
     "name": "Titans Awoken",
     "version": "0.4 probably",
     "mod_id": "DuverxusTitans",
     "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-02-18T16:51:40Z",
+    "lastUpdated": "2023-02-19T07:27:37Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6082,19 +6108,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "version": "1.0",
-    "mod_id": "MusicMod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
   },
   {
     "repo": "Destrux/mega-battery-mod",
