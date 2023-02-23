@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-02-10T00:13:32Z",
-    "stars": 231,
+    "stars": 232,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -149,7 +149,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -291,7 +291,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-21T14:55:23Z",
+    "lastUpdated": "2023-02-23T12:02:30Z",
     "stars": 61,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-21T19:04:59Z",
+    "lastUpdated": "2023-02-23T17:26:17Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -655,7 +655,7 @@
     "version": "49",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2023-02-21T21:24:53Z",
+    "lastUpdated": "2023-02-23T20:06:58Z",
     "stars": 28,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -993,7 +993,7 @@
     "version": "1.1 pre-alpha",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2023-02-21T19:21:33Z",
+    "lastUpdated": "2023-02-23T18:50:20Z",
     "stars": 20,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2059,7 +2059,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-23T01:02:37Z",
+    "lastUpdated": "2023-02-23T12:26:28Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2678,19 +2678,6 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -3016,6 +3003,19 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
+    "repo": "430230562/zerg",
+    "name": "虫族",
+    "version": "0.92",
+    "mod_id": "bugs",
+    "author": "pardon生物",
+    "lastUpdated": "2023-01-30T09:14:57Z",
+    "stars": 6,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
+  },
+  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.0.3",
@@ -3211,6 +3211,19 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
+  },
+  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3378,19 +3391,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
-  },
-  {
-    "repo": "430230562/zerg",
-    "name": "虫族",
-    "version": "0.92",
-    "mod_id": "bugs",
-    "author": "pardon生物",
-    "lastUpdated": "2023-01-30T09:14:57Z",
-    "stars": 5,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -5577,19 +5577,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.4 probably",
-    "mod_id": "DuverxusTitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-02-19T07:27:37Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Skel hates balls"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.0.198964",
@@ -5614,6 +5601,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-02-23T18:49:53Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Skel hates balls"
   },
   {
     "repo": "4156/Infintory",
@@ -6955,19 +6955,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "Test mod",
-    "version": "0.0",
-    "mod_id": "situvngcd-test",
-    "author": "SITUVNgcd",
-    "lastUpdated": "2023-02-15T14:08:53Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod"
-  },
-  {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "version": "1.0",
@@ -7005,5 +6992,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "Test mod",
+    "version": "0.0",
+    "mod_id": "situvngcd-test",
+    "author": "SITUVNgcd",
+    "lastUpdated": "2023-02-23T13:07:02Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod"
   }
 ]
