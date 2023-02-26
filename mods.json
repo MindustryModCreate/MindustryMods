@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-02-26T14:10:13Z",
+    "lastUpdated": "2023-02-26T17:50:47Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2678,6 +2678,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -3209,6 +3222,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4789,12 +4815,12 @@
     "version": "2.0.0-epsilon",
     "mod_id": "extra-logging",
     "author": "Weathercold",
-    "lastUpdated": "2023-02-25T22:47:07Z",
+    "lastUpdated": "2023-02-26T19:00:15Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp\n- Translate chat messages to your locale\n- Change log level\n- Colorize `[name]` in log messages\n- Print event triggers to the console\n- Various other QoL improvements.\n\nSee README.md for more information."
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4808,19 +4834,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry mod which reveals hidden blocks that are in the game files/folders."
-  },
-  {
-    "repo": "Tenser43/random-mod",
-    "name": "Random Mod",
-    "version": "0.1.0",
-    "mod_id": "Random Mod",
-    "author": "Tenser",
-    "lastUpdated": "2020-12-24T03:54:38Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds some random, but useful stuff."
   },
   {
     "repo": "AmateurPotion/NuclearJavaMod",
@@ -4860,6 +4873,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -5133,19 +5159,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Blerp23/Totally-Balanced-Mod",
-    "name": "Totally Balanced Mod",
-    "version": "0",
-    "mod_id": "balanced-mod",
-    "author": "Blerp23",
-    "lastUpdated": "2021-11-25T00:49:19Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a content mod that adds new blocks and units. The items are made to be as unba**COUGH** *ahEm* BALANCED as possible for a fun experience!"
   },
   {
     "repo": "SMOLKEYS/random-stuff",
@@ -7012,7 +7025,7 @@
     "version": "0.0",
     "mod_id": "situvngcd-test",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-02-26T11:42:09Z",
+    "lastUpdated": "2023-02-26T16:21:50Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
