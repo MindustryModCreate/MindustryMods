@@ -234,19 +234,6 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "version": "4.18.0",
-    "mod_id": "ui-lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-01-21T15:53:22Z",
-    "stars": 69,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.1",
@@ -258,6 +245,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
+  },
+  {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "version": "4.18.0",
+    "mod_id": "ui-lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-01-21T15:53:22Z",
+    "stars": 68,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -2054,19 +2054,6 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты! МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
   },
   {
-    "repo": "liplum/MindustryModTemplate",
-    "name": "%Repository%",
-    "version": "1.0",
-    "mod_id": "%Repository%",
-    "author": "%Owner%",
-    "lastUpdated": "2023-02-25T22:54:03Z",
-    "stars": 9,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2078,6 +2065,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "liplum/MindustryModTemplate",
+    "name": "%Repository%",
+    "version": "1.0",
+    "mod_id": "%Repository%",
+    "author": "%Owner%",
+    "lastUpdated": "2023-02-26T06:37:40Z",
+    "stars": 9,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2678,19 +2678,6 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
-  },
-  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.2 release",
@@ -3222,19 +3209,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4888,19 +4862,6 @@
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
   },
   {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
-  },
-  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "version": "2.3.4",
@@ -5172,6 +5133,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Blerp23/Totally-Balanced-Mod",
+    "name": "Totally Balanced Mod",
+    "version": "0",
+    "mod_id": "balanced-mod",
+    "author": "Blerp23",
+    "lastUpdated": "2021-11-25T00:49:19Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a content mod that adds new blocks and units. The items are made to be as unba**COUGH** *ahEm* BALANCED as possible for a fun experience!"
   },
   {
     "repo": "SMOLKEYS/random-stuff",
@@ -7038,7 +7012,7 @@
     "version": "0.0",
     "mod_id": "situvngcd-test",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-02-26T05:05:39Z",
+    "lastUpdated": "2023-02-26T10:08:04Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
