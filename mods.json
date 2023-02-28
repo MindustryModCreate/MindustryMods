@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2022-11-28T16:53:17Z",
-    "stars": 188,
+    "stars": 189,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -538,7 +538,7 @@
     "version": "0.2.92dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-02-28T07:22:43Z",
+    "lastUpdated": "2023-02-28T13:17:22Z",
     "stars": 33,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -648,19 +648,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "49",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2023-02-28T09:19:11Z",
-    "stars": 28,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -2072,7 +2059,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-28T01:05:12Z",
+    "lastUpdated": "2023-02-28T12:25:27Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4043,6 +4030,19 @@
     "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-27T21:12:31Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
     "repo": "2938137849/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4795,19 +4795,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod."
-  },
-  {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-27T21:12:31Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7038,7 +7025,7 @@
     "version": "0.0",
     "mod_id": "situvngcd-test",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-02-27T16:44:50Z",
+    "lastUpdated": "2023-02-28T14:09:42Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
