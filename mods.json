@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-02-10T00:13:32Z",
-    "stars": 232,
+    "stars": 233,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-02-25T13:54:01Z",
-    "stars": 221,
+    "stars": 222,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -182,6 +182,19 @@
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
+    "repo": "z0mbiesrock/Diamond-Ore",
+    "name": "Diamond Ore Mod",
+    "version": "2.6.0",
+    "mod_id": "diamond-ore",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2021-08-05T13:27:09Z",
+    "stars": 75,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -193,19 +206,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "z0mbiesrock/Diamond-Ore",
-    "name": "Diamond Ore Mod",
-    "version": "2.6.0",
-    "mod_id": "diamond-ore",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 74,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "Sharlottes/Informatis",
@@ -299,19 +299,6 @@
     "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progression Ministry",
-    "version": "27.0",
-    "mod_id": "prog-mats",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-02-14T09:23:26Z",
-    "stars": 60,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.7.40",
@@ -323,6 +310,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progression Ministry",
+    "version": "27.2",
+    "mod_id": "prog-mats",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
+    "lastUpdated": "2023-02-28T04:15:46Z",
+    "stars": 60,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -538,7 +538,7 @@
     "version": "0.2.92dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-02-22T21:50:38Z",
+    "lastUpdated": "2023-02-28T07:22:43Z",
     "stars": 33,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -655,7 +655,7 @@
     "version": "49",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2023-02-23T20:23:08Z",
+    "lastUpdated": "2023-02-28T09:19:11Z",
     "stars": 28,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -721,7 +721,7 @@
     "mod_id": "Dimension Shard",
     "author": "滞人",
     "lastUpdated": "2023-01-26T18:43:26Z",
-    "stars": 26,
+    "stars": 27,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -1729,6 +1729,19 @@
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
+    "repo": "PKChaos/Ion",
+    "name": "Ion (Empty)",
+    "version": "0.0.0",
+    "mod_id": "ion",
+    "author": "PKChaos",
+    "lastUpdated": "2023-01-29T12:12:03Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Time awaits..."
+  },
+  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "version": "1.1",
@@ -1792,19 +1805,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "PKChaos/Ion",
-    "name": "Ion (Empty)",
-    "version": "0.0.0",
-    "mod_id": "ion",
-    "author": "PKChaos",
-    "lastUpdated": "2023-01-29T12:12:03Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Time awaits..."
   },
   {
     "repo": "BalaM314/no-invasions",
@@ -2072,7 +2072,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-27T12:26:21Z",
+    "lastUpdated": "2023-02-28T01:05:12Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3209,6 +3209,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4860,6 +4873,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
+  },
+  {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
