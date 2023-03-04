@@ -1029,10 +1029,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "1.6.4",
+    "version": "1.7.0",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-02-14T06:26:12Z",
+    "lastUpdated": "2023-03-04T16:07:10Z",
     "stars": 19,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -1742,6 +1742,19 @@
     "description": "Time awaits..."
   },
   {
+    "repo": "BalaM314/no-invasions",
+    "name": "No Sector Re Attacks",
+    "version": "1.0",
+    "mod_id": "no-invasions",
+    "author": "BalaM314",
+    "lastUpdated": "2023-02-08T11:18:45Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
+  },
+  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "version": "1.1",
@@ -1805,19 +1818,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "BalaM314/no-invasions",
-    "name": "No Sector Re Attacks",
-    "version": "1.0",
-    "mod_id": "no-invasions",
-    "author": "BalaM314",
-    "lastUpdated": "2023-02-08T11:18:45Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2351,6 +2351,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
+  },
+  {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -4004,19 +4017,6 @@
     "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-27T21:12:31Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "0.1.3.1",
@@ -4028,6 +4028,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.1",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-03-04T19:31:31Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "tenkuuBin/MindustryMod",
@@ -6097,19 +6110,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "ghvtv/Music-mod-mindustry",
-    "name": "Music Mod1.0",
-    "version": "1.0",
-    "mod_id": "MusicMod1.0",
-    "author": "Chen Rhong",
-    "lastUpdated": "2021-01-19T03:46:03Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds blocks that allow you to play music!"
-  },
-  {
     "repo": "Destrux/mega-battery-mod",
     "name": "More Batteries",
     "version": "1.0",
@@ -6994,19 +6994,6 @@
     "description": ""
   },
   {
-    "repo": "uiopg/mindustry-javamod",
-    "name": "java-simulated-industry",
-    "version": "dev-mono-0.1",
-    "mod_id": "SI",
-    "author": "uiopg",
-    "lastUpdated": "2023-02-25T13:42:30Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "Weathercold/Haxefrog",
     "name": "Haxefrog",
     "version": "1.0.0-SNAPSHOT",
@@ -7083,5 +7070,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "uiopg/mindustry-javamod",
+    "name": "java-simulated-industry",
+    "version": "dev-mono-0.1",
+    "mod_id": "SI",
+    "author": "uiopg",
+    "lastUpdated": "2023-03-04T15:11:48Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   }
 ]
