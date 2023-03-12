@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-02-10T00:13:32Z",
-    "stars": 233,
+    "stars": 232,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-03-11T18:22:50Z",
-    "stars": 223,
+    "stars": 222,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -149,7 +149,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 91,
+    "stars": 92,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -214,7 +214,7 @@
     "mod_id": "informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-02-11T02:32:33Z",
-    "stars": 72,
+    "stars": 71,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -741,6 +741,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -752,19 +765,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -975,6 +975,19 @@
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Hello there"
   },
   {
+    "repo": "Rogeh4/VIrtual-Scheme-Pack-",
+    "name": "Virtual Scheme Pack",
+    "version": "1.0.0",
+    "mod_id": "v-scheme-pack",
+    "author": "Rogen4, KirillRum",
+    "lastUpdated": "2023-03-02T15:53:36Z",
+    "stars": 20,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
+  },
+  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -1025,19 +1038,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "Rogeh4/VIrtual-Scheme-Pack-",
-    "name": "Virtual Scheme Pack",
-    "version": "1.0.0",
-    "mod_id": "v-scheme-pack",
-    "author": "Rogen4, KirillRum",
-    "lastUpdated": "2023-03-02T15:53:36Z",
-    "stars": 19,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -2366,6 +2366,19 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
+  },
+  {
     "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
@@ -2689,6 +2702,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Chrono-Heritage/Nucleardustry",
@@ -3047,7 +3073,7 @@
     "version": "1.0.8",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\n",
-    "lastUpdated": "2023-03-12T09:35:15Z",
+    "lastUpdated": "2023-03-12T16:48:56Z",
     "stars": 6,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -4821,6 +4847,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod need MULTICRAFTERLIB to work. Discord link - https://discord.gg/7SSAupjxeD"
+  },
+  {
+    "repo": "SunkyMP3G/KAMEK",
+    "name": "KAMEK: A mountain filled planet",
+    "version": "v0.2.2-beta",
+    "mod_id": "kamek",
+    "author": "Sunky.MPEG",
+    "lastUpdated": "2023-03-10T02:46:32Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Explore a new planet, that's filled by mountains!\n\n[gray]Version: [white]v0.2.2-beta\n\t\n[gray]Languages: \n\t         [white]- English\n         - Russian/Русский\n\t\t \n\t\t * - [red]AI translated, can contain mistakes!"
   },
   {
     "repo": "uujuju1/Steam-Works",
@@ -7064,7 +7103,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-12T14:48:26Z",
+    "lastUpdated": "2023-03-12T16:44:48Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
