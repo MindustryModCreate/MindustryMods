@@ -117,6 +117,19 @@
     "description": "This mod is now discontinued. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "ExtraUtilities",
+    "version": "1.098",
+    "mod_id": "extra-utilities",
+    "author": "guiY",
+    "lastUpdated": "2023-03-04T09:36:41Z",
+    "stars": 98,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "An extended mod for Mindustry"
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "5.1",
@@ -128,19 +141,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "ExtraUtilities",
-    "version": "1.098",
-    "mod_id": "extra-utilities",
-    "author": "guiY",
-    "lastUpdated": "2023-03-04T09:36:41Z",
-    "stars": 97,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "An extended mod for Mindustry"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -1677,19 +1677,6 @@
     "description": "Harness the power of dreams in this content mod."
   },
   {
-    "repo": "pixecoz/better-vaults",
-    "name": "Better vaults",
-    "version": "1.1",
-    "mod_id": "better-vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2022-02-20T08:51:34Z",
-    "stars": 11,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "version": "0.6.2",
@@ -1766,6 +1753,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
+  },
+  {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "version": "1.1",
+    "mod_id": "better-vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2023-03-14T11:54:19Z",
+    "stars": 11,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
     "repo": "Solokil/V6AdventureU",
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-14T00:55:24Z",
+    "lastUpdated": "2023-03-14T12:31:14Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4667,19 +4667,6 @@
     "description": "Adds flarogus to Mindustry."
   },
   {
-    "repo": "stacktrace-error/uwu-bundle",
-    "name": "uwu bundles",
-    "version": "0",
-    "mod_id": "uwu-bundles",
-    "author": "NullPointerException#7763/stacktrace-error",
-    "lastUpdated": "2022-12-08T17:51:10Z",
-    "stars": 3,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "tuwns evewy R and L into a W. incwedibwe."
-  },
-  {
     "repo": "aawwaaa/aimClient",
     "name": "AimClient",
     "version": "1.0.0",
@@ -5603,19 +5590,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "floppa-coder/IronExtened",
-    "name": "Iron Extended",
-    "version": "0.3",
-    "mod_id": "iron",
-    "author": "Floppa",
-    "lastUpdated": "2023-03-11T21:06:27Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5627,6 +5601,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "it is suck."
+  },
+  {
+    "repo": "floppa-coder/IronExtened",
+    "name": "Iron Extended",
+    "version": "0.3",
+    "mod_id": "iron",
+    "author": "Floppa",
+    "lastUpdated": "2023-03-14T18:28:29Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "4156/Infintory",
@@ -5985,7 +5972,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-13T16:32:08Z",
+    "lastUpdated": "2023-03-14T15:47:07Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
