@@ -273,19 +273,6 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
-    "repo": "Fresh791/Fading-Revelations",
-    "name": "Fading Revelations",
-    "version": "2.1",
-    "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-03-06T19:09:28Z",
-    "stars": 63,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.1",
@@ -297,6 +284,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
+    "repo": "Fresh791/Fading-Revelations",
+    "name": "Fading Revelations",
+    "version": "2.1",
+    "mod_id": "me",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2023-03-06T19:09:28Z",
+    "stars": 62,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "xzxADIxzx/Scheme-Size",
@@ -4810,19 +4810,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "YSpoof/mindustry-zmod",
-    "name": "ZMod",
-    "version": "1.0.5",
-    "mod_id": "ZMod",
-    "author": "N0TZ3R0",
-    "lastUpdated": "2023-03-15T22:32:01Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod provides a new way to play Mindustry, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
-  },
-  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.4",
@@ -4841,12 +4828,25 @@
     "version": "0.1-pre-alpha",
     "mod_id": "MBT",
     "author": "Timshh",
-    "lastUpdated": "2023-03-19T09:45:50Z",
+    "lastUpdated": "2023-03-19T12:43:02Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod. Content was be here."
+  },
+  {
+    "repo": "YSpoof/mindustry-zmod",
+    "name": "ZMod",
+    "version": "1.1.0",
+    "mod_id": "ZMod",
+    "author": "N0TZ3R0",
+    "lastUpdated": "2023-03-19T14:53:32Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4860,19 +4860,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry mod which reveals hidden blocks that are in the game files/folders."
-  },
-  {
-    "repo": "Tenser43/random-mod",
-    "name": "Random Mod",
-    "version": "0.1.0",
-    "mod_id": "Random Mod",
-    "author": "Tenser",
-    "lastUpdated": "2020-12-24T03:54:38Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds some random, but useful stuff."
   },
   {
     "repo": "AmateurPotion/NuclearJavaMod",
@@ -5616,12 +5603,25 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-14T21:14:02Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
     "mod_id": "suck_mod",
     "author": "8097's troops",
-    "lastUpdated": "2023-03-18T15:21:53Z",
+    "lastUpdated": "2023-03-19T14:55:59Z",
     "stars": 2,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5980,12 +5980,25 @@
     "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
+    "repo": "PiggyChu620/MindustryJavaModTest",
+    "name": "EC620 Java Mod Testing",
+    "version": "0.1",
+    "mod_id": "ec620",
+    "author": "PiggyChu620",
+    "lastUpdated": "2023-03-19T06:12:45Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "Test mod",
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-18T17:05:50Z",
+    "lastUpdated": "2023-03-19T14:20:02Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7109,18 +7122,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "volcano planet"
-  },
-  {
-    "repo": "PiggyChu620/MindustryJavaModTest",
-    "name": "EC620 Java Mod Testing",
-    "version": "0.1",
-    "mod_id": "ec620",
-    "author": "PiggyChu620",
-    "lastUpdated": "2023-03-19T06:12:45Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   }
 ]
