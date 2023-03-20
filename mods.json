@@ -305,7 +305,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-03-13T20:38:38Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -509,10 +509,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.99dev",
+    "version": "0.2.101dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-03-19T22:52:40Z",
+    "lastUpdated": "2023-03-20T07:25:40Z",
     "stars": 35,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-19T01:09:15Z",
+    "lastUpdated": "2023-03-20T01:05:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2676,19 +2676,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -4342,19 +4329,6 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -5993,19 +5967,6 @@
     "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
-    "repo": "PiggyChu620/MindustryJavaModTest",
-    "name": "EC620 Java Mod Testing",
-    "version": "0.1",
-    "mod_id": "ec620",
-    "author": "PiggyChu620",
-    "lastUpdated": "2023-03-19T06:12:45Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "Test mod",
     "version": "0.1",
@@ -6017,6 +5978,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod"
+  },
+  {
+    "repo": "PiggyChu620/MindustryJavaModTest",
+    "name": "Random Planet v0.1",
+    "version": "0.1",
+    "mod_id": "ec620",
+    "author": "PiggyChu620",
+    "lastUpdated": "2023-03-20T07:21:18Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomly generate a planet and its sectors."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6108,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "Sonnicon/GroovyModMod",
+    "name": "Groovy Mod Mod",
+    "version": "0.2",
+    "mod_id": "groovymodmod",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2020-12-28T01:11:25Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
   },
   {
     "repo": "DvNamedo/world-war-2",
