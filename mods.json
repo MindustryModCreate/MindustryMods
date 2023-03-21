@@ -83,7 +83,7 @@
     "version": "0.7 Alpha",
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
-    "lastUpdated": "2023-03-19T19:52:45Z",
+    "lastUpdated": "2023-03-21T18:21:19Z",
     "stars": 127,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -1144,6 +1144,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "Drullkus/Unnerf-Core-Units",
+    "name": "Unnerf Core Units",
+    "version": "1.1",
+    "mod_id": "unnerf_core_units",
+    "author": "Drullkus",
+    "lastUpdated": "2023-03-15T01:47:02Z",
+    "stars": 17,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -1155,6 +1168,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradle jar Mindustry mod template"
+  },
+  {
+    "repo": "ThirstyBoi/Abominations",
+    "name": "Abominations - TexturePack",
+    "version": "0.2",
+    "mod_id": "abom-pack",
+    "author": "Thristy",
+    "lastUpdated": "2021-10-23T12:37:01Z",
+    "stars": 16,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns everything into disgusting organic beings"
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1222,6 +1248,45 @@
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
+    "repo": "ThatOneBepis/Infinitodustry",
+    "name": "Infinitodustry",
+    "version": "2",
+    "mod_id": "Infinitodustry",
+    "author": "Bepis",
+    "lastUpdated": "2021-05-29T15:24:21Z",
+    "stars": 15,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Attempt at prosperity."
+  },
+  {
+    "repo": "DaGamerFiles/classic-music",
+    "name": "<Mindustry> Classic Music",
+    "version": "2.0",
+    "mod_id": "classic-music",
+    "author": "DaGamerFiles",
+    "lastUpdated": "2022-05-12T09:25:35Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
+  },
+  {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 15,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.75 Pre-Alpha",
@@ -1233,6 +1298,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "version": "0.4.1",
+    "mod_id": "additional-content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-11-24T01:35:10Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "GlennFolker/Confictura",
@@ -1272,6 +1350,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "sk7725/EXP-lib",
+    "name": "EXP Library",
+    "version": "3.0",
+    "mod_id": "exp-lib",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-27T03:50:40Z",
+    "stars": 14,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "EXP Library for 6.0!"
+  },
+  {
+    "repo": "sk7725/Commands",
+    "name": "Commands",
+    "version": "0.2",
+    "mod_id": "cmd",
+    "author": "sk7725",
+    "lastUpdated": "2020-11-19T05:26:24Z",
+    "stars": 14,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various commands to processors.\nThanks to: DeltaNedas"
   },
   {
     "repo": "MindustryInside/AutoUpdater",
@@ -1376,6 +1480,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
+  },
+  {
+    "repo": "o7-Fire/Mindustry-Ozone",
+    "name": "Ozone Mindustry",
+    "version": "0.24.2:0.19.0",
+    "mod_id": "Ozone-Mindustry",
+    "author": "o7-Fire",
+    "lastUpdated": "2021-03-31T23:01:22Z",
+    "stars": 13,
+    "minGameVersion": "123",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
     "repo": "Antlrr/best-texture-pack",
@@ -1521,6 +1638,32 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "LottieVixen/2xConveyors",
+    "name": "2X Conveyors",
+    "version": "0.2",
+    "mod_id": "2xconveyors",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-03T04:18:24Z",
+    "stars": 11,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Two (2) times faster conveyors, at twice the cost"
+  },
+  {
+    "repo": "QmelZ/mainstreamdustry",
+    "name": "mainstreamdustry",
+    "version": "dustry",
+    "mod_id": "mainstreamdustry",
+    "author": "QmelZdustry",
+    "lastUpdated": "2020-12-06T19:02:54Z",
+    "stars": 11,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
+  },
+  {
     "repo": "spmlk/DreamscapeMod",
     "name": "Dreamscape Mod",
     "version": "1.1",
@@ -1625,6 +1768,19 @@
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
+    "repo": "Solokil/V6AdventureU",
+    "name": "Solokil Underground Adventure",
+    "version": "1.1",
+    "mod_id": "underground-adventure-v6",
+    "author": "Solokil",
+    "lastUpdated": "2021-06-24T18:57:06Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
+  },
+  {
     "repo": "no9527dada/free-campaign",
     "name": "free-campaign-自由战役",
     "version": "0.2",
@@ -1690,6 +1846,19 @@
     "description": "Мод добавляет множество новых турелей."
   },
   {
+    "repo": "deltanedas/cliff",
+    "name": "cliff",
+    "version": "1.1.0",
+    "mod_id": "cliff",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-03T13:17:34Z",
+    "stars": 9,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
     "repo": "valtsu41/bundle-chaos",
     "name": "Bundle chaos",
     "version": "4.2",
@@ -1740,6 +1909,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod dat wepwaces da Engwish wocawization with da UwU wanguage.\nI'm weawwy suwpwised dat somye peopwe awe using it! \n\nSuppowts v7 now!"
+  },
+  {
+    "repo": "Janssendel/Opposing-Front",
+    "name": "Opposing Front",
+    "version": "ask Jans",
+    "mod_id": "opposing-front",
+    "author": "Janssendel",
+    "lastUpdated": "2021-12-10T08:46:17Z",
+    "stars": 9,
+    "minGameVersion": "129.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
     "repo": "deltanedas/anuke-logic",
@@ -1833,6 +2015,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "deltanedas/override-lib",
+    "name": "Override Lib",
+    "version": "2.0.1",
+    "mod_id": "override-lib",
+    "author": "deltanedas",
+    "lastUpdated": "2022-09-30T08:16:34Z",
+    "stars": 9,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
     "repo": "THCworkshopCN/THC-Industry",
     "name": "THC-Industry",
     "version": "0.4.8.0_dev_legacy",
@@ -1903,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-21T00:59:27Z",
+    "lastUpdated": "2023-03-21T12:22:17Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1976,6 +2171,19 @@
     "description": "Adds a bunch of random stuff to mindustry"
   },
   {
+    "repo": "7rodo/Strawberry",
+    "name": "Strawberry [MERGED WITH MOREDEFENCES]",
+    "version": "1.1",
+    "mod_id": "strawberry",
+    "author": "7rodo",
+    "lastUpdated": "2021-12-23T19:15:56Z",
+    "stars": 8,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod has been merged with TheRealIvyX/MoreDefences now"
+  },
+  {
     "repo": "iarkn/mind-util",
     "name": "mind-util - Utility Mod",
     "version": "1.3.0",
@@ -2000,6 +2208,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A fun mod for a fun New Year's event"
+  },
+  {
+    "repo": "MEEPofFaith/anuke-approaching",
+    "name": "Do not the Anuke",
+    "version": "oh no",
+    "mod_id": "do-not-the-cat",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-01-28T05:38:39Z",
+    "stars": 8,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do not the Anuke"
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
@@ -2132,6 +2353,32 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
+  },
+  {
+    "repo": "deltanedas/yes",
+    "name": "yes",
+    "version": "1.1.1",
+    "mod_id": "yes",
+    "author": "deltanedas",
+    "lastUpdated": "2020-12-19T21:21:48Z",
+    "stars": 7,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "yes\nAlso try Gdeft/bleach!"
+  },
+  {
     "repo": "EmanuelG-Gaming/emanuels-mod",
     "name": "Emanuel's Mod",
     "version": "0.7 pre alpha",
@@ -2182,6 +2429,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
+  },
+  {
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "version": "0.0.1",
+    "mod_id": "prog-mats-pixel-texturepack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-04-01T10:15:43Z",
+    "stars": 7,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "SearcherG60/S-Edition",
@@ -2262,6 +2522,19 @@
     "description": "Upload your maps:\nDiscord pixecoz#3275"
   },
   {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
+  },
+  {
     "repo": "breadbug23/Somas",
     "name": "Somas",
     "version": "1.4",
@@ -2312,6 +2585,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A jar mod. Glory to the cat"
+  },
+  {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -2377,6 +2663,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
+  },
+  {
+    "repo": "paulieg626/AdminTool",
+    "name": "AdminTool",
+    "version": "1.1",
+    "mod_id": "admintool",
+    "author": "paulieg626",
+    "lastUpdated": "2023-01-03T03:16:33Z",
+    "stars": 7,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -3653,6 +3952,19 @@
     "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
   },
   {
+    "repo": "stacktrace-error/uwu-bundle",
+    "name": "uwu bundles",
+    "version": "0",
+    "mod_id": "uwu-bundles",
+    "author": "NullPointerException#7763/stacktrace-error",
+    "lastUpdated": "2022-12-08T17:51:10Z",
+    "stars": 4,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "tuwns evewy R and L into a W. incwedibwe."
+  },
+  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4030,19 +4342,6 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4353,19 +4652,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds flarogus to Mindustry."
-  },
-  {
-    "repo": "stacktrace-error/uwu-bundle",
-    "name": "uwu bundles",
-    "version": "0",
-    "mod_id": "uwu-bundles",
-    "author": "NullPointerException#7763/stacktrace-error",
-    "lastUpdated": "2022-12-08T17:51:10Z",
-    "stars": 3,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "tuwns evewy R and L into a W. incwedibwe."
   },
   {
     "repo": "aawwaaa/aimClient",
@@ -4862,19 +5148,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "FreezeMandu/PowerSources",
-    "name": "Power Sources mod",
-    "version": "0.6",
-    "mod_id": "powersources",
-    "author": "Mandu",
-    "lastUpdated": "2021-11-02T08:12:46Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "SMOLKEYS/random-stuff",
     "name": "Random Stuff",
     "version": "ela 5",
@@ -5304,6 +5577,19 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-14T21:14:02Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5315,6 +5601,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "it is suck."
+  },
+  {
+    "repo": "FreezeMandu/PowerSources",
+    "name": "Power Sources mod",
+    "version": "0.6",
+    "mod_id": "powersources",
+    "author": "Mandu",
+    "lastUpdated": "2023-03-21T15:15:24Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "4156/Infintory",
@@ -5686,7 +5985,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-20T16:02:56Z",
+    "lastUpdated": "2023-03-21T16:46:47Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6552,19 +6851,6 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
-    "repo": "ValkovY/MarsiumModMindustry",
-    "name": "MarsiumMod",
-    "version": "0.1",
-    "mod_id": "vm",
-    "author": "ValkovY",
-    "lastUpdated": "2022-12-10T15:27:46Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Industry on v7."
-  },
-  {
     "repo": "CyanRonan/RGBee",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -6810,5 +7096,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "volcano planet"
+  },
+  {
+    "repo": "ValkovY/MarsiumModMindustry",
+    "name": "MarsiumMod",
+    "version": "0.2",
+    "mod_id": "vm",
+    "author": "ValkovY",
+    "lastUpdated": "2023-03-21T13:50:39Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry on v7."
   }
 ]
