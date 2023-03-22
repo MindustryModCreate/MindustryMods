@@ -234,6 +234,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "version": "4.18.0",
+    "mod_id": "ui-lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-01-21T15:53:22Z",
+    "stars": 69,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.1",
@@ -245,19 +258,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "version": "4.18.0",
-    "mod_id": "ui-lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-01-21T15:53:22Z",
-    "stars": 68,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -2236,6 +2236,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "deltanedas/waisa",
+    "name": "WAISA",
+    "version": "3.3.3",
+    "mod_id": "waisa",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:47Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -2561,19 +2574,6 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:47Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "deltanedas/ExampleJavaMod",
     "name": "Example Java Mod",
     "version": "2.0.3",
@@ -2676,6 +2676,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -4342,6 +4355,19 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -5564,19 +5590,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-14T21:14:02Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5608,7 +5621,7 @@
     "version": "3.1",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-22T01:42:38Z",
+    "lastUpdated": "2023-03-22T08:23:06Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5967,19 +5980,6 @@
     "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
-    "repo": "PiggyChu620/MindustryJavaModTest",
-    "name": "Random Planet v0.1",
-    "version": "0.1",
-    "mod_id": "ec620",
-    "author": "PiggyChu620",
-    "lastUpdated": "2023-03-20T13:14:51Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomly generate a planet and its sectors."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "Test mod",
     "version": "0.1",
@@ -6082,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "Sonnicon/GroovyModMod",
+    "name": "Groovy Mod Mod",
+    "version": "0.2",
+    "mod_id": "groovymodmod",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2020-12-28T01:11:25Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
   },
   {
     "repo": "DvNamedo/world-war-2",
