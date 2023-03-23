@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-03-22T16:11:42Z",
-    "stars": 233,
+    "stars": 234,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -182,19 +182,6 @@
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "z0mbiesrock/Diamond-Ore",
-    "name": "Diamond Ore Mod",
-    "version": "2.6.0",
-    "mod_id": "diamond-ore",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 75,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
     "repo": "Anuken/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -206,6 +193,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "z0mbiesrock/Diamond-Ore",
+    "name": "Diamond Ore Mod",
+    "version": "2.6.0",
+    "mod_id": "diamond-ore",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2023-03-23T13:27:17Z",
+    "stars": 75,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "Sharlottes/Informatis",
@@ -301,10 +301,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.7.47",
+    "version": "2.7.49",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-03-13T20:38:38Z",
+    "lastUpdated": "2023-03-23T17:04:40Z",
     "stars": 62,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -486,7 +486,7 @@
     "version": "0.2.104dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-03-23T07:45:14Z",
+    "lastUpdated": "2023-03-23T10:20:36Z",
     "stars": 36,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -2002,19 +2002,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-09-18T12:19:05Z",
-    "stars": 9,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "deltanedas/override-lib",
     "name": "Override Lib",
     "version": "2.0.1",
@@ -2093,12 +2080,25 @@
     "description": ""
   },
   {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2023-03-23T10:59:40Z",
+    "stars": 9,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-23T00:59:18Z",
+    "lastUpdated": "2023-03-23T12:24:01Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3086,7 +3086,7 @@
     "version": "1.0.9",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\n",
-    "lastUpdated": "2023-03-20T18:55:17Z",
+    "lastUpdated": "2023-03-23T10:51:02Z",
     "stars": 6,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -4810,6 +4810,19 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
+    "repo": "Redstonneur1256/SeamlessDisplays",
+    "name": "Seamless displays",
+    "version": "@version@",
+    "mod_id": "seamless-displays",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-03-07T12:59:09Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Removes logic display border and link them together"
+  },
+  {
     "repo": "MEEPofFaith/tranqol",
     "name": "Tranqol",
     "version": "v2",
@@ -5551,19 +5564,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Redstonneur1256/SeamlessDisplays",
-    "name": "Seamless displays",
-    "version": "@version@",
-    "mod_id": "seamless-displays",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-03-07T12:59:09Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Removes logic display border and link them together"
-  },
-  {
     "repo": "skulzyetagain/FirstMod",
     "name": "Titans Awoken",
     "version": "0.5",
@@ -5588,19 +5588,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-14T21:14:02Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
   },
   {
     "repo": "not8097/suck_mod",
@@ -5634,7 +5621,7 @@
     "version": "3.1",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-22T08:23:06Z",
+    "lastUpdated": "2023-03-23T20:06:35Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5994,16 +5981,16 @@
   },
   {
     "repo": "SITUVNgcd/MindustryModTest",
-    "name": "Test mod",
+    "name": "SVN Test mod",
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-22T16:17:15Z",
+    "lastUpdated": "2023-03-23T17:23:52Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "SITUVNgd's test mod"
+    "description": "SITUVNgd's test mod\nClick Repo for more info."
   },
   {
     "repo": "Nikisos/TheBattleMod",
