@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-03-22T01:50:35Z",
+    "lastUpdated": "2023-03-24T02:58:01Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-23T12:24:01Z",
+    "lastUpdated": "2023-03-24T00:59:38Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2676,19 +2676,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Chrono-Heritage/Nucleardustry",
@@ -5577,19 +5564,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-14T21:14:02Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5621,7 +5595,7 @@
     "version": "3.1",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-23T23:36:27Z",
+    "lastUpdated": "2023-03-24T06:14:30Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6082,6 +6056,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "Sonnicon/GroovyModMod",
+    "name": "Groovy Mod Mod",
+    "version": "0.2",
+    "mod_id": "groovymodmod",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2020-12-28T01:11:25Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#bb99ff]Allows execution of Groovy scripts (*.groovy) from the Mods folder.[]"
   },
   {
     "repo": "DvNamedo/world-war-2",
