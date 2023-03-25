@@ -18,8 +18,8 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-03-24T23:29:12Z",
-    "stars": 234,
+    "lastUpdated": "2023-03-25T08:45:58Z",
+    "stars": 235,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -188,7 +188,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2023-02-21T18:38:51Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-03-24T02:58:01Z",
+    "lastUpdated": "2023-03-25T08:29:38Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-03-24T20:12:58Z",
+    "lastUpdated": "2023-03-25T08:41:11Z",
     "stars": 47,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1339,12 +1339,25 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "@version@",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-03-21T21:44:07Z",
+    "stars": 15,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
+  },
+  {
     "repo": "Sh1penfire/Welcome-to-the-Frostscape",
     "name": "Welcome to the Frostscape",
     "version": "v1.1-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2023-03-03T03:19:37Z",
+    "lastUpdated": "2023-03-25T05:30:15Z",
     "stars": 15,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1443,19 +1456,6 @@
     "description": "Reworked content for people to enjoy :>\n-Current version : 1.6 [B1]"
   },
   {
-    "repo": "Redstonneur1256/Mindustry-ModLib",
-    "name": "Mod Library",
-    "version": "@version@",
-    "mod_id": "!mod-library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-03-21T21:44:07Z",
-    "stars": 14,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "version": "1.7.0",
@@ -1547,6 +1547,19 @@
     "description": "something perhaps"
   },
   {
+    "repo": "Slotterleet/distributor",
+    "name": "Distributor",
+    "version": "1.1",
+    "mod_id": "distributor",
+    "author": "Slotterleet",
+    "lastUpdated": "2022-10-19T05:40:50Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
+  },
+  {
     "repo": "Gdeft/bleach",
     "name": "Bleach",
     "version": "1.4",
@@ -1623,19 +1636,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Collection of joke blocks"
-  },
-  {
-    "repo": "Slotterleet/distributor",
-    "name": "Distributor",
-    "version": "1.1",
-    "mod_id": "distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-10-19T05:40:50Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1794,6 +1794,19 @@
     "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 10,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -1922,19 +1935,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry mod that adds a bunch of stuff, that's it."
-  },
-  {
-    "repo": "deltanedas/anuke-logic",
-    "name": "Anuke Logic",
-    "version": "1.9.6",
-    "mod_id": "anuke-logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-24T16:44:09Z",
-    "stars": 9,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-24T12:21:31Z",
+    "lastUpdated": "2023-03-25T00:57:53Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2364,19 +2364,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -3081,6 +3068,19 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNot the most balanced"
   },
   {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3378,6 +3378,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-01-15T10:00:47Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "ThomasThings/xenacia",
@@ -3963,19 +3976,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-01-15T10:00:47Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
@@ -4836,6 +4836,19 @@
     "description": "Mod need MULTICRAFTERLIB to work. Discord link - https://discord.gg/7SSAupjxeD"
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.5",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-03-24T19:05:51Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -4873,6 +4886,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod adding a very hard to mine resource"
+  },
+  {
+    "repo": "MakeItGame/Test4Life-Enhancement",
+    "name": "Test4Life Enhancement",
+    "version": "1.0",
+    "mod_id": "Test4Life",
+    "author": "MakeItGame",
+    "lastUpdated": "2020-12-30T16:07:12Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod that enhaces your Game with  new Things and Enhancements."
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -4966,6 +4992,19 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "Memedustry/Motivation",
+    "name": "Motivation",
+    "version": "69",
+    "mod_id": "Motivation",
+    "author": "Memedustry",
+    "lastUpdated": "2021-05-18T03:39:48Z",
+    "stars": 2,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Help your mod-making-mood with this motivational mod!"
+  },
+  {
     "repo": "Delourians/Mindustry-mod",
     "name": "Mindustry-mod",
     "version": "0.1",
@@ -5003,6 +5042,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks:\r\nMohole: slag drill\r\nSmall thermal generator: a smaller thermal generator\r\nChanges:\r\nSand water can be mined\r\nExperimental blocks enabled\r\nSand water variants have oil attribute"
+  },
+  {
+    "repo": "Memedustry/Heresydustry",
+    "name": "HeresyDustry",
+    "version": "ersion doesn't matter.",
+    "mod_id": "heresy",
+    "author": "Memedustry \n\nIdeas: \n[A Literal Pie - Reversed liquid stats]\n[Mothy - Veladustry]\n[susvocado - Cannabis]\n[Strange Noises - Memedustry]\n\nContribute by DMing me your hilariously stupid ideas! @KingOfMemes#2183",
+    "lastUpdated": "2021-08-11T21:17:31Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The very culmination of everyone's dumb ideas."
   },
   {
     "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
@@ -5172,6 +5224,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Change sector export destination from list on planet screen"
+  },
+  {
+    "repo": "RouterXdd/HellFraction-Industries",
+    "name": "HFI",
+    "version": "1.0",
+    "mod_id": "hfi",
+    "author": "Router Xdd",
+    "lastUpdated": "2022-04-15T04:37:47Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
     "repo": "deltanedas/item-grabber",
@@ -5536,19 +5601,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.5",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-03-24T19:05:51Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
   },
   {
     "repo": "4156/Infintory",
@@ -6173,6 +6225,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
+  },
+  {
+    "repo": "KarmaH4uK/NothingMod",
+    "name": "Nothing mod",
+    "version": "1.0",
+    "mod_id": "nothing-mod",
+    "author": "WindustryTeam",
+    "lastUpdated": "2021-08-14T10:40:37Z",
+    "stars": 0,
+    "minGameVersion": "117",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The most ambitious mod.\nNew features: \n\nNew blocks: \n\nNew items: \n\nNew liquids: \n\nCreated with love, WindustryTeam"
   },
   {
     "repo": "haywyre124/Diamond-Mod-Naub",
