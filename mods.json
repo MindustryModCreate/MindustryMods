@@ -197,10 +197,10 @@
   {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "mod_id": "diamond-ore",
     "author": "z0mbiesrock",
-    "lastUpdated": "2023-03-24T19:07:51Z",
+    "lastUpdated": "2023-03-25T14:53:23Z",
     "stars": 75,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -291,8 +291,8 @@
     "version": "2.7.51",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-03-24T18:48:02Z",
-    "stars": 62,
+    "lastUpdated": "2023-03-25T14:55:53Z",
+    "stars": 63,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-03-25T08:41:11Z",
+    "lastUpdated": "2023-03-25T10:15:53Z",
     "stars": 47,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -910,19 +910,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2023-03-07T13:43:11Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "alpha-0.8.4",
@@ -934,6 +921,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.8.2",
+    "mod_id": "random-mindustry",
+    "author": "sporrus",
+    "lastUpdated": "2023-03-25T15:05:56Z",
+    "stars": 22,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -1222,6 +1222,19 @@
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2023-01-02T19:37:34Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "RICCJ/MinerTools",
     "name": "MinerTools",
     "version": "1.7.5",
@@ -1324,19 +1337,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2023-01-02T19:37:34Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Redstonneur1256/Mindustry-ModLib",
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-25T00:57:53Z",
+    "lastUpdated": "2023-03-25T12:20:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2364,6 +2364,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -2663,6 +2676,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -4043,6 +4069,19 @@
     "description": "A heat and steam based mod."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.5",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-03-24T19:05:51Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4327,19 +4366,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
-  },
-  {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -4834,19 +4860,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod need MULTICRAFTERLIB to work. Discord link - https://discord.gg/7SSAupjxeD"
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.5",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-03-24T19:05:51Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7070,5 +7083,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "bttodi/Pandemonium",
+    "name": "Pandemonium",
+    "version": "No version provided.",
+    "mod_id": "pandemonium",
+    "author": "bttodi",
+    "lastUpdated": "2023-03-25T13:17:53Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
   }
 ]
