@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-03-25T16:20:19Z",
+    "lastUpdated": "2023-03-26T19:25:10Z",
     "stars": 235,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -200,7 +200,7 @@
     "version": "4.0.0",
     "mod_id": "diamond-ore",
     "author": "z0mbiesrock",
-    "lastUpdated": "2023-03-25T17:08:49Z",
+    "lastUpdated": "2023-03-26T15:30:31Z",
     "stars": 75,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -301,15 +301,15 @@
   {
     "repo": "Fresh791/Fading-Revelations",
     "name": "Fading Revelations",
-    "version": "2.1",
+    "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-03-26T14:54:33Z",
+    "lastUpdated": "2023-03-26T19:57:29Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "MEEPofFaith/prog-mats-java",
@@ -928,7 +928,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2023-03-26T02:11:05Z",
+    "lastUpdated": "2023-03-26T16:02:07Z",
     "stars": 22,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -1027,19 +1027,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.7.1",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-03-14T03:52:31Z",
-    "stars": 19,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.9",
@@ -1051,6 +1038,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.7.3",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-03-26T16:03:41Z",
+    "stars": 19,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -4004,19 +4004,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "2.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2023-03-07T14:23:44Z",
-    "stars": 4,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
-  },
-  {
     "repo": "ErrorInCode27/Relics-Mod",
     "name": "Relics",
     "version": "0.2",
@@ -4054,6 +4041,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A heat and steam based mod."
+  },
+  {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "2.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2023-03-26T19:54:41Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4340,19 +4340,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
-  },
-  {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -5595,7 +5582,7 @@
     "version": "3.1",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-24T06:14:30Z",
+    "lastUpdated": "2023-03-26T20:03:11Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5959,7 +5946,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-26T13:34:27Z",
+    "lastUpdated": "2023-03-26T17:38:42Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
