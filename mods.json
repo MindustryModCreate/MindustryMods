@@ -304,7 +304,7 @@
     "version": "2.1",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-03-25T17:50:42Z",
+    "lastUpdated": "2023-03-26T14:54:33Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -382,7 +382,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-03-25T16:21:30Z",
+    "lastUpdated": "2023-03-26T12:57:20Z",
     "stars": 47,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-26T01:04:43Z",
+    "lastUpdated": "2023-03-26T12:20:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2364,19 +2364,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -4355,6 +4342,19 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -5959,7 +5959,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-26T10:04:59Z",
+    "lastUpdated": "2023-03-26T13:34:27Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7007,19 +7007,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "MayFlowerz0505/PlanetsMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-03-15T10:10:51Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Yunatexya/MPTv2ModRE",
     "name": "MPTv2 RE",
     "version": "0.1.5",
@@ -7096,5 +7083,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
+  },
+  {
+    "repo": "V-Blackbird/MindustryJavaTestMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-26T14:41:25Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
