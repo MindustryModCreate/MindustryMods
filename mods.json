@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-03-26T19:25:10Z",
+    "lastUpdated": "2023-03-27T06:11:14Z",
     "stars": 234,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -304,7 +304,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-03-26T19:57:29Z",
+    "lastUpdated": "2023-03-27T09:52:05Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-03-26T20:39:46Z",
+    "lastUpdated": "2023-03-27T06:19:23Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -2085,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-03-26T12:20:21Z",
+    "lastUpdated": "2023-03-27T00:58:55Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3471,19 +3471,6 @@
     "description": "No description."
   },
   {
-    "repo": "MKosmic/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
-  },
-  {
     "repo": "FarmerThanos/Jukeustry",
     "name": "Jukeustry",
     "version": "0.3",
@@ -4446,19 +4433,6 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
-    "repo": "iarkn/crescendo",
-    "name": "Crescendo",
-    "version": "0.1.0",
-    "mod_id": "crescendo",
-    "author": "iarkn",
-    "lastUpdated": "2022-06-04T01:09:56Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod written in Clojure!"
-  },
-  {
     "repo": "Mythril382/AmmoSwap",
     "name": "Ammo Swap",
     "version": "0.3",
@@ -5120,19 +5094,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Reverts the Stained Mountain Guardian back to Scepter."
-  },
-  {
-    "repo": "NewJumper/Futurdustry",
-    "name": "Futurdustry",
-    "version": "0.2.3",
-    "mod_id": "futurdustry",
-    "author": "NewJumper",
-    "lastUpdated": "2021-10-22T02:31:51Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
     "repo": "NemesisTheory/wort-wort-wort",
@@ -5954,6 +5915,19 @@
     "description": "SITUVNgd's test mod\nClick Repo for more info."
   },
   {
+    "repo": "V-Blackbird/MindustryJavaTestMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-27T10:04:57Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -6407,19 +6381,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some magic to mindustry... soon"
-  },
-  {
-    "repo": "Antlrr/atrac",
-    "name": "Atrac",
-    "version": "1.0",
-    "mod_id": "atrac",
-    "author": "Antlrr",
-    "lastUpdated": "2021-12-04T10:46:33Z",
-    "stars": 0,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "atrac"
   },
   {
     "repo": "Antlrr/duo",
@@ -7070,18 +7031,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
-  },
-  {
-    "repo": "V-Blackbird/MindustryJavaTestMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-03-26T14:41:25Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   }
 ]
