@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-03-26T19:25:10Z",
-    "stars": 235,
+    "stars": 234,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-03-11T18:22:50Z",
-    "stars": 223,
+    "stars": 222,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2023-03-21T18:21:19Z",
-    "stars": 127,
+    "stars": 126,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -97,7 +97,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2023-01-07T13:43:43Z",
-    "stars": 126,
+    "stars": 125,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -123,7 +123,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2022-02-08T09:34:31Z",
-    "stars": 98,
+    "stars": 97,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-03-26T04:18:33Z",
+    "lastUpdated": "2023-03-26T20:39:46Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -455,19 +455,6 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
-    "name": "Progressed Materials (Java)",
-    "version": "14.1",
-    "mod_id": "prog-mats",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2022-01-25T06:12:43Z",
-    "stars": 36,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "version": "3.3.2",
@@ -479,19 +466,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "pixecoz/MindustrySchematics",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "mod_id": "schematics-pack",
-    "author": "pixecoz",
-    "lastUpdated": "2023-02-22T17:36:18Z",
-    "stars": 36,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "FredyJabe/aeyama",
@@ -507,6 +481,19 @@
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check the Discord and our GitHub repository for more info!"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
+    "name": "Progressed Materials (Java)",
+    "version": "14.1",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:12:43Z",
+    "stars": 35,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-js",
     "name": "Progressed Materials (JS)",
     "version": "0.40 FINAL JS UPDATE",
@@ -518,6 +505,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "pixecoz/MindustrySchematics",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "mod_id": "schematics-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2023-02-22T17:36:18Z",
+    "stars": 35,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "younggam/multi-lib",
@@ -598,32 +598,6 @@
     "description": "JavaScript only mindustry mod."
   },
   {
-    "repo": "MEEPofFaith/missing-category-units",
-    "name": "Missing Category Units",
-    "version": "0.2.2",
-    "mod_id": "purple-air",
-    "author": "Scripting: MEEP of Faith\nSpriting: A5TR0spud\nIndonesian Translation: WilloIzCitron",
-    "lastUpdated": "2022-05-30T17:32:48Z",
-    "stars": 29,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
-  },
-  {
-    "repo": "NiTiSon/GRavillaso",
-    "name": "GRavillaso [Abandoned]",
-    "version": "2 b41",
-    "mod_id": "gravillaso",
-    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-10-31T19:09:15Z",
-    "stars": 29,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
     "repo": "liplum/MultiCrafterLib",
     "name": "MultiCrafter Lib",
     "version": "1.0",
@@ -648,6 +622,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
+  },
+  {
+    "repo": "MEEPofFaith/missing-category-units",
+    "name": "Missing Category Units",
+    "version": "0.2.2",
+    "mod_id": "purple-air",
+    "author": "Scripting: MEEP of Faith\nSpriting: A5TR0spud\nIndonesian Translation: WilloIzCitron",
+    "lastUpdated": "2022-05-30T17:32:48Z",
+    "stars": 28,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
+  },
+  {
+    "repo": "NiTiSon/GRavillaso",
+    "name": "GRavillaso [Abandoned]",
+    "version": "2 b41",
+    "mod_id": "gravillaso",
+    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-10-31T19:09:15Z",
+    "stars": 28,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "Ferlern/extended-UI",
@@ -806,19 +806,6 @@
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "version": "1.4",
-    "mod_id": "classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2022-04-23T10:11:06Z",
-    "stars": 23,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -869,6 +856,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds upgraded versions of existing factories."
+  },
+  {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "version": "1.4",
+    "mod_id": "classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2022-04-23T10:11:06Z",
+    "stars": 22,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -988,19 +988,6 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2023-03-14T08:17:23Z",
-    "stars": 20,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -1025,6 +1012,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2023-03-14T08:17:23Z",
+    "stars": 19,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -1157,19 +1157,6 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
-    "repo": "Sonnicon/mindustry-modtemplate",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-07-19T17:01:41Z",
-    "stars": 16,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1272,6 +1259,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Attempt at prosperity."
+  },
+  {
+    "repo": "Sonnicon/mindustry-modtemplate",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-19T17:01:41Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1404,19 +1404,6 @@
     "description": "Mindustry auto updater"
   },
   {
-    "repo": "Anuken/MindustryKotlinModTemplate",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2021-08-21T03:02:48Z",
-    "stars": 14,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
-  },
-  {
     "repo": "LighterTimes/Block-Placer",
     "name": "Block Placer",
     "version": "eicular manslaughter 2",
@@ -1506,6 +1493,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "pain and suffering"
+  },
+  {
+    "repo": "Anuken/MindustryKotlinModTemplate",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2021-08-21T03:02:48Z",
+    "stars": 13,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   },
   {
     "repo": "Goobrr/Goobriculture",
@@ -1664,19 +1664,6 @@
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
   },
   {
-    "repo": "spmlk/DreamscapeMod",
-    "name": "Dreamscape Mod",
-    "version": "1.1",
-    "mod_id": "dscape",
-    "author": "smk",
-    "lastUpdated": "2021-06-24T05:26:08Z",
-    "stars": 11,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Harness the power of dreams in this content mod."
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "version": "0.6.2",
@@ -1768,6 +1755,19 @@
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
+    "repo": "spmlk/DreamscapeMod",
+    "name": "Dreamscape Mod",
+    "version": "1.1",
+    "mod_id": "dscape",
+    "author": "smk",
+    "lastUpdated": "2021-06-24T05:26:08Z",
+    "stars": 10,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Harness the power of dreams in this content mod."
+  },
+  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "version": "1.1",
@@ -1805,19 +1805,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
-    "repo": "Zelaux/GasLibrary",
-    "name": "GasLibrary",
-    "version": "1.6.04",
-    "mod_id": "gas-library-java",
-    "author": "Zelaux",
-    "lastUpdated": "2022-06-04T13:44:58Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
   },
   {
     "repo": "Mnemotechnician/CKAT",
@@ -1883,19 +1870,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod replaces all texts in the game with random ones."
-  },
-  {
-    "repo": "skykatik/PaperMod",
-    "name": "PaperMod",
-    "version": "0.3",
-    "mod_id": "paper-mod",
-    "author": "Skat with Pandorum's Players",
-    "lastUpdated": "2021-05-21T13:27:58Z",
-    "stars": 9,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Please no..."
   },
   {
     "repo": "Pietro303HD/ShitShow",
@@ -1987,6 +1961,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
+    "repo": "Zelaux/GasLibrary",
+    "name": "GasLibrary",
+    "version": "1.6.04",
+    "mod_id": "gas-library-java",
+    "author": "Zelaux",
+    "lastUpdated": "2022-06-04T13:44:58Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
   },
   {
     "repo": "Def-Try/parkour-mod",
@@ -2117,6 +2104,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
+  },
+  {
+    "repo": "skykatik/PaperMod",
+    "name": "PaperMod",
+    "version": "0.3",
+    "mod_id": "paper-mod",
+    "author": "Skat with Pandorum's Players",
+    "lastUpdated": "2021-05-21T13:27:58Z",
+    "stars": 8,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Please no..."
   },
   {
     "repo": "MrDuck557/MoarWaterUnits",
@@ -2652,6 +2652,19 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "SunsetTeam/Sunset",
+    "name": "Sunset",
+    "version": "0.2.4A",
+    "mod_id": "sunset",
+    "author": "\n\nCoding: Slish, Nukleer Bomb, RePoweRED, Zelaux, LiptonIt, xStaBUx.\n\nSprites: MissionaryPoseBest, Snake, NotTheGrawxz, xStaBUx.\n\n\n Contributors: none.\n",
+    "lastUpdated": "2022-12-27T08:13:55Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
+  },
+  {
     "repo": "paulieg626/AdminTool",
     "name": "AdminTool",
     "version": "1.1",
@@ -3120,19 +3133,6 @@
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
   },
   {
-    "repo": "1qwaka/Adronium-mod",
-    "name": "Adronium mod",
-    "version": "1.0",
-    "mod_id": "adronium-mod",
-    "author": "Дикая пчела",
-    "lastUpdated": "2021-03-28T21:20:34Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that made in a week.\nМод, сделанный за неделю"
-  },
-  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -3408,10 +3408,10 @@
   {
     "repo": "CBMShadowGD/terrariacontentmod",
     "name": "Terarria Content Mod",
-    "version": "0",
+    "version": "1.3",
     "mod_id": "Terraria-Content-Mod",
     "author": "CBMShadowGD",
-    "lastUpdated": "2023-03-24T22:34:08Z",
+    "lastUpdated": "2023-03-26T20:47:24Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3497,17 +3497,17 @@
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
   },
   {
-    "repo": "pixaxeofpixie/AzureFlareTech",
-    "name": "Azure Flare Technologies",
+    "repo": "1qwaka/Adronium-mod",
+    "name": "Adronium mod",
     "version": "1.0",
-    "mod_id": "azure-flare-tech",
-    "author": "PixaxeOfPixie",
-    "lastUpdated": "2021-04-18T17:20:34Z",
+    "mod_id": "adronium-mod",
+    "author": "Дикая пчела",
+    "lastUpdated": "2021-03-28T21:20:34Z",
     "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that targets on visual effects and sprites."
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that made in a week.\nМод, сделанный за неделю"
   },
   {
     "repo": "GlennFolker/Enumodify-Mod",
@@ -5582,7 +5582,7 @@
     "version": "3.1",
     "mod_id": "Endrium mod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-26T20:03:11Z",
+    "lastUpdated": "2023-03-26T20:30:42Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
