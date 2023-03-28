@@ -2366,19 +2366,6 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
-  },
-  {
     "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
@@ -2676,19 +2663,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -3105,6 +3079,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNot the most balanced"
+  },
+  {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -4041,6 +4028,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.5",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2023-03-26T01:21:35Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
@@ -5421,6 +5421,19 @@
     "description": "Minecraft in mindustry"
   },
   {
+    "repo": "ItsKirby69/minedusty",
+    "name": "MineDusty",
+    "version": "1.0",
+    "mod_id": "minedusty",
+    "author": "ItsKirby",
+    "lastUpdated": "2022-12-28T23:24:13Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Putting random stuff together to see what happens. ItsDaKIRBY69#5369"
+  },
+  {
     "repo": "KoraKiwi/PlanetaryAdditions",
     "name": "Planetary Additions",
     "version": "1.0",
@@ -5848,6 +5861,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
+  },
+  {
+    "repo": "FreezeMandu/pvp-contest",
+    "name": "PVP 대회용 모드",
+    "version": "0.7",
+    "mod_id": "pvp-contest",
+    "author": "Mandu",
+    "lastUpdated": "2022-11-26T13:57:46Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "대회용 모드 0.7"
   },
   {
     "repo": "RouterXdd/Xsoverd-Remake",
