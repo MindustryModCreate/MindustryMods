@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-03-28T14:56:09Z",
-    "stars": 224,
+    "stars": 225,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -78,6 +78,19 @@
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
+    "repo": "Slava0135/reVision",
+    "name": "reVision",
+    "version": "13.3",
+    "mod_id": "revision",
+    "author": "Slava0135",
+    "lastUpdated": "2023-01-07T13:43:43Z",
+    "stars": 126,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Install for fresh and revised mindustry experience"
+  },
+  {
     "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
     "version": "0.7 Alpha",
@@ -89,19 +102,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
-  },
-  {
-    "repo": "Slava0135/reVision",
-    "name": "reVision",
-    "version": "13.3",
-    "mod_id": "revision",
-    "author": "Slava0135",
-    "lastUpdated": "2023-01-07T13:43:43Z",
-    "stars": 125,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Install for fresh and revised mindustry experience"
   },
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
@@ -175,7 +175,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2023-03-31T01:33:57Z",
-    "stars": 83,
+    "stars": 84,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -338,6 +338,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "mod_id": "sapphirium",
+    "author": "Snake",
+    "lastUpdated": "2023-04-01T09:53:22Z",
+    "stars": 53,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Adds several new factions that include their own unique content. Uses some java classes."
+  },
+  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.5.1",
@@ -349,19 +362,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "mod_id": "sapphirium",
-    "author": "Snake",
-    "lastUpdated": "2023-04-01T09:53:22Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -395,7 +395,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-03-30T15:45:33Z",
+    "lastUpdated": "2023-04-01T12:17:46Z",
     "stars": 45,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-01T01:00:13Z",
+    "lastUpdated": "2023-04-01T12:19:34Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2405,6 +2405,32 @@
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.7",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-04-01T13:44:37Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
+  },
+  {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
+  },
+  {
     "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
@@ -2702,19 +2728,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.7",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-03-31T20:19:29Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3926,19 +3939,6 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
-    "repo": "Beanzilla/mindustry-hacked",
-    "name": "M1N3DU5TRY H4CK3D",
-    "version": "0.5.0",
-    "mod_id": "mindustry-hacked",
-    "author": "ApolloX",
-    "lastUpdated": "2022-11-06T22:14:09Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nNow with Erekir planetary tree.\n\nAttributions:\n- TheGamer1002"
-  },
-  {
     "repo": "Voider404/InTheSpace",
     "name": "InTheSpace",
     "version": "0.1.2",
@@ -4067,6 +4067,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
+  },
+  {
+    "repo": "Beanzilla/mindustry-hacked",
+    "name": "M1N3DU5TRY H4CK3D",
+    "version": "0.5.0",
+    "mod_id": "mindustry-hacked",
+    "author": "ApolloX",
+    "lastUpdated": "2023-04-01T12:58:11Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nNow with Erekir planetary tree.\n\nAttributions:\n- TheGamer1002"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5538,19 +5551,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6045,19 +6045,6 @@
     "description": "oh no"
   },
   {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6316,19 +6303,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
-  },
-  {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
     "repo": "Potato-Man1/ZyganMod",
@@ -6747,6 +6721,19 @@
     "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
+    "repo": "XenoForce/PlayMod",
+    "name": "Play Mod",
+    "version": "1.0.1",
+    "mod_id": "playmod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-10-20T14:18:30Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod makes it easy to play the game. (Serpulo planet)"
+  },
+  {
     "repo": "CREAsTIVE/PowerMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7018,6 +7005,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Yunatexya/MPTv2ModRE",
