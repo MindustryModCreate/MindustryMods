@@ -106,10 +106,10 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "ExtraUtilities",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-03-31T01:32:00Z",
+    "lastUpdated": "2023-04-01T15:24:57Z",
     "stars": 101,
     "minGameVersion": "138",
     "hasScripts": true,
@@ -171,10 +171,10 @@
   {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
-    "version": "v0.8.3",
+    "version": "v0.8.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2023-03-31T01:33:57Z",
+    "lastUpdated": "2023-04-01T16:16:46Z",
     "stars": 84,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -234,6 +234,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "What42Pizza/Mindustry-Production-Mod",
+    "name": "Mindustry-Production-Mod",
+    "version": "A4.4.1",
+    "mod_id": "Production Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2022-09-01T02:40:02Z",
+    "stars": 69,
+    "minGameVersion": "126.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "What42Pizza/Mindustry-Production-Mod",
-    "name": "Mindustry-Production-Mod",
-    "version": "A4.4.1",
-    "mod_id": "Production Mod",
-    "author": "What42Pizza",
-    "lastUpdated": "2022-09-01T02:40:02Z",
-    "stars": 68,
-    "minGameVersion": "126.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -325,6 +325,19 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "mod_id": "sapphirium",
+    "author": "Snake",
+    "lastUpdated": "2023-04-01T09:53:22Z",
+    "stars": 55,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Adds several new factions that include their own unique content. Uses some java classes."
+  },
+  {
     "repo": "deltanedas/routorio-old",
     "name": "routorio",
     "version": "2.36.4",
@@ -336,19 +349,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "mod_id": "sapphirium",
-    "author": "Snake",
-    "lastUpdated": "2023-04-01T09:53:22Z",
-    "stars": 53,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -603,7 +603,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-02-06T23:47:30Z",
+    "lastUpdated": "2023-04-01T16:22:26Z",
     "stars": 29,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -936,6 +936,19 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2023-03-30T15:06:50Z",
+    "stars": 22,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
+  },
+  {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
     "name": "Virtual Scheme Pack",
     "version": "1.0.0",
@@ -973,19 +986,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2023-03-30T15:06:50Z",
-    "stars": 21,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
   },
   {
     "repo": "Eclipse-04/Project-Scrap",
@@ -2410,25 +2410,12 @@
     "version": "0.7",
     "mod_id": "mindustry-mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-04-01T13:44:37Z",
+    "lastUpdated": "2023-04-01T17:28:27Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
     "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
-  },
-  {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -4056,6 +4043,19 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
+    "repo": "MEEPofFaith/tranqol",
+    "name": "Tranqol",
+    "version": "v4",
+    "mod_id": "tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2023-03-28T06:05:56Z",
+    "stars": 4,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
     "repo": "EdwardBrok/JDST-mod",
     "name": "Joey Drew Studios Technologies",
     "version": "1.0-debuggin",
@@ -4823,19 +4823,6 @@
     "description": "Mod need MULTICRAFTERLIB to work. Discord link - https://discord.gg/7SSAupjxeD"
   },
   {
-    "repo": "MEEPofFaith/tranqol",
-    "name": "Tranqol",
-    "version": "v4",
-    "mod_id": "tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2023-03-28T06:05:56Z",
-    "stars": 3,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -5551,6 +5538,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6045,6 +6045,19 @@
     "description": "oh no"
   },
   {
+    "repo": "RebornTrack970/Cursed-Tantros-Mod",
+    "name": "Cursed Tantros",
+    "version": "3",
+    "mod_id": "cursed-tatros",
+    "author": "RTOmega",
+    "lastUpdated": "2020-12-02T17:52:51Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "..."
+  },
+  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6303,6 +6316,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
+  },
+  {
+    "repo": "StepHindi/NEC",
+    "name": "New electronic components",
+    "version": "1.0",
+    "mod_id": "NEC",
+    "author": "Qanter&Hindi",
+    "lastUpdated": "2021-09-04T08:37:59Z",
+    "stars": 0,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
     "repo": "Potato-Man1/ZyganMod",
@@ -7005,19 +7031,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "MayFlowerz0505/PlanetsMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-03-15T10:10:51Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Yunatexya/MPTv2ModRE",
