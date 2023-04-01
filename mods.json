@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-03-31T02:46:32Z",
+    "lastUpdated": "2023-03-31T23:43:03Z",
     "stars": 235,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -279,7 +279,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-03-31T16:21:45Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
@@ -975,6 +975,19 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2023-03-30T15:06:50Z",
+    "stars": 21,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
+  },
+  {
     "repo": "Eclipse-04/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -1038,19 +1051,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2023-03-30T15:06:50Z",
-    "stars": 19,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -2028,19 +2028,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
   },
   {
-    "repo": "GermantovA/Erida",
-    "name": "Erida",
-    "version": "1.0",
-    "mod_id": "erida",
-    "author": "ArtemG",
-    "lastUpdated": "2023-01-20T16:22:56Z",
-    "stars": 9,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "In developement..."
-  },
-  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2392,6 +2379,19 @@
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
+    "repo": "GermantovA/Erida",
+    "name": "Erida",
+    "version": "1.0",
+    "mod_id": "erida",
+    "author": "ArtemG",
+    "lastUpdated": "2023-01-20T16:22:56Z",
+    "stars": 8,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In developement..."
+  },
+  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.3 beta v1",
@@ -2403,19 +2403,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -2704,25 +2691,12 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "version": "1.3",
-    "mod_id": "odst-soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-03-22T14:37:55Z",
-    "stars": 7,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
-  },
-  {
     "repo": "ApsZoldat/mindustry-mapping-utilities",
     "name": "Mapping Utilities",
-    "version": "0.6",
+    "version": "0.7",
     "mod_id": "mindustry-mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-03-31T18:38:18Z",
+    "lastUpdated": "2023-03-31T20:19:29Z",
     "stars": 7,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3248,19 +3222,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "death awaits me"
-  },
-  {
-    "repo": "paulieg626/MindOfMagic",
-    "name": "MindOfMagic",
-    "version": "0.3 alpha",
-    "mod_id": "mindofmagic",
-    "author": "paulieg626 and ko4nev812",
-    "lastUpdated": "2021-10-11T10:28:32Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Pre-alpha version of mod"
   },
   {
     "repo": "ax-nikita/uranium-mod",
@@ -5551,6 +5512,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -5939,19 +5913,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "mindustry java mod that make customisation for your menu"
-  },
-  {
-    "repo": "BlueTheCube/Interality",
-    "name": "Interality",
-    "version": "0.0.01",
-    "mod_id": "interality",
-    "author": "Calreiboz",
-    "lastUpdated": "2023-03-05T12:18:29Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod."
   },
   {
     "repo": "virat2010/SomeVanillaExtension",
@@ -6355,19 +6316,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a few content."
-  },
-  {
-    "repo": "lantice3720/MIndustrial-Thermodynamics",
-    "name": "Mindustrial Thermodynamics",
-    "version": "1.0",
-    "mod_id": "mindustrial-thermodynamics",
-    "author": "lan",
-    "lastUpdated": "2021-11-03T09:35:04Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
     "repo": "Antlrr/anuke-bundle",
