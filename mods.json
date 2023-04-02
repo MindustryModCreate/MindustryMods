@@ -304,7 +304,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-02T14:44:28Z",
+    "lastUpdated": "2023-04-02T18:37:38Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -330,7 +330,7 @@
     "version": "16.0",
     "mod_id": "sapphirium",
     "author": "Snake",
-    "lastUpdated": "2023-04-02T07:30:07Z",
+    "lastUpdated": "2023-04-02T15:37:36Z",
     "stars": 55,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -429,6 +429,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.2.105dev",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-04-01T07:19:34Z",
+    "stars": 38,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check the Discord and our GitHub repository for more info!"
+  },
+  {
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "version": "2.11",
@@ -453,19 +466,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.2.105dev",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-01T07:19:34Z",
-    "stars": 37,
-    "minGameVersion": "143",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check the Discord and our GitHub repository for more info!"
   },
   {
     "repo": "Gdeft/portal",
@@ -941,9 +941,9 @@
     "version": "1.1 pre-alpha",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2023-03-30T15:06:50Z",
+    "lastUpdated": "2023-04-02T19:16:00Z",
     "stars": 22,
-    "minGameVersion": "142",
+    "minGameVersion": "143",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
@@ -2093,6 +2093,19 @@
     "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.7",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-04-01T17:28:27Z",
+    "stars": 9,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2403,19 +2416,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.7",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-04-01T17:28:27Z",
-    "stars": 8,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
   },
   {
     "repo": "deltanedas/yes",
@@ -4853,13 +4853,13 @@
     "name": "SVN Test mod",
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
-    "author": "SITUVNgcd",
-    "lastUpdated": "2023-04-02T09:02:17Z",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2023-04-02T16:31:44Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "SITUVNgd's test mod\nGo to Settings > SITUVNgcd's mod settings to turn on/off some settings.\nClick Repo for more info."
+    "description": "SITUVNgd's test mod\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] for more info."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6381,6 +6381,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a few content."
+  },
+  {
+    "repo": "lantice3720/MIndustrial-Thermodynamics",
+    "name": "Mindustrial Thermodynamics",
+    "version": "1.0",
+    "mod_id": "mindustrial-thermodynamics",
+    "author": "lan",
+    "lastUpdated": "2021-11-03T09:35:04Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
     "repo": "Antlrr/anuke-bundle",
