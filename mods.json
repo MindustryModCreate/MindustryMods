@@ -331,7 +331,7 @@
     "mod_id": "sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-04-03T01:10:02Z",
-    "stars": 55,
+    "stars": 56,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -1495,19 +1495,6 @@
     "description": "pain and suffering"
   },
   {
-    "repo": "Anuken/MindustryKotlinModTemplate",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2021-08-21T03:02:48Z",
-    "stars": 13,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
-  },
-  {
     "repo": "Goobrr/Goobriculture",
     "name": "Goobriculture",
     "version": "1.0",
@@ -1571,6 +1558,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
+  },
+  {
+    "repo": "Anuken/MindustryKotlinModTemplate",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2021-08-21T03:02:48Z",
+    "stars": 12,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   },
   {
     "repo": "pixecoz/better-menders",
@@ -1662,19 +1662,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities",
-    "name": "MI2 Utilities",
-    "version": "0.6.2",
-    "mod_id": "MI2-Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-20T15:23:31Z",
-    "stars": 11,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "newB7140/duomod",
@@ -2028,19 +2015,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
-    "repo": "ZoGGerS-cc/Major",
-    "name": "Major",
-    "version": "2.4",
-    "mod_id": "Major",
-    "author": "ZoGGerS, Dim4ik, n33nat0",
-    "lastUpdated": "2023-02-25T12:48:17Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты! МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
-  },
-  {
     "repo": "liplum/MindustryModTemplate",
     "name": "%Repository%",
     "version": "1.0",
@@ -2098,7 +2072,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-05T00:49:43Z",
+    "lastUpdated": "2023-04-05T12:27:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2314,19 +2288,6 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
-    "repo": "liplum/BottledLiquid",
-    "name": "Bottled Liquid",
-    "version": "3.0",
-    "mod_id": "bottled-liquid",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-08T15:08:00Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
-  },
-  {
     "repo": "deltanedas/modding-toolbox",
     "name": "Modding Toolbox",
     "version": "3.7.4",
@@ -2418,19 +2379,6 @@
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
   },
   {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
-  },
-  {
     "repo": "deltanedas/yes",
     "name": "yes",
     "version": "1.1.1",
@@ -2455,19 +2403,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adds a bunch of stuff"
-  },
-  {
-    "repo": "Gdeft/hackdustry",
-    "name": "Hackdustry",
-    "version": "1.0.0",
-    "mod_id": "hackdustry",
-    "author": "Gdeft",
-    "lastUpdated": "2021-01-06T20:41:07Z",
-    "stars": 7,
-    "minGameVersion": "113",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "One should do what one enjoys, and won't harm anyone else."
   },
   {
     "repo": "TheSaus/SimpleAdditions",
@@ -2600,19 +2535,6 @@
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
-    "repo": "breadbug23/Somas",
-    "name": "Somas",
-    "version": "1.4",
-    "mod_id": "somas",
-    "author": "piksqu",
-    "lastUpdated": "2022-03-04T05:58:56Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
-  },
-  {
     "repo": "RebornTrack970/GigaFortSector",
     "name": "GigaFort Sector",
     "version": "1.0",
@@ -2743,19 +2665,6 @@
     "description": "A mod that thats various factorio things"
   },
   {
-    "repo": "RebornTrack970/Multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "version": "1.0",
-    "mod_id": "multiplayerntnt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 6,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
     "repo": "VladTheEvilCat/Extended-Zoom",
     "name": "Extended Zoom",
     "version": "1.3",
@@ -2793,19 +2702,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that enables developer console and removes restrictions on access of classes."
-  },
-  {
-    "repo": "NiChrosia/Acceleration",
-    "name": "Acceleration",
-    "version": "0.2",
-    "mod_id": "acceleration",
-    "author": "NiChrosia",
-    "lastUpdated": "2021-06-29T01:31:32Z",
-    "stars": 6,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A kotlin mod."
   },
   {
     "repo": "MindustryInside/JavaModTemplate",
@@ -3159,19 +3055,6 @@
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
   },
   {
-    "repo": "GlennFolker/Mindustry-ModTemplate",
-    "name": "Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "mindustry-mod-template",
-    "author": "GlennFolker",
-    "lastUpdated": "2021-05-06T03:57:13Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "MindustryInside/ClassicMusic",
     "name": "Mindustry Classic Music",
     "version": "1.5",
@@ -3495,32 +3378,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
-  },
-  {
-    "repo": "FarmerThanos/Jukeustry",
-    "name": "Jukeustry",
-    "version": "0.3",
-    "mod_id": "jukeustry",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-03-04T07:39:13Z",
-    "stars": 4,
-    "minGameVersion": "125.00",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
-    "repo": "1qwaka/Adronium-mod",
-    "name": "Adronium mod",
-    "version": "1.0",
-    "mod_id": "adronium-mod",
-    "author": "Дикая пчела",
-    "lastUpdated": "2021-03-28T21:20:34Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that made in a week.\nМод, сделанный за неделю"
   },
   {
     "repo": "GlennFolker/Enumodify-Mod",
@@ -3963,19 +3820,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for Aim"
-  },
-  {
-    "repo": "uujuju1/poost",
-    "name": "Project Oblivion Ost",
-    "version": "1",
-    "mod_id": "poost",
-    "author": "Uujuju, 12three7 and DJ Silin",
-    "lastUpdated": "2022-12-19T03:52:35Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
@@ -4509,19 +4353,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new features."
-  },
-  {
-    "repo": "MaxSMokeSkaarj/SMoA-Modpack",
-    "name": "SMoke of Anarchy New",
-    "version": "3.1 bugfix#5",
-    "mod_id": "smoa-n",
-    "author": "MaxSMoke, Snake",
-    "lastUpdated": "2022-07-10T04:17:23Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enjoy which a lot of content, includes:\nADC(Sapphirium), \nUnits Mod, \nTurrets Mod\nAttention! All copyrights are reserved for the creators of mods. I am NOT the owner of these mods!"
   },
   {
     "repo": "Yaroslav242/yfjs",
@@ -5941,19 +5772,6 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
-    "repo": "TheEE145/MindustryUXThemePatcher",
-    "name": "UXThemePatcher",
-    "version": "1.0",
-    "mod_id": "uxtp",
-    "author": "TheEE145",
-    "lastUpdated": "2023-03-04T07:09:11Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "mindustry java mod that make customisation for your menu"
-  },
-  {
     "repo": "BlueTheCube/Interality",
     "name": "Interality",
     "version": "0.0.01",
@@ -6238,19 +6056,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "gamerred/killer-drills",
-    "name": "Killer Drill",
-    "version": "3",
-    "mod_id": "killer-drill",
-    "author": "gamerredx",
-    "lastUpdated": "2021-06-08T17:38:22Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
     "repo": "KarmaH4uK/NothingMod",
@@ -6682,19 +6487,6 @@
     "description": "There is no suitable profile for the time being."
   },
   {
-    "repo": "Sheep-Hugger/Colonization-industry",
-    "name": "Colonization & industry",
-    "version": "0.25",
-    "mod_id": "Colonization & industry",
-    "author": "Radiance of Dove",
-    "lastUpdated": "2022-06-24T15:45:53Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "To be filled"
-  },
-  {
     "repo": "ElectronicsArchiver/the-new-tech-mod",
     "name": "< The new tech mod >",
     "version": "1.0",
@@ -7020,19 +6812,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "Yunatexya/MPTv2ModRE",
-    "name": "MPTv2 RE",
-    "version": "0.1.5",
-    "mod_id": "mptv2-re",
-    "author": "Yunatexya",
-    "lastUpdated": "2023-03-15T15:23:28Z",
-    "stars": 0,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>. It is beta."
-  },
-  {
     "repo": "SkyeTheFoxyFox/Malcalor",
     "name": "malcalor",
     "version": "0.0.1",
@@ -7109,5 +6888,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
+  },
+  {
+    "repo": "Yunatexya/MPTv2ModRE",
+    "name": "MPTv2 RE",
+    "version": "0.1.5",
+    "mod_id": "mptv2-re",
+    "author": "Yunatexya",
+    "lastUpdated": "2023-04-05T11:58:16Z",
+    "stars": 0,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry<V7>. It is beta."
   }
 ]
