@@ -1833,6 +1833,19 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.9",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-04-06T18:04:20Z",
+    "stars": 10,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "lev43/TurretsMod",
     "name": "Turrets Mod",
     "version": "3.0",
@@ -2085,25 +2098,12 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-06T12:21:34Z",
+    "lastUpdated": "2023-04-07T00:53:38Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.9",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-04-06T18:04:20Z",
-    "stars": 9,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2408,14 +2408,27 @@
     "repo": "NemesisTheory/ODST-Soundtracks",
     "name": "ODST Soundtracks",
     "version": "1.3",
-    "mod_id": "odst-soundtracks",
+    "mod_id": "halo-odst-soundtracks",
     "author": "NemesisTheory",
-    "lastUpdated": "2023-04-06T01:43:05Z",
+    "lastUpdated": "2023-04-07T05:33:26Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": false,
-    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
+    "description": "This mod plays soundtracks from the game Halo 3: ODST."
+  },
+  {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "version": "1.1.0",
+    "mod_id": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 7,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -2702,6 +2715,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Uenhe/Fire",
@@ -5135,19 +5161,6 @@
     "description": "A Super Mecha. 一个超强的机甲"
   },
   {
-    "repo": "NemesisTheory/SMGuardianRevert",
-    "name": "SM Guardian Revert",
-    "version": "1.0",
-    "mod_id": "SMGuardianRevert",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-09T07:34:01Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the Stained Mountain Guardian back to Scepter."
-  },
-  {
     "repo": "NewJumper/Futurdustry",
     "name": "Futurdustry",
     "version": "0.2.3",
@@ -5551,6 +5564,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5577,19 +5603,6 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "NemesisTheory/wort-wort-wort",
-    "name": "Wort Wort Wort",
-    "version": "1.0",
-    "mod_id": "wort-wort-wort",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-03-30T06:42:34Z",
-    "stars": 2,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "wort wort wort."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -5614,6 +5627,58 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-04-06T12:24:00Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
+  },
+  {
+    "repo": "NemesisTheory/SMGuardianRevert",
+    "name": "SM Guardian Revert",
+    "version": "1.0",
+    "mod_id": "stained-mountains-guardian-revert-scepter",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:48:14Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Reverts the Stained Mountain Guardian back to Scepter."
+  },
+  {
+    "repo": "NemesisTheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "version": "1.0",
+    "mod_id": "wort-wort-wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:50:24Z",
+    "stars": 2,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "Sentinel addon",
+    "version": "No version provided.",
+    "mod_id": "Sentinel addon",
+    "author": "penguip",
+    "lastUpdated": "2023-04-07T04:46:42Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
     "repo": "4156/Infintory",
@@ -6734,19 +6799,6 @@
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
   },
   {
-    "repo": "XenoForce/PlayMod",
-    "name": "Play Mod",
-    "version": "1.0.1",
-    "mod_id": "playmod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-10-20T14:18:30Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod makes it easy to play the game. (Serpulo planet)"
-  },
-  {
     "repo": "CREAsTIVE/PowerMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7096,5 +7148,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "NemesisTheory/Reach-Soundtracks",
+    "name": "Reach Soundtracks",
+    "version": "1.0",
+    "mod_id": "reach-soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:49:26Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from Halo: Reach."
   }
 ]
