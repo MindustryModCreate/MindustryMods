@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2023-03-21T18:21:19Z",
-    "stars": 128,
+    "stars": 129,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -304,7 +304,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-08T10:05:56Z",
+    "lastUpdated": "2023-04-08T10:33:09Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -3094,19 +3094,6 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -4069,6 +4056,19 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nNow with Erekir planetary tree.\n\nAttributions:\n- TheGamer1002"
   },
   {
+    "repo": "AzhurniyBaklan/Advanced-factories",
+    "name": "Advanced Factories",
+    "version": "1.0",
+    "mod_id": "advanced-factories",
+    "author": "AzhurniyBaklan",
+    "lastUpdated": "2023-04-03T12:01:55Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
+  },
+  {
     "repo": "MEEPofFaith/tranqol",
     "name": "Tranqol",
     "version": "v4",
@@ -4836,19 +4836,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "AzhurniyBaklan/Advanced-factories",
-    "name": "Advanced Factories",
-    "version": "1.0",
-    "mod_id": "advanced-factories",
-    "author": "AzhurniyBaklan",
-    "lastUpdated": "2023-04-03T12:01:55Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
-  },
-  {
     "repo": "FreezeMandu/minZoom",
     "name": "minZoom",
     "version": "1.52",
@@ -4893,7 +4880,7 @@
     "version": "1.0",
     "mod_id": "cloud-save",
     "author": "OSPx",
-    "lastUpdated": "2023-04-07T14:50:03Z",
+    "lastUpdated": "2023-04-08T10:28:26Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5564,6 +5551,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5647,7 +5647,7 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-08T03:32:38Z",
+    "lastUpdated": "2023-04-08T15:04:57Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5796,19 +5796,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
-  },
-  {
-    "repo": "CoCuCoH41k/ReloadedMod",
-    "name": "Reloaded",
-    "version": "0.0.0.1 ALPHA",
-    "mod_id": "r",
-    "author": "CoCuCka",
-    "lastUpdated": "2022-04-16T11:03:50Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
   },
   {
     "repo": "Icewav3/mindustry-vanilla-expanded",
@@ -6056,19 +6043,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
   },
   {
     "repo": "davlucas/GreenMod",
@@ -6329,19 +6303,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
-  },
-  {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
     "repo": "Potato-Man1/ZyganMod",
