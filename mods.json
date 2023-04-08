@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-04-07T13:03:07Z",
-    "stars": 238,
+    "stars": 239,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-04-06T09:39:25Z",
+    "lastUpdated": "2023-04-07T23:03:27Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -429,6 +429,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "pixecoz/MindustrySchematics",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "mod_id": "schematics-pack",
+    "author": "pixecoz",
+    "lastUpdated": "2023-03-29T17:58:33Z",
+    "stars": 38,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
     "version": "0.2.105dev",
@@ -453,19 +466,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
-  },
-  {
-    "repo": "pixecoz/MindustrySchematics",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "mod_id": "schematics-pack",
-    "author": "pixecoz",
-    "lastUpdated": "2023-03-29T17:58:33Z",
-    "stars": 37,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "Gdeft/portal",
@@ -1835,15 +1835,15 @@
   {
     "repo": "ApsZoldat/mindustry-mapping-utilities",
     "name": "Mapping Utilities",
-    "version": "0.1",
+    "version": "0.11",
     "mod_id": "mindustry-mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-04-07T19:17:44Z",
+    "lastUpdated": "2023-04-07T22:29:32Z",
     "stars": 10,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2416,19 +2416,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST."
-  },
-  {
-    "repo": "deltanedas/no",
-    "name": "no",
-    "version": "1.1.0",
-    "mod_id": "no",
-    "author": "deltanedas",
-    "lastUpdated": "2020-11-28T21:45:21Z",
-    "stars": 7,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -5551,6 +5538,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5647,7 +5647,7 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-07T19:40:07Z",
+    "lastUpdated": "2023-04-08T00:33:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6643,6 +6643,19 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-06-08T12:20:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
     "repo": "MBTiAmo712DEV/parachutists-mod",
     "name": "parachutists",
     "version": "1.0",
@@ -6732,19 +6745,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
-    "repo": "XenoForce/PlayMod",
-    "name": "Play Mod",
-    "version": "1.0.1",
-    "mod_id": "playmod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-10-20T14:18:30Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod makes it easy to play the game. (Serpulo planet)"
   },
   {
     "repo": "CREAsTIVE/PowerMod",
