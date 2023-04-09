@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-04-07T23:03:27Z",
+    "lastUpdated": "2023-04-09T19:28:06Z",
     "stars": 60,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "16.0",
     "mod_id": "sapphirium",
     "author": "Snake",
-    "lastUpdated": "2023-04-09T14:36:48Z",
+    "lastUpdated": "2023-04-09T16:40:04Z",
     "stars": 58,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -954,7 +954,7 @@
     "version": "1.1 pre-alpha",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2023-04-09T13:40:52Z",
+    "lastUpdated": "2023-04-09T16:11:05Z",
     "stars": 22,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -1851,7 +1851,7 @@
     "version": "0.76",
     "mod_id": "extended-ui",
     "author": "wizer",
-    "lastUpdated": "2023-04-09T14:39:19Z",
+    "lastUpdated": "2023-04-09T15:31:56Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4108,19 +4108,6 @@
     "description": "以压倒性火力，制衡天下之模组。\n模组一群：181108928\n或者前往Github查看火力最新状态\nB站随机直播\n饱和火力服务器保持常开，请装载最新模组进入\n———————————————\n这是最适合做模板的mod，你可以在许多新mod里找到本mod的身影\n每次贴图更新，都会将旧贴图作为公益物发至群内，有需自取\n———————————————\n代码开源可抄，但是[red]抄袭/改色/缝合[white]贴图属于[red]侵犯作者知识产权[white]的行为\n火力代码贴图可以作为你的[gold]起步工具，[white]但绝不能成为你的[gold]模组主力\n[sky]创新才是你的第一生产力！！！\n及时脱离套式发展，走上自己的独特道路！！！\n抄袭终会被玩家制裁！！！\n[white]———————————————\n饱和火力在每隔两月必定更新一次，偶尔会有紧急修复\n进群第一件事核对你的mod版本！\n若发现bug或有疑问进群咨询\n———————————————\n模组历史更新内容将在他处记录\n此处只记录当个大版本（X.X.X）的所有更新项目\n———————————————\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n———————————————\n待办项目：\n▲转型Java-长期项目▲\n伯劳完全体\n战役持续更新\n———————————————\n3.0.14更新：\n完成大部分英翻\n——————地图类——————\n▲新地图-火天路\n▲新地图-实验种植地\n▲第五战区-重置\n断层带-波次修复\n灭绝-增加支援量\n——————炮塔类——————\n部分特效重修\n折跃-贴图重置\n天罚-贴图重置\n\n——————电力类——————\n电力能耗全面“减负”\n磁暴反应堆-接触限制（没找到解决方案\n——————辅助类——————\n裂位发射台-加入科技树\n零丁-特效修改\n——————状态类——————\n▲新状态-毁灭\n▲新状态-殁火\n绝判-增加简介\n——————单位类——————\n实验工厂-造价提升\n▲新单位-神渎\n▲新单位-地魁\n广寒-降低伤害\n利刃-贴图重置-移速提升-武器重做\n阔野-武器强化\n偏袒-降低血量-部分机型特化\n轰炸-降低特效遮挡度\n地动-优先进攻目标修改\n梭鱼-加强武器\n星辉-降低伤害-修改射击方式\n余晖-特效修改-主炮修改\n雷暴-特效修改\n日蚀-武器坐标修复-血量提升\n"
   },
   {
-    "repo": "osp54/CloudSave",
-    "name": "Cloud Save",
-    "version": "1.0",
-    "mod_id": "cloud-save",
-    "author": "OSPx",
-    "lastUpdated": "2023-04-08T16:18:20Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod"
-  },
-  {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
     "version": "1.0",
@@ -4132,6 +4119,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-04-09T15:48:38Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4875,19 +4875,6 @@
     "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
   },
   {
-    "repo": "laok233/h",
-    "name": "h",
-    "version": "0.1",
-    "mod_id": "h",
-    "author": "end",
-    "lastUpdated": "2023-04-09T12:54:48Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "h"
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4899,6 +4886,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] for more info."
+  },
+  {
+    "repo": "laok233/h",
+    "name": "h",
+    "version": "0.1",
+    "mod_id": "h",
+    "author": "end",
+    "lastUpdated": "2023-04-09T18:17:21Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "h"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5660,7 +5660,7 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-09T14:58:29Z",
+    "lastUpdated": "2023-04-09T18:44:49Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6069,6 +6069,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
+  },
+  {
+    "repo": "RebornTrack970/Cursed-Tantros-Mod",
+    "name": "Cursed Tantros",
+    "version": "3",
+    "mod_id": "cursed-tatros",
+    "author": "RTOmega",
+    "lastUpdated": "2020-12-02T17:52:51Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "..."
   },
   {
     "repo": "davlucas/GreenMod",
