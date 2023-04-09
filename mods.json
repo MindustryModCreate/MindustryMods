@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-04-07T13:03:07Z",
-    "stars": 239,
+    "stars": 240,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -110,7 +110,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-04-07T13:02:41Z",
-    "stars": 101,
+    "stars": 102,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-08T16:21:28Z",
+    "lastUpdated": "2023-04-09T14:10:26Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -330,8 +330,8 @@
     "version": "16.0",
     "mod_id": "sapphirium",
     "author": "Snake",
-    "lastUpdated": "2023-04-05T15:24:06Z",
-    "stars": 56,
+    "lastUpdated": "2023-04-09T14:36:48Z",
+    "stars": 58,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -353,15 +353,15 @@
   {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
-    "version": "1.5.1",
+    "version": "1.6",
     "mod_id": "lead_ind",
-    "author": "PetruCHIOrus",
-    "lastUpdated": "2021-01-17T18:21:16Z",
+    "author": "PetruCHIOrus\nDefenseX\npaulieg626",
+    "lastUpdated": "2023-04-09T14:02:42Z",
     "stars": 51,
-    "minGameVersion": "122",
+    "minGameVersion": "143",
     "hasScripts": true,
     "hasJava": false,
-    "description": "No description provided."
+    "description": "New guns, drills, crafting, materials and resourses"
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -395,7 +395,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-04-06T18:24:37Z",
+    "lastUpdated": "2023-04-09T10:49:32Z",
     "stars": 46,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -824,7 +824,7 @@
     "version": "1.4.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2023-04-09T08:16:15Z",
+    "lastUpdated": "2023-04-09T14:38:52Z",
     "stars": 23,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -936,19 +936,6 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2023-04-05T16:50:39Z",
-    "stars": 22,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2023-04-09T13:40:52Z",
+    "stars": 22,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -988,6 +988,19 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-03-15T20:41:08Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
+  },
+  {
     "repo": "Eclipse-04/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -999,19 +1012,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-03-15T20:41:08Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "EB-wilson/UniverseCore",
@@ -1846,6 +1846,19 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "Ferlern/extended-UI-v7",
+    "name": "extended UI",
+    "version": "0.76",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2023-04-09T14:39:19Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "lev43/TurretsMod",
     "name": "Turrets Mod",
     "version": "3.0",
@@ -2026,19 +2039,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
-  },
-  {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.75",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-12-23T22:10:59Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -4121,6 +4121,19 @@
     "description": "A Mindustry mod"
   },
   {
+    "repo": "TeamOct/FOS-OST",
+    "name": "Fictional Octo System OST",
+    "version": "1.0",
+    "mod_id": "fosost",
+    "author": "Team Oct",
+    "lastUpdated": "2023-04-09T13:33:40Z",
+    "stars": 4,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4405,19 +4418,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod is no more useless!"
-  },
-  {
-    "repo": "laok233/h",
-    "name": "h",
-    "version": "0.1",
-    "mod_id": "h",
-    "author": "end",
-    "lastUpdated": "2022-03-27T10:20:00Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "h"
   },
   {
     "repo": "ExplerHD/EnerLect-tech",
@@ -4771,19 +4771,6 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "TeamOct/FOS-OST",
-    "name": "Fictional Octo System OST",
-    "version": "1.0",
-    "mod_id": "fosost",
-    "author": "Team Oct",
-    "lastUpdated": "2023-02-03T18:22:45Z",
-    "stars": 3,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
     "repo": "Fresh791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -4888,12 +4875,25 @@
     "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
   },
   {
+    "repo": "laok233/h",
+    "name": "h",
+    "version": "0.1",
+    "mod_id": "h",
+    "author": "end",
+    "lastUpdated": "2023-04-09T12:54:48Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "h"
+  },
+  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-04-06T16:49:02Z",
+    "lastUpdated": "2023-04-09T14:45:31Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5564,19 +5564,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5673,7 +5660,7 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-09T02:57:44Z",
+    "lastUpdated": "2023-04-09T14:58:29Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6500,6 +6487,19 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "version": "0",
+    "mod_id": "cursed-units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "brain die"
+  },
+  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6654,19 +6654,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
-  },
-  {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-06-08T12:20:55Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   },
   {
     "repo": "MBTiAmo712DEV/parachutists-mod",
