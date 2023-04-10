@@ -1716,19 +1716,6 @@
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
-    "repo": "PKChaos/Ion",
-    "name": "Ion (Empty)",
-    "version": "0.0.0",
-    "mod_id": "ion",
-    "author": "PKChaos",
-    "lastUpdated": "2023-01-29T12:12:03Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Time awaits..."
-  },
-  {
     "repo": "BalaM314/no-invasions",
     "name": "No Sector Re Attacks",
     "version": "1.0",
@@ -1753,6 +1740,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nSprites: LaIm_Ik"
+  },
+  {
+    "repo": "PKChaos/Ion",
+    "name": "Ion (Empty)",
+    "version": "0.0.0",
+    "mod_id": "ion",
+    "author": "PKChaos",
+    "lastUpdated": "2023-04-10T08:54:24Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Time awaits..."
   },
   {
     "repo": "spmlk/DreamscapeMod",
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-09T00:59:03Z",
+    "lastUpdated": "2023-04-10T00:57:17Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3991,19 +3991,6 @@
     "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.1",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-03-04T19:31:31Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "ErrorInCode27/Relics-Mod",
     "name": "Relics",
     "version": "0.2",
@@ -4132,6 +4119,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod"
+  },
+  {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.2",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-04-10T03:16:17Z",
+    "stars": 4,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5486,19 +5486,6 @@
     "description": "Serilia but on steroids (Java)"
   },
   {
-    "repo": "Weathercold/mindustry-clj-mod-template",
-    "name": "Clojure Mod Template",
-    "version": "0.1.0",
-    "mod_id": "example-clojure-mod",
-    "author": "Weathercold",
-    "lastUpdated": "2023-01-16T23:18:09Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Clojure mod template."
-  },
-  {
     "repo": "mrybs/dasuas",
     "name": "Dasuas",
     "version": "1.0",
@@ -5673,12 +5660,25 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-10T00:25:56Z",
+    "lastUpdated": "2023-04-10T00:49:33Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "Weathercold/mindustry-clj-mod-template",
+    "name": "Clojure Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-clojure-mod",
+    "author": "Weathercold",
+    "lastUpdated": "2023-04-10T03:12:33Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Clojure mod template."
   },
   {
     "repo": "4156/Infintory",
@@ -7128,12 +7128,12 @@
     "name": "Supphiros",
     "version": "0.76",
     "mod_id": "Supphiros",
-    "author": "Jeff",
-    "lastUpdated": "2023-04-10T00:27:28Z",
+    "author": "zig-jeff",
+    "lastUpdated": "2023-04-10T04:35:40Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MOD.\nedit Code, draw sprites and add ideas by Jeff.\n"
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   }
 ]
