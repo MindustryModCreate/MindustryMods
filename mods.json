@@ -195,19 +195,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "Sharlottes/Informatis",
-    "name": "Informatis",
-    "version": "1.7",
-    "mod_id": "informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2023-02-11T02:32:33Z",
-    "stars": 73,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "version": "4.0.0",
@@ -219,6 +206,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
+    "repo": "Sharlottes/Informatis",
+    "name": "Informatis",
+    "version": "1.7",
+    "mod_id": "informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2023-04-09T23:36:19Z",
+    "stars": 73,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "deltanedas/pictologic",
@@ -3424,7 +3424,7 @@
     "version": "0.1.3.1",
     "mod_id": "xenacia",
     "author": "Thomas's Things",
-    "lastUpdated": "2023-04-04T20:09:50Z",
+    "lastUpdated": "2023-04-10T00:10:12Z",
     "stars": 5,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -5564,6 +5564,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5660,7 +5673,7 @@
     "version": "No version provided.",
     "mod_id": "Sentinel addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-09T18:44:49Z",
+    "lastUpdated": "2023-04-10T00:25:56Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6069,19 +6082,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
   },
   {
     "repo": "davlucas/GreenMod",
@@ -6500,19 +6500,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "version": "0",
-    "mod_id": "cursed-units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-04T06:49:26Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "brain die"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6667,6 +6654,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
+  },
+  {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-06-08T12:20:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   },
   {
     "repo": "MBTiAmo712DEV/parachutists-mod",
@@ -7122,5 +7122,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry on v7."
+  },
+  {
+    "repo": "zig-jeff/Supphiros",
+    "name": "Supphiros",
+    "version": "0.76",
+    "mod_id": "Supphiros",
+    "author": "Jeff",
+    "lastUpdated": "2023-04-10T00:27:28Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MOD.\nedit Code, draw sprites and add ideas by Jeff.\n"
   }
 ]
