@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-04-11T05:02:54Z",
+    "lastUpdated": "2023-04-11T05:15:48Z",
     "stars": 61,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -5655,6 +5655,19 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "deltanedas/notepad",
     "name": "Notepad",
     "version": "2.0.0",
@@ -5809,19 +5822,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindusry Java Mods thai I working on"
-  },
-  {
-    "repo": "Zelaux/ZelauxMindustryModTemplate",
-    "name": "Your mod name",
-    "version": "0.1",
-    "mod_id": "your-mod",
-    "author": "YourNickName",
-    "lastUpdated": "2022-06-02T22:38:52Z",
-    "stars": 1,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Your own mod"
   },
   {
     "repo": "nekit508/MindustryExtendedRecipeModule",
@@ -6773,19 +6773,6 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -7083,5 +7070,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
+    "repo": "ImNotThatBrave/MindustryTextureTweaks",
+    "name": "TextureTweaks (Erekir)",
+    "version": "1.0",
+    "mod_id": "TextureTweaks (Erekir)",
+    "author": "ImNotThatBrave",
+    "lastUpdated": "2023-04-11T07:34:44Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
   }
 ]
