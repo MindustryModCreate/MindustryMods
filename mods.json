@@ -317,7 +317,7 @@
     "version": "27.2",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-04-11T05:15:48Z",
+    "lastUpdated": "2023-04-11T22:31:03Z",
     "stars": 61,
     "minGameVersion": "141.2",
     "hasScripts": false,
@@ -923,19 +923,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.8.5",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-04-05T09:50:23Z",
-    "stars": 22,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.8.5",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-04-12T00:36:39Z",
+    "stars": 22,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -5551,19 +5551,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.1.198964",
@@ -5671,9 +5658,9 @@
     "repo": "penguip/a-mindustry-mod",
     "name": "Sentinel addon",
     "version": "No version provided.",
-    "mod_id": "Sentinel addon",
+    "mod_id": "sentinel-addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-11T12:18:22Z",
+    "lastUpdated": "2023-04-11T22:42:31Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6331,19 +6318,6 @@
     "description": "snad"
   },
   {
-    "repo": "wilfulsummer/New-mod",
-    "name": "Wilfulsummers mod",
-    "version": "1.0",
-    "mod_id": "New mod",
-    "author": "Wilfulsummer",
-    "lastUpdated": "2021-09-04T05:35:23Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Building."
-  },
-  {
     "repo": "Potato-Man1/ZyganMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -6825,6 +6799,19 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -6953,32 +6940,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Infinity Map Base"
-  },
-  {
-    "repo": "Heat-Space/Misery",
-    "name": "Misery",
-    "version": "1.0",
-    "mod_id": "misery",
-    "author": "Heat3Space",
-    "lastUpdated": "2023-03-02T13:54:27Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A massive collection of many new items and turrets."
-  },
-  {
-    "repo": "TheGodsHand777/KlasterWorks",
-    "name": "Klaster Works",
-    "version": "1.6 [B1]",
-    "mod_id": "EI",
-    "author": "Klaster",
-    "lastUpdated": "2023-03-03T17:26:17Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Super Java Mod"
   },
   {
     "repo": "TheEE145/MindustryJavaModTemplate",
@@ -7122,18 +7083,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
-  },
-  {
-    "repo": "Yunatexya/MPTv2ModRE",
-    "name": "MPTv2 RE",
-    "version": "0.1.5",
-    "mod_id": "mptv2-re",
-    "author": "Yunatexya",
-    "lastUpdated": "2023-04-11T18:03:45Z",
-    "stars": 0,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>. It is beta."
   }
 ]
