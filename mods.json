@@ -106,10 +106,10 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "ExtraUtilities",
-    "version": "1.1.0.4",
+    "version": "1.1.0.5",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-04-07T13:02:41Z",
+    "lastUpdated": "2023-04-13T16:00:09Z",
     "stars": 103,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -195,6 +195,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "z0mbiesrock/Diamond-Ore",
+    "name": "Diamond Ore Mod",
+    "version": "4.0.0",
+    "mod_id": "diamond-ore",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2023-03-26T15:30:31Z",
+    "stars": 73,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.7",
@@ -206,19 +219,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "z0mbiesrock/Diamond-Ore",
-    "name": "Diamond Ore Mod",
-    "version": "4.0.0",
-    "mod_id": "diamond-ore",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2023-03-26T15:30:31Z",
-    "stars": 72,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "deltanedas/pictologic",
@@ -290,8 +290,8 @@
     "name": "Fading Revelations",
     "version": "2.2",
     "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-13T09:48:29Z",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2023-04-13T15:31:31Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1643,12 +1643,12 @@
     "version": "0.13",
     "mod_id": "mindustry-mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-04-12T19:40:17Z",
+    "lastUpdated": "2023-04-13T19:47:34Z",
     "stars": 12,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1963,6 +1963,19 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "RICCJ/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -2098,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-13T00:56:13Z",
+    "lastUpdated": "2023-04-13T12:22:40Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4126,7 +4139,7 @@
     "version": "2.0.2",
     "mod_id": "extra-logging",
     "author": "Weathercold",
-    "lastUpdated": "2023-04-10T03:16:17Z",
+    "lastUpdated": "2023-04-13T18:04:30Z",
     "stars": 4,
     "minGameVersion": "143.1",
     "hasScripts": false,
@@ -5538,19 +5551,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "not8097/suck_mod",
-    "name": "suck mod",
-    "version": "0.1.198964",
-    "mod_id": "suck_mod",
-    "author": "8097's troops",
-    "lastUpdated": "2023-03-19T14:55:59Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "it is suck."
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5629,12 +5629,25 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "Sentinel addon",
+    "version": "No version provided.",
+    "mod_id": "sentinel-addon",
+    "author": "penguip",
+    "lastUpdated": "2023-04-13T12:24:22Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
     "repo": "Weathercold/mindustry-clj-mod-template",
     "name": "Clojure Mod Template",
     "version": "0.1.0",
     "mod_id": "example-clojure-mod",
     "author": "Weathercold",
-    "lastUpdated": "2023-04-10T03:12:33Z",
+    "lastUpdated": "2023-04-13T17:12:39Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5642,17 +5655,17 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "Sentinel addon",
-    "version": "No version provided.",
-    "mod_id": "sentinel-addon",
-    "author": "penguip",
-    "lastUpdated": "2023-04-13T01:48:11Z",
+    "repo": "not8097/suck_mod",
+    "name": "suck mod",
+    "version": "0.2.198964",
+    "mod_id": "suck_mod",
+    "author": "8097's troops",
+    "lastUpdated": "2023-04-13T19:55:23Z",
     "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
+    "minGameVersion": "140",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "It aims to add robotic entites (called sentinels)and some other content"
+    "description": "it is suck."
   },
   {
     "repo": "4156/Infintory",
