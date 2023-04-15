@@ -149,7 +149,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 93,
+    "stars": 92,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -291,7 +291,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-14T18:35:47Z",
+    "lastUpdated": "2023-04-15T10:05:22Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -4082,19 +4082,6 @@
     "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
   },
   {
-    "repo": "MEEPofFaith/tranqol",
-    "name": "Tranqol",
-    "version": "v4",
-    "mod_id": "tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2023-04-05T07:28:00Z",
-    "stars": 4,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
     "version": "1.0",
@@ -4121,19 +4108,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "osp54/CloudSave",
-    "name": "Cloud Save",
-    "version": "1.0",
-    "mod_id": "cloud-save",
-    "author": "OSPx",
-    "lastUpdated": "2023-04-14T07:17:52Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod"
-  },
-  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.5",
@@ -4145,6 +4119,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A heat and steam based mod."
+  },
+  {
+    "repo": "MEEPofFaith/tranqol",
+    "name": "Tranqol",
+    "version": "v4",
+    "mod_id": "tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2023-04-15T08:49:18Z",
+    "stars": 4,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-04-15T09:50:15Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6097,19 +6097,6 @@
     "description": "oh no"
   },
   {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6368,19 +6355,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
-  },
-  {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
     "repo": "Potato-Man1/ZyganMod",
@@ -6849,6 +6823,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
+  },
+  {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
