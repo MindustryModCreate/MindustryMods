@@ -253,7 +253,7 @@
     "mod_id": "ui_lib",
     "author": "deltanedas",
     "lastUpdated": "2023-04-13T07:13:38Z",
-    "stars": 69,
+    "stars": 68,
     "minGameVersion": "139",
     "hasScripts": true,
     "hasJava": false,
@@ -291,7 +291,7 @@
     "version": "2.2",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-15T10:05:22Z",
+    "lastUpdated": "2023-04-15T14:17:02Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -824,7 +824,7 @@
     "version": "1.4.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2023-04-10T13:47:19Z",
+    "lastUpdated": "2023-04-15T14:57:16Z",
     "stars": 23,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -936,19 +936,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.8.5",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-04-12T00:36:39Z",
-    "stars": 22,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.8.5",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-04-15T10:24:38Z",
+    "stars": 22,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -2106,30 +2106,30 @@
     "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "version": "1.4",
-    "mod_id": "halo-3-odst-soundtracks-ost",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-14T13:47:13Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-15T00:59:39Z",
+    "lastUpdated": "2023-04-15T12:19:46Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "version": "1.4",
+    "mod_id": "halo-3-odst-soundtracks-ost",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-15T13:00:01Z",
+    "stars": 9,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3086,7 +3086,7 @@
     "version": "0.93",
     "mod_id": "zerg",
     "author": "pardon生物",
-    "lastUpdated": "2023-04-12T14:41:13Z",
+    "lastUpdated": "2023-04-15T14:29:54Z",
     "stars": 6,
     "minGameVersion": "139",
     "hasScripts": true,
@@ -4108,19 +4108,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.5",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2023-04-14T20:07:18Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "MEEPofFaith/tranqol",
     "name": "Tranqol",
     "version": "v4",
@@ -4145,6 +4132,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod"
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.6",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2023-04-15T13:53:44Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6513,6 +6513,19 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "version": "0",
+    "mod_id": "cursed-units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "brain die"
+  },
+  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6823,19 +6836,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
