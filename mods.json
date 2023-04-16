@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-04-07T13:03:07Z",
-    "stars": 241,
+    "stars": 242,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -824,7 +824,7 @@
     "version": "1.4.3",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2023-04-15T14:57:16Z",
+    "lastUpdated": "2023-04-16T07:46:23Z",
     "stars": 23,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -2106,19 +2106,6 @@
     "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-15T12:19:46Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "NemesisTheory/ODST-Soundtracks",
     "name": "ODST Soundtracks",
     "version": "1.4",
@@ -2130,6 +2117,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-04-16T01:00:38Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5616,19 +5616,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "7003Mars/bocchi-the-shield",
-    "name": "Bocchi shield",
-    "version": "1.0",
-    "mod_id": "bocchi",
-    "author": "mars",
-    "lastUpdated": "2023-04-08T08:40:40Z",
-    "stars": 2,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -5673,12 +5660,25 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-14T21:39:46Z",
+    "lastUpdated": "2023-04-16T01:58:22Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "7003Mars/bocchi-the-shield",
+    "name": "Bocchi shield",
+    "version": "1.0",
+    "mod_id": "bocchi",
+    "author": "mars",
+    "lastUpdated": "2023-04-16T07:07:20Z",
+    "stars": 2,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "4156/Infintory",
@@ -5928,6 +5928,19 @@
     "description": "Make Erekir components available on Serpulo."
   },
   {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor V7",
+    "version": "2.01",
+    "mod_id": "infiniteProcessor",
+    "author": "Mandu",
+    "lastUpdated": "2022-11-15T03:13:47Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
     "repo": "FreezeMandu/pvp-contest",
     "name": "PVP 대회용 모드",
     "version": "0.7",
@@ -6043,19 +6056,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
-  },
-  {
-    "repo": "driftednotes/little-things",
-    "name": "Little Things",
-    "version": "1.0",
-    "mod_id": "lth",
-    "author": "Drifted Notes",
-    "lastUpdated": "2023-04-13T08:28:51Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6305,6 +6305,19 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
+    "repo": "KarmaH4uK/NothingMod",
+    "name": "Nothing mod",
+    "version": "1.0",
+    "mod_id": "nothing-mod",
+    "author": "WindustryTeam",
+    "lastUpdated": "2021-08-14T10:40:37Z",
+    "stars": 0,
+    "minGameVersion": "117",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The most ambitious mod.\nNew features: \n\nNew blocks: \n\nNew items: \n\nNew liquids: \n\nCreated with love, WindustryTeam"
+  },
+  {
     "repo": "haywyre124/Diamond-Mod-Naub",
     "name": "Diamond-Mod-Naub",
     "version": "1.0",
@@ -6459,6 +6472,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds faster and better logic blocks"
+  },
+  {
+    "repo": "BalaM314/mindustry-magic-mod-dead",
+    "name": "Mindustry Magic Mod",
+    "version": "1.0",
+    "mod_id": "mindustry-magic-mod",
+    "author": "BalaM314",
+    "lastUpdated": "2021-12-04T08:14:09Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some magic to mindustry... soon"
   },
   {
     "repo": "Antlrr/atrac",
@@ -6654,19 +6680,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
-  },
-  {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-06-08T12:20:55Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   },
   {
     "repo": "MBTiAmo712DEV/parachutists-mod",
@@ -7020,6 +7033,19 @@
     "description": "volcano planet"
   },
   {
+    "repo": "YukuSOH/SCHALEsTaskMod",
+    "name": "SCHALE'sTaskMod",
+    "version": "0.1.0",
+    "mod_id": "schalestaskmod",
+    "author": "YukuSOH",
+    "lastUpdated": "2023-03-24T15:18:54Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
     "name": "RDC MM",
     "version": "1.0",
@@ -7109,5 +7135,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
+  },
+  {
+    "repo": "NemesisTheory/wind3turret",
+    "name": "wind3turret",
+    "version": "1.0",
+    "mod_id": "wind3turret",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-16T05:53:34Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds the funny"
   }
 ]
