@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "BlueWolf",
     "lastUpdated": "2023-03-21T18:21:19Z",
-    "stars": 128,
+    "stars": 129,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -288,10 +288,10 @@
   {
     "repo": "Fresh791/Fading-Revelations",
     "name": "Fading Revelations",
-    "version": "2.2",
+    "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-17T14:50:24Z",
+    "lastUpdated": "2023-04-17T18:53:11Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -444,10 +444,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.110dev",
+    "version": "0.2.114dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-17T14:35:46Z",
+    "lastUpdated": "2023-04-17T19:52:53Z",
     "stars": 39,
     "minGameVersion": "143",
     "hasScripts": true,
@@ -923,19 +923,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2023-04-14T16:20:42Z",
-    "stars": 22,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "alpha-0.8.5",
@@ -947,6 +934,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2023-04-17T18:27:56Z",
+    "stars": 22,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -1677,19 +1677,6 @@
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
   },
   {
-    "repo": "BlackDeluxeCat/MI2-Utilities",
-    "name": "MI2 Utilities",
-    "version": "0.6.2",
-    "mod_id": "MI2-Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-20T15:23:31Z",
-    "stars": 11,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
     "repo": "newB7140/duomod",
     "name": "duomod",
     "version": "1.14",
@@ -1818,6 +1805,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
+    "repo": "BlackDeluxeCat/MI2-Utilities",
+    "name": "MI2 Utilities",
+    "version": "0.6.2",
+    "mod_id": "MI2-Utilities",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-02-20T15:23:31Z",
+    "stars": 10,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "Mnemotechnician/CKAT",
@@ -5551,6 +5551,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6043,6 +6056,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
+  },
+  {
+    "repo": "NevaseenYeee/Unto-Ather",
+    "name": "Unto Ather",
+    "version": "1.0",
+    "mod_id": "UA",
+    "author": "NevaSeen",
+    "lastUpdated": "2023-04-17T14:51:11Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Explore the stars, discover the worlds."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6825,19 +6851,6 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -7111,19 +7124,6 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
-    "repo": "NemesisTheory/wind3turret",
-    "name": "wind3turret",
-    "version": "1.0",
-    "mod_id": "wind3turret",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-17T01:04:26Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds the funny"
-  },
-  {
     "repo": "zig-jeff/Supphiros",
     "name": "Supphiros",
     "version": "0.77",
@@ -7135,5 +7135,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
+    "repo": "NemesisTheory/wind3turret",
+    "name": "wind3turret",
+    "version": "1.0",
+    "mod_id": "wind3turret",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-17T15:40:18Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds the funny"
   }
 ]
