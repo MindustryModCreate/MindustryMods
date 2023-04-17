@@ -444,14 +444,14 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.106dev",
+    "version": "0.2.107dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-16T16:01:05Z",
+    "lastUpdated": "2023-04-17T02:34:32Z",
     "stars": 39,
     "minGameVersion": "143",
     "hasScripts": true,
-    "hasJava": true,
+    "hasJava": false,
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check the Discord and our GitHub repository for more info!"
   },
   {
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-16T12:19:59Z",
+    "lastUpdated": "2023-04-17T00:59:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5660,12 +5660,25 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-16T20:13:14Z",
+    "lastUpdated": "2023-04-17T01:39:50Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
   },
   {
     "repo": "deltanedas/notepad",
@@ -5783,6 +5796,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made to add more plants into Mindustry"
+  },
+  {
+    "repo": "MinDoUser/ExtendedMind",
+    "name": "ExtendedMind",
+    "version": "1.0.0",
+    "mod_id": "extended-mind",
+    "author": "lol02",
+    "lastUpdated": "2022-03-03T16:18:59Z",
+    "stars": 1,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
     "repo": "CoCuCoH41k/ReloadedMod",
@@ -6316,6 +6342,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "snad"
+  },
+  {
+    "repo": "wilfulsummer/New-mod",
+    "name": "Wilfulsummers mod",
+    "version": "1.0",
+    "mod_id": "New mod",
+    "author": "Wilfulsummer",
+    "lastUpdated": "2021-09-04T05:35:23Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Building."
   },
   {
     "repo": "Potato-Man1/ZyganMod",
@@ -6916,6 +6955,32 @@
     "description": "An Infinity Map Base"
   },
   {
+    "repo": "Heat-Space/Misery",
+    "name": "Misery",
+    "version": "1.0",
+    "mod_id": "misery",
+    "author": "Heat3Space",
+    "lastUpdated": "2023-03-02T13:54:27Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A massive collection of many new items and turrets."
+  },
+  {
+    "repo": "TheGodsHand777/KlasterWorks",
+    "name": "Klaster Works",
+    "version": "1.6 [B1]",
+    "mod_id": "EI",
+    "author": "Klaster",
+    "lastUpdated": "2023-03-03T17:26:17Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Super Java Mod"
+  },
+  {
     "repo": "TheEE145/MindustryJavaModTemplate",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7033,19 +7098,6 @@
     "description": "Java mod for Mindustry on v7."
   },
   {
-    "repo": "zig-jeff/Supphiros",
-    "name": "Supphiros",
-    "version": "0.76",
-    "mod_id": "Supphiros",
-    "author": "zig-jeff",
-    "lastUpdated": "2023-04-10T04:35:40Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
-  },
-  {
     "repo": "Yunatexya/MPTv2ModRE",
     "name": "MPTv2 RE",
     "version": "0.1.5",
@@ -7064,11 +7116,24 @@
     "version": "1.0",
     "mod_id": "wind3turret",
     "author": "NemesisTheory",
-    "lastUpdated": "2023-04-16T05:53:34Z",
+    "lastUpdated": "2023-04-17T01:04:26Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": false,
     "description": "adds the funny"
+  },
+  {
+    "repo": "zig-jeff/Supphiros",
+    "name": "Supphiros",
+    "version": "0.77",
+    "mod_id": "Supphiros",
+    "author": "zig-jeff",
+    "lastUpdated": "2023-04-17T02:35:08Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   }
 ]
