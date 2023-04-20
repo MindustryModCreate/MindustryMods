@@ -291,7 +291,7 @@
     "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-19T18:28:15Z",
+    "lastUpdated": "2023-04-20T14:03:07Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -444,10 +444,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "0.2.116dev",
+    "version": "117",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-20T02:36:50Z",
+    "lastUpdated": "2023-04-20T14:56:29Z",
     "stars": 39,
     "minGameVersion": "143",
     "hasScripts": true,
@@ -1458,15 +1458,15 @@
   {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "mod_id": "newcontrols",
-    "author": "Мнемотехник",
-    "lastUpdated": "2023-04-16T13:42:09Z",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-04-20T10:42:14Z",
     "stars": 14,
     "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-20T00:57:29Z",
+    "lastUpdated": "2023-04-20T12:21:49Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4171,19 +4171,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
-  },
-  {
-    "repo": "Steefano/Liquids-Enhanced",
-    "name": "Liquids Enhanced",
-    "version": "0.1",
-    "mod_id": "Liquids Enhanced",
-    "author": "Stefano Rando",
-    "lastUpdated": "2020-12-13T17:41:38Z",
-    "stars": 3,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
   },
   {
     "repo": "Ar01Zar/NewWorldMod",
@@ -6526,19 +6513,6 @@
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "version": "0",
-    "mod_id": "cursed-units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-04T06:49:26Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "brain die"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6799,19 +6773,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "TheMalaysianDude/malwork",
-    "name": "Malwork",
-    "version": "1.0.1",
-    "mod_id": "malwork",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2022-10-26T06:02:06Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Testing ground for java modding."
-  },
-  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6836,6 +6797,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
+  },
+  {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
