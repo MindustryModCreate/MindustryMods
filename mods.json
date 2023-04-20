@@ -291,7 +291,7 @@
     "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-20T14:03:07Z",
+    "lastUpdated": "2023-04-20T19:47:27Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -429,6 +429,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "124",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-04-20T15:43:35Z",
+    "stars": 40,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n. . . check the Discord and our GitHub repository for more info!"
+  },
+  {
     "repo": "pixecoz/SchematicsPack",
     "name": "Schematics Pack",
     "version": "9.0",
@@ -440,19 +453,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
-  },
-  {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "117",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-20T14:56:29Z",
-    "stars": 39,
-    "minGameVersion": "143",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check the Discord and our GitHub repository for more info!"
   },
   {
     "repo": "Goobrr/Esoterum",
@@ -2717,6 +2717,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.1.2",
@@ -4171,6 +4184,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
+  },
+  {
+    "repo": "Steefano/Liquids-Enhanced",
+    "name": "Liquids Enhanced",
+    "version": "0.1",
+    "mod_id": "Liquids Enhanced",
+    "author": "Stefano Rando",
+    "lastUpdated": "2020-12-13T17:41:38Z",
+    "stars": 3,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
   },
   {
     "repo": "Ar01Zar/NewWorldMod",
@@ -6123,19 +6149,6 @@
     "description": "test mod"
   },
   {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -6500,17 +6513,17 @@
     "description": "duo"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "version": "0",
+    "mod_id": "cursed-units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
     "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
+    "minGameVersion": "135",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+    "description": "brain die"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -6773,6 +6786,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0.1",
+    "mod_id": "malwork",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-26T06:02:06Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
+  },
+  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6797,19 +6823,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
@@ -6992,6 +7005,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "SkyeTheFoxyFox/Malcalor",
+    "name": "malcalor",
+    "version": "0.0.1",
+    "mod_id": "Volcano Planet",
+    "author": "SkyeTheFoxyFox",
+    "lastUpdated": "2023-03-16T01:40:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "volcano planet"
   },
   {
     "repo": "YukuSOH/SCHALEsTaskMod",
