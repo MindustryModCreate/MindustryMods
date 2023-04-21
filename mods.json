@@ -5673,7 +5673,7 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "penguip",
-    "lastUpdated": "2023-04-19T21:36:56Z",
+    "lastUpdated": "2023-04-20T22:21:05Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6149,6 +6149,19 @@
     "description": "test mod"
   },
   {
+    "repo": "DvNamedo/world-war-2",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-12-31T06:10:55Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A jar mod."
+  },
+  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -6513,17 +6526,17 @@
     "description": "duo"
   },
   {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "version": "0",
-    "mod_id": "cursed-units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-04T06:49:26Z",
+    "repo": "UnionofSovietSocialistRepublics/flarogus",
+    "name": "Flarogus",
+    "version": "1.0",
+    "mod_id": "Flarogus",
+    "author": "MQ1337",
+    "lastUpdated": "2021-12-20T08:31:57Z",
     "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
+    "minGameVersion": "126",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "brain die"
+    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -6825,6 +6838,19 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -7007,19 +7033,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "SkyeTheFoxyFox/Malcalor",
-    "name": "malcalor",
-    "version": "0.0.1",
-    "mod_id": "Volcano Planet",
-    "author": "SkyeTheFoxyFox",
-    "lastUpdated": "2023-03-16T01:40:04Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "volcano planet"
-  },
-  {
     "repo": "YukuSOH/SCHALEsTaskMod",
     "name": "SCHALE'sTaskMod",
     "version": "0.1.0",
@@ -7044,19 +7057,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mindustry json mod, please go to Github page and read the README"
-  },
-  {
-    "repo": "bttodi/Pandemonium",
-    "name": "Pandemonium",
-    "version": "No version provided.",
-    "mod_id": "pandemonium",
-    "author": "bttodi",
-    "lastUpdated": "2023-03-28T09:43:02Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
   },
   {
     "repo": "FreezeMandu/routertexturepack-v7",
@@ -7135,5 +7135,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
+    "repo": "bttodi/Pandemonium",
+    "name": "Pandemonium",
+    "version": "No version provided.",
+    "mod_id": "pandemonium",
+    "author": "bttodi",
+    "lastUpdated": "2023-04-21T00:27:29Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
   }
 ]
