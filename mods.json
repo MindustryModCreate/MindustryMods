@@ -291,7 +291,7 @@
     "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-23T09:58:39Z",
+    "lastUpdated": "2023-04-23T10:55:38Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -551,7 +551,7 @@
     "version": "1.2.2",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-04-05T02:59:15Z",
+    "lastUpdated": "2023-04-23T10:58:59Z",
     "stars": 32,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -1864,9 +1864,9 @@
     "version": "1.4",
     "mod_id": "halo-3-odst-soundtracks-ost",
     "author": "NemesisTheory",
-    "lastUpdated": "2023-04-22T13:44:21Z",
+    "lastUpdated": "2023-04-23T13:30:53Z",
     "stars": 10,
-    "minGameVersion": "136",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-23T01:04:05Z",
+    "lastUpdated": "2023-04-23T12:20:58Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4888,19 +4888,6 @@
     "description": "Removes logic display border and link them together"
   },
   {
-    "repo": "Froomeeth/JavaSerilia",
-    "name": "Serilia",
-    "version": "1.0",
-    "mod_id": "serilia",
-    "author": "FrooMeeth",
-    "lastUpdated": "2023-04-22T14:58:18Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia but on steroids (Java)"
-  },
-  {
     "repo": "PLsubfarm61/Project_B",
     "name": "Project B [Alpha]",
     "version": "0",
@@ -4912,6 +4899,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
+  },
+  {
+    "repo": "Froomeeth/JavaSerilia",
+    "name": "Serilia",
+    "version": "1.0",
+    "mod_id": "serilia",
+    "author": "FrooMeeth",
+    "lastUpdated": "2023-04-23T10:44:21Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serilia but on steroids (Java)"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5278,19 +5278,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "BoolmanO/BOMBERmod",
     "name": "Bombers mod",
     "version": "1b",
@@ -5590,19 +5577,6 @@
     "description": "wort wort wort."
   },
   {
-    "repo": "floppa-coder/IronExtened",
-    "name": "Iron Extended",
-    "version": "0.3",
-    "mod_id": "iron",
-    "author": "Floppa",
-    "lastUpdated": "2023-04-08T18:45:44Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "Weathercold/mindustry-clj-mod-template",
     "name": "Clojure Mod Template",
     "version": "0.1.0",
@@ -5653,6 +5627,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "floppa-coder/IronExtened",
+    "name": "Iron Extended",
+    "version": "0.3",
+    "mod_id": "iron",
+    "author": "Floppa",
+    "lastUpdated": "2023-04-23T12:57:51Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "4156/Infintory",
@@ -6058,6 +6045,19 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
+    "repo": "BalaM314/flarogus-texture",
+    "name": "Flarogus Texture",
+    "version": "1.0",
+    "mod_id": "flarogus-texture",
+    "author": "BalaM314",
+    "lastUpdated": "2023-04-23T12:26:12Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes the flare a flarogus."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -6134,19 +6134,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -6513,19 +6500,6 @@
     "description": "duo"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6825,19 +6799,6 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -7020,6 +6981,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "SkyeTheFoxyFox/Malcalor",
+    "name": "malcalor",
+    "version": "0.0.1",
+    "mod_id": "Volcano Planet",
+    "author": "SkyeTheFoxyFox",
+    "lastUpdated": "2023-03-16T01:40:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "volcano planet"
+  },
+  {
     "repo": "YukuSOH/SCHALEsTaskMod",
     "name": "SCHALE'sTaskMod",
     "version": "0.1.0",
@@ -7135,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds the funny \n\naverage sprite fan vs average error enjoyer"
+  },
+  {
+    "repo": "NemesisTheory/flare-turret",
+    "name": "flare turret",
+    "version": "1.0",
+    "mod_id": "flare-turret",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-23T14:17:57Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a turret based on a rough description by ChatGPT."
   }
 ]
