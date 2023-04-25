@@ -156,19 +156,6 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "version": "v0.8.4",
-    "mod_id": "uaw",
-    "author": "Eschatologue",
-    "lastUpdated": "2023-04-19T13:55:53Z",
-    "stars": 86,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
     "repo": "QmelZ/hackustry",
     "name": "Hackustry",
     "version": "4",
@@ -180,6 +167,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Hackustry v4"
+  },
+  {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "version": "v0.8.4",
+    "mod_id": "uaw",
+    "author": "Eschatologue",
+    "lastUpdated": "2023-04-25T10:28:49Z",
+    "stars": 86,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "Anuken/MindustryJavaModTemplate",
@@ -291,7 +291,7 @@
     "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-24T16:28:35Z",
+    "lastUpdated": "2023-04-25T12:52:43Z",
     "stars": 64,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -395,7 +395,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-04-19T14:34:01Z",
+    "lastUpdated": "2023-04-25T14:13:58Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -416,30 +416,30 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
-    "repo": "AeronGreva/AeroMindustry",
-    "name": "AeroMindustry",
-    "version": "1.0",
-    "mod_id": "aeromindustry",
-    "author": "AeronGreva",
-    "lastUpdated": "2022-06-26T19:44:10Z",
-    "stars": 41,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
     "version": "131",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2023-04-25T01:42:22Z",
-    "stars": 41,
+    "stars": 42,
     "minGameVersion": "143",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
+  },
+  {
+    "repo": "AeronGreva/AeroMindustry",
+    "name": "AeroMindustry",
+    "version": "1.0",
+    "mod_id": "aeromindustry",
+    "author": "AeronGreva",
+    "lastUpdated": "2022-06-26T19:44:10Z",
+    "stars": 40,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
     "repo": "pixecoz/SchematicsPack",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-25T00:59:44Z",
+    "lastUpdated": "2023-04-25T12:22:01Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5538,19 +5538,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6160,6 +6147,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "DvNamedo/world-war-2",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-12-31T06:10:55Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
