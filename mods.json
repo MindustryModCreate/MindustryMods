@@ -292,7 +292,7 @@
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-04-27T13:02:51Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
@@ -418,10 +418,10 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "131",
+    "version": "132",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-04-25T01:42:22Z",
+    "lastUpdated": "2023-04-27T17:18:48Z",
     "stars": 42,
     "minGameVersion": "143",
     "hasScripts": true,
@@ -812,7 +812,7 @@
     "mod_id": "cheat",
     "author": "paulieg626",
     "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 23,
+    "stars": 24,
     "minGameVersion": "142",
     "hasScripts": true,
     "hasJava": false,
@@ -5538,6 +5538,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6227,19 +6240,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -6812,6 +6812,19 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
+    "repo": "feprogramador/MorvaliMod",
+    "name": "M.O.R.VA.LI Mod",
+    "version": "0.0.1",
+    "mod_id": "MORE",
+    "author": "fe",
+    "lastUpdated": "2023-01-03T21:26:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry Overpowered Reload VAnila LIke mod"
+  },
+  {
     "repo": "RestytheCake/ShinyMindustry",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -6862,19 +6875,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
-  },
-  {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2023-01-26T16:21:36Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
@@ -7059,19 +7059,6 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
-    "repo": "zig-jeff/Supphiros",
-    "name": "Supphiros",
-    "version": "0.78",
-    "mod_id": "Supphiros",
-    "author": "zig-jeff",
-    "lastUpdated": "2023-04-18T23:49:48Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
-  },
-  {
     "repo": "bttodi/Pandemonium",
     "name": "Pandemonium",
     "version": "No version provided.",
@@ -7122,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod."
+  },
+  {
+    "repo": "zig-jeff/Supphiros",
+    "name": "Supphiros",
+    "version": "0.78",
+    "mod_id": "Supphiros",
+    "author": "zig-jeff",
+    "lastUpdated": "2023-04-27T19:44:54Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   }
 ]
