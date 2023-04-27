@@ -312,6 +312,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "mod_id": "sapphirium",
+    "author": "Snake",
+    "lastUpdated": "2023-04-26T16:04:03Z",
+    "stars": 62,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Adds several new factions that include their own unique content. Uses some java classes."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
     "version": "27.2",
@@ -323,19 +336,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "mod_id": "sapphirium",
-    "author": "Snake",
-    "lastUpdated": "2023-04-26T16:04:03Z",
-    "stars": 61,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -395,7 +395,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-04-25T14:13:58Z",
+    "lastUpdated": "2023-04-27T10:04:22Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1443,19 +1443,6 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.6 [B3]",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2023-03-31T16:45:22Z",
-    "stars": 14,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked content for people to enjoy :>\n-Current version : 1.6 [B3]"
-  },
-  {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.1.3",
@@ -1467,6 +1454,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.6 [B4]",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2023-04-27T07:55:34Z",
+    "stars": 14,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>\n-Current version : 1.6 [B4]"
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-26T12:22:08Z",
+    "lastUpdated": "2023-04-27T01:00:17Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5538,6 +5538,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6227,19 +6240,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -6877,19 +6877,6 @@
     "description": "A Mindustry Scala mod template."
   },
   {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2023-01-26T16:21:36Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
-  },
-  {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "version": "1.0",
@@ -7111,19 +7098,6 @@
     "description": "adds the funny \n\naverage sprite fan vs average error enjoyer"
   },
   {
-    "repo": "NemesisTheory/flare-turret",
-    "name": "flare turret",
-    "version": "1.2.5",
-    "mod_id": "flare-turret",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-26T13:49:07Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "try it and see"
-  },
-  {
     "repo": "VincenzoTheDuck/Ultra-Additions",
     "name": "Ultra Additions",
     "version": "1.0",
@@ -7135,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod."
+  },
+  {
+    "repo": "NemesisTheory/flare-turret",
+    "name": "flare turret",
+    "version": "1.2.5",
+    "mod_id": "flare-turret",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-27T08:34:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "try it and see"
   }
 ]
