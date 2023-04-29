@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-04-07T13:03:07Z",
+    "lastUpdated": "2023-04-28T23:18:17Z",
     "stars": 245,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -247,6 +247,19 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.7.54",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2023-04-28T17:26:25Z",
+    "stars": 69,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -258,19 +271,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.7.54",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2023-04-28T17:26:25Z",
-    "stars": 68,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "Slotterleet/GoldMod",
@@ -7085,19 +7085,6 @@
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   },
   {
-    "repo": "VincenzoTheDuck/Ultra-Additions",
-    "name": "Ultra Additions",
-    "version": "1.0",
-    "mod_id": "ultra-additions",
-    "author": "VincenzoTheDuck",
-    "lastUpdated": "2023-04-28T03:01:35Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My first mod."
-  },
-  {
     "repo": "NemesisTheory/wind3turret",
     "name": "wind 3 turret",
     "version": "1.0",
@@ -7122,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "try it and see"
+  },
+  {
+    "repo": "VincenzoTheDuck/Ultra-Additions",
+    "name": "Ultra Additions",
+    "version": "1.0",
+    "mod_id": "ultra-additions",
+    "author": "VincenzoTheDuck",
+    "lastUpdated": "2023-04-29T00:32:23Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My first mod."
   }
 ]
