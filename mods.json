@@ -305,7 +305,7 @@
     "mod_id": "rtfm",
     "author": "deltanedas",
     "lastUpdated": "2022-10-27T23:42:22Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -548,10 +548,10 @@
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
-    "version": "1.2.3",
+    "version": "1.2.3b",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-04-30T05:25:59Z",
+    "lastUpdated": "2023-05-01T04:40:37Z",
     "stars": 32,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-04-30T12:20:11Z",
+    "lastUpdated": "2023-05-01T01:02:18Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3458,6 +3458,19 @@
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.2",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-04-13T18:04:30Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4080,19 +4093,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.2",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-04-13T18:04:30Z",
-    "stars": 4,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "osp54/CloudSave",
@@ -5291,6 +5291,19 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.5",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2022-05-15T23:42:28Z",
+    "stars": 2,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "BoolmanO/BOMBERmod",
     "name": "Bombers mod",
     "version": "1b",
@@ -6214,19 +6227,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "RebornTrack970/Singleplayernt",
-    "name": "Singleplayern't",
-    "version": "1.0",
-    "mod_id": "singleplayernt",
-    "author": "RTOmega",
-    "lastUpdated": "2021-04-01T10:01:38Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -7103,7 +7103,7 @@
     "version": "1.0",
     "mod_id": "ultra-additions",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2023-05-01T00:20:21Z",
+    "lastUpdated": "2023-05-01T01:49:49Z",
     "stars": 0,
     "minGameVersion": "142",
     "hasScripts": false,
