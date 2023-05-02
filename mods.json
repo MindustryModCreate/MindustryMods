@@ -31,7 +31,7 @@
     "version": "0.3.0",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-03-28T14:56:09Z",
+    "lastUpdated": "2023-05-01T23:42:36Z",
     "stars": 232,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3445,19 +3445,6 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nNow with Erekir planetary tree.\n\nAttributions:\n- TheGamer1002"
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1.3.1",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-04-13T01:43:02Z",
-    "stars": 5,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
-  },
-  {
     "repo": "Weathercold/extra-logging",
     "name": "Extra Logging 2",
     "version": "2.0.2",
@@ -3469,6 +3456,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.1",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-05-02T00:20:49Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5291,19 +5291,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "BoolmanO/BOMBERmod",
     "name": "Bombers mod",
     "version": "1b",
@@ -5536,19 +5523,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
-  },
-  {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -6097,6 +6071,19 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
+    "repo": "Aweguy/pixelcraft",
+    "name": "a Pixelcraft",
+    "version": "0.5",
+    "mod_id": "pixelcraft",
+    "author": "Aweguy",
+    "lastUpdated": "2020-11-24T07:31:03Z",
+    "stars": 0,
+    "minGameVersion": "113",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A v6 mod for mindustry\nThis mod aims to expand mindustry's content by adding a new tech tree, adding upgraded versions of existinc blocks and more.\nThis mod adds new resources, new turrets and new zones as well as slight tweaks to vanilla. 41 new building blocks to play with, one environmental block, two ores and 5 items with moree to come.\n(Lore included, find the lore of the mod in building and unit descriptions/reading the source code)\nnote: Has been ported over to 113, enjoy the mod! "
+  },
+  {
     "repo": "WilloIzCitron/Mindustry-Ultra-Mod",
     "name": "Mindustry ULTRA  Mod",
     "version": "0.1",
@@ -6212,6 +6199,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds moon"
+  },
+  {
+    "repo": "RebornTrack970/Singleplayernt",
+    "name": "Singleplayern't",
+    "version": "1.0",
+    "mod_id": "singleplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-01T10:01:38Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
@@ -6849,6 +6849,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
+  },
+  {
+    "repo": "Miniontoby/mindustrirc",
+    "name": "MindustrIRC",
+    "version": "1.1.0",
+    "mod_id": "mindustrirc",
+    "author": "Miniontoby",
+    "lastUpdated": "2023-01-26T16:21:36Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
