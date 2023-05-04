@@ -351,19 +351,6 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "PetruCHIOrus/lead_ind",
-    "name": "Lead Industries",
-    "version": "1.6",
-    "mod_id": "lead_ind",
-    "author": "PetruCHIOrus\nDefenseX\npaulieg626",
-    "lastUpdated": "2023-04-09T14:02:42Z",
-    "stars": 50,
-    "minGameVersion": "143",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "New guns, drills, crafting, materials and resourses"
-  },
-  {
     "repo": "Sharlottes/sharustry",
     "name": "Sharustry",
     "version": "0.3v",
@@ -388,6 +375,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
+    "repo": "PetruCHIOrus/lead_ind",
+    "name": "Lead Industries",
+    "version": "1.6",
+    "mod_id": "lead_ind",
+    "author": "PetruCHIOrus\nDefenseX\npaulieg626",
+    "lastUpdated": "2023-04-09T14:02:42Z",
+    "stars": 48,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
   },
   {
     "repo": "xStaBUx/Omaloon",
@@ -1656,7 +1656,7 @@
     "version": "0.16",
     "mod_id": "mindustry-mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-04-30T17:58:56Z",
+    "lastUpdated": "2023-05-04T02:46:42Z",
     "stars": 12,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1911,19 +1911,6 @@
     "description": "Мод добавляет множество новых турелей."
   },
   {
-    "repo": "valtsu41/bundle-chaos",
-    "name": "Bundle chaos",
-    "version": "4.2",
-    "mod_id": "bundle-chaos",
-    "author": "valtsu41",
-    "lastUpdated": "2021-03-04T16:38:43Z",
-    "stars": 9,
-    "minGameVersion": "107",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod replaces all texts in the game with random ones."
-  },
-  {
     "repo": "Pietro303HD/ShitShow",
     "name": "Shit Show",
     "version": "0.1",
@@ -2124,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-03T12:22:15Z",
+    "lastUpdated": "2023-05-04T00:58:12Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2496,6 +2483,19 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "valtsu41/bundle-chaos",
+    "name": "Bundle chaos",
+    "version": "4.2",
+    "mod_id": "bundle-chaos",
+    "author": "valtsu41",
+    "lastUpdated": "2021-03-04T16:38:43Z",
+    "stars": 7,
+    "minGameVersion": "107",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod replaces all texts in the game with random ones."
+  },
+  {
     "repo": "Voz-Duh/progressed-factorio",
     "name": "Progressed Factorio - TexturePack",
     "version": "0.0.1",
@@ -2715,19 +2715,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
-    "stars": 7,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Uenhe/Fire",
@@ -4119,6 +4106,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-04-15T09:50:15Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "aawwaaa/aimClient",
