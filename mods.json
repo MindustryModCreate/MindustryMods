@@ -31,7 +31,7 @@
     "version": "0.3.1.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-05-06T15:00:53Z",
+    "lastUpdated": "2023-05-07T15:02:07Z",
     "stars": 232,
     "minGameVersion": "143.1",
     "hasScripts": false,
@@ -993,7 +993,7 @@
     "version": "1.7.4",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-04-28T13:22:06Z",
+    "lastUpdated": "2023-05-07T13:19:53Z",
     "stars": 21,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -1461,7 +1461,7 @@
     "version": "1.6 [B5]",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2023-05-07T09:40:53Z",
+    "lastUpdated": "2023-05-07T10:22:46Z",
     "stars": 14,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-07T01:02:22Z",
+    "lastUpdated": "2023-05-07T12:19:39Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2743,6 +2743,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.1.1",
+    "mod_id": "pyra",
+    "author": "\nAuthor: vali#5378\nCoder: Fresh791\n",
+    "lastUpdated": "2023-04-12T10:28:51Z",
+    "stars": 7,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNot the most balanced"
+  },
+  {
     "repo": "430230562/zerg",
     "name": "虫族",
     "version": "0.93",
@@ -3092,19 +3105,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
-  },
-  {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.1.1",
-    "mod_id": "pyra",
-    "author": "\nAuthor: vali#5378\nCoder: Fresh791\n",
-    "lastUpdated": "2023-04-12T10:28:51Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNot the most balanced"
   },
   {
     "repo": "RebornTrack970/Multiplayerntnt",
@@ -3978,6 +3978,19 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-10-18T16:53:41Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
+  },
+  {
     "repo": "Voider404/InTheSpace",
     "name": "InTheSpace",
     "version": "0.1.2",
@@ -4145,6 +4158,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A heat and steam based mod."
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-05-07T13:34:09Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4732,19 +4758,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "version": "1.5.5",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-12-29T23:48:46Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "Vernaon/mindustry-admin-button",
     "name": "Admin button",
     "version": "1.4",
@@ -4808,19 +4821,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-04-01T07:48:35Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
     "repo": "FreezeMandu/minZoom",
@@ -5471,6 +5471,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Putting random stuff together to see what happens. ItsDaKIRBY69#5369"
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "version": "1.5.5",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-12-29T23:48:46Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "mrybs/dasuas",
@@ -6279,6 +6292,19 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
+    "repo": "KarmaH4uK/NothingMod",
+    "name": "Nothing mod",
+    "version": "1.0",
+    "mod_id": "nothing-mod",
+    "author": "WindustryTeam",
+    "lastUpdated": "2021-08-14T10:40:37Z",
+    "stars": 0,
+    "minGameVersion": "117",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The most ambitious mod.\nNew features: \n\nNew blocks: \n\nNew items: \n\nNew liquids: \n\nCreated with love, WindustryTeam"
+  },
+  {
     "repo": "haywyre124/Diamond-Mod-Naub",
     "name": "Diamond-Mod-Naub",
     "version": "1.0",
@@ -6290,6 +6316,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for mindustry focusing mainly on Diamonds."
+  },
+  {
+    "repo": "TheSmuzy/SlideShowMod",
+    "name": "Slide show mod",
+    "version": "1.0",
+    "mod_id": "slide-show-mod",
+    "author": "WindustryTeam",
+    "lastUpdated": "2021-08-21T12:50:27Z",
+    "stars": 0,
+    "minGameVersion": "117",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod will make Mindustry Slide Show\n\nWith love, Windustry Team"
   },
   {
     "repo": "AHRumjungle/Snad",
@@ -6394,6 +6433,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A vanilla Mindustry Enhancement."
+  },
+  {
+    "repo": "Bergiu/HyperProcessor",
+    "name": "Hyper Processor",
+    "version": "1.0",
+    "mod_id": "hp",
+    "author": "Bergiu",
+    "lastUpdated": "2021-12-02T12:57:43Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds faster and better logic blocks"
   },
   {
     "repo": "BalaM314/mindustry-magic-mod-dead",
@@ -6680,6 +6732,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
+    "repo": "CREAsTIVE/PowerMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-10-25T13:06:37Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "TheMalaysianDude/malwork",
