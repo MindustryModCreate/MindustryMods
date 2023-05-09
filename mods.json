@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-05-07T15:02:07Z",
-    "stars": 232,
+    "stars": 231,
     "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
@@ -405,11 +405,11 @@
   {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
-    "version": "135",
+    "version": "136",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-05-09T07:27:07Z",
-    "stars": 45,
+    "lastUpdated": "2023-05-09T13:28:46Z",
+    "stars": 46,
     "minGameVersion": "143",
     "hasScripts": true,
     "hasJava": false,
@@ -923,19 +923,6 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2023-03-26T16:02:07Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -960,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "sporrus/randomMindustry",
+    "name": "Random Mindustry",
+    "version": "1.8.2",
+    "mod_id": "random-mindustry",
+    "author": "sporrus",
+    "lastUpdated": "2023-05-09T11:26:28Z",
+    "stars": 22,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -1118,19 +1118,6 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "z0mbiesrock/Larger-Cores",
-    "name": "Larger Cores",
-    "version": "1.0",
-    "mod_id": "larger-cores",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2022-07-06T10:29:29Z",
-    "stars": 17,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds T4 and T5 Cores."
-  },
-  {
     "repo": "Pointifix/AutoDrill",
     "name": "AutoDrill",
     "version": "1.0",
@@ -1220,6 +1207,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
+  },
+  {
+    "repo": "z0mbiesrock/Larger-Cores",
+    "name": "Larger Cores",
+    "version": "1.0",
+    "mod_id": "larger-cores",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2022-07-06T10:29:29Z",
+    "stars": 16,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds T4 and T5 Cores."
   },
   {
     "repo": "VvSeanGTvV/V5-Classic",
@@ -1781,19 +1781,6 @@
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
   },
   {
-    "repo": "no9527dada/free-campaign",
-    "name": "free-campaign-自由战役",
-    "version": "0.2",
-    "mod_id": "free-campaign",
-    "author": "呵呵哒",
-    "lastUpdated": "2021-10-31T02:59:50Z",
-    "stars": 10,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
-  },
-  {
     "repo": "deltanedas/anuke-logic",
     "name": "Anuke Logic",
     "version": "1.9.6",
@@ -2098,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-09T00:59:50Z",
+    "lastUpdated": "2023-05-09T12:58:42Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2728,6 +2715,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -5525,6 +5525,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5822,32 +5835,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
-  },
-  {
-    "repo": "Kasp19/Metalextension",
-    "name": "Metal Extension (1.0 Beta)",
-    "version": "1.0 beta",
-    "mod_id": "Metalextension",
-    "author": "Inc.Mr.rpgKasp",
-    "lastUpdated": "2022-09-11T02:17:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
-  },
-  {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "version": "1.0",
-    "mod_id": "hello",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-10-10T10:21:53Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
   },
   {
     "repo": "XenoForce/Happy-Times-Mod",
@@ -6474,6 +6461,19 @@
     "description": "duo"
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/flarogus",
+    "name": "Flarogus",
+    "version": "1.0",
+    "mod_id": "Flarogus",
+    "author": "MQ1337",
+    "lastUpdated": "2021-12-20T08:31:57Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+  },
+  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6771,6 +6771,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
+  },
+  {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
