@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-02-20T13:32:17Z",
-    "stars": 273,
+    "stars": 274,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -110,7 +110,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-04-17T06:26:15Z",
-    "stars": 106,
+    "stars": 107,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -448,7 +448,7 @@
     "mod_id": "schematics-pack",
     "author": "pixecoz",
     "lastUpdated": "2023-04-08T06:38:14Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-11T00:58:22Z",
+    "lastUpdated": "2023-05-11T12:22:10Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2741,6 +2741,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -4810,6 +4823,19 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
+    "repo": "YSpoof/mindustry-zmod",
+    "name": "ZMod",
+    "version": "1.1.0",
+    "mod_id": "ZMod",
+    "author": "N0TZ3R0",
+    "lastUpdated": "2023-03-19T15:19:19Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
     "repo": "FreezeMandu/minZoom",
     "name": "minZoom",
     "version": "1.52",
@@ -4886,19 +4912,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] for more info."
-  },
-  {
-    "repo": "Froomeeth/JavaSerilia",
-    "name": "Serilia",
-    "version": "1.0",
-    "mod_id": "serilia",
-    "author": "FrooMeeth",
-    "lastUpdated": "2023-05-09T19:28:36Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia but on steroids (Java)"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5525,6 +5538,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5707,6 +5733,19 @@
     "description": "V7 Mod that add modded maps"
   },
   {
+    "repo": "Serg230/Overdustry",
+    "name": "Overdustry",
+    "version": "2.0 — production update",
+    "mod_id": "overdustry",
+    "author": "Serg230",
+    "lastUpdated": "2021-11-16T18:53:17Z",
+    "stars": 1,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "7.0 vanila-like mod"
+  },
+  {
     "repo": "Auseawesome/Mindustry-GameBreaker",
     "name": "Mindustry Gamebreaker",
     "version": "Alpha 0.1",
@@ -5822,6 +5861,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
+  },
+  {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "version": "1.0",
+    "mod_id": "hello",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-10-10T10:21:53Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
   },
   {
     "repo": "XenoForce/Happy-Times-Mod",
@@ -6149,6 +6201,19 @@
     "description": ""
   },
   {
+    "repo": "oguh43/quantumReactor",
+    "name": "Quantum Reactor ",
+    "version": "1",
+    "mod_id": "QuantumReactor",
+    "author": "oguh43/ Len_Luk",
+    "lastUpdated": "2021-03-01T16:56:30Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reactor based on quantum mechanics."
+  },
+  {
     "repo": "RebornTrack970/moonmod",
     "name": "MoonMod",
     "version": "0.1",
@@ -6160,6 +6225,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds moon"
+  },
+  {
+    "repo": "RebornTrack970/Singleplayernt",
+    "name": "Singleplayern't",
+    "version": "1.0",
+    "mod_id": "singleplayernt",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-01T10:01:38Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
@@ -6420,19 +6498,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -6734,19 +6799,6 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "feprogramador/MorvaliMod",
     "name": "M.O.R.VA.LI Mod",
     "version": "0.0.1",
@@ -6810,6 +6862,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
+  },
+  {
+    "repo": "Miniontoby/mindustrirc",
+    "name": "MindustrIRC",
+    "version": "1.1.0",
+    "mod_id": "mindustrirc",
+    "author": "Miniontoby",
+    "lastUpdated": "2023-01-26T16:21:36Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
