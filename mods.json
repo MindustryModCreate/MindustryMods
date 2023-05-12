@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-05-09T23:57:46Z",
+    "lastUpdated": "2023-05-12T02:27:11Z",
     "stars": 246,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-11T12:22:10Z",
+    "lastUpdated": "2023-05-12T00:58:27Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3489,7 +3489,7 @@
     "version": "1.0.6",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-05-09T19:23:08Z",
+    "lastUpdated": "2023-05-12T02:22:02Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -4054,6 +4054,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
+  },
+  {
+    "repo": "Vernaon/mindustry-admin-button",
+    "name": "Admin button",
+    "version": "1.4",
+    "mod_id": "admin-icon-in-chat",
+    "author": "NothingImportant",
+    "lastUpdated": "2022-12-31T15:37:38Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button that sends colorful  in chat"
   },
   {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
@@ -4769,19 +4782,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "Vernaon/mindustry-admin-button",
-    "name": "Admin button",
-    "version": "1.4",
-    "mod_id": "admin-icon-in-chat",
-    "author": "NothingImportant",
-    "lastUpdated": "2022-12-31T15:37:38Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a button that sends colorful  in chat"
   },
   {
     "repo": "I-hope1/BetterJS",
@@ -5536,6 +5536,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -6474,19 +6487,6 @@
     "description": "duo"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6784,19 +6784,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "CyanRonan/RGBee",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-12-19T20:52:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "feprogramador/MorvaliMod",
@@ -7122,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod."
+  },
+  {
+    "repo": "Meow0x7E/mindustry-MeowJavaMod-mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-05-12T01:44:04Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
