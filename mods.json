@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-05-09T23:57:46Z",
-    "stars": 245,
+    "stars": 246,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -236,10 +236,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.7.57",
+    "version": "2.7.59",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-05-11T16:18:20Z",
+    "lastUpdated": "2023-05-11T20:42:23Z",
     "stars": 71,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -3484,6 +3484,19 @@
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.6",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2023-05-09T19:23:08Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4171,19 +4184,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
-  },
-  {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.6",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2023-05-09T19:23:08Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5915,19 +5915,6 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
-    "repo": "936338156/mindustry-Interplanetary-Industries-mod",
-    "name": "Interplanetary_Industries",
-    "version": "1.17.4 Alpha",
-    "mod_id": "Interplanetary-Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2023-01-06T08:46:37Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "教程有误害死人啊qwq"
-  },
-  {
     "repo": "UAdustry/Frozen-technologies",
     "name": "Frozen technologies",
     "version": "0.1",
@@ -6875,6 +6862,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
+  },
+  {
+    "repo": "Miniontoby/mindustrirc",
+    "name": "MindustrIRC",
+    "version": "1.1.0",
+    "mod_id": "mindustrirc",
+    "author": "Miniontoby",
+    "lastUpdated": "2023-01-26T16:21:36Z",
+    "stars": 0,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
