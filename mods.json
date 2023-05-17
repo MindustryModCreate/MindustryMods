@@ -408,7 +408,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-05-16T15:58:00Z",
+    "lastUpdated": "2023-05-17T17:46:47Z",
     "stars": 48,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -4147,19 +4147,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "osp54/CloudSave",
-    "name": "Cloud Save",
-    "version": "1.0",
-    "mod_id": "cloud-save",
-    "author": "OSPx",
-    "lastUpdated": "2023-04-15T09:50:15Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod"
-  },
-  {
     "repo": "aawwaaa/aimClient",
     "name": "AimClient",
     "version": "1.0.0",
@@ -4197,6 +4184,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-05-17T17:03:30Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5634,7 +5634,7 @@
     "version": "OMEGAxZEROnum2",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
-    "lastUpdated": "2023-05-16T20:59:25Z",
+    "lastUpdated": "2023-05-17T18:56:30Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6708,19 +6708,6 @@
     "description": "This is my first mod, please be kind."
   },
   {
-    "repo": "Cynthion21x/prismaticExperimental",
-    "name": "Prismatic",
-    "version": "1.16.206.7 -BETA",
-    "mod_id": "prism",
-    "author": "cynthion21x & thekayperson",
-    "lastUpdated": "2022-08-20T11:28:53Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
-  },
-  {
     "repo": "ElectronicsArchiver/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
@@ -6968,6 +6955,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "SkyeTheFoxyFox/Malcalor",
+    "name": "malcalor",
+    "version": "0.0.1",
+    "mod_id": "Volcano Planet",
+    "author": "SkyeTheFoxyFox",
+    "lastUpdated": "2023-03-16T01:40:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "volcano planet"
+  },
+  {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
     "name": "RDC MM",
     "version": "1.0",
@@ -7135,5 +7135,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "pangolino30/sti-mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-05-17T18:02:57Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
