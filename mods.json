@@ -1461,7 +1461,7 @@
     "version": "1.6 [B5]",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2023-05-07T10:22:46Z",
+    "lastUpdated": "2023-05-17T14:11:33Z",
     "stars": 14,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-17T01:01:06Z",
+    "lastUpdated": "2023-05-17T12:21:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2663,19 +2663,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A jar mod. Glory to the cat"
-  },
-  {
-    "repo": "RebornTrack970/infinicampaign",
-    "name": "InfiniCampaign",
-    "version": "1.0",
-    "mod_id": "inficamp",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -4693,6 +4680,19 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
+    "repo": "Mnemotechnician/achievements",
+    "name": "Mindustry Achievements",
+    "version": "v0.2",
+    "mod_id": "achievements",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-09-06T12:56:18Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
+  },
+  {
     "repo": "sheptalo/ponchik-test",
     "name": "ponchik",
     "version": "1.1",
@@ -5343,19 +5343,6 @@
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
-    "repo": "Mnemotechnician/achievements",
-    "name": "Mindustry Achievements",
-    "version": "v0.2",
-    "mod_id": "achievements",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-09-06T12:56:18Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
-  },
-  {
     "repo": "CorentinVaillant/Resources-bird",
     "name": "Resources gallinaceous",
     "version": "0.1a",
@@ -5549,6 +5536,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -5861,6 +5861,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
+  },
+  {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "skyksit/hellomod",
@@ -6487,19 +6500,6 @@
     "description": "duo"
   },
   {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "version": "0",
-    "mod_id": "cursed-units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-04T06:49:26Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "brain die"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6797,19 +6797,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "feprogramador/MorvaliMod",
-    "name": "M.O.R.VA.LI Mod",
-    "version": "0.0.1",
-    "mod_id": "MORE",
-    "author": "fe",
-    "lastUpdated": "2023-01-03T21:26:59Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry Overpowered Reload VAnila LIke mod"
   },
   {
     "repo": "RestytheCake/ShinyMindustry",
