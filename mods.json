@@ -481,19 +481,6 @@
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
-    "name": "Progressed Materials (Java)",
-    "version": "14.1",
-    "mod_id": "prog-mats",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2022-01-25T06:12:43Z",
-    "stars": 35,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "version": "3.3.2",
@@ -505,6 +492,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
+    "name": "Progressed Materials (Java)",
+    "version": "14.1",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:12:43Z",
+    "stars": 34,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -1266,7 +1266,7 @@
     "version": "0.8",
     "mod_id": "Tantros-mod",
     "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-05-10T12:39:02Z",
+    "lastUpdated": "2023-05-18T13:31:26Z",
     "stars": 16,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-18T00:58:31Z",
+    "lastUpdated": "2023-05-18T12:21:19Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2663,19 +2663,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A jar mod. Glory to the cat"
-  },
-  {
-    "repo": "RebornTrack970/infinicampaign",
-    "name": "InfiniCampaign",
-    "version": "1.0",
-    "mod_id": "inficamp",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -5096,19 +5083,6 @@
     "description": "Help your mod-making-mood with this motivational mod!"
   },
   {
-    "repo": "Delourians/Mindustry-mod",
-    "name": "Mindustry-mod",
-    "version": "0.1",
-    "mod_id": "OP mod to finish the campaign",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
-  },
-  {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
     "name": "Diamond Mod",
     "version": "2.4",
@@ -5551,6 +5525,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5720,6 +5707,19 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
+    "repo": "Delourians/Mindustry-mod",
+    "name": "Mindustry-mod",
+    "version": "0.1",
+    "mod_id": "OP mod to finish the campaign",
+    "author": "Gab??... and AZU",
+    "lastUpdated": "2021-06-09T00:33:53Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Finish the campaign....NOW"
+  },
+  {
     "repo": "Sonnicon/mindustry-newhorizons",
     "name": "New Horizons",
     "version": "0",
@@ -5861,6 +5861,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
+  },
+  {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "skyksit/hellomod",
@@ -6487,19 +6500,6 @@
     "description": "duo"
   },
   {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "version": "0",
-    "mod_id": "cursed-units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-04T06:49:26Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "brain die"
-  },
-  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6836,19 +6836,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
-    "repo": "mrybs/pixelarts",
-    "name": "Pixelarts",
-    "version": "0.1",
-    "mod_id": "pixelarts",
-    "author": "Mrybs - maintainer, main developer",
-    "lastUpdated": "2023-01-19T14:42:23Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
