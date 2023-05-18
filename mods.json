@@ -2665,6 +2665,19 @@
     "description": "A jar mod. Glory to the cat"
   },
   {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "3.0-pa-0.1",
@@ -4225,19 +4238,6 @@
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
   },
   {
-    "repo": "Steefano/Liquids-Enhanced",
-    "name": "Liquids Enhanced",
-    "version": "0.1",
-    "mod_id": "Liquids Enhanced",
-    "author": "Stefano Rando",
-    "lastUpdated": "2020-12-13T17:41:38Z",
-    "stars": 3,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
-  },
-  {
     "repo": "Ar01Zar/NewWorldMod",
     "name": "NewWorldMod",
     "version": "[beta]6.0",
@@ -4691,19 +4691,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
-  },
-  {
-    "repo": "sheptalo/ponchik-test",
-    "name": "ponchik",
-    "version": "1.1",
-    "mod_id": "pon",
-    "author": "sheptalo",
-    "lastUpdated": "2022-10-16T09:19:57Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "mod for doing chaotic things"
   },
   {
     "repo": "MxPerrot/StellarMind",
@@ -5330,19 +5317,6 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
-    "repo": "konkitoman/SpeedCtlMan",
-    "name": "SpeedCtlMan",
-    "version": "0.2",
-    "mod_id": "speed-ctl-man",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-22T06:05:19Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
-  },
-  {
     "repo": "CorentinVaillant/Resources-bird",
     "name": "Resources gallinaceous",
     "version": "0.1a",
@@ -5538,19 +5512,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5634,7 +5595,7 @@
     "version": "OMEGAxZEROnum2",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
-    "lastUpdated": "2023-05-17T18:56:30Z",
+    "lastUpdated": "2023-05-17T20:34:22Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5861,19 +5822,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
-  },
-  {
-    "repo": "Kasp19/Metalextension",
-    "name": "Metal Extension (1.0 Beta)",
-    "version": "1.0 beta",
-    "mod_id": "Metalextension",
-    "author": "Inc.Mr.rpgKasp",
-    "lastUpdated": "2022-09-11T02:17:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "skyksit/hellomod",
@@ -6123,19 +6071,6 @@
     "description": "oh no"
   },
   {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
-  },
-  {
     "repo": "LottieVixen/test-mindustry-mod",
     "name": "Test Mindustry Mod",
     "version": "0.0.1",
@@ -6147,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "DvNamedo/world-war-2",
+    "name": "Example Java Mod",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-12-31T06:10:55Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -6500,6 +6448,19 @@
     "description": "duo"
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/flarogus",
+    "name": "Flarogus",
+    "version": "1.0",
+    "mod_id": "Flarogus",
+    "author": "MQ1337",
+    "lastUpdated": "2021-12-20T08:31:57Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+  },
+  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6708,6 +6669,19 @@
     "description": "This is my first mod, please be kind."
   },
   {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
     "repo": "ElectronicsArchiver/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
@@ -6784,6 +6758,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
+  },
+  {
+    "repo": "CyanRonan/RGBee",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-12-19T20:52:58Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "feprogramador/MorvaliMod",
+    "name": "M.O.R.VA.LI Mod",
+    "version": "0.0.1",
+    "mod_id": "MORE",
+    "author": "fe",
+    "lastUpdated": "2023-01-03T21:26:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry Overpowered Reload VAnila LIke mod"
   },
   {
     "repo": "RestytheCake/ShinyMindustry",
@@ -6953,19 +6953,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "SkyeTheFoxyFox/Malcalor",
-    "name": "malcalor",
-    "version": "0.0.1",
-    "mod_id": "Volcano Planet",
-    "author": "SkyeTheFoxyFox",
-    "lastUpdated": "2023-03-16T01:40:04Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "volcano planet"
   },
   {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
