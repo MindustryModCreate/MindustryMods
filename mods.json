@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-05-15T16:03:18Z",
-    "stars": 231,
+    "stars": 232,
     "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
@@ -390,19 +390,6 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
-    "repo": "FredyJabe/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "143",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-05-14T16:12:42Z",
-    "stars": 48,
-    "minGameVersion": "144.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
-  },
-  {
     "repo": "xStaBUx/Omaloon",
     "name": "Omaloon",
     "version": "0.6.1",
@@ -414,6 +401,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
+  },
+  {
+    "repo": "FredyJabe/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "143",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-05-19T02:44:32Z",
+    "stars": 48,
+    "minGameVersion": "144.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -552,7 +552,7 @@
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2023-05-13T14:15:00Z",
-    "stars": 32,
+    "stars": 33,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -1253,7 +1253,7 @@
     "version": "0.8",
     "mod_id": "Tantros-mod",
     "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-05-18T13:31:26Z",
+    "lastUpdated": "2023-05-19T02:20:12Z",
     "stars": 16,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -2085,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-05-18T12:21:19Z",
+    "lastUpdated": "2023-05-19T00:59:49Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2652,6 +2652,19 @@
     "description": "A jar mod. Glory to the cat"
   },
   {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "3.0-pa-0.1",
@@ -3112,7 +3125,7 @@
     "version": "1.0.6",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-05-12T02:22:02Z",
+    "lastUpdated": "2023-05-19T01:22:17Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5512,19 +5525,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5848,19 +5848,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
-  },
-  {
-    "repo": "Kasp19/Metalextension",
-    "name": "Metal Extension (1.0 Beta)",
-    "version": "1.0 beta",
-    "mod_id": "Metalextension",
-    "author": "Inc.Mr.rpgKasp",
-    "lastUpdated": "2022-09-11T02:17:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "skyksit/hellomod",
@@ -6487,6 +6474,19 @@
     "description": "duo"
   },
   {
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "version": "0",
+    "mod_id": "cursed-units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "brain die"
+  },
+  {
     "repo": "dashmaster-c/DS-Industry",
     "name": "DS Industry",
     "version": "0.2",
@@ -6823,6 +6823,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
+  },
+  {
+    "repo": "mrybs/pixelarts",
+    "name": "Pixelarts",
+    "version": "0.1",
+    "mod_id": "pixelarts",
+    "author": "Mrybs - maintainer, main developer",
+    "lastUpdated": "2023-01-19T14:42:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
