@@ -551,7 +551,7 @@
     "version": "1.2.4",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-05-13T14:15:00Z",
+    "lastUpdated": "2023-05-19T16:09:22Z",
     "stars": 33,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -824,7 +824,7 @@
     "version": "alpha-0.8.5",
     "mod_id": "singularity",
     "author": "EBwilson",
-    "lastUpdated": "2023-05-03T07:25:03Z",
+    "lastUpdated": "2023-05-19T15:44:02Z",
     "stars": 24,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -843,6 +843,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.7.4",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-05-07T13:19:53Z",
+    "stars": 23,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -934,19 +947,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.7.4",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-05-07T13:19:53Z",
-    "stars": 22,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "sporrus/randomMindustry",
@@ -1118,19 +1118,6 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2023-01-02T19:37:34Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "Algorithm 1.2",
@@ -1168,6 +1155,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
+  },
+  {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2023-05-19T15:34:01Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -2652,19 +2652,6 @@
     "description": "A jar mod. Glory to the cat"
   },
   {
-    "repo": "RebornTrack970/infinicampaign",
-    "name": "InfiniCampaign",
-    "version": "1.0",
-    "mod_id": "inficamp",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "3.0-pa-0.1",
@@ -2728,6 +2715,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -3099,7 +3099,7 @@
     "version": "1.0.6",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-05-19T01:22:17Z",
+    "lastUpdated": "2023-05-19T15:12:44Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3463,7 +3463,7 @@
     "version": "1.0",
     "mod_id": "cloud-save",
     "author": "OSPx",
-    "lastUpdated": "2023-05-17T17:03:30Z",
+    "lastUpdated": "2023-05-19T15:37:47Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3476,7 +3476,7 @@
     "version": "1.0",
     "mod_id": "serilia",
     "author": "FrooMeeth, Nullevoy, GlennFolker (EntityAnno)",
-    "lastUpdated": "2023-05-18T21:22:46Z",
+    "lastUpdated": "2023-05-19T17:49:10Z",
     "stars": 5,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5265,19 +5265,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.5",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 2,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "BoolmanO/BOMBERmod",
     "name": "Bombers mod",
     "version": "1b",
@@ -5595,7 +5582,7 @@
     "version": "OMEGAxZEROnum2",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
-    "lastUpdated": "2023-05-18T19:08:52Z",
+    "lastUpdated": "2023-05-19T19:54:31Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
