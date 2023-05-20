@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-05-15T16:03:18Z",
-    "stars": 232,
+    "stars": 233,
     "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
@@ -390,19 +390,6 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
-    "repo": "xStaBUx/Omaloon",
-    "name": "Omaloon",
-    "version": "0.6.1",
-    "mod_id": "ol",
-    "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-05-18T20:11:34Z",
-    "stars": 48,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
-  },
-  {
     "repo": "FredyJabe/aeyama",
     "name": "Aeyama: The New World",
     "version": "143",
@@ -414,6 +401,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
+  },
+  {
+    "repo": "xStaBUx/Omaloon",
+    "name": "Omaloon",
+    "version": "0.6.1",
+    "mod_id": "ol",
+    "author": "StaBU, TheEE145",
+    "lastUpdated": "2023-05-20T08:04:18Z",
+    "stars": 48,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -767,6 +767,19 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.8.5",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-05-19T15:44:02Z",
+    "stars": 25,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -819,17 +832,17 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.8.5",
-    "mod_id": "singularity",
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.7.4",
+    "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-05-19T15:44:02Z",
+    "lastUpdated": "2023-05-07T13:19:53Z",
     "stars": 24,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -843,19 +856,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.7.4",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-05-07T13:19:53Z",
-    "stars": 23,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -1222,6 +1222,19 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 16,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "VvSeanGTvV/V5-Classic",
     "name": "V5 Reborn",
     "version": "1.072 Beta",
@@ -1285,19 +1298,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
-  },
-  {
-    "repo": "EchoVespy/Simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.8.1",
-    "mod_id": "Simplistic",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-10-28T21:49:56Z",
-    "stars": 15,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "EmanuelG-Gaming/erekir-expansion",
@@ -2652,6 +2652,19 @@
     "description": "A jar mod. Glory to the cat"
   },
   {
+    "repo": "RebornTrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "version": "1.0",
+    "mod_id": "inficamp",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "version": "3.0-pa-0.1",
@@ -2715,6 +2728,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "EB-wilson/modPacker",
+    "name": "Mod Packer",
+    "version": "1.2",
+    "mod_id": "mod-packer",
+    "author": "EBwilson",
+    "lastUpdated": "2023-01-05T10:39:51Z",
+    "stars": 7,
+    "minGameVersion": "140.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
   },
   {
     "repo": "K103908/Defense-Array",
@@ -4745,6 +4771,19 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
+    "repo": "EB-wilson/MindustryUNClibModTemplate",
+    "name": "UNC mod 模板",
+    "version": "0.1",
+    "mod_id": "uncTemplate",
+    "author": "author",
+    "lastUpdated": "2022-11-29T01:11:43Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个使用UniverseCore作为前置的mod模板"
+  },
+  {
     "repo": "BalaM314/flarogus-mod",
     "name": "Flarogus",
     "version": "1.0",
@@ -5369,19 +5408,6 @@
     "description": "氢气核心为一些mod提供前置"
   },
   {
-    "repo": "EB-wilson/MindustryUNClibModTemplate",
-    "name": "UNC mod 模板",
-    "version": "0.1",
-    "mod_id": "uncTemplate",
-    "author": "author",
-    "lastUpdated": "2022-11-29T01:11:43Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个使用UniverseCore作为前置的mod模板"
-  },
-  {
     "repo": "EmanuelG-Gaming/quizdustry",
     "name": "Quizdustry",
     "version": "0.2 Pre-Alpha",
@@ -5837,19 +5863,6 @@
     "description": "Made in Russia."
   },
   {
-    "repo": "Kasp19/Metalextension",
-    "name": "Metal Extension (1.0 Beta)",
-    "version": "1.0 beta",
-    "mod_id": "Metalextension",
-    "author": "Inc.Mr.rpgKasp",
-    "lastUpdated": "2022-09-11T02:17:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
-  },
-  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -6095,19 +6108,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
-  },
-  {
-    "repo": "davlucas/GreenMod",
-    "name": "Greenmod",
-    "version": "0.1",
-    "mod_id": "Green Mod",
-    "author": "davlucas",
-    "lastUpdated": "2020-12-08T21:54:28Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -6773,6 +6773,19 @@
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
   },
   {
+    "repo": "feprogramador/MorvaliMod",
+    "name": "M.O.R.VA.LI Mod",
+    "version": "0.0.1",
+    "mod_id": "MORE",
+    "author": "fe",
+    "lastUpdated": "2023-01-03T21:26:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry Overpowered Reload VAnila LIke mod"
+  },
+  {
     "repo": "RestytheCake/ShinyMindustry",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7126,14 +7139,14 @@
   {
     "repo": "xorblo-doitus/Erekir-Utility",
     "name": "Erekir Utility",
-    "version": "0.1",
+    "version": "0.2",
     "mod_id": "erekir-utility",
     "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-19T13:14:19Z",
+    "lastUpdated": "2023-05-20T08:55:32Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Non-CoreBurning duct"
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration"
   }
 ]
