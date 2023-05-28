@@ -174,7 +174,7 @@
     "version": "v0.8.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
-    "lastUpdated": "2023-05-26T18:36:29Z",
+    "lastUpdated": "2023-05-27T22:23:23Z",
     "stars": 88,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -754,19 +754,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.8.6",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-05-22T10:41:12Z",
-    "stars": 26,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -806,17 +793,17 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.7.4",
-    "mod_id": "universe-core",
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "alpha-0.8.6",
+    "mod_id": "singularity",
     "author": "EBwilson",
-    "lastUpdated": "2023-05-07T13:19:53Z",
+    "lastUpdated": "2023-05-22T10:41:12Z",
     "stars": 25,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -843,6 +830,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.7.4",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-05-07T13:19:53Z",
+    "stars": 24,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -3125,7 +3125,7 @@
     "version": "1.0.6",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-05-26T01:19:44Z",
+    "lastUpdated": "2023-05-27T23:26:58Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3547,6 +3547,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description."
+  },
+  {
+    "repo": "Ztryga/Swamp-Saga",
+    "name": "Swamp Saga",
+    "version": "0.1",
+    "mod_id": "swampsaga",
+    "author": "MKosmic",
+    "lastUpdated": "2021-03-03T15:18:01Z",
+    "stars": 4,
+    "minGameVersion": "122.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
   },
   {
     "repo": "Floofball-uwu/Jukeustry",
@@ -5582,7 +5595,7 @@
     "version": "1.5",
     "mod_id": "beacons-yay",
     "author": "zinq",
-    "lastUpdated": "2023-05-27T19:32:40Z",
+    "lastUpdated": "2023-05-27T20:59:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5796,6 +5809,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindusry Java Mods thai I working on"
+  },
+  {
+    "repo": "Zelaux/ZelauxMindustryModTemplate",
+    "name": "Your mod name",
+    "version": "0.1",
+    "mod_id": "your-mod",
+    "author": "YourNickName",
+    "lastUpdated": "2022-06-02T22:38:52Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Your own mod"
   },
   {
     "repo": "nekit508/MindustryExtendedRecipeModule",
