@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-02-03T23:54:28Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -208,6 +208,19 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.7.65",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2023-05-14T21:35:50Z",
+    "stars": 75,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "version": "4.0.0",
@@ -219,19 +232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.7.65",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2023-05-14T21:35:50Z",
-    "stars": 74,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "deltanedas/pictologic",
@@ -1014,12 +1014,25 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow",
+    "version": "0.6",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-01-19T07:50:42Z",
+    "stars": 20,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
+  },
+  {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
     "name": "Spore Biomechs",
     "version": "1.5",
     "mod_id": "sporepod",
     "author": "Hydroabyss",
-    "lastUpdated": "2023-05-26T15:26:10Z",
+    "lastUpdated": "2023-05-29T06:49:35Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1051,19 +1064,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow",
-    "version": "0.6",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-01-19T07:50:42Z",
-    "stars": 19,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
   },
   {
     "repo": "Pointifix/AutoDrill",
@@ -2650,19 +2650,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A jar mod. Glory to the cat"
-  },
-  {
-    "repo": "RebornTrack970/infinicampaign",
-    "name": "InfiniCampaign",
-    "version": "1.0",
-    "mod_id": "inficamp",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
@@ -5590,19 +5577,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "TagGamer555/OMEGAZERO",
-    "name": "OMEGAZERO",
-    "version": "OMEGAxZEROnum2",
-    "mod_id": "kiky5",
-    "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
-    "lastUpdated": "2023-05-27T11:50:35Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is currently INDEV! Come back later if you wish to play the FULL version, haha.\nCurrently it adds shh tonn of garbage OP content, along with some new RP stuff!\nOh and by the way. All the sprites I used are from vanilla. Only some I modified... So, if you want to copy the vanilla sprites without that billinear BS (*angry noises* WHY ANUKE???) you can feel free to copy some, just don't forget that you can't make money with them (or Anuke will turn you into billinear mess)\nJK, have fun playing mod lmao."
-  },
-  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "version": "1.6",
@@ -5614,6 +5588,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
+    "repo": "TagGamer555/OMEGAZERO",
+    "name": "OMEGAZERO",
+    "version": "OMEGAxZEROnum2",
+    "mod_id": "kiky5",
+    "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
+    "lastUpdated": "2023-05-29T09:52:32Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is currently INDEV! Come back later if you wish to play the FULL version, haha.\nCurrently it adds shh tonn of garbage OP content, along with some new RP stuff!\nOh and by the way. All the sprites I used are from vanilla. Only some I modified... So, if you want to copy the vanilla sprites without that billinear BS (*angry noises* WHY ANUKE???) you can feel free to copy some, just don't forget that you can't make money with them (or Anuke will turn you into billinear mess)\nJK, have fun playing mod lmao."
   },
   {
     "repo": "4156/Infintory",
