@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-05-15T16:03:18Z",
-    "stars": 234,
+    "stars": 235,
     "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
@@ -210,10 +210,10 @@
   {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
-    "version": "2.7.65",
+    "version": "2.7.68",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-05-30T09:32:59Z",
+    "lastUpdated": "2023-06-01T14:43:25Z",
     "stars": 75,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -715,19 +715,6 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "version": "1.4",
-    "mod_id": "morevanilla",
-    "author": "M.Q.",
-    "lastUpdated": "2023-05-05T14:25:37Z",
-    "stars": 27,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tier of blocks, starting from factories and power generators.\nThe mod aims to expand further production and defense in late game\nMod is still in development more contents coming soon."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "53",
@@ -739,6 +726,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "version": "1.4",
+    "mod_id": "morevanilla",
+    "author": "M.Q.",
+    "lastUpdated": "2023-06-01T14:13:05Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher tier of blocks, starting from factories and power generators.\nThe mod aims to expand further production and defense in late game\nMod is still in development more contents coming soon."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -954,7 +954,7 @@
     "version": "1.1",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-05-31T16:46:17Z",
+    "lastUpdated": "2023-06-01T14:15:00Z",
     "stars": 22,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -1118,6 +1118,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "Algorithm 1.2",
@@ -1233,19 +1246,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "EchoVespy/Simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.8.1",
-    "mod_id": "Simplistic",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-10-28T21:49:56Z",
-    "stars": 16,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "VvSeanGTvV/V5-Classic",
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-01T01:21:09Z",
+    "lastUpdated": "2023-06-01T12:22:30Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2446,10 +2446,10 @@
   {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nSpriter: Otamamori#4716\n",
-    "lastUpdated": "2023-06-01T08:00:52Z",
+    "lastUpdated": "2023-06-01T12:59:50Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2767,6 +2767,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "zeutd/Disintegration",
@@ -3575,19 +3588,6 @@
     "description": "No description."
   },
   {
-    "repo": "Ztryga/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
-  },
-  {
     "repo": "Floofball-uwu/Jukeustry",
     "name": "Jukeustry",
     "version": "0.3",
@@ -4054,19 +4054,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
-    "repo": "stacktrace-error/uwu-bundle",
-    "name": "uwu bundles",
-    "version": "0",
-    "mod_id": "uwu-bundles",
-    "author": "NullPointerException#7763/stacktrace-error",
-    "lastUpdated": "2022-12-08T17:51:10Z",
-    "stars": 4,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "tuwns evewy R and L into a W. incwedibwe."
   },
   {
     "repo": "uujuju1/poost",
@@ -5850,6 +5837,19 @@
     "description": "Made in Russia."
   },
   {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
+  },
+  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -6758,19 +6758,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "feprogramador/MorvaliMod",
-    "name": "M.O.R.VA.LI Mod",
-    "version": "0.0.1",
-    "mod_id": "MORE",
-    "author": "fe",
-    "lastUpdated": "2023-01-03T21:26:59Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry Overpowered Reload VAnila LIke mod"
   },
   {
     "repo": "RestytheCake/ShinyMindustry",
