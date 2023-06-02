@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "Elixias",
     "lastUpdated": "2023-05-20T14:05:40Z",
-    "stars": 133,
+    "stars": 134,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
@@ -954,7 +954,7 @@
     "version": "1.1",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-06-01T20:50:23Z",
+    "lastUpdated": "2023-06-02T05:40:16Z",
     "stars": 22,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -1378,19 +1378,6 @@
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.16",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-06-01T19:15:42Z",
-    "stars": 15,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1454,6 +1441,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry auto updater"
+  },
+  {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-06-01T19:15:42Z",
+    "stars": 14,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -5863,6 +5863,19 @@
     "description": "Made in Russia."
   },
   {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
+  },
+  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -6771,19 +6784,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мод предназначен для прокачивания основного выживания\nавторы:\n     код писал:K.O.N.O.P.L.A\n      спрайты:K.O.N.O.P.L.A\n       переводы:K.O.N.O.P.L.A"
-  },
-  {
-    "repo": "feprogramador/MorvaliMod",
-    "name": "M.O.R.VA.LI Mod",
-    "version": "0.0.1",
-    "mod_id": "MORE",
-    "author": "fe",
-    "lastUpdated": "2023-01-03T21:26:59Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry Overpowered Reload VAnila LIke mod"
   },
   {
     "repo": "RestytheCake/ShinyMindustry",
