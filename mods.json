@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-03T12:19:48Z",
+    "lastUpdated": "2023-06-04T01:17:42Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3138,7 +3138,7 @@
     "version": "1.0.6",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-06-02T01:41:52Z",
+    "lastUpdated": "2023-06-04T01:12:25Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3510,19 +3510,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-05-07T13:34:09Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
-  },
-  {
     "repo": "osp54/CloudSave",
     "name": "Cloud Save",
     "version": "1.0",
@@ -3547,6 +3534,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Serilia but on steroids (Java)"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-06-04T02:53:46Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4067,19 +4067,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
   },
   {
     "repo": "stacktrace-error/uwu-bundle",
@@ -5588,6 +5575,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-05-28T16:24:12Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "TagGamer555/OMEGAZERO",
