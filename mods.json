@@ -3541,7 +3541,7 @@
     "version": "1.0",
     "mod_id": "serilia",
     "author": "FrooMeeth, Nullevoy, GlennFolker (EntityAnno)",
-    "lastUpdated": "2023-05-30T11:20:04Z",
+    "lastUpdated": "2023-06-03T21:09:39Z",
     "stars": 5,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5029,6 +5029,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
+  },
+  {
+    "repo": "txomon/MindustryClientHostPauseMod",
+    "name": "Client host pause mod",
+    "version": "1.0",
+    "mod_id": "client-host-pause",
+    "author": "Javier Domingo Cansino",
+    "lastUpdated": "2021-03-04T20:24:02Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to allow the host to pause the game."
   },
   {
     "repo": "RebornTrack970/routerplanet",
@@ -6706,6 +6719,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
+    "repo": "CREAsTIVE/PowerMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-10-25T13:06:37Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0.1",
+    "mod_id": "malwork",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-26T06:02:06Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
   },
   {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
