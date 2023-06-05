@@ -1638,19 +1638,6 @@
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "SunsetTeam/Sunset",
-    "name": "Sunset",
-    "version": "0.2.4A",
-    "mod_id": "sunset",
-    "author": "\n\nCoding: Slish, Nukleer Bomb, RePoweRED, Zelaux, LiptonIt, xStaBUx.\n\nSprites: MissionaryPoseBest, Snake, NotTheGrawxz, xStaBUx.\n\n\n Contributors: none.\n",
-    "lastUpdated": "2023-05-12T10:46:55Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
-  },
-  {
     "repo": "Ferlern/extended-UI-v7",
     "name": "extended UI",
     "version": "0.77",
@@ -1662,6 +1649,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
+    "repo": "SunsetTeam/Sunset",
+    "name": "Sunset",
+    "version": "0.2.4A",
+    "mod_id": "sunset",
+    "author": "\n\nCoding: Slish, Nukleer Bomb, RePoweRED, Zelaux, LiptonIt, xStaBUx.\n\nSprites: MissionaryPoseBest, Snake, NotTheGrawxz, xStaBUx.\n\n\n Contributors: none.\n",
+    "lastUpdated": "2023-06-05T09:37:33Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2449,7 +2449,7 @@
     "version": "1.1.4",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-06-04T19:08:03Z",
+    "lastUpdated": "2023-06-05T06:54:06Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -3510,19 +3510,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "osp54/CloudSave",
-    "name": "Cloud Save",
-    "version": "1.0",
-    "mod_id": "cloud-save",
-    "author": "OSPx",
-    "lastUpdated": "2023-05-19T15:37:47Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod"
-  },
-  {
     "repo": "Froomeeth/JavaSerilia",
     "name": "Serilia",
     "version": "1.0",
@@ -3547,6 +3534,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-06-05T09:20:21Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -3599,19 +3599,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description."
-  },
-  {
-    "repo": "Ztryga/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
   },
   {
     "repo": "Floofball-uwu/Jukeustry",
@@ -5876,6 +5863,19 @@
     "description": "Made in Russia."
   },
   {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
+  },
+  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -7109,18 +7109,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod."
-  },
-  {
-    "repo": "JustTroniusPlay/Unicorp-Technologies-Reinvented",
-    "name": "Unicorp Technologies Reinvented",
-    "version": "0.1",
-    "mod_id": "Unicorp-technologies",
-    "author": "Original: CancerGuy/Brickhead. Remastered: JustTroniusPlay",
-    "lastUpdated": "2023-06-02T11:05:23Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message me on Discord(TroniusPlay#4386) or Github."
   }
 ]
