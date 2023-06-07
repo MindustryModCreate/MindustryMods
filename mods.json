@@ -195,19 +195,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.7.68",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2023-06-01T14:43:25Z",
-    "stars": 78,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
     "version": "1.8",
@@ -219,6 +206,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.7.68",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2023-06-06T20:26:45Z",
+    "stars": 78,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "z0mbiesrock/Diamond-Ore",
@@ -3146,19 +3146,6 @@
     "description": "A heat and steam based mod."
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -4067,19 +4054,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
   },
   {
     "repo": "stacktrace-error/uwu-bundle",
@@ -5512,6 +5486,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5863,19 +5850,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "nekit508/MindustryExtendedRecipeModule",
-    "name": "Extended Recipe Module",
-    "version": "0.0.2",
-    "mod_id": "ERM",
-    "author": "nekit508",
-    "lastUpdated": "2022-09-07T17:46:57Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Made in Russia."
-  },
-  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "version": "1.0",
@@ -6121,6 +6095,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oh no"
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "version": "0.1",
+    "mod_id": "Green Mod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
