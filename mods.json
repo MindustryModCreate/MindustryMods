@@ -1014,19 +1014,6 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "14",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-03-15T20:41:08Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
     "name": "Spore Biomechs",
     "version": "1.5",
@@ -1038,6 +1025,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
+  },
+  {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "14",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-06-09T02:47:39Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-08T12:21:29Z",
+    "lastUpdated": "2023-06-09T01:10:19Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2449,7 +2449,7 @@
     "version": "1.1.5",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-06-08T08:06:50Z",
+    "lastUpdated": "2023-06-09T05:04:36Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5473,19 +5473,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5629,19 +5616,6 @@
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-06-07T21:44:01Z",
-    "stars": 2,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "Yoru-Kitsune/Beskar",
     "name": "Beskar",
     "version": "0.0.7",
@@ -5653,6 +5627,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hardcore Mod\n\nEnglish: 夜狐\nGerman: 夜狐"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-06-09T03:43:44Z",
+    "stars": 2,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "4156/Infintory",
@@ -7122,5 +7109,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod."
+  },
+  {
+    "repo": "JustTroniusPlay/Unicorp-Technologies-Reinvented",
+    "name": "Unicorp Technologies Reinvented",
+    "version": "0.1",
+    "mod_id": "Unicorp-technologies",
+    "author": "Original: CancerGuy/Brickhead. Remastered: JustTroniusPlay",
+    "lastUpdated": "2023-06-07T18:24:11Z",
+    "stars": 0,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message me on Discord(TroniusPlay#4386) or Github."
   }
 ]
