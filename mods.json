@@ -28,10 +28,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.3.3",
+    "version": "0.4",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-06-03T14:29:32Z",
+    "lastUpdated": "2023-06-15T13:33:04Z",
     "stars": 239,
     "minGameVersion": "143.1",
     "hasScripts": false,
@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-02-03T23:54:28Z",
-    "stars": 102,
+    "stars": 101,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-06-15T03:18:31Z",
+    "lastUpdated": "2023-06-15T13:16:48Z",
     "stars": 56,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -1201,7 +1201,7 @@
     "version": "0.9.1",
     "mod_id": "Tantros-mod",
     "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-06-08T18:50:21Z",
+    "lastUpdated": "2023-06-15T14:39:22Z",
     "stars": 17,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -1729,19 +1729,6 @@
     "description": "Time awaits..."
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "version": "1.4",
-    "mod_id": "halo-3-odst-soundtracks-ost",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-23T13:30:53Z",
-    "stars": 11,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
-  },
-  {
     "repo": "pixecoz/better-vaults",
     "name": "Better Vaults",
     "version": "1.1",
@@ -1883,6 +1870,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
+  },
+  {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "version": "1.4",
+    "mod_id": "halo-3-odst-soundtracks-ost",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-23T13:30:53Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-15T01:05:26Z",
+    "lastUpdated": "2023-06-15T12:22:34Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3575,19 +3575,6 @@
     "description": "No description."
   },
   {
-    "repo": "Ztryga/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
-  },
-  {
     "repo": "Floofball-uwu/Jukeustry",
     "name": "Jukeustry",
     "version": "0.3",
@@ -4043,19 +4030,6 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
-    "repo": "Lepisma-0/Extended-Tech",
-    "name": "Extended Tech",
-    "version": "0.91 Under develop",
-    "mod_id": "exttech",
-    "author": "Lepisma & Manezoid",
-    "lastUpdated": "2022-10-18T16:53:41Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
     "repo": "Voider404/InTheSpace",
     "name": "InTheSpace",
     "version": "0.1.2",
@@ -4236,19 +4210,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
-  },
-  {
-    "repo": "Steefano/Liquids-Enhanced",
-    "name": "Liquids Enhanced",
-    "version": "0.1",
-    "mod_id": "Liquids Enhanced",
-    "author": "Stefano Rando",
-    "lastUpdated": "2020-12-13T17:41:38Z",
-    "stars": 3,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
   },
   {
     "repo": "Ar01Zar/NewWorldMod",
@@ -4706,6 +4667,19 @@
     "description": "mod for doing chaotic things"
   },
   {
+    "repo": "Lepisma-0/Extended-Tech",
+    "name": "Extended Tech",
+    "version": "0.91 Under develop",
+    "mod_id": "exttech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-10-18T16:53:41Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
+  },
+  {
     "repo": "MxPerrot/StellarMind",
     "name": "Stellar Mind",
     "version": "0.1",
@@ -4945,7 +4919,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-14T12:28:25Z",
+    "lastUpdated": "2023-06-15T13:30:29Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
