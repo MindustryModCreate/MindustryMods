@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 280,
+    "stars": 278,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -71,7 +71,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2023-05-02T09:26:00Z",
-    "stars": 146,
+    "stars": 145,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "exotic-mod",
     "author": "Elixias",
     "lastUpdated": "2023-06-08T01:55:13Z",
-    "stars": 137,
+    "stars": 136,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
@@ -123,7 +123,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-02-03T23:54:28Z",
-    "stars": 100,
+    "stars": 99,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2023-06-08T16:03:53Z",
-    "stars": 88,
+    "stars": 87,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -338,13 +338,13 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
-    "repo": "FredyJabe/aeyama",
+    "repo": "Aeyama-Mod/aeyama",
     "name": "Aeyama: The New World",
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-06-20T14:45:46Z",
-    "stars": 59,
+    "lastUpdated": "2023-06-20T15:40:16Z",
+    "stars": 60,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -455,19 +455,6 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
-    "repo": "Goobrr/Esoterum",
-    "name": "Esoterum",
-    "version": "2.11",
-    "mod_id": "esoterum",
-    "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2022-01-27T14:34:01Z",
-    "stars": 37,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
-  },
-  {
     "repo": "Gdeft/portal",
     "name": "Portal",
     "version": "0.1.0",
@@ -479,6 +466,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
+  },
+  {
+    "repo": "Goobrr/Esoterum",
+    "name": "Esoterum",
+    "version": "2.11",
+    "mod_id": "esoterum",
+    "author": "Goober, Meep, Python, Eldoofus",
+    "lastUpdated": "2022-01-27T14:34:01Z",
+    "stars": 36,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -663,19 +663,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "NiTiSon/GRavillaso",
-    "name": "GRavillaso [Abandoned]",
-    "version": "2 b41",
-    "mod_id": "gravillaso",
-    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-10-31T19:09:15Z",
-    "stars": 28,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "version": "1",
@@ -687,6 +674,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
+  },
+  {
+    "repo": "NiTiSon/GRavillaso",
+    "name": "GRavillaso [Abandoned]",
+    "version": "2 b41",
+    "mod_id": "gravillaso",
+    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-10-31T19:09:15Z",
+    "stars": 27,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -3640,19 +3640,6 @@
     "description": "Adds many new uses to oil, e.g. a refinery\nThis mod is still IN DEVELOPMENT"
   },
   {
-    "repo": "MrDuck557/HomebrewMindustry",
-    "name": "Duck Homebrew",
-    "version": "1.0",
-    "mod_id": "homebrew",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-08T23:43:23Z",
-    "stars": 4,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "April Fools!"
-  },
-  {
     "repo": "bloool/aquarium",
     "name": "Aquarium",
     "version": "0.01",
@@ -5499,19 +5486,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5575,6 +5549,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-05-28T16:24:12Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "hbuddz/Compress-this",
@@ -5699,7 +5686,7 @@
     "version": "003",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-06-20T14:46:52Z",
+    "lastUpdated": "2023-06-20T19:45:27Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
