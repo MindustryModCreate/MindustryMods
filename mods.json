@@ -83,7 +83,7 @@
     "version": "spaghetti",
     "mod_id": "exotic-mod",
     "author": "Elixias",
-    "lastUpdated": "2023-06-21T10:25:05Z",
+    "lastUpdated": "2023-06-21T23:19:31Z",
     "stars": 136,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -213,7 +213,7 @@
     "version": "1.8.1",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-06-21T07:02:23Z",
+    "lastUpdated": "2023-06-21T21:08:07Z",
     "stars": 79,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -344,7 +344,7 @@
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2023-06-20T15:40:16Z",
-    "stars": 61,
+    "stars": 60,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1357,12 +1357,12 @@
     "version": "1.1-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2023-06-21T13:43:58Z",
+    "lastUpdated": "2023-06-22T00:15:25Z",
     "stars": 15,
-    "minGameVersion": "137",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -3575,19 +3575,6 @@
     "description": "No description."
   },
   {
-    "repo": "Ztryga/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
-  },
-  {
     "repo": "Floofball-uwu/Jukeustry",
     "name": "Jukeustry",
     "version": "0.3",
@@ -5486,6 +5473,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6357,19 +6357,6 @@
     "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
-    "repo": "TheSmuzy/SlideShowMod",
-    "name": "Slide show mod",
-    "version": "1.0",
-    "mod_id": "slide-show-mod",
-    "author": "WindustryTeam",
-    "lastUpdated": "2021-08-21T12:50:27Z",
-    "stars": 0,
-    "minGameVersion": "117",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod will make Mindustry Slide Show\n\nWith love, Windustry Team"
-  },
-  {
     "repo": "AHRumjungle/Snad",
     "name": "Snad",
     "version": "0.1",
@@ -6474,19 +6461,6 @@
     "description": "A vanilla Mindustry Enhancement."
   },
   {
-    "repo": "Bergiu/HyperProcessor",
-    "name": "Hyper Processor",
-    "version": "1.0",
-    "mod_id": "hp",
-    "author": "Bergiu",
-    "lastUpdated": "2021-12-02T12:57:43Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds faster and better logic blocks"
-  },
-  {
     "repo": "BalaM314/mindustry-magic-mod-dead",
     "name": "Mindustry Magic Mod",
     "version": "1.0",
@@ -6524,19 +6498,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "dashmaster-c/DS-Industry",
-    "name": "DS Industry",
-    "version": "0.2",
-    "mod_id": "DS-Industry",
-    "author": "dashmaster",
-    "lastUpdated": "2022-01-10T08:40:48Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "pankiwi/Project-Eclipse",
@@ -6758,19 +6719,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
-    "repo": "CREAsTIVE/PowerMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-10-25T13:06:37Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "TheMalaysianDude/malwork",
