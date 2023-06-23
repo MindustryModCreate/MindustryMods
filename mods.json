@@ -330,9 +330,9 @@
     "version": "27.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-06-06T18:10:33Z",
+    "lastUpdated": "2023-06-22T22:28:32Z",
     "stars": 62,
-    "minGameVersion": "144.2",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
@@ -2080,19 +2080,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "Chrono-Heritage/Nucleardustry",
-    "name": "Nucleardustry",
-    "version": "v.1.3 beta v1",
-    "mod_id": "chrono-nucleardustry",
-    "author": "Chrono",
-    "lastUpdated": "2023-03-24T11:30:28Z",
-    "stars": 9,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.7.1",
@@ -2390,6 +2377,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "In developement..."
+  },
+  {
+    "repo": "Chrono-Heritage/Nucleardustry",
+    "name": "Nucleardustry",
+    "version": "v.1.3 beta v1",
+    "mod_id": "chrono-nucleardustry",
+    "author": "Chrono",
+    "lastUpdated": "2023-03-24T11:30:28Z",
+    "stars": 8,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
   },
   {
     "repo": "RebornTrack970/Multiplayernt",
@@ -3131,6 +3131,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -5473,6 +5486,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5785,6 +5811,19 @@
     "description": "Epic mindustry mod"
   },
   {
+    "repo": "MissAmity/Singabana",
+    "name": "Singabana",
+    "version": "0.1",
+    "mod_id": "singabana-mod",
+    "author": "Cato-1",
+    "lastUpdated": "2021-10-22T07:03:20Z",
+    "stars": 1,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 Mod that add modded maps"
+  },
+  {
     "repo": "Serg230/Overdustry",
     "name": "Overdustry",
     "version": "2.0 — production update",
@@ -6089,7 +6128,7 @@
     "version": "1.0",
     "mod_id": "odyssey",
     "author": "UNFS",
-    "lastUpdated": "2023-06-18T23:26:25Z",
+    "lastUpdated": "2023-06-22T22:59:01Z",
     "stars": 1,
     "minGameVersion": "144.3",
     "hasScripts": false,
