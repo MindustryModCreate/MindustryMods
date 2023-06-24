@@ -369,7 +369,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-06-22T11:56:03Z",
+    "lastUpdated": "2023-06-24T16:50:44Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1326,19 +1326,6 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
-    "repo": "MindustryDagger/VanillaPlus",
-    "name": "VanillaPlus",
-    "version": "[#FFC000]0.1 [#FF4747]Alpha",
-    "mod_id": "vanillaplus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-12-03T07:32:22Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.75 Pre-Alpha",
@@ -1363,6 +1350,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "MindustryDagger/VanillaPlus",
+    "name": "VanillaPlus",
+    "version": "[#FFC000]0.1 [#FF4747]Alpha",
+    "mod_id": "vanillaplus",
+    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
+    "lastUpdated": "2023-06-24T15:48:10Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -3125,9 +3125,9 @@
     "version": "0.1.3.1",
     "mod_id": "xenacia",
     "author": "Thomas's Things",
-    "lastUpdated": "2023-05-16T20:35:40Z",
+    "lastUpdated": "2023-06-24T19:05:09Z",
     "stars": 6,
-    "minGameVersion": "143.1",
+    "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
@@ -4919,7 +4919,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-24T14:24:55Z",
+    "lastUpdated": "2023-06-24T17:10:39Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5551,6 +5551,19 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-05-28T16:24:12Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "hbuddz/Compress-this",
     "name": "Compress this!",
     "version": "No version provided.",
@@ -5601,19 +5614,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
-  },
-  {
-    "repo": "Falkowitz/Medieval-Mindustry",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "mod_id": "mm",
-    "author": "Fitz",
-    "lastUpdated": "2023-06-16T19:45:38Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another total conversion PVP mod"
   },
   {
     "repo": "floppa-coder/IronExtened",
@@ -5692,6 +5692,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "Falkowitz/Medieval-Mindustry",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "mod_id": "mm",
+    "author": "Fitz",
+    "lastUpdated": "2023-06-24T17:59:07Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Another total conversion PVP mod"
   },
   {
     "repo": "4156/Infintory",
@@ -6591,19 +6604,6 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -6836,19 +6836,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
-    "repo": "mrybs/pixelarts",
-    "name": "Pixelarts",
-    "version": "0.1",
-    "mod_id": "pixelarts",
-    "author": "Mrybs - maintainer, main developer",
-    "lastUpdated": "2023-01-19T14:42:23Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
