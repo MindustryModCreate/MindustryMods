@@ -210,10 +210,10 @@
   {
     "repo": "Sharlottes/Informatis",
     "name": "Informatis",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-06-25T03:59:10Z",
+    "lastUpdated": "2023-06-25T13:13:50Z",
     "stars": 79,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -811,7 +811,7 @@
     "version": "1.1",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-06-23T10:46:23Z",
+    "lastUpdated": "2023-06-25T10:42:40Z",
     "stars": 25,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-25T01:20:15Z",
+    "lastUpdated": "2023-06-25T12:24:27Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4056,19 +4056,6 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4932,7 +4919,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-25T10:04:46Z",
+    "lastUpdated": "2023-06-25T11:40:00Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5473,6 +5460,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5686,7 +5686,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-06-25T02:07:22Z",
+    "lastUpdated": "2023-06-25T13:42:11Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -6396,6 +6396,19 @@
     "description": "Building."
   },
   {
+    "repo": "Potato-Man1/ZyganMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2021-09-06T08:06:15Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Pietro303HD/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -6760,6 +6773,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0.1",
+    "mod_id": "malwork",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-26T06:02:06Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
+  },
+  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6797,6 +6823,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "pepters/MinTorio",
+    "name": "MinTorio",
+    "version": "0.1",
+    "mod_id": "MinTorio",
+    "author": "c1219",
+    "lastUpdated": "2023-01-15T18:45:55Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
     "repo": "mrybs/pixelarts",
@@ -7109,5 +7148,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
+  },
+  {
+    "repo": "wdfeer/MoarSilicon",
+    "name": "Moar Silicon",
+    "version": "1.0",
+    "mod_id": "moar-silicon",
+    "author": "wdfeer",
+    "lastUpdated": "2023-06-24T10:33:00Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about Silicon!"
   }
 ]
