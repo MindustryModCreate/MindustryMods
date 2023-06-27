@@ -3744,6 +3744,19 @@
     "description": "After conquering Serpulo and unable to leave the planet, you decide to search for new materials and technologies. Soon you find a brand new and unestable material, now is just figuring out what to do with it..."
   },
   {
+    "repo": "Sirvoid/MindustryVCode",
+    "name": "VCode Compiler",
+    "version": "0.5.0",
+    "mod_id": "VCode Compiler",
+    "author": "Sirvoid",
+    "lastUpdated": "2021-07-07T13:47:19Z",
+    "stars": 4,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
+  },
+  {
     "repo": "AHRumjungle/Fast-Duo",
     "name": "Fast Duo",
     "version": "0.4",
@@ -4314,19 +4327,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
-  },
-  {
-    "repo": "Sirvoid/MindustryVCode",
-    "name": "VCode Compiler",
-    "version": "0.5.0",
-    "mod_id": "VCode Compiler",
-    "author": "Sirvoid",
-    "lastUpdated": "2021-07-07T13:47:19Z",
-    "stars": 3,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
     "repo": "Memedustry/Heresydustry",
@@ -5473,19 +5473,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -6617,6 +6604,19 @@
     "description": "Adds mower class to the game."
   },
   {
+    "repo": "TechFish3000/Techfish-Innovations",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-16T13:04:00Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -6849,6 +6849,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
+  },
+  {
+    "repo": "mrybs/pixelarts",
+    "name": "Pixelarts",
+    "version": "0.1",
+    "mod_id": "pixelarts",
+    "author": "Mrybs - maintainer, main developer",
+    "lastUpdated": "2023-01-19T14:42:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
