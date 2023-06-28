@@ -234,6 +234,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "version": "4.18.0",
+    "mod_id": "ui_lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-05-20T20:03:03Z",
+    "stars": 73,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "version": "1.6.0",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "version": "4.18.0",
-    "mod_id": "ui_lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-05-20T20:03:03Z",
-    "stars": 72,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "What42Pizza/Mindustry-Production-Mod",
@@ -1846,6 +1846,19 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.4",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 10,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "version": "0.10",
@@ -2275,6 +2288,19 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "deltanedas/speed",
+    "name": "Speed",
+    "version": "3.2.1",
+    "mod_id": "speed",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T16:00:47Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
+  },
+  {
     "repo": "Schedarian/UnitTurrets",
     "name": "Unit Turrets",
     "version": "0.5",
@@ -2548,6 +2574,19 @@
     "description": "the funni units mod"
   },
   {
+    "repo": "Antlrr/basement",
+    "name": "Antlrr's Basement",
+    "version": "1.0",
+    "mod_id": "basement",
+    "author": "Antlrr",
+    "lastUpdated": "2021-11-20T07:59:17Z",
+    "stars": 7,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "aaaaa"
+  },
+  {
     "repo": "Mak992/Future-Technologies-mod",
     "name": "Future technologies mod",
     "version": "0.0.5 alpha",
@@ -2613,6 +2652,19 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
+    "repo": "deltanedas/ExampleJavaMod",
+    "name": "Example Java Mod",
+    "version": "2.0.3",
+    "mod_id": "example-java-mod",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-05-19T09:34:17Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A jar mod. Glory to the cat"
+  },
+  {
     "repo": "RebornTrack970/infinicampaign",
     "name": "InfiniCampaign",
     "version": "1.0",
@@ -2663,6 +2715,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
+  },
+  {
+    "repo": "RayanZ22/OP-Mod",
+    "name": "OP Things",
+    "version": "1.0",
+    "mod_id": "op-things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2022-12-25T21:59:53Z",
+    "stars": 7,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
     "repo": "paulieg626/AdminTool",
@@ -2949,6 +3014,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more production blocks."
+  },
+  {
+    "repo": "Toriwake/Kannadustry",
+    "name": "Kannadustry",
+    "version": "1.0",
+    "mod_id": "Kannadustry",
+    "author": "Toriwake/Kanna",
+    "lastUpdated": "2022-09-30T19:14:44Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
   },
   {
     "repo": "Cry0flu1d/Project-Frost-In-Java",
@@ -3523,6 +3601,32 @@
     "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
   },
   {
+    "repo": "Floofball-uwu/Jukeustry",
+    "name": "Jukeustry",
+    "version": "0.3",
+    "mod_id": "jukeustry",
+    "author": "Farmer Thanos",
+    "lastUpdated": "2021-03-04T07:39:13Z",
+    "stars": 4,
+    "minGameVersion": "125.00",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
+  },
+  {
+    "repo": "1qwaka/Adronium-mod",
+    "name": "Adronium mod",
+    "version": "1.0",
+    "mod_id": "adronium-mod",
+    "author": "Дикая пчела",
+    "lastUpdated": "2021-03-28T21:20:34Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that made in a week.\nМод, сделанный за неделю"
+  },
+  {
     "repo": "GlennFolker/Enumodify-Mod",
     "name": "Enumodify",
     "version": "1.0",
@@ -3913,6 +4017,19 @@
     "description": "A java mod for Mindustry 135.2"
   },
   {
+    "repo": "TeeworldsFun/Mindustry-teeworlds",
+    "name": "Teeworlds Developers Coming!(Tws/DDNet)",
+    "version": "0.6.4",
+    "mod_id": "tws",
+    "author": "FlowerFell-Sans & Ninecloud",
+    "lastUpdated": "2022-06-12T10:49:09Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Write some developers of teeworks into the game!"
+  },
+  {
     "repo": "RebornTrack970/Destroyer",
     "name": "Destroyer",
     "version": "1.0",
@@ -3989,6 +4106,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets(maybe not a lot)"
+  },
+  {
+    "repo": "ErrorInCode27/Relics-Mod",
+    "name": "Relics",
+    "version": "0.2",
+    "mod_id": "relics-mod",
+    "author": "[Error_27]",
+    "lastUpdated": "2023-03-18T23:32:30Z",
+    "stars": 4,
+    "minGameVersion": "140.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
   },
   {
     "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
@@ -4771,6 +4901,19 @@
     "description": "h"
   },
   {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "version": "0.43",
+    "mod_id": "siriuschem-v7",
+    "author": "Sirius&Mandu",
+    "lastUpdated": "2023-06-09T10:52:10Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
+  },
+  {
     "repo": "Slotterleet/example-planet-json",
     "name": "JSON Example Planet",
     "version": "No version provided.",
@@ -5328,6 +5471,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -5993,19 +6149,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "Redonomo-team/Redonomo",
-    "name": "redonomo",
-    "version": "1.0",
-    "mod_id": "redonomo",
-    "author": "redonomo Team",
-    "lastUpdated": "2023-06-28T15:02:25Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "redonomo"
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -6017,6 +6160,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Don't play it"
+  },
+  {
+    "repo": "Thinkystuff7/MindustryMod-1",
+    "name": "Mind ustry Mod1",
+    "version": "3.1",
+    "mod_id": "Mod 1",
+    "author": "thinkystuff7",
+    "lastUpdated": "2020-10-19T16:39:48Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
     "repo": "Aweguy/pixelcraft",
@@ -6459,19 +6615,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
-  },
-  {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "sebmeister2077/Advanced-Refinement",
