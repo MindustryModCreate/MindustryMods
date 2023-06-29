@@ -31,7 +31,7 @@
     "version": "0.4.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-06-18T06:30:43Z",
+    "lastUpdated": "2023-06-29T10:29:24Z",
     "stars": 243,
     "minGameVersion": "144.3",
     "hasScripts": false,
@@ -551,7 +551,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-06-28T21:02:37Z",
+    "lastUpdated": "2023-06-29T14:57:30Z",
     "stars": 34,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-29T01:12:28Z",
+    "lastUpdated": "2023-06-29T12:25:20Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5473,17 +5473,17 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "3.1",
-    "mod_id": "Endrium mod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-27T18:38:31Z",
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
     "stars": 2,
     "minGameVersion": "136",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "FreezeMandu/PowerSources",
@@ -6030,6 +6030,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Another Random Vanilla Extension for Mindustry"
+  },
+  {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "3.1",
+    "mod_id": "Endrium mod 2",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2023-03-27T18:38:31Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
@@ -6604,19 +6617,6 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -7096,19 +7096,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "xorblo-doitus/Erekir-Utility",
-    "name": "Erekir Utility",
-    "version": "0.3",
-    "mod_id": "erekir-utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
