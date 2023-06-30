@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-06-26T05:12:17Z",
+    "lastUpdated": "2023-06-30T09:58:04Z",
     "stars": 259,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -260,6 +260,19 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Fresh791/Fading-Revelations",
+    "name": "Fading Revelations",
+    "version": "2.3",
+    "mod_id": "me",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2023-06-23T14:39:30Z",
+    "stars": 70,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.1",
@@ -271,19 +284,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "Fresh791/Fading-Revelations",
-    "name": "Fading Revelations",
-    "version": "2.3",
-    "mod_id": "me",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-06-23T14:39:30Z",
-    "stars": 69,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "3Snake3/Sapphirium",
@@ -369,7 +369,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-06-29T19:52:34Z",
+    "lastUpdated": "2023-06-30T09:35:35Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -481,6 +481,19 @@
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
+    "name": "MI2-Utilities Java",
+    "version": "1.3.0b",
+    "mod_id": "MI2-Utilities-Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-06-17T17:18:12Z",
+    "stars": 35,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -531,19 +544,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
-    "name": "MI2-Utilities Java",
-    "version": "1.3.0b",
-    "mod_id": "MI2-Utilities-Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-06-17T17:18:12Z",
-    "stars": 34,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "liplum/MultiCrafterLib",
@@ -5629,19 +5629,6 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
-    "repo": "TagGamer555/OMEGAZERO",
-    "name": "OMEGAZERO",
-    "version": "003",
-    "mod_id": "kiky5",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-06-21T19:40:58Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
     "repo": "gedrode/RustAndDustMod",
     "name": "锈与尘「Rust and Dust」",
     "version": "1A",
@@ -5692,6 +5679,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "TagGamer555/OMEGAZERO",
+    "name": "OMEGAZERO",
+    "version": "003",
+    "mod_id": "kiky5",
+    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
+    "lastUpdated": "2023-06-30T09:51:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
     "repo": "4156/Infintory",
