@@ -551,7 +551,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-06-29T17:48:59Z",
+    "lastUpdated": "2023-07-01T03:56:39Z",
     "stars": 34,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-06-30T01:10:06Z",
+    "lastUpdated": "2023-07-01T01:20:06Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5707,6 +5707,19 @@
     "description": "A jar mod."
   },
   {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "LottieVixen/example-resprite-mod",
     "name": "Resprite Example",
     "version": "0.1",
@@ -7083,19 +7096,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "xorblo-doitus/Erekir-Utility",
-    "name": "Erekir Utility",
-    "version": "0.3",
-    "mod_id": "erekir-utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
