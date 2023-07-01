@@ -200,7 +200,7 @@
     "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-06-26T17:32:37Z",
+    "lastUpdated": "2023-07-01T18:20:34Z",
     "stars": 81,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-06-30T09:35:35Z",
+    "lastUpdated": "2023-07-01T19:45:47Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -382,7 +382,7 @@
     "version": "0.3v",
     "mod_id": "shar",
     "author": "Sharlottes",
-    "lastUpdated": "2022-09-26T05:13:56Z",
+    "lastUpdated": "2023-07-01T17:44:09Z",
     "stars": 49,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -2106,6 +2106,19 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
+    "repo": "430230562/zerg",
+    "name": "虫族",
+    "version": "0.12",
+    "mod_id": "zerg",
+    "author": "pardon生物",
+    "lastUpdated": "2023-06-30T00:47:40Z",
+    "stars": 9,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "这个像素工厂模组允许玩家探索一个名为Greavar的行星，并在开发当地矿产、研究科技的同时防御原住民的进攻。"
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2442,19 +2455,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
-    "repo": "430230562/zerg",
-    "name": "虫族",
-    "version": "0.12",
-    "mod_id": "zerg",
-    "author": "pardon生物",
-    "lastUpdated": "2023-06-30T00:47:40Z",
-    "stars": 8,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "这个像素工厂模组允许玩家探索一个名为Greavar的行星，并在开发当地矿产、研究科技的同时防御原住民的进攻。"
   },
   {
     "repo": "deltanedas/no",
@@ -3131,6 +3131,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -5694,6 +5707,19 @@
     "description": "A jar mod."
   },
   {
+    "repo": "LottieVixen/example-resprite-mod",
+    "name": "Resprite Example",
+    "version": "0.1",
+    "mod_id": "example-resprite-mod",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-17T06:47:19Z",
+    "stars": 1,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An example to help respriting"
+  },
+  {
     "repo": "Volas171/nekodustry",
     "name": "Template",
     "version": "0",
@@ -6578,6 +6604,19 @@
     "description": "Adds mower class to the game."
   },
   {
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-18T19:06:57Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
+  },
+  {
     "repo": "AHRumjungle/Matter",
     "name": "Matter",
     "version": "0.1",
@@ -6940,6 +6979,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
+  },
+  {
+    "repo": "NemesisTheory/Reach-Soundtracks",
+    "name": "Reach Soundtracks",
+    "version": "1.0",
+    "mod_id": "reach-soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:49:26Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from Halo: Reach."
   },
   {
     "repo": "ValkovY/MarsiumModMindustry",
