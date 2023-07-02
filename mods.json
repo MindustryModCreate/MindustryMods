@@ -325,6 +325,19 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
+    "repo": "Aeyama-Mod/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "153",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-06-29T22:15:18Z",
+    "stars": 63,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nThis mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!\n"
+  },
+  {
     "repo": "Slotterleet/GoldMod",
     "name": "Gold Mod",
     "version": "2.0 alpha b19",
@@ -336,19 +349,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
-    "repo": "Aeyama-Mod/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "153",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-06-29T22:15:18Z",
-    "stars": 62,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nThis mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!\n"
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -954,7 +954,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2023-05-10T05:40:18Z",
+    "lastUpdated": "2023-07-02T08:08:01Z",
     "stars": 22,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -2431,19 +2431,6 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-05-23T03:15:26Z",
-    "stars": 8,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "version": "1.1.5",
@@ -2780,6 +2767,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-05-23T03:15:26Z",
+    "stars": 7,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "uujuju1/Steam-Works",
@@ -4204,7 +4204,7 @@
     "version": "1.0.5",
     "mod_id": "erekir-music",
     "author": "Team Oct",
-    "lastUpdated": "2023-06-26T07:21:23Z",
+    "lastUpdated": "2023-07-02T08:38:16Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5705,19 +5705,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
