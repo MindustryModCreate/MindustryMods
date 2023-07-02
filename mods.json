@@ -486,7 +486,7 @@
     "version": "1.3.1",
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-07-01T11:21:10Z",
+    "lastUpdated": "2023-07-02T01:53:22Z",
     "stars": 36,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -572,6 +572,19 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.74",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-12-16T17:36:50Z",
+    "stars": 31,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "FlinTyX/DiverseTech",
     "name": "DiverseTech",
     "version": "0.2.2",
@@ -583,19 +596,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
-  },
-  {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.74",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-12-16T17:36:50Z",
-    "stars": 30,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-01T12:22:50Z",
+    "lastUpdated": "2023-07-02T01:17:35Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5705,6 +5705,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
