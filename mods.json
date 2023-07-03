@@ -369,7 +369,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-07-02T20:39:28Z",
+    "lastUpdated": "2023-07-03T12:51:53Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-03T01:15:49Z",
+    "lastUpdated": "2023-07-03T12:27:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5642,19 +5642,6 @@
     "description": "锈与尘造就了这一切。\n模组QQ群:723662534请装载最新模组进入，群内随时更新模组"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/Zerubus-planet",
-    "name": "Zerubus a new hell",
-    "version": "135",
-    "mod_id": "zerubus",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-06-24T13:21:22Z",
-    "stars": 2,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
-  },
-  {
     "repo": "Falkowitz/Medieval-Mindustry",
     "name": "Medieval Mindustry",
     "version": "0.1",
@@ -5694,6 +5681,19 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "Chaoticans-mindustry-modding-team/Zerubus-planet",
+    "name": "Zerubus a new hell",
+    "version": "135",
+    "mod_id": "zerubus",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-07-03T15:07:49Z",
+    "stars": 2,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5705,6 +5705,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
