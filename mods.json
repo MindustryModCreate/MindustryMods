@@ -83,7 +83,7 @@
     "version": "spaghetti",
     "mod_id": "exotic-mod",
     "author": "Elixias",
-    "lastUpdated": "2023-06-30T23:10:25Z",
+    "lastUpdated": "2023-07-06T10:47:22Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1019,7 +1019,7 @@
     "version": "1.5",
     "mod_id": "sporepod",
     "author": "Hydro[#E1C16E]brass[]",
-    "lastUpdated": "2023-07-06T06:43:13Z",
+    "lastUpdated": "2023-07-06T11:19:58Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1781,6 +1781,19 @@
     "description": "Harness the power of dreams in this content mod."
   },
   {
+    "repo": "Solokil/V6AdventureU",
+    "name": "Solokil Underground Adventure",
+    "version": "1.1",
+    "mod_id": "underground-adventure-v6",
+    "author": "Solokil",
+    "lastUpdated": "2021-06-24T18:57:06Z",
+    "stars": 10,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
+  },
+  {
     "repo": "no9527dada/free-campaign",
     "name": "free-campaign-自由战役",
     "version": "0.2",
@@ -2098,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-05T12:28:30Z",
+    "lastUpdated": "2023-07-06T12:27:43Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4906,7 +4919,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-05T17:10:53Z",
+    "lastUpdated": "2023-07-06T13:44:22Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5577,19 +5590,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "kubikaugustyn/MindustryToolkit",
-    "name": "Mindustry Toolkit",
-    "version": "1.0",
-    "mod_id": "mindustry-toolkit-kubikaugustyn",
-    "author": "Jakub Augustýn",
-    "lastUpdated": "2023-06-21T17:27:19Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
-  },
-  {
     "repo": "gedrode/RustAndDustMod",
     "name": "锈与尘「Rust and Dust」",
     "version": "1A",
@@ -5653,6 +5653,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
+  },
+  {
+    "repo": "kubikaugustyn/MindustryToolkit",
+    "name": "Mindustry Toolkit",
+    "version": "1.1",
+    "mod_id": "mindustry-toolkit-kubikaugustyn",
+    "author": "Jakub Augustýn",
+    "lastUpdated": "2023-07-06T11:59:45Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
     "repo": "4156/Infintory",
@@ -5978,19 +5991,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Another Random Vanilla Extension for Mindustry"
-  },
-  {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "version": "3.1",
-    "mod_id": "Endrium mod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-27T18:38:31Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
@@ -6851,19 +6851,6 @@
     "description": ""
   },
   {
-    "repo": "Weathercold/Haxefrog",
-    "name": "Haxefrog",
-    "version": "1.0.0-SNAPSHOT",
-    "mod_id": "haxefrog",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-27T01:22:57Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Do not try to use Haxe at home"
-  },
-  {
     "repo": "Def-Try/Mindustry-Infmap",
     "name": "Inf Map Base",
     "version": "0.1",
@@ -7129,11 +7116,24 @@
     "version": "1.0",
     "mod_id": "exploring",
     "author": "LiuDai",
-    "lastUpdated": "2023-07-04T11:14:03Z",
+    "lastUpdated": "2023-07-06T11:23:17Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "My first MindustryJava mod"
+  },
+  {
+    "repo": "Dryehm/Stahlarme",
+    "name": "Stahlarme",
+    "version": "1.0",
+    "mod_id": "Stahlarme",
+    "author": "Dryehm_",
+    "lastUpdated": "2023-07-06T14:27:15Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Weapons."
   }
 ]
