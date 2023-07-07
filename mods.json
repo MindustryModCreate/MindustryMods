@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-06T12:27:43Z",
+    "lastUpdated": "2023-07-07T01:16:27Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3107,19 +3107,6 @@
     "description": "A Mindustry Mod that Reverts Multiplayernt"
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3872,6 +3859,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my stupid brain told me to make a mindustry mod\r\n\r\nversion beta 1: added hydrogen and oxygen (oxygen unobtainable in survival), elctrolyser, graphene infuser, graphene, graphene solar panel, graphene walls\r\n\r\nupdate beta 2: added the pencil launcher, chaos plasma, chaos mixer, eruption, air compressor (oxygen is now obtainable in survival), added campain research\r\n\r\nupdate beta 2.1: added the glock (on a block), tweaked eruption and pencil launcher"
+  },
+  {
+    "repo": "Blerp23/Blerptest-mod",
+    "name": "Blerp's Content Mod",
+    "version": "0.98 Beta",
+    "mod_id": "test-mod",
+    "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter (all of the bad sprites were probably made by Blerp23)",
+    "lastUpdated": "2021-11-28T23:53:38Z",
+    "stars": 4,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
   },
   {
     "repo": "Antlrr/thorium-thorium-walls",
@@ -5647,7 +5647,7 @@
     "version": "135",
     "mod_id": "zerubus",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-07T00:50:33Z",
+    "lastUpdated": "2023-07-07T02:13:41Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -6851,19 +6851,6 @@
     "description": ""
   },
   {
-    "repo": "Weathercold/Haxefrog",
-    "name": "Haxefrog",
-    "version": "1.0.0-SNAPSHOT",
-    "mod_id": "haxefrog",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-27T01:22:57Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Do not try to use Haxe at home"
-  },
-  {
     "repo": "Def-Try/Mindustry-Infmap",
     "name": "Inf Map Base",
     "version": "0.1",
@@ -6953,19 +6940,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
-  },
-  {
-    "repo": "NemesisTheory/Reach-Soundtracks",
-    "name": "Reach Soundtracks",
-    "version": "1.0",
-    "mod_id": "reach-soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-07T03:49:26Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from Halo: Reach."
   },
   {
     "repo": "ValkovY/MarsiumModMindustry",
@@ -7059,6 +7033,19 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
+    "repo": "xorblo-doitus/Erekir-Utility",
+    "name": "Erekir Utility",
+    "version": "0.3",
+    "mod_id": "erekir-utility",
+    "author": "xorblo-doitus",
+    "lastUpdated": "2023-05-25T17:33:36Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
+  },
+  {
     "repo": "VincenzoTheDuck/Ultra-Additions",
     "name": "Ultra Additions",
     "version": "1.0",
@@ -7129,7 +7116,7 @@
     "version": "1.0",
     "mod_id": "Stahlarme",
     "author": "Dryehm_",
-    "lastUpdated": "2023-07-06T14:27:15Z",
+    "lastUpdated": "2023-07-07T05:06:45Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
