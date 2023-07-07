@@ -330,7 +330,7 @@
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-07-02T15:58:11Z",
+    "lastUpdated": "2023-07-07T14:39:55Z",
     "stars": 63,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -369,7 +369,7 @@
     "version": "0.6.1",
     "mod_id": "ol",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-07-04T21:23:58Z",
+    "lastUpdated": "2023-07-07T11:40:25Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-07T01:16:27Z",
+    "lastUpdated": "2023-07-07T12:26:19Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2769,19 +2769,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.8",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2023-07-05T00:26:12Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "Vixelot/Facdustrio",
     "name": "Facdustrio",
     "version": "0.1",
@@ -3105,6 +3092,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.8",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2023-07-05T00:26:12Z",
+    "stars": 6,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4056,6 +4056,19 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
+    "repo": "Voider404/InTheSpace",
+    "name": "InTheSpace",
+    "version": "0.1.2",
+    "mod_id": "InTheSpace",
+    "author": "ThatAvocado_Boi",
+    "lastUpdated": "2022-11-23T16:19:51Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
+  },
+  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4919,7 +4932,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-06T13:44:22Z",
+    "lastUpdated": "2023-07-07T13:30:31Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5458,19 +5471,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
-  },
-  {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "Rorivus/UAschem",
@@ -6875,6 +6875,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "Weathercold/Haxefrog",
+    "name": "Haxefrog",
+    "version": "1.0.0-SNAPSHOT",
+    "mod_id": "haxefrog",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-27T01:22:57Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Do not try to use Haxe at home"
   },
   {
     "repo": "Def-Try/Mindustry-Infmap",
