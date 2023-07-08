@@ -741,6 +741,19 @@
     "description": "Adds higher tier of vanilla blocks, starting from Serpulo.\nThe mod aims to expand further production and defense in late game.\nMod is still in development more contents coming soon."
   },
   {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "version": "0.1",
+    "mod_id": "pvpnotifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 26,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "version": "1.2.4",
@@ -767,17 +780,17 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "version": "0.1",
-    "mod_id": "pvpnotifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
+    "repo": "deltanedas/unit-factory",
+    "name": "Unit Factory",
+    "version": "3.5.0",
+    "mod_id": "unit-factory",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:53Z",
     "stars": 25,
-    "minGameVersion": "117",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "TheRealIvyX/MoreDefences",
@@ -830,19 +843,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds inverted versions of crafters."
-  },
-  {
-    "repo": "deltanedas/unit-factory",
-    "name": "Unit Factory",
-    "version": "3.5.0",
-    "mod_id": "unit-factory",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:53Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -2522,6 +2522,19 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
+    "repo": "VladTheEvilCat/Extended-Zoom",
+    "name": "Extended Zoom",
+    "version": "1.3",
+    "mod_id": "extended-zoom",
+    "author": "Vlad The Evil Cat",
+    "lastUpdated": "2021-03-10T13:33:00Z",
+    "stars": 7,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extended Zoom! [to 0.5 <-> 25]"
+  },
+  {
     "repo": "SearcherG60/S-Edition",
     "name": "S-Edition",
     "version": "2.5",
@@ -2780,19 +2793,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that thats various factorio things"
-  },
-  {
-    "repo": "VladTheEvilCat/Extended-Zoom",
-    "name": "Extended Zoom",
-    "version": "1.3",
-    "mod_id": "extended-zoom",
-    "author": "Vlad The Evil Cat",
-    "lastUpdated": "2021-03-10T13:33:00Z",
-    "stars": 6,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
     "repo": "bloool/SolarWorks",
@@ -4919,7 +4919,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-08T14:17:01Z",
+    "lastUpdated": "2023-07-08T17:41:59Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -5473,19 +5473,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5673,7 +5660,7 @@
     "version": "1.0",
     "mod_id": "UA",
     "author": "NevaSeen",
-    "lastUpdated": "2023-07-08T01:56:25Z",
+    "lastUpdated": "2023-07-08T16:04:24Z",
     "stars": 2,
     "minGameVersion": "140",
     "hasScripts": false,
