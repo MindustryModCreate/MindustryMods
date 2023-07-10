@@ -266,7 +266,7 @@
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-06-23T14:39:30Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -330,7 +330,7 @@
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-07-09T17:35:52Z",
+    "lastUpdated": "2023-07-10T14:48:26Z",
     "stars": 63,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1586,19 +1586,6 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
-    "repo": "QmelZ/launchpad-redirect",
-    "name": "Launchpad Redirect",
-    "version": "2",
-    "mod_id": "launchpad-redirect",
-    "author": "QmelZ",
-    "lastUpdated": "2022-08-10T05:56:15Z",
-    "stars": 12,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "hortiSquash/hortiblocks",
     "name": "horti blocks",
     "version": "1.1",
@@ -2111,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-10T01:13:52Z",
+    "lastUpdated": "2023-07-10T12:25:50Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4901,19 +4888,6 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-07-10T10:01:02Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
@@ -4925,6 +4899,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-10T11:52:34Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5460,19 +5447,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.5",
-    "mod_id": "duverxustitans",
-    "author": "Duverxus/Skulz",
-    "lastUpdated": "2023-03-10T22:47:40Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5590,19 +5564,6 @@
     "description": "Another total conversion PVP mod"
   },
   {
-    "repo": "TagGamer555/OMEGAZERO",
-    "name": "OMEGAZERO",
-    "version": "003",
-    "mod_id": "kiky5",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-06-30T16:12:00Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
     "repo": "kubikaugustyn/MindustryToolkit",
     "name": "Mindustry Toolkit",
     "version": "1.1",
@@ -5666,6 +5627,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "TagGamer555/OMEGAZERO",
+    "name": "OMEGAZERO",
+    "version": "003",
+    "mod_id": "kiky5",
+    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
+    "lastUpdated": "2023-07-10T14:48:52Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
     "repo": "4156/Infintory",
@@ -7070,6 +7044,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "xorblo-doitus/Erekir-Utility",
+    "name": "Erekir Utility",
+    "version": "0.3",
+    "mod_id": "erekir-utility",
+    "author": "xorblo-doitus",
+    "lastUpdated": "2023-05-25T17:33:36Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
