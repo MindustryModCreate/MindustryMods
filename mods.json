@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-07-09T21:27:53Z",
-    "stars": 261,
+    "stars": 262,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -4056,19 +4056,6 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4797,19 +4784,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-02-03T10:08:08Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "Fresh791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -4927,12 +4901,25 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-10T10:01:02Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
+  },
+  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-09T22:17:48Z",
+    "lastUpdated": "2023-07-10T10:04:19Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -5471,6 +5458,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.5",
+    "mod_id": "duverxustitans",
+    "author": "Duverxus/Skulz",
+    "lastUpdated": "2023-03-10T22:47:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "FreezeMandu/PowerSources",
