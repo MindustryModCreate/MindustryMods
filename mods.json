@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-11T01:07:38Z",
+    "lastUpdated": "2023-07-11T12:26:38Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3484,19 +3484,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-06-04T02:53:46Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
-  },
-  {
     "repo": "osp54/CloudSave",
     "name": "Cloud Save",
     "version": "1.0",
@@ -3534,6 +3521,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.3.1",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-11T14:01:01Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 大幅优化了代码高亮性能\n2. 添加监视功能"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4888,19 +4888,6 @@
     "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-09T08:35:54Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -4919,12 +4906,25 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-10T19:59:27Z",
+    "lastUpdated": "2023-07-11T10:30:05Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2023-07-11T12:19:37Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5473,6 +5473,19 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5705,19 +5718,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6591,6 +6591,19 @@
     "description": "Adds mower class to the game."
   },
   {
+    "repo": "TechFish3000/Techfish-Innovations",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-16T13:04:00Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -6823,6 +6836,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
+  },
+  {
+    "repo": "mrybs/pixelarts",
+    "name": "Pixelarts",
+    "version": "0.1",
+    "mod_id": "pixelarts",
+    "author": "Mrybs - maintainer, main developer",
+    "lastUpdated": "2023-01-19T14:42:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
