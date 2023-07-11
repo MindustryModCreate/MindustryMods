@@ -330,7 +330,7 @@
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-07-10T14:48:26Z",
+    "lastUpdated": "2023-07-10T23:08:47Z",
     "stars": 63,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3107,6 +3107,19 @@
     "description": "A heat and steam based mod."
   },
   {
+    "repo": "TeamOct/Erekir-Music",
+    "name": "Team Oct's Erekir Music",
+    "version": "1.1.0",
+    "mod_id": "erekir-music",
+    "author": "Team Oct",
+    "lastUpdated": "2023-07-07T07:57:11Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -3508,19 +3521,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
-  },
-  {
-    "repo": "TeamOct/Erekir-Music",
-    "name": "Team Oct's Erekir Music",
-    "version": "1.1.0",
-    "mod_id": "erekir-music",
-    "author": "Team Oct",
-    "lastUpdated": "2023-07-07T07:57:11Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5486,19 +5486,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5731,6 +5718,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6602,19 +6602,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
-  },
-  {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "sebmeister2077/Advanced-Refinement",
