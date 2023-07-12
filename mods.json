@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-07-12T07:14:23Z",
-    "stars": 245,
+    "stars": 246,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -824,7 +824,7 @@
     "version": "1.2",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-07-05T15:49:17Z",
+    "lastUpdated": "2023-07-12T11:32:46Z",
     "stars": 25,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -4069,6 +4069,19 @@
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
+    "repo": "Voider404/InTheSpace",
+    "name": "InTheSpace",
+    "version": "0.1.2",
+    "mod_id": "InTheSpace",
+    "author": "ThatAvocado_Boi",
+    "lastUpdated": "2022-11-23T16:19:51Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
+  },
+  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4914,17 +4927,17 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-07-11T10:30:05Z",
+    "repo": "PLsubfarm61/Project_B",
+    "name": "Project B [Alpha]",
+    "version": "0",
+    "mod_id": "project-b",
+    "author": " [white]pol[red]ish [lime]subfarm61 ",
+    "lastUpdated": "2023-07-12T12:37:53Z",
     "stars": 3,
-    "minGameVersion": "143",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Mod for mindustry server                 "
+    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
     "repo": "SITUVNgcd/MindustryModTest",
@@ -4932,12 +4945,25 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-11T12:19:37Z",
+    "lastUpdated": "2023-07-12T13:40:19Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-07-12T14:04:10Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5473,6 +5499,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5523,19 +5562,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
-  },
-  {
-    "repo": "PLsubfarm61/Project_B",
-    "name": "Project B [Alpha]",
-    "version": "0",
-    "mod_id": "project-b",
-    "author": " [white]pol[red]ish [lime]subfarm61 ",
-    "lastUpdated": "2023-04-22T18:08:38Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
     "repo": "hbuddz/Compress-this",
@@ -5668,6 +5694,32 @@
     "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.6",
+    "mod_id": "duverxustitans",
+    "author": "Rosa/Skulz",
+    "lastUpdated": "2023-07-12T13:08:34Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
+    "repo": "Chrono-Heritage/Metaldustry",
+    "name": "Metaldustry",
+    "version": "v.0.1",
+    "mod_id": "chrono-metaldustry",
+    "author": "Chrono",
+    "lastUpdated": "2023-07-12T14:56:42Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that add more metals and industry blocks."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5705,19 +5757,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -7070,19 +7109,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "xorblo-doitus/Erekir-Utility",
-    "name": "Erekir Utility",
-    "version": "0.3",
-    "mod_id": "erekir-utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
