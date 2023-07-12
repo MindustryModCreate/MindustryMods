@@ -28,12 +28,12 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-07-01T10:54:07Z",
+    "lastUpdated": "2023-07-12T07:14:23Z",
     "stars": 245,
-    "minGameVersion": "144.3",
+    "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Warning: Beta Version For V7"
@@ -1292,7 +1292,7 @@
     "version": "1.6 [B6]",
     "mod_id": "EI",
     "author": "WMF Industries",
-    "lastUpdated": "2023-07-04T04:26:51Z",
+    "lastUpdated": "2023-07-12T09:40:49Z",
     "stars": 16,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -5473,19 +5473,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5562,6 +5549,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> [#2469D6]https://discord.gg/Rfr2s8bQd9\n[#FFFFFF]\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to [#ffae00]Alex[#ffffff] for encouraging me with making this mod, and supporting my ideas!"
+  },
+  {
+    "repo": "FreezeMandu/invisibleblocks",
+    "name": "Invisible Blocks",
+    "version": "1.99",
+    "mod_id": "invisibleblocks",
+    "author": "Mandu",
+    "lastUpdated": "2023-06-09T10:53:12Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
     "repo": "gedrode/RustAndDustMod",
@@ -5705,6 +5705,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6578,17 +6591,17 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-18T19:06:57Z",
     "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
   },
   {
     "repo": "AHRumjungle/Matter",
@@ -6812,19 +6825,6 @@
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
-    "repo": "mrybs/pixelarts",
-    "name": "Pixelarts",
-    "version": "0.1",
-    "mod_id": "pixelarts",
-    "author": "Mrybs - maintainer, main developer",
-    "lastUpdated": "2023-01-19T14:42:23Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many colored blocks"
-  },
-  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -6968,6 +6968,19 @@
     "description": "Use mod with router language setting"
   },
   {
+    "repo": "NemesisTheory/Reach-Soundtracks",
+    "name": "Reach Soundtracks",
+    "version": "1.0",
+    "mod_id": "reach-soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:49:26Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from Halo: Reach."
+  },
+  {
     "repo": "ValkovY/MarsiumModMindustry",
     "name": "MarsiumMod",
     "version": "0.2",
@@ -7057,6 +7070,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "xorblo-doitus/Erekir-Utility",
+    "name": "Erekir Utility",
+    "version": "0.3",
+    "mod_id": "erekir-utility",
+    "author": "xorblo-doitus",
+    "lastUpdated": "2023-05-25T17:33:36Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
