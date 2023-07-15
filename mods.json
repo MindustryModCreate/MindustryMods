@@ -106,12 +106,12 @@
   {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "ExtraUtilities",
-    "version": "1.1.1.0",
+    "version": "1.1.2.1",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-07-14T09:40:58Z",
+    "lastUpdated": "2023-07-15T06:24:23Z",
     "stars": 116,
-    "minGameVersion": "138",
+    "minGameVersion": "144.3",
     "hasScripts": false,
     "hasJava": true,
     "description": "An extended mod for Mindustry"
@@ -305,7 +305,7 @@
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2023-07-13T20:10:13Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1885,19 +1885,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "version": "1.4",
-    "mod_id": "halo-3-odst-soundtracks-ost",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-23T13:30:53Z",
-    "stars": 10,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
-  },
-  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.7.1",
@@ -1909,6 +1896,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "version": "1.4",
+    "mod_id": "halo-3-odst-soundtracks-ost",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-07-15T09:33:32Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -3125,7 +3125,7 @@
     "version": "1.0.8",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-07-15T01:09:52Z",
+    "lastUpdated": "2023-07-15T08:07:51Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5473,6 +5473,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5653,19 +5666,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
-    "repo": "skulzyetagain/FirstMod",
-    "name": "Titans Awoken",
-    "version": "0.6",
-    "mod_id": "duverxustitans",
-    "author": "Rosa/Skulz",
-    "lastUpdated": "2023-07-14T20:45:56Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "4156/Infintory",
@@ -6825,6 +6825,19 @@
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
+    "repo": "woodjecket/MindustryScalaModTemplate",
+    "name": "Scala Mod Template",
+    "version": "1.0",
+    "mod_id": "example-scala-mod",
+    "author": "You",
+    "lastUpdated": "2023-01-20T01:32:56Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Scala mod template."
+  },
+  {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "version": "1.0",
@@ -6849,6 +6862,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "Weathercold/Haxefrog",
+    "name": "Haxefrog",
+    "version": "1.0.0-SNAPSHOT",
+    "mod_id": "haxefrog",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-27T01:22:57Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Do not try to use Haxe at home"
   },
   {
     "repo": "Def-Try/Mindustry-Infmap",
