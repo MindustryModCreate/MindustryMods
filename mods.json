@@ -110,7 +110,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-07-15T06:24:23Z",
-    "stars": 116,
+    "stars": 117,
     "minGameVersion": "144.3",
     "hasScripts": false,
     "hasJava": true,
@@ -304,7 +304,7 @@
     "version": "153",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-07-13T20:10:13Z",
+    "lastUpdated": "2023-07-15T16:36:38Z",
     "stars": 66,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1521,6 +1521,19 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "Ferlern/extended-UI-v7",
+    "name": "extended UI",
+    "version": "0.77",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2023-05-21T08:36:01Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "RA2EXE/Saturation-Firepower",
     "name": "饱和火力",
     "version": "3.0.15",
@@ -1636,19 +1649,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.77",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2023-05-21T08:36:01Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "SunsetTeam/Sunset",
@@ -4888,19 +4888,6 @@
     "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-07-12T14:04:10Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "PLsubfarm61/Project_B",
     "name": "Project B [Alpha]",
     "version": "0",
@@ -4938,6 +4925,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-07-15T18:44:29Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5666,6 +5666,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
+  },
+  {
+    "repo": "skulzyetagain/FirstMod",
+    "name": "Titans Awoken",
+    "version": "0.6",
+    "mod_id": "duverxustitans",
+    "author": "Rosa/Skulz",
+    "lastUpdated": "2023-07-14T20:45:56Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "4156/Infintory",
@@ -7070,19 +7083,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "xorblo-doitus/Erekir-Utility",
-    "name": "Erekir Utility",
-    "version": "0.3",
-    "mod_id": "erekir-utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "VincenzoTheDuck/Ultra-Additions",
