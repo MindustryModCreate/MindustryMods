@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 283,
+    "stars": 284,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -109,7 +109,7 @@
     "version": "1.1.2.2",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-07-21T15:05:21Z",
+    "lastUpdated": "2023-07-21T15:10:20Z",
     "stars": 118,
     "minGameVersion": "144.3",
     "hasScripts": false,
@@ -2449,7 +2449,7 @@
     "version": "1.1.6",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-21T13:43:13Z",
+    "lastUpdated": "2023-07-21T17:53:31Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -3146,6 +3146,19 @@
     "description": "A heat and steam based mod."
   },
   {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3508,19 +3521,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "tuwns evewy R and L into a W. incwedibwe."
-  },
-  {
-    "repo": "Froomeeth/Serilia",
-    "name": "Serilia",
-    "version": "1.0",
-    "mod_id": "serilia",
-    "author": "FrooMeeth & Nullevoy",
-    "lastUpdated": "2023-07-21T11:05:46Z",
-    "stars": 5,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4056,19 +4056,6 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4199,19 +4186,6 @@
     "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
-    "repo": "Redstonneur1256/Mindustry-ModLib",
-    "name": "Mod Library",
-    "version": "@version@",
-    "mod_id": "!mod-library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-07-09T16:17:55Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4223,6 +4197,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "@version@",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-07-21T16:09:59Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5226,6 +5213,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "RouterXdd/HellFraction-Industries",
+    "name": "HFI",
+    "version": "1.0",
+    "mod_id": "hfi",
+    "author": "Router Xdd",
+    "lastUpdated": "2022-04-15T04:37:47Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
+  },
+  {
     "repo": "deltanedas/item-grabber",
     "name": "Item Grabber",
     "version": "2.0.3",
@@ -5447,6 +5447,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5634,7 +5647,7 @@
     "version": "003",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-07-21T14:33:08Z",
+    "lastUpdated": "2023-07-21T19:51:25Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5718,6 +5731,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
+  },
+  {
+    "repo": "MissAmity/Singabana",
+    "name": "Singabana",
+    "version": "0.1",
+    "mod_id": "singabana-mod",
+    "author": "Cato-1",
+    "lastUpdated": "2021-10-22T07:03:20Z",
+    "stars": 1,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 Mod that add modded maps"
   },
   {
     "repo": "Serg230/Overdustry",
@@ -5926,6 +5952,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "NemesisTheory/Reach-Soundtracks",
+    "name": "Reach Soundtracks",
+    "version": "1.0",
+    "mod_id": "reach-soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:49:26Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from Halo: Reach."
   },
   {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
@@ -6552,6 +6591,32 @@
     "description": "Adds mower class to the game."
   },
   {
+    "repo": "TechFish3000/Techfish-Innovations",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-02-16T13:04:00Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-18T19:06:57Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
+  },
+  {
     "repo": "AHRumjungle/Matter",
     "name": "Matter",
     "version": "0.1",
@@ -6773,6 +6838,19 @@
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
+    "repo": "mrybs/pixelarts",
+    "name": "Pixelarts",
+    "version": "0.1",
+    "mod_id": "pixelarts",
+    "author": "Mrybs - maintainer, main developer",
+    "lastUpdated": "2023-01-19T14:42:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many colored blocks"
+  },
+  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -6784,19 +6862,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
-  },
-  {
-    "repo": "Miniontoby/mindustrirc",
-    "name": "MindustrIRC",
-    "version": "1.1.0",
-    "mod_id": "mindustrirc",
-    "author": "Miniontoby",
-    "lastUpdated": "2023-01-26T16:21:36Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "IRC Mod for Mindustry"
   },
   {
     "repo": "TheEE145/solid-octo-chainsaw-mod",
