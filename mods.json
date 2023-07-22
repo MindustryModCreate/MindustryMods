@@ -733,7 +733,7 @@
     "version": "alpha-0.8.8",
     "mod_id": "singularity",
     "author": "EBwilson",
-    "lastUpdated": "2023-07-09T14:18:13Z",
+    "lastUpdated": "2023-07-22T13:42:01Z",
     "stars": 27,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -850,7 +850,7 @@
     "version": "1.8.4",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-07-22T09:16:33Z",
+    "lastUpdated": "2023-07-22T13:47:06Z",
     "stars": 25,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -2106,19 +2106,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "430230562/zerg",
-    "name": "虫族",
-    "version": "0.12",
-    "mod_id": "zerg",
-    "author": "pardon生物",
-    "lastUpdated": "2023-07-17T13:58:43Z",
-    "stars": 9,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "这个像素工厂模组允许玩家探索一个名为Greavar的行星，并在开发当地矿产、研究科技的同时防御原住民的进攻。"
-  },
-  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.1.3",
@@ -2137,12 +2124,25 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-07-22T01:04:05Z",
+    "lastUpdated": "2023-07-22T12:20:15Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "430230562/zerg",
+    "name": "虫族",
+    "version": "0.12",
+    "mod_id": "zerg",
+    "author": "pardon",
+    "lastUpdated": "2023-07-22T13:04:33Z",
+    "stars": 9,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "这个像素工厂模组允许玩家探索一个名为Greavar的行星，并在开发当地矿产、研究科技的同时防御原住民的进攻。"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2449,7 +2449,7 @@
     "version": "1.1.8",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-22T09:54:42Z",
+    "lastUpdated": "2023-07-22T12:11:28Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -4056,19 +4056,6 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
-    "repo": "Voider404/InTheSpace",
-    "name": "InTheSpace",
-    "version": "0.1.2",
-    "mod_id": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-23T16:19:51Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "version": "1",
@@ -4919,7 +4906,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-20T15:16:12Z",
+    "lastUpdated": "2023-07-22T15:06:38Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -5655,12 +5642,38 @@
     "description": "Another total conversion PVP mod"
   },
   {
+    "repo": "LiuDai2011/Exploring",
+    "name": "Exploring",
+    "version": "1.0",
+    "mod_id": "exploring",
+    "author": "LiuDai",
+    "lastUpdated": "2023-07-22T04:43:05Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first MindustryJava mod"
+  },
+  {
+    "repo": "I-am-Fuse347/MindustryPlus",
+    "name": "Mindustry Plus",
+    "version": "-router",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2023-07-22T12:29:15Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random mindustry modification."
+  },
+  {
     "repo": "TagGamer555/OMEGAZERO",
     "name": "OMEGAZERO",
     "version": "003",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-07-21T20:50:24Z",
+    "lastUpdated": "2023-07-22T14:09:01Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5692,19 +5705,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5941,19 +5941,6 @@
     "description": "mindustry java mod that make customisation for your menu"
   },
   {
-    "repo": "BlueTheCube/Interality",
-    "name": "Interality",
-    "version": "0.0.01",
-    "mod_id": "interality",
-    "author": "Calreiboz",
-    "lastUpdated": "2023-03-05T12:18:29Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod."
-  },
-  {
     "repo": "virat2010/SomeVanillaExtension",
     "name": "VR's Mod",
     "version": "v1.0",
@@ -6123,30 +6110,17 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
-    "repo": "I-am-Fuse347/MindustryPlus",
-    "name": "Mindustry Plus",
-    "version": "-router",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2023-07-21T13:46:31Z",
+    "repo": "BlueTheCube/Interality",
+    "name": "Interality",
+    "version": "0.0.01",
+    "mod_id": "interality",
+    "author": "Calreiboz",
+    "lastUpdated": "2023-07-22T13:44:16Z",
     "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random mindustry modification."
-  },
-  {
-    "repo": "LiuDai2011/Exploring",
-    "name": "Exploring",
-    "version": "1.0",
-    "mod_id": "exploring",
-    "author": "LiuDai",
-    "lastUpdated": "2023-07-22T04:43:05Z",
-    "stars": 1,
-    "minGameVersion": "145",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "My first MindustryJava mod"
+    "description": "A Mindustry mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6877,6 +6851,19 @@
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
+    "repo": "mrybs/pixelarts",
+    "name": "Pixelarts",
+    "version": "0.1",
+    "mod_id": "pixelarts",
+    "author": "Mrybs - maintainer, main developer",
+    "lastUpdated": "2023-01-19T14:42:23Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many colored blocks"
+  },
+  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -7085,19 +7072,6 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
-    "repo": "xorblo-doitus/Erekir-Utility",
-    "name": "Erekir Utility",
-    "version": "0.3",
-    "mod_id": "erekir-utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
-  },
-  {
     "repo": "VincenzoTheDuck/Ultra-Additions",
     "name": "Ultra Additions",
     "version": "1.0",
@@ -7161,5 +7135,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Weapons."
+  },
+  {
+    "repo": "992040/mindustry_better_mindustry",
+    "name": "mindustry_better_mindustry",
+    "version": "0.4",
+    "mod_id": "Better Mindustry 7.0.4",
+    "author": "992040",
+    "lastUpdated": "2023-07-22T14:44:10Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Improves Mindustry"
   }
 ]
