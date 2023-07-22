@@ -252,7 +252,7 @@
     "version": "2.3",
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-07-22T05:04:42Z",
+    "lastUpdated": "2023-07-22T08:25:58Z",
     "stars": 73,
     "minGameVersion": "144.3",
     "hasScripts": true,
@@ -832,19 +832,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.8.2",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-07-09T14:16:36Z",
-    "stars": 25,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
     "repo": "ZielonyTrojkat/Frozen-Farlands",
     "name": "Frozen Farlands",
     "version": "1.2",
@@ -856,6 +843,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.8.4",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-07-22T09:16:33Z",
+    "stars": 25,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1274,19 +1274,6 @@
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
   },
   {
-    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
-    "name": "Welcome to the Frostscape",
-    "version": "1.1-alpha",
-    "mod_id": "hollow-frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2023-07-21T06:04:16Z",
-    "stars": 16,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.6 [B7]",
@@ -1298,6 +1285,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>\n-Current version : 1.6 [B7]"
+  },
+  {
+    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "1.1-alpha",
+    "mod_id": "hollow-frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2023-07-22T08:04:09Z",
+    "stars": 16,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -2446,10 +2446,10 @@
   {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "mod_id": "pyra",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-22T04:55:42Z",
+    "lastUpdated": "2023-07-22T09:54:42Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5460,6 +5460,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -6108,6 +6121,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
+    "repo": "I-am-Fuse347/MindustryPlus",
+    "name": "Mindustry Plus",
+    "version": "-router",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2023-07-21T13:46:31Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random mindustry modification."
+  },
+  {
+    "repo": "LiuDai2011/Exploring",
+    "name": "Exploring",
+    "version": "1.0",
+    "mod_id": "exploring",
+    "author": "LiuDai",
+    "lastUpdated": "2023-07-22T04:43:05Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first MindustryJava mod"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6838,19 +6877,6 @@
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
-    "repo": "mrybs/pixelarts",
-    "name": "Pixelarts",
-    "version": "0.1",
-    "mod_id": "pixelarts",
-    "author": "Mrybs - maintainer, main developer",
-    "lastUpdated": "2023-01-19T14:42:23Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many colored blocks"
-  },
-  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -7135,31 +7161,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Weapons."
-  },
-  {
-    "repo": "I-am-Fuse347/MindustryPlus",
-    "name": "Mindustry Plus",
-    "version": "-router",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2023-07-21T13:46:31Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random mindustry modification."
-  },
-  {
-    "repo": "LiuDai2011/Exploring",
-    "name": "Exploring",
-    "version": "1.0",
-    "mod_id": "exploring",
-    "author": "LiuDai",
-    "lastUpdated": "2023-07-22T04:43:05Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first MindustryJava mod"
   }
 ]
