@@ -273,6 +273,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "3Snake3/Sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "mod_id": "sapphirium",
+    "author": "Snake",
+    "lastUpdated": "2023-07-21T12:13:46Z",
+    "stars": 70,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.1",
@@ -284,19 +297,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "3Snake3/Sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "mod_id": "sapphirium",
-    "author": "Snake",
-    "lastUpdated": "2023-07-21T12:13:46Z",
-    "stars": 69,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
     "repo": "Aeyama-Mod/aeyama",
@@ -3138,7 +3138,7 @@
     "version": "1.0.8",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-07-21T21:46:19Z",
+    "lastUpdated": "2023-07-23T03:01:50Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5668,19 +5668,6 @@
     "description": "My first MindustryJava mod"
   },
   {
-    "repo": "I-am-Fuse347/MindustryPlus",
-    "name": "Mindustry Plus",
-    "version": "-router",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2023-07-22T12:29:15Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random mindustry modification."
-  },
-  {
     "repo": "TagGamer555/OMEGAZERO",
     "name": "OMEGAZERO",
     "version": "003",
@@ -5692,6 +5679,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
+  },
+  {
+    "repo": "I-am-Fuse347/MindustryPlus",
+    "name": "Mindustry Plus",
+    "version": "-router",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2023-07-23T03:56:56Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random mindustry modification."
   },
   {
     "repo": "4156/Infintory",
@@ -7085,19 +7085,6 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
-    "repo": "VincenzoTheDuck/Ultra-Additions",
-    "name": "Ultra Additions",
-    "version": "1.0",
-    "mod_id": "ultra-additions",
-    "author": "VincenzoTheDuck",
-    "lastUpdated": "2023-06-12T04:45:01Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My first mod."
-  },
-  {
     "repo": "Ph4ntom8979/mindustry-mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7161,5 +7148,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Improves Mindustry"
+  },
+  {
+    "repo": "VincenzoTheDuck/Ultra-Additions",
+    "name": "Ultra Additions",
+    "version": "1.0",
+    "mod_id": "ultra-additions",
+    "author": "VincenzoTheDuck",
+    "lastUpdated": "2023-07-23T03:52:39Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod."
   }
 ]
