@@ -1365,6 +1365,19 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "RA2EXE/Saturation-Firepower",
+    "name": "饱和火力",
+    "version": "3.0.15",
+    "mod_id": "饱和火力",
+    "author": "RA2",
+    "lastUpdated": "2023-07-25T14:11:02Z",
+    "stars": 15,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "以压倒性火力，制衡天下之模组。\n模组一群：181108928\n或者前往Github查看火力最新状态\nB站随机直播\n饱和火力服务器保持常开，请装载最新模组进入\n———————————————\n这是最适合做模板的mod，你可以在许多新mod里找到本mod的身影\n每次贴图更新，都会将旧贴图作为公益物发至群内，有需自取\n[green]以下绿线中内容必读！！\n———————————————[white]\n代码开源可抄，但是[red]抄袭/改色/缝合[white]贴图属于[red]侵犯作者知识产权[white]的行为\n火力代码贴图可以作为你的[gold]起步工具，[white]但绝不能成为你的[gold]模组主力\n[sky]创新才是你的第一生产力！！！\n及时脱离套式发展，走上自己的独特道路！！！\n抄袭终会被玩家制裁！！！\n[green]———————————————[white]\n饱和火力在每隔两月必定更新一次，偶尔会有紧急修复\n进群第一件事核对你的mod版本！\n若发现bug或有疑问进群咨询\n[green]———————————————[white]\n模组历史更新内容将在他处记录\n此处只记录当个大版本（X.X.X）的所有更新项目\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[orange]\n待办项目：\n▲转型lava-长期项目▲\n战役持续更新\n———————————————[white]\n3.0.15更新：\n持续跟进英翻\n\n——————地图类——————\n▲新地图-军工河原\n断层带-世处bug修复\n实验种植地-增加矿位-补全了因导出失败丢失的初始建筑\n第五战区-bug修复-难度重调\n——————炮塔类——————\n为大部分闪电类弹药修正伤害\n为部分炮塔增加索敌优先级\n为大部分预热炮塔增加持续时间\n▲新炮塔-弹道发射阵列\n先驱-贴图重做\n流冲-子弹可定点\n零丁-贴图重做-特效适配\n厄兆-预瞄精确度提高\n死诏-预瞄精确度提高\n——————单位类——————\n特种单位-造价调整\n阔野管理中心-造价调整\n实验工厂-造价调整\n▲新单位-西木\n▲新单位-两栖装甲运载车\n▲新单位-自行榴弹炮\n▲新单位-冥燃\n//▲新单位-短吻鳄（？）\n偏袒-伤害重新分配\n罗汉-武器强化-增加对友方的超速\n重堂-武器强化\n亚龙-重做导弹\n——————状态类——————\n▲新状态-急冻\n▲新状态-失衡\n拆解-数据调整\n修复-数据调整\n"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1454,19 +1467,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
-    "repo": "RA2EXE/Saturation-Firepower",
-    "name": "饱和火力",
-    "version": "3.0.15",
-    "mod_id": "饱和火力",
-    "author": "RA2",
-    "lastUpdated": "2023-07-25T14:11:02Z",
-    "stars": 14,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "以压倒性火力，制衡天下之模组。\n模组一群：181108928\n或者前往Github查看火力最新状态\nB站随机直播\n饱和火力服务器保持常开，请装载最新模组进入\n———————————————\n这是最适合做模板的mod，你可以在许多新mod里找到本mod的身影\n每次贴图更新，都会将旧贴图作为公益物发至群内，有需自取\n[green]以下绿线中内容必读！！\n———————————————[white]\n代码开源可抄，但是[red]抄袭/改色/缝合[white]贴图属于[red]侵犯作者知识产权[white]的行为\n火力代码贴图可以作为你的[gold]起步工具，[white]但绝不能成为你的[gold]模组主力\n[sky]创新才是你的第一生产力！！！\n及时脱离套式发展，走上自己的独特道路！！！\n抄袭终会被玩家制裁！！！\n[green]———————————————[white]\n饱和火力在每隔两月必定更新一次，偶尔会有紧急修复\n进群第一件事核对你的mod版本！\n若发现bug或有疑问进群咨询\n[green]———————————————[white]\n模组历史更新内容将在他处记录\n此处只记录当个大版本（X.X.X）的所有更新项目\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[orange]\n待办项目：\n▲转型lava-长期项目▲\n战役持续更新\n———————————————[white]\n3.0.15更新：\n持续跟进英翻\n\n——————地图类——————\n▲新地图-军工河原\n断层带-世处bug修复\n实验种植地-增加矿位-补全了因导出失败丢失的初始建筑\n第五战区-bug修复-难度重调\n——————炮塔类——————\n为大部分闪电类弹药修正伤害\n为部分炮塔增加索敌优先级\n为大部分预热炮塔增加持续时间\n▲新炮塔-弹道发射阵列\n先驱-贴图重做\n流冲-子弹可定点\n零丁-贴图重做-特效适配\n厄兆-预瞄精确度提高\n死诏-预瞄精确度提高\n——————单位类——————\n特种单位-造价调整\n阔野管理中心-造价调整\n实验工厂-造价调整\n▲新单位-西木\n▲新单位-两栖装甲运载车\n▲新单位-自行榴弹炮\n▲新单位-冥燃\n//▲新单位-短吻鳄（？）\n偏袒-伤害重新分配\n罗汉-武器强化-增加对友方的超速\n重堂-武器强化\n亚龙-重做导弹\n——————状态类——————\n▲新状态-急冻\n▲新状态-失衡\n拆解-数据调整\n修复-数据调整\n"
   },
   {
     "repo": "Antlrr/best-texture-pack",
@@ -1909,6 +1909,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.1.9",
+    "mod_id": "pyra",
+    "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
+    "lastUpdated": "2023-07-26T08:08:15Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2431,6 +2444,19 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-05-23T03:15:26Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "Chrono-Heritage/Nucleardustry",
     "name": "Nucleardustry",
     "version": "v.1.3 beta v1",
@@ -2442,19 +2468,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.1.9",
-    "mod_id": "pyra",
-    "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-24T13:45:33Z",
-    "stars": 8,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "deltanedas/no",
@@ -2780,19 +2793,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "BetaMindy music assets. Does nothing on its own!"
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-05-23T03:15:26Z",
-    "stars": 7,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Sh1penfire/Endless-Rusting",
@@ -5694,19 +5694,6 @@
     "description": "A mod for my study."
   },
   {
-    "repo": "TagGamer555/OMEGAZERO",
-    "name": "OMEGAZERO",
-    "version": "003",
-    "mod_id": "kiky5",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-07-24T20:36:26Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
     "repo": "I-am-Fuse347/MindustryPlus",
     "name": "Mindustry Plus",
     "version": "-router",
@@ -5720,19 +5707,6 @@
     "description": "Random mindustry modification."
   },
   {
-    "repo": "floppa-coder/IronExtened",
-    "name": "Iron Extended",
-    "version": "0.3, wait HIM",
-    "mod_id": "iron",
-    "author": "Floppa",
-    "lastUpdated": "2023-07-26T03:31:29Z",
-    "stars": 2,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "LiuDai2011/Exploring",
     "name": "Exploring",
     "version": "0.1.8-alpha",
@@ -5744,6 +5718,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first MindustryJava mod"
+  },
+  {
+    "repo": "floppa-coder/IronExtened",
+    "name": "Iron Extended",
+    "version": "0.3",
+    "mod_id": "iron",
+    "author": "Floppa",
+    "lastUpdated": "2023-07-26T08:52:58Z",
+    "stars": 2,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "TagGamer555/OMEGAZERO",
+    "name": "OMEGAZERO",
+    "version": "003",
+    "mod_id": "kiky5",
+    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
+    "lastUpdated": "2023-07-26T09:52:07Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
     "repo": "4156/Infintory",
@@ -6173,6 +6173,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
+    "repo": "BlueTheCube/Interality",
+    "name": "Interality",
+    "version": "0.0.01",
+    "mod_id": "interality",
+    "author": "BlueTheCube",
+    "lastUpdated": "2023-07-26T09:19:51Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
