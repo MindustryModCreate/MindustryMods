@@ -377,19 +377,6 @@
     "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
   },
   {
-    "repo": "abomb4/super-cheat",
-    "name": "(v7) Invincible Cheat 无敌作弊",
-    "version": "3.1.0",
-    "mod_id": "Invincible Cheat Mod v7",
-    "author": "滞人",
-    "lastUpdated": "2022-10-06T05:52:38Z",
-    "stars": 48,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
     "repo": "PetruCHIOrus/lead_ind",
     "name": "Lead Industries",
     "version": "1.6",
@@ -414,6 +401,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
+  },
+  {
+    "repo": "abomb4/super-cheat",
+    "name": "(v7) Invincible Cheat 无敌作弊",
+    "version": "3.1.1",
+    "mod_id": "Invincible Cheat Mod v7",
+    "author": "滞人",
+    "lastUpdated": "2023-08-08T15:04:45Z",
+    "stars": 48,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -486,7 +486,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-07-27T20:27:59Z",
+    "lastUpdated": "2023-08-08T14:03:14Z",
     "stars": 36,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -897,19 +897,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "KayyAyeAre/Dusted-Lands",
-    "name": "Dusted Lands",
-    "version": "0.44",
-    "mod_id": "dusted-lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2023-03-15T15:31:25Z",
-    "stars": 22,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -1038,19 +1025,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
-    "repo": "sk7725/Testers",
-    "name": "Testers",
-    "version": "0.25",
-    "mod_id": "testers",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-06T09:25:43Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
     "repo": "deltanedas/ldb",
@@ -1285,32 +1259,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Attempt at prosperity."
-  },
-  {
-    "repo": "DaGamerFiles/classic-music",
-    "name": "<Mindustry> Classic Music",
-    "version": "2.0",
-    "mod_id": "classic-music",
-    "author": "DaGamerFiles",
-    "lastUpdated": "2022-05-12T09:25:35Z",
-    "stars": 15,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
-  },
-  {
-    "repo": "theangelurd/Additional-Content",
-    "name": " Additional  Content",
-    "version": "0.4.1",
-    "mod_id": "additional-content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-11-24T01:35:10Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "EmanuelG-Gaming/erekir-expansion",
@@ -1877,7 +1825,7 @@
     "version": "1.2.4",
     "mod_id": "pyra",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2023-08-08T09:22:05Z",
+    "lastUpdated": "2023-08-08T14:52:43Z",
     "stars": 10,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -3302,19 +3250,6 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
-  },
-  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3339,6 +3274,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
+  },
+  {
+    "repo": "Antlrr/thorium-thorium-walls",
+    "name": "Thorium Thorium Walls",
+    "version": "1.0",
+    "mod_id": "thoriumThoriumWalls",
+    "author": "Antlrr",
+    "lastUpdated": "2021-12-03T15:53:44Z",
+    "stars": 5,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "makes thorium walls pink"
   },
   {
     "repo": "uujuju1/creatiive-mod",
@@ -3515,7 +3463,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-08-07T13:40:43Z",
+    "lastUpdated": "2023-08-08T14:57:12Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3872,32 +3820,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
-  },
-  {
-    "repo": "Antlrr/thorium-thorium-walls",
-    "name": "Thorium Thorium Walls",
-    "version": "1.0",
-    "mod_id": "thoriumThoriumWalls",
-    "author": "Antlrr",
-    "lastUpdated": "2021-12-03T15:53:44Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "makes thorium walls pink"
-  },
-  {
-    "repo": "Mnemotechnician/total-chaos",
-    "name": "Total Chaos",
-    "version": "1.0",
-    "mod_id": "totalchaos",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-08T09:40:54Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shuffles both the texture atlas and the current bundle, providing an unforgettable gaming experience."
   },
   {
     "repo": "Alexander397172YT/Alex39-Mod",
@@ -4457,19 +4379,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
-  },
-  {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -5694,19 +5603,6 @@
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
-    "repo": "sova444/compressing-mod",
-    "name": "compression",
-    "version": "1",
-    "mod_id": "compression",
-    "author": "sovakovrik",
-    "lastUpdated": "2023-08-07T23:08:11Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.4",
@@ -5720,6 +5616,19 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod"
   },
   {
+    "repo": "sova444/compressing-mod",
+    "name": "compression",
+    "version": "1",
+    "mod_id": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-08-08T13:36:19Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5731,19 +5640,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "Volas171/nekodustry",
@@ -6175,30 +6071,30 @@
     "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "MindustryExtended13/MaterialEnergy2",
-    "name": "Material Energy 2",
-    "version": "1.0",
-    "mod_id": "me2",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-08T09:40:48Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "Antlrr/bitches",
     "name": "Getting Bitches",
     "version": "1.0",
     "mod_id": "bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-08T09:58:34Z",
+    "lastUpdated": "2023-08-08T10:28:10Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
+  },
+  {
+    "repo": "MindustryExtended13/MaterialEnergy2",
+    "name": "Material Energy 2",
+    "version": "1.0",
+    "mod_id": "me2",
+    "author": "TheEE145",
+    "lastUpdated": "2023-08-08T14:20:09Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -7046,19 +6942,6 @@
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   },
   {
-    "repo": "Keurhsevar-0977/Inception",
-    "name": "Inception",
-    "version": "1.0.0",
-    "mod_id": "incep",
-    "author": "Keurhsevar",
-    "lastUpdated": "2023-05-14T21:32:37Z",
-    "stars": 0,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "3 mercs who couldn't care less about the rules. 3 minutes to save the world. Our power are more than enough, or the planet will face it's demise."
-  },
-  {
     "repo": "YukuSOH/SCHALEsTaskMod",
     "name": "SCHALE'sTaskMod",
     "version": "0.1.1",
@@ -7070,6 +6953,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "xorblo-doitus/Erekir-Utility",
+    "name": "Erekir Utility",
+    "version": "0.3",
+    "mod_id": "erekir-utility",
+    "author": "xorblo-doitus",
+    "lastUpdated": "2023-05-25T17:33:36Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
     "repo": "Ph4ntom8979/mindustry-mod",
@@ -7202,16 +7098,29 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "XtarsAgency/Placeholder",
-    "name": "electricity with infinite damage",
-    "version": "v1.0",
-    "mod_id": "electricity",
-    "author": "[green]Fomahault aka xtars",
-    "lastUpdated": "2023-08-04T10:00:47Z",
+    "repo": "VN-Shar/MindustryToolMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-08-08T13:59:15Z",
     "stars": 0,
-    "minGameVersion": "136.1",
+    "minGameVersion": "140",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a beautifully drawn sprited unit with op power, good for testing your custom made maps"
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "westernat/Mindgical-MindustryMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-08-08T14:11:01Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
