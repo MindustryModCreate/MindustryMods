@@ -291,7 +291,7 @@
     "version": "0.3.1",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-10T14:14:13Z",
+    "lastUpdated": "2023-08-10T17:50:16Z",
     "stars": 70,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -486,7 +486,7 @@
     "version": "1.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-08-08T14:03:14Z",
+    "lastUpdated": "2023-08-10T18:33:41Z",
     "stars": 36,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -817,6 +817,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "ZielonyTrojkat/Frozen-Farlands",
+    "name": "Frozen Farlands",
+    "version": "1.2",
+    "mod_id": "moon mod",
+    "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
+    "lastUpdated": "2023-08-07T10:20:47Z",
+    "stars": 25,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1181,19 +1194,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
-  },
-  {
-    "repo": "fox1va-the-fox/schems",
-    "name": "Schemepack 400+",
-    "version": "1.2",
-    "mod_id": "shemepacbyobsidian",
-    "author": " Obsidian ",
-    "lastUpdated": "2023-06-21T07:39:07Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\n\nПри удалении схемпака, теги остаются.\n\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\n\nВсего здесь более чем 400 схем.\n\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал."
   },
   {
     "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
@@ -3528,7 +3528,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-08-09T15:36:49Z",
+    "lastUpdated": "2023-08-10T15:32:36Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5733,6 +5733,19 @@
     "description": ""
   },
   {
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.0",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2023-08-10T14:22:18Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5746,17 +5759,17 @@
     "description": "A jar mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
     "stars": 1,
     "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6180,25 +6193,12 @@
     "version": "1.0",
     "mod_id": "bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-10T10:15:01Z",
+    "lastUpdated": "2023-08-10T17:30:31Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
-  },
-  {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.0",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-08-10T14:22:18Z",
-    "stars": 1,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -7200,19 +7200,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that will add a new campaign."
-  },
-  {
-    "repo": "XtarsAgency/Placeholder",
-    "name": "electricity with infinite damage",
-    "version": "v1.0",
-    "mod_id": "electricity",
-    "author": "[green]Fomahault aka xtars",
-    "lastUpdated": "2023-08-04T10:00:47Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a beautifully drawn sprited unit with op power, good for testing your custom made maps"
   },
   {
     "repo": "westernat/Mindgical-MindustryMod",
