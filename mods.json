@@ -109,7 +109,7 @@
     "version": "1.1.2.3",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-08-04T14:28:51Z",
+    "lastUpdated": "2023-08-11T04:42:23Z",
     "stars": 121,
     "minGameVersion": "144.3",
     "hasScripts": false,
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-08-10T12:23:48Z",
+    "lastUpdated": "2023-08-11T00:47:57Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4433,6 +4433,19 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -5720,19 +5733,6 @@
     "description": "A jar mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "SkyDraco-8bit/mindustry-mod",
     "name": "a mod in developpement",
     "version": "1.0",
@@ -5900,6 +5900,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "skyksit/hellomod",
@@ -6154,7 +6167,7 @@
     "version": "1.0",
     "mod_id": "bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-10T17:30:31Z",
+    "lastUpdated": "2023-08-11T04:28:40Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7174,19 +7187,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that will add a new campaign."
-  },
-  {
-    "repo": "XtarsAgency/Placeholder",
-    "name": "electricity with infinite damage",
-    "version": "v1.0",
-    "mod_id": "electricity",
-    "author": "[green]Fomahault aka xtars",
-    "lastUpdated": "2023-08-04T10:00:47Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a beautifully drawn sprited unit with op power, good for testing your custom made maps"
   },
   {
     "repo": "westernat/Mindgical-MindustryMod",
