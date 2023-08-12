@@ -187,9 +187,9 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2023-08-11T22:06:44Z",
+    "lastUpdated": "2023-08-12T02:23:27Z",
     "stars": 85,
-    "minGameVersion": "140",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
@@ -949,6 +949,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2023-05-19T15:34:01Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.6",
@@ -973,19 +986,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2023-05-19T15:34:01Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -1339,6 +1339,19 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 15,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1428,19 +1441,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod template."
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.16",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 14,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "Antlrr/best-texture-pack",
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-08-11T00:47:57Z",
+    "lastUpdated": "2023-08-12T00:46:58Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3287,6 +3287,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4880,7 +4893,7 @@
     "version": "1",
     "mod_id": "compression",
     "author": "sovakovrik",
-    "lastUpdated": "2023-08-11T21:21:31Z",
+    "lastUpdated": "2023-08-12T02:25:21Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5408,19 +5421,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5731,19 +5731,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "Volas171/nekodustry",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-02-04T19:54:06Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6136,6 +6123,19 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
+    "repo": "azureplanet/zhxs-java",
+    "name": "《整活像素》",
+    "version": "beta0.01",
+    "mod_id": "aughhhh",
+    "author": "猫猫贴贴",
+    "lastUpdated": "2023-07-31T04:41:52Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
+  },
+  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.3",
@@ -6448,6 +6448,19 @@
     "description": "Building."
   },
   {
+    "repo": "Potato-Man1/ZyganMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2021-09-06T08:06:15Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "snack-ie/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -6747,6 +6760,19 @@
     "description": "This is my first mod, please be kind."
   },
   {
+    "repo": "Cynthion21x/prismaticExperimental",
+    "name": "Prismatic",
+    "version": "1.16.206.7 -BETA",
+    "mod_id": "prism",
+    "author": "cynthion21x & thekayperson",
+    "lastUpdated": "2022-08-20T11:28:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
     "repo": "ElectronicsArchiver/BreakingMindustry",
     "name": "Breaking Mindustry",
     "version": "0.0",
@@ -6786,6 +6812,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0.1",
+    "mod_id": "malwork",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-26T06:02:06Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
+  },
+  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6823,6 +6862,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "pepters/MinTorio",
+    "name": "MinTorio",
+    "version": "0.1",
+    "mod_id": "MinTorio",
+    "author": "c1219",
+    "lastUpdated": "2023-01-15T18:45:55Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
@@ -6955,6 +7007,19 @@
     "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
   },
   {
+    "repo": "zig-jeff/Supphiros",
+    "name": "Supphiros",
+    "version": "0.78",
+    "mod_id": "Supphiros",
+    "author": "zig-jeff",
+    "lastUpdated": "2023-04-27T19:44:54Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
     "repo": "Keurhsevar-0977/Inception",
     "name": "Inception",
     "version": "1.0.0",
@@ -7005,6 +7070,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
+  },
+  {
+    "repo": "wdfeer/MoarSilicon",
+    "name": "Moar Silicon",
+    "version": "1.0",
+    "mod_id": "moar-silicon",
+    "author": "wdfeer",
+    "lastUpdated": "2023-06-24T10:33:00Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about Silicon!"
   },
   {
     "repo": "992040/mindustry_better_mindustry",
