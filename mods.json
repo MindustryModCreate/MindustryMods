@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 288,
+    "stars": 289,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-11T06:53:03Z",
-    "stars": 255,
+    "stars": 256,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -110,7 +110,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-08-11T04:42:23Z",
-    "stars": 121,
+    "stars": 122,
     "minGameVersion": "144.3",
     "hasScripts": false,
     "hasJava": true,
@@ -187,7 +187,7 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2023-07-31T15:55:02Z",
+    "lastUpdated": "2023-08-11T22:06:44Z",
     "stars": 85,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2379,6 +2379,19 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
+    "repo": "RayanZ22/OP-Mod",
+    "name": "OP Things",
+    "version": "1.0",
+    "mod_id": "op-things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2022-12-25T21:59:53Z",
+    "stars": 8,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
+  },
+  {
     "repo": "GermantovA/Erida",
     "name": "Erida",
     "version": "1.0",
@@ -2689,19 +2702,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
-  },
-  {
-    "repo": "RayanZ22/OP-Mod",
-    "name": "OP Things",
-    "version": "1.0",
-    "mod_id": "op-things",
-    "author": "[green]ABÊ#8931",
-    "lastUpdated": "2022-12-25T21:59:53Z",
-    "stars": 7,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
     "repo": "paulieg626/AdminTool",
@@ -3287,19 +3287,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -4893,7 +4880,7 @@
     "version": "1",
     "mod_id": "compression",
     "author": "sovakovrik",
-    "lastUpdated": "2023-08-11T18:51:32Z",
+    "lastUpdated": "2023-08-11T21:21:31Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5681,19 +5668,6 @@
     "description": "Another total conversion PVP mod"
   },
   {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.0",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-08-10T14:22:18Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.4",
@@ -5720,6 +5694,19 @@
     "description": "My first MindustryJava mod"
   },
   {
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.0",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2023-08-11T20:14:46Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5744,6 +5731,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "Volas171/nekodustry",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-02-04T19:54:06Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6136,19 +6136,6 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
-    "repo": "azureplanet/zhxs-java",
-    "name": "《整活像素》",
-    "version": "beta0.01",
-    "mod_id": "aughhhh",
-    "author": "猫猫贴贴",
-    "lastUpdated": "2023-07-31T04:41:52Z",
-    "stars": 1,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
-  },
-  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.3",
@@ -6459,19 +6446,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
-  },
-  {
-    "repo": "Potato-Man1/ZyganMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-09-06T08:06:15Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "snack-ie/Esoterum-Solutions",
@@ -6812,19 +6786,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "TheMalaysianDude/malwork",
-    "name": "Malwork",
-    "version": "1.0.1",
-    "mod_id": "malwork",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2022-10-26T06:02:06Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Testing ground for java modding."
-  },
-  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6862,19 +6823,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "pepters/MinTorio",
-    "name": "MinTorio",
-    "version": "0.1",
-    "mod_id": "MinTorio",
-    "author": "c1219",
-    "lastUpdated": "2023-01-15T18:45:55Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: этот мод позволяет сделать миндастри в факторио."
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
@@ -7007,19 +6955,6 @@
     "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
   },
   {
-    "repo": "zig-jeff/Supphiros",
-    "name": "Supphiros",
-    "version": "0.78",
-    "mod_id": "Supphiros",
-    "author": "zig-jeff",
-    "lastUpdated": "2023-04-27T19:44:54Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
-  },
-  {
     "repo": "Keurhsevar-0977/Inception",
     "name": "Inception",
     "version": "1.0.0",
@@ -7070,19 +7005,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
-  },
-  {
-    "repo": "wdfeer/MoarSilicon",
-    "name": "Moar Silicon",
-    "version": "1.0",
-    "mod_id": "moar-silicon",
-    "author": "wdfeer",
-    "lastUpdated": "2023-06-24T10:33:00Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about Silicon!"
   },
   {
     "repo": "992040/mindustry_better_mindustry",
