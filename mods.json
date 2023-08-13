@@ -746,7 +746,7 @@
     "version": "1.2",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-08-12T17:49:13Z",
+    "lastUpdated": "2023-08-13T10:07:08Z",
     "stars": 26,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -1716,6 +1716,19 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "liplum/MindustryModTemplate",
+    "name": "%Repository%",
+    "version": "1.0",
+    "mod_id": "%Repository%",
+    "author": "%Owner%",
+    "lastUpdated": "2023-02-26T06:37:40Z",
+    "stars": 11,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "PKChaos/Ion",
     "name": "Ion (Empty)",
     "version": "0.0.0",
@@ -1844,19 +1857,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "liplum/MindustryModTemplate",
-    "name": "%Repository%",
-    "version": "1.0",
-    "mod_id": "%Repository%",
-    "author": "%Owner%",
-    "lastUpdated": "2023-02-26T06:37:40Z",
-    "stars": 10,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -3029,6 +3029,19 @@
     "description": "  Adds various things  "
   },
   {
+    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
+    "name": "[Kotlin] Mindustry Mod Template",
+    "version": "2.0",
+    "mod_id": "kmmt",
+    "author": "Мнемотехник",
+    "lastUpdated": "2023-03-26T19:54:41Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
+  },
+  {
     "repo": "CBMShadowGD/terrariacontentmod",
     "name": "Terarria Content Mod",
     "version": "1.3",
@@ -3456,19 +3469,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
-  },
-  {
-    "repo": "Mnemotechnician/kotlin-mindustry-mod-template",
-    "name": "[Kotlin] Mindustry Mod Template",
-    "version": "2.0",
-    "mod_id": "kmmt",
-    "author": "Мнемотехник",
-    "lastUpdated": "2023-03-26T19:54:41Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
     "repo": "Weathercold/extra-logging",
@@ -4849,19 +4849,6 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-08-03T11:57:02Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "PLsubfarm61/Project_B",
     "name": "Project B [Alpha]",
     "version": "0",
@@ -4899,6 +4886,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-08-13T05:50:32Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5694,19 +5694,6 @@
     "description": "My first MindustryJava mod"
   },
   {
-    "repo": "Nezerit6/Starry",
-    "name": "Starry",
-    "version": "0.1 alpha",
-    "mod_id": "sta",
-    "author": "Eternity, Player39, ...",
-    "lastUpdated": "2023-08-12T15:17:54Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "null"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.4",
@@ -5731,6 +5718,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
+  },
+  {
+    "repo": "Nezerit6/Starry",
+    "name": "Starry",
+    "version": "0.1 alpha",
+    "mod_id": "sta",
+    "author": "Eternity, Player39, ...",
+    "lastUpdated": "2023-08-13T09:39:39Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "null"
   },
   {
     "repo": "4156/Infintory",
