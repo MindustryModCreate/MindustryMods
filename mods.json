@@ -429,6 +429,19 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
+    "name": "MI2-Utilities Java",
+    "version": "1.4.2b",
+    "mod_id": "MI2-Utilities-Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-08-12T12:56:50Z",
+    "stars": 41,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
+  },
+  {
     "repo": "pixecoz/SchematicsPack",
     "name": "Schematics Pack",
     "version": "9.0",
@@ -453,19 +466,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
-    "name": "MI2-Utilities Java",
-    "version": "1.4.2b",
-    "mod_id": "MI2-Utilities-Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-08-12T12:56:50Z",
-    "stars": 40,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "Gdeft/portal",
@@ -1890,7 +1890,7 @@
     "version": "1.2.5",
     "mod_id": "pyra",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2023-08-13T03:06:46Z",
+    "lastUpdated": "2023-08-14T09:07:21Z",
     "stars": 10,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2436,7 +2436,7 @@
     "version": "1.0",
     "mod_id": "disintegration",
     "author": "zeutd",
-    "lastUpdated": "2023-08-10T01:16:02Z",
+    "lastUpdated": "2023-08-14T07:07:16Z",
     "stars": 8,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2730,17 +2730,17 @@
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
   },
   {
-    "repo": "K103908/Defense-Array",
-    "name": "Ruinous Defense Array",
-    "version": "3",
-    "mod_id": "Ruinous Defense Array",
-    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
-    "lastUpdated": "2023-02-13T13:26:39Z",
+    "repo": "sk7725/BetaMindyMusic",
+    "name": "BetaMindy Music",
+    "version": "1.0",
+    "mod_id": "betamindy-music",
+    "author": "sk7725",
+    "lastUpdated": "2023-03-01T12:54:43Z",
     "stars": 7,
-    "minGameVersion": "119",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
+    "description": "BetaMindy music assets. Does nothing on its own!"
   },
   {
     "repo": "Sh1penfire/Endless-Rusting",
@@ -4919,7 +4919,7 @@
     "version": "1.0",
     "mod_id": "me2",
     "author": "TheEE145",
-    "lastUpdated": "2023-08-13T19:00:12Z",
+    "lastUpdated": "2023-08-14T09:21:53Z",
     "stars": 3,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5655,19 +5655,6 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.6",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2023-08-06T16:53:48Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "Falkowitz/Medieval-Mindustry",
     "name": "Medieval Mindustry",
     "version": "0.1",
@@ -5733,19 +5720,6 @@
     "description": "My first MindustryJava mod"
   },
   {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.0",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-08-13T17:54:28Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.4",
@@ -5759,6 +5733,19 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod"
   },
   {
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.0",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2023-08-14T09:37:38Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5770,6 +5757,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6180,7 +6180,7 @@
     "version": "1.0",
     "mod_id": "bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-12T11:40:38Z",
+    "lastUpdated": "2023-08-14T10:02:58Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7174,6 +7174,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that will add a new campaign."
+  },
+  {
+    "repo": "XtarsAgency/Placeholder",
+    "name": "electricity with infinite damage",
+    "version": "v1.0",
+    "mod_id": "electricity",
+    "author": "[green]Fomahault aka xtars",
+    "lastUpdated": "2023-08-04T10:00:47Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a beautifully drawn sprited unit with op power, good for testing your custom made maps"
   },
   {
     "repo": "westernat/Mindgical-MindustryMod",
