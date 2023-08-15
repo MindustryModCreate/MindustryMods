@@ -149,7 +149,7 @@
     "mod_id": "Heavy Armaments",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2022-02-08T09:34:31Z",
-    "stars": 95,
+    "stars": 96,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -291,7 +291,7 @@
     "version": "0.3.1",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-14T02:16:18Z",
+    "lastUpdated": "2023-08-15T15:41:09Z",
     "stars": 71,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -447,7 +447,7 @@
     "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2023-08-12T13:15:20Z",
+    "lastUpdated": "2023-08-15T19:24:08Z",
     "stars": 41,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -928,7 +928,7 @@
     "version": "1.8.2",
     "mod_id": "random-mindustry",
     "author": "sporrus",
-    "lastUpdated": "2023-08-14T02:49:56Z",
+    "lastUpdated": "2023-08-15T17:35:45Z",
     "stars": 22,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -4459,19 +4459,6 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4914,19 +4901,6 @@
     "description": ""
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-08-13T05:50:32Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "Nezerit6/Starry",
     "name": "Starry",
     "version": "0.1 alpha",
@@ -4953,12 +4927,25 @@
     "description": "Additional functionality"
   },
   {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-08-15T17:12:29Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
+  },
+  {
     "repo": "AForgetfulness/TowerDefense",
     "name": "Tower Defense",
     "version": "0.2",
     "mod_id": "towerdefense",
     "author": "Forgetfulness",
-    "lastUpdated": "2023-08-15T13:51:41Z",
+    "lastUpdated": "2023-08-15T18:25:15Z",
     "stars": 3,
     "minGameVersion": "140.1",
     "hasScripts": false,
@@ -5016,19 +5003,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -6201,6 +6175,19 @@
     "description": "adds bitches and some other things"
   },
   {
+    "repo": "Xaphironius/Yellow-Dawn-Expansion-Mod",
+    "name": "Yellow Dawn: Expansion Mod",
+    "version": "0.1",
+    "mod_id": "yellowdawn-mod",
+    "author": "Xaphiron",
+    "lastUpdated": "2023-08-15T17:17:23Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Expansion mod. Alpha stage."
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -7226,18 +7213,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "Xaphironius/Yellow-Dawn-Expansion-Mod",
-    "name": "Yellow Dawn: Expansion Mod",
-    "version": "0.1",
-    "mod_id": "yellowdawn-mod",
-    "author": "Xaphiron",
-    "lastUpdated": "2023-08-14T05:05:18Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Expansion mod. Alpha stage."
   }
 ]
