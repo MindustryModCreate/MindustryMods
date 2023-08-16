@@ -273,6 +273,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "Aeyama-Mod/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.3.1",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-08-15T15:41:09Z",
+    "stars": 72,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
+  },
+  {
     "repo": "3Snake3/Sapphirium",
     "name": "Sapphirium",
     "version": "16.0",
@@ -284,19 +297,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
-    "repo": "Aeyama-Mod/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.3.1",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-15T15:41:09Z",
-    "stars": 71,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
   },
   {
     "repo": "What42Pizza/Mindustry-Production-Mod",
@@ -2098,7 +2098,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-08-15T12:19:39Z",
+    "lastUpdated": "2023-08-16T00:48:14Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2195,19 +2195,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is dead, we have killed it."
-  },
-  {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "version": "0.6",
-    "mod_id": "random-stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-11-17T23:51:45Z",
-    "stars": 8,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "7rodo/Strawberry",
@@ -3348,7 +3335,7 @@
     "author": "Antlrr",
     "lastUpdated": "2021-12-03T15:53:44Z",
     "stars": 5,
-    "minGameVersion": "130",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "makes thorium walls pink"
@@ -4901,19 +4888,6 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
-    "repo": "sova444/compressing-mod",
-    "name": "compression",
-    "version": "1",
-    "mod_id": "compression",
-    "author": "sovakovrik",
-    "lastUpdated": "2023-08-12T20:00:21Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "Nezerit6/Starry",
     "name": "Starry",
     "version": "0.1 alpha",
@@ -4964,6 +4938,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod with tower defense maps and objects"
+  },
+  {
+    "repo": "sova444/compressing-mod",
+    "name": "compression",
+    "version": "1",
+    "mod_id": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-08-16T04:59:28Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5772,19 +5759,6 @@
     "description": "A jar mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "SkyDraco-8bit/mindustry-mod",
     "name": "a mod in developpement",
     "version": "1.0",
@@ -6032,6 +6006,19 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "NemesisTheory/Reach-Soundtracks",
+    "name": "Reach Soundtracks",
+    "version": "1.0",
+    "mod_id": "reach-soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-04-07T03:49:26Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from Halo: Reach."
+  },
+  {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
     "name": "TextureTweaks (Erekir)",
     "version": "1.0",
@@ -6175,6 +6162,19 @@
     "description": "adds bitches and some other things"
   },
   {
+    "repo": "MindustryExtended13/GeoCorpIndustries",
+    "name": "GeoCorp Industries",
+    "version": "1.0",
+    "mod_id": "gmod",
+    "author": "TheEE145",
+    "lastUpdated": "2023-08-15T12:09:06Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that adds serpulo industry."
+  },
+  {
     "repo": "Xaphironius/Yellow-Dawn-Expansion-Mod",
     "name": "Yellow Dawn: Expansion Mod",
     "version": "0.1",
@@ -6251,6 +6251,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
+  },
+  {
+    "repo": "LottieVixen/example-resprite-mod",
+    "name": "Resprite Example",
+    "version": "0.1",
+    "mod_id": "example-resprite-mod",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-17T06:47:19Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An example to help respriting"
   },
   {
     "repo": "svan9/SVR",
@@ -6331,6 +6344,19 @@
     "description": "Adds moon"
   },
   {
+    "repo": "qwertyQ1234-programming/QQ-Mod",
+    "name": "QQ-Mod",
+    "version": "1.0.1b alpha [bugfixy]",
+    "mod_id": "QQ-Mod/Poland",
+    "author": "QwertyQ1234",
+    "lastUpdated": "2021-04-07T17:04:02Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Niezależny mod kompatybilny z G-Modem"
+  },
+  {
     "repo": "jgonc19/Mindustry_Mods",
     "name": "Pointer",
     "version": "2.4.2",
@@ -6357,6 +6383,19 @@
     "description": "mod for Mindustry"
   },
   {
+    "repo": "FreezeMandu/mintchocotexture",
+    "name": "Mint Choco Texture",
+    "version": "1.01",
+    "mod_id": "mintchocotexture",
+    "author": "Mandu",
+    "lastUpdated": "2021-06-05T11:29:19Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "gamerred/killer-drills",
     "name": "Killer Drill",
     "version": "3",
@@ -6381,6 +6420,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The most ambitious mod.\nNew features: \n\nNew blocks: \n\nNew items: \n\nNew liquids: \n\nCreated with love, WindustryTeam"
+  },
+  {
+    "repo": "haywyre124/Diamond-Mod-Naub",
+    "name": "Diamond-Mod-Naub",
+    "version": "1.0",
+    "mod_id": "Diamond Mod",
+    "author": "haywyre124",
+    "lastUpdated": "2021-08-15T21:12:02Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
     "repo": "TheSmuzy/SlideShowMod",
@@ -6448,6 +6500,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "Yunatexya/PlusAlfer",
+    "name": "PlusAlfer",
+    "version": "1.0",
+    "mod_id": "PlusAlfer",
+    "author": "YuNA彁",
+    "lastUpdated": "2021-10-27T16:36:38Z",
+    "stars": 0,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add a few content."
+  },
+  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -6485,6 +6550,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A vanilla Mindustry Enhancement."
+  },
+  {
+    "repo": "Bergiu/HyperProcessor",
+    "name": "Hyper Processor",
+    "version": "1.0",
+    "mod_id": "hp",
+    "author": "Bergiu",
+    "lastUpdated": "2021-12-02T12:57:43Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds faster and better logic blocks"
   },
   {
     "repo": "BalaM314/mindustry-magic-mod-dead",
@@ -6589,6 +6667,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
+  },
+  {
+    "repo": "sebmeister2077/Advanced-Refinement",
+    "name": "Advanced refinement",
+    "version": "2.6.0",
+    "mod_id": "advanced-refinement",
+    "author": "sebmeister2077",
+    "lastUpdated": "2022-02-18T19:06:57Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Still in development(only started since Ian 2022)"
   },
   {
     "repo": "AHRumjungle/Matter",
@@ -7083,19 +7174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that will add a new campaign."
-  },
-  {
-    "repo": "XtarsAgency/Placeholder",
-    "name": "electricity with infinite damage",
-    "version": "v1.0",
-    "mod_id": "electricity",
-    "author": "[green]Fomahault aka xtars",
-    "lastUpdated": "2023-08-04T10:00:47Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a beautifully drawn sprited unit with op power, good for testing your custom made maps"
   },
   {
     "repo": "westernat/Mindgical-MindustryMod",
