@@ -278,7 +278,7 @@
     "version": "0.3.1",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-15T15:41:09Z",
+    "lastUpdated": "2023-08-16T20:24:25Z",
     "stars": 72,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1131,6 +1131,19 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.8.1",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "FlinTyX/AutoResearch",
     "name": "Auto Research",
     "version": "Algorithm 1.2",
@@ -1326,6 +1339,19 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 15,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1417,6 +1443,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "Ferlern/extended-UI-v7",
+    "name": "extended UI",
+    "version": "0.78",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2023-08-11T13:22:00Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
+  },
+  {
     "repo": "Antlrr/best-texture-pack",
     "name": "The Best Texture Pack",
     "version": "0.3",
@@ -1480,19 +1519,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.78",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2023-08-11T13:22:00Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2327,6 +2353,19 @@
     "description": "Adds some utilities for mod developers.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "Slava0135/reFine",
+    "name": "reFine",
+    "version": "3.1",
+    "mod_id": "refine",
+    "author": "Slava0135",
+    "lastUpdated": "2022-11-01T16:58:58Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that alters ore processing (not designed for campaign!)"
+  },
+  {
     "repo": "gorodmi/shapez",
     "name": "Shapez",
     "version": "1.0",
@@ -2574,6 +2613,19 @@
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
+    "repo": "breadbug23/Somas",
+    "name": "Somas",
+    "version": "1.4",
+    "mod_id": "somas",
+    "author": "piksqu",
+    "lastUpdated": "2022-03-04T05:58:56Z",
+    "stars": 7,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
+  },
+  {
     "repo": "RebornTrack970/GigaFortSector",
     "name": "GigaFort Sector",
     "version": "1.0",
@@ -2626,6 +2678,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "uujuju1/Monolith",
+    "name": "Flow",
+    "version": "v0.3",
+    "mod_id": "flow",
+    "author": "Uujuju",
+    "lastUpdated": "2022-11-10T22:40:30Z",
+    "stars": 7,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Stuff."
+  },
+  {
     "repo": "sleepnevercomes/everything-is-grey",
     "name": "EVERYTHING IS GREY",
     "version": "0.05a",
@@ -2652,17 +2717,30 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "sk7725/BetaMindyMusic",
-    "name": "BetaMindy Music",
-    "version": "1.0",
-    "mod_id": "betamindy-music",
-    "author": "sk7725",
-    "lastUpdated": "2023-03-01T12:54:43Z",
+    "repo": "EB-wilson/modPacker",
+    "name": "Mod Packer",
+    "version": "1.2",
+    "mod_id": "mod-packer",
+    "author": "EBwilson",
+    "lastUpdated": "2023-01-05T10:39:51Z",
     "stars": 7,
-    "minGameVersion": "136",
+    "minGameVersion": "140.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "version": "3",
+    "mod_id": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2023-02-13T13:26:39Z",
+    "stars": 7,
+    "minGameVersion": "119",
     "hasScripts": false,
     "hasJava": false,
-    "description": "BetaMindy music assets. Does nothing on its own!"
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "Sh1penfire/Endless-Rusting",
@@ -3237,6 +3315,19 @@
     "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
+  },
+  {
     "repo": "Antlrr/dryehm-corvus",
     "name": "Dryehm Corvus",
     "version": "1.0",
@@ -3393,19 +3484,6 @@
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
   },
   {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.0.2",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-04-13T18:04:30Z",
-    "stars": 5,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "aawwaaa/aimClient",
     "name": "AimClient",
     "version": "1.0.0",
@@ -3469,6 +3547,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.0.2",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-08-16T22:31:52Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4017,6 +4108,19 @@
     "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
+    "repo": "error-27/Relics-Mod",
+    "name": "Relics",
+    "version": "0.2",
+    "mod_id": "relics-mod",
+    "author": "[Error_27]",
+    "lastUpdated": "2023-03-18T23:32:30Z",
+    "stars": 4,
+    "minGameVersion": "140.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
     "repo": "AzhurniyBaklan/Advanced-factories",
     "name": "Advanced Factories",
     "version": "1.0",
@@ -4353,6 +4457,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+  },
+  {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -5395,19 +5512,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Weathercold/mindustry-clj-mod-template",
-    "name": "Clojure Mod Template",
-    "version": "0.1.0",
-    "mod_id": "example-clojure-mod",
-    "author": "Weathercold",
-    "lastUpdated": "2023-04-13T17:12:39Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Clojure mod template."
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.2.198964",
@@ -5642,6 +5746,19 @@
     "description": "My first MindustryJava mod"
   },
   {
+    "repo": "Weathercold/mindustry-clj-mod-template",
+    "name": "Clojure Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-clojure-mod",
+    "author": "Weathercold",
+    "lastUpdated": "2023-08-16T21:58:18Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Clojure mod template."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -5653,19 +5770,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
-  },
-  {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -5902,6 +6006,19 @@
     "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "version": "3.1",
+    "mod_id": "Endrium mod 2",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2023-03-27T18:38:31Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
     "repo": "NemesisTheory/Reach-Soundtracks",
     "name": "Reach Soundtracks",
     "version": "1.0",
@@ -6019,6 +6136,19 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
+    "repo": "azureplanet/zhxs-java",
+    "name": "《整活像素》",
+    "version": "beta0.01",
+    "mod_id": "aughhhh",
+    "author": "猫猫贴贴",
+    "lastUpdated": "2023-07-31T04:41:52Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
+  },
+  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.3",
@@ -6056,19 +6186,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
-  },
-  {
-    "repo": "MindustryExtended13/GeoCorpIndustries",
-    "name": "GeoCorp Industries",
-    "version": "1.0",
-    "mod_id": "gmod",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-16T18:48:49Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6357,6 +6474,19 @@
     "description": "Building."
   },
   {
+    "repo": "Potato-Man1/ZyganMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2021-09-06T08:06:15Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "snack-ie/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -6472,6 +6602,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
+  },
+  {
+    "repo": "dashmaster-c/DS-Industry",
+    "name": "DS Industry",
+    "version": "0.2",
+    "mod_id": "DS-Industry",
+    "author": "dashmaster",
+    "lastUpdated": "2022-01-10T08:40:48Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "pankiwi/Project-Eclipse",
@@ -6604,6 +6747,19 @@
     "description": "There is no suitable profile for the time being."
   },
   {
+    "repo": "Sheep-Hugger/Colonization-industry",
+    "name": "Colonization & industry",
+    "version": "0.25",
+    "mod_id": "Colonization & industry",
+    "author": "Radiance of Dove",
+    "lastUpdated": "2022-06-24T15:45:53Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "To be filled"
+  },
+  {
     "repo": "ElectronicsArchiver/the-new-tech-mod",
     "name": "< The new tech mod >",
     "version": "1.0",
@@ -6669,6 +6825,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "TheMalaysianDude/malwork",
+    "name": "Malwork",
+    "version": "1.0.1",
+    "mod_id": "malwork",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2022-10-26T06:02:06Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Testing ground for java modding."
+  },
+  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -6708,6 +6877,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "pepters/MinTorio",
+    "name": "MinTorio",
+    "version": "0.1",
+    "mod_id": "MinTorio",
+    "author": "c1219",
+    "lastUpdated": "2023-01-15T18:45:55Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: этот мод позволяет сделать миндастри в факторио."
+  },
+  {
     "repo": "woodjecket/MindustryScalaModTemplate",
     "name": "Scala Mod Template",
     "version": "1.0",
@@ -6719,6 +6901,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Scala mod template."
+  },
+  {
+    "repo": "Weathercold/Haxefrog",
+    "name": "Haxefrog",
+    "version": "1.0.0-SNAPSHOT",
+    "mod_id": "haxefrog",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-27T01:22:57Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Do not try to use Haxe at home"
   },
   {
     "repo": "Def-Try/Mindustry-Infmap",
@@ -6799,6 +6994,19 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
+    "repo": "bttodi/Pandemonium",
+    "name": "Pandemonium",
+    "version": "No version provided.",
+    "mod_id": "pandemonium",
+    "author": "bttodi",
+    "lastUpdated": "2023-04-21T00:27:29Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
+  },
+  {
     "repo": "zig-jeff/Supphiros",
     "name": "Supphiros",
     "version": "0.78",
@@ -6862,6 +7070,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
+  },
+  {
+    "repo": "wdfeer/MoarSilicon",
+    "name": "Moar Silicon",
+    "version": "1.0",
+    "mod_id": "moar-silicon",
+    "author": "wdfeer",
+    "lastUpdated": "2023-06-24T10:33:00Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about Silicon!"
   },
   {
     "repo": "992040/mindustry_better_mindustry",
@@ -6992,5 +7213,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.0",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-16T22:22:56Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "empty"
   }
 ]
