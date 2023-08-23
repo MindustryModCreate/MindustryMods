@@ -213,12 +213,25 @@
     "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-08-22T04:02:08Z",
+    "lastUpdated": "2023-08-23T04:37:08Z",
     "stars": 83,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "Aeyama-Mod/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.3.1",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-08-21T23:23:30Z",
+    "stars": 76,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
   },
   {
     "repo": "Fresh791/Fading-Revelations",
@@ -232,19 +245,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
-    "repo": "Aeyama-Mod/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.3.1",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-21T23:23:30Z",
-    "stars": 75,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
   },
   {
     "repo": "z0mbiesrock/Diamond-Ore",
@@ -1214,7 +1214,7 @@
     "version": "1.1-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2023-08-22T13:50:09Z",
+    "lastUpdated": "2023-08-23T04:38:23Z",
     "stars": 17,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-08-22T12:20:24Z",
+    "lastUpdated": "2023-08-23T00:48:36Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3146,6 +3146,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "AForgetfulness/TowerDefense",
+    "name": "Tower Defense",
+    "version": "0.2",
+    "mod_id": "towerdefense",
+    "author": "Forgetfulness",
+    "lastUpdated": "2023-08-16T09:13:54Z",
+    "stars": 6,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod with tower defense maps and objects"
+  },
+  {
     "repo": "Antlrr/thorium-thorium-walls",
     "name": "Thorium Thorium Walls",
     "version": "1.0",
@@ -3560,19 +3573,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
-    "repo": "AForgetfulness/TowerDefense",
-    "name": "Tower Defense",
-    "version": "0.2",
-    "mod_id": "towerdefense",
-    "author": "Forgetfulness",
-    "lastUpdated": "2023-08-16T09:13:54Z",
-    "stars": 5,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod with tower defense maps and objects"
   },
   {
     "repo": "Weathercold/extra-logging",
@@ -5629,6 +5629,19 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-08-06T16:53:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "Falkowitz/Medieval-Mindustry",
     "name": "Medieval Mindustry",
     "version": "0.1",
@@ -6160,19 +6173,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
-  },
-  {
-    "repo": "MindustryExtended13/GeoCorpIndustries",
-    "name": "GeoCorp Industries",
-    "version": "1.0",
-    "mod_id": "gmod",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-22T19:53:57Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "Nikisos/TheBattleMod",
