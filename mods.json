@@ -201,7 +201,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-08-10T23:00:11Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -821,10 +821,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "1.8.4",
+    "version": "1.8.6",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-08-17T16:43:54Z",
+    "lastUpdated": "2023-08-23T09:47:55Z",
     "stars": 25,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -1214,7 +1214,7 @@
     "version": "1.1-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2023-08-23T04:38:23Z",
+    "lastUpdated": "2023-08-23T05:34:56Z",
     "stars": 17,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5655,19 +5655,6 @@
     "description": "Another total conversion PVP mod"
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.4",
-    "mod_id": "olupis",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-08-13T23:37:58Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod"
-  },
-  {
     "repo": "Weathercold/mindustry-clj-mod-template",
     "name": "Clojure Mod Template",
     "version": "0.1.0",
@@ -5770,6 +5757,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that will add a new campaign."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.4",
+    "mod_id": "olupis",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-08-23T09:56:19Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod"
   },
   {
     "repo": "4156/Infintory",
@@ -6173,6 +6173,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
+  },
+  {
+    "repo": "MindustryExtended13/GeoCorpIndustries",
+    "name": "GeoCorp Industries",
+    "version": "1.0",
+    "mod_id": "gmod",
+    "author": "TheEE145",
+    "lastUpdated": "2023-08-22T19:53:57Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "Nikisos/TheBattleMod",
