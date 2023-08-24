@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-23T12:32:15Z",
-    "stars": 262,
+    "stars": 263,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -1092,6 +1092,19 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantria",
+    "version": "0.9.1",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina, Gander & RouterXdd",
+    "lastUpdated": "2023-06-17T21:17:56Z",
+    "stars": 18,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -1181,19 +1194,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantria",
-    "version": "0.9.1",
-    "mod_id": "Tantros-mod",
-    "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-06-17T21:17:56Z",
-    "stars": 17,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
     "repo": "WMF-Industries/ExpandedIndustries",
@@ -1612,6 +1612,19 @@
     "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
   },
   {
+    "repo": "HPL-Team/Project-HPL",
+    "name": "Project HLP",
+    "version": "0.1.2A",
+    "mod_id": "hpl",
+    "author": "HPL Team",
+    "lastUpdated": "2023-08-23T10:59:36Z",
+    "stars": 12,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1753,19 +1766,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
-  },
-  {
-    "repo": "HPL-Team/Project-HPL",
-    "name": "Project HLP",
-    "version": "0.1.2A",
-    "mod_id": "hpl",
-    "author": "HPL Team",
-    "lastUpdated": "2023-08-23T10:59:36Z",
-    "stars": 11,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "deltanedas/cliff",
@@ -5473,19 +5473,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5564,6 +5551,19 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
+    "repo": "Yoru-Kitsune/Beskar-OUTDATED",
+    "name": "Beskar (OUTDATED)",
+    "version": "0.0.7",
+    "mod_id": "beskar-mod",
+    "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
+    "lastUpdated": "2023-07-09T16:47:34Z",
+    "stars": 2,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Updated mod is work in progress)"
+  },
+  {
     "repo": "UnionofSovietSocialistRepublics/Magnification",
     "name": "Magnification",
     "version": "0.1",
@@ -5614,6 +5614,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "7003Mars/bocchi-the-shield",
+    "name": "Bocchi shield",
+    "version": "1.0",
+    "mod_id": "bocchi",
+    "author": "mars",
+    "lastUpdated": "2023-08-03T12:24:05Z",
+    "stars": 2,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-08-06T16:53:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "Falkowitz/Medieval-Mindustry",
@@ -5811,19 +5837,6 @@
     "description": "Epic mindustry mod"
   },
   {
-    "repo": "MissAmity/Singabana",
-    "name": "Singabana",
-    "version": "0.1",
-    "mod_id": "singabana-mod",
-    "author": "Cato-1",
-    "lastUpdated": "2021-10-22T07:03:20Z",
-    "stars": 1,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 Mod that add modded maps"
-  },
-  {
     "repo": "Serg230/Overdustry",
     "name": "Overdustry",
     "version": "2.0 — production update",
@@ -5965,19 +5978,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
-  },
-  {
-    "repo": "virat2010/SomeVanillaExtension",
-    "name": "VR's Mod",
-    "version": "v1.0",
-    "mod_id": "VR's Mod",
-    "author": "VR",
-    "lastUpdated": "2023-03-17T20:04:34Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -6474,19 +6474,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Yunatexya/PlusAlfer",
-    "name": "PlusAlfer",
-    "version": "1.0",
-    "mod_id": "PlusAlfer",
-    "author": "YuNA彁",
-    "lastUpdated": "2021-10-27T16:36:38Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add a few content."
-  },
-  {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
     "name": "Mindustrial Thermodynamics",
     "version": "1.0",
@@ -6968,32 +6955,6 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
-    "repo": "bttodi/Pandemonium",
-    "name": "Pandemonium",
-    "version": "No version provided.",
-    "mod_id": "pandemonium",
-    "author": "bttodi",
-    "lastUpdated": "2023-04-21T00:27:29Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
-  },
-  {
-    "repo": "zig-jeff/Supphiros",
-    "name": "Supphiros",
-    "version": "0.78",
-    "mod_id": "Supphiros",
-    "author": "zig-jeff",
-    "lastUpdated": "2023-04-27T19:44:54Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
-  },
-  {
     "repo": "Keurhsevar-0977/Inception",
     "name": "Inception",
     "version": "1.0.0",
@@ -7122,19 +7083,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Weapons."
-  },
-  {
-    "repo": "YmStrip/galaxy-logistics-center",
-    "name": "Galaxy Logistics Center",
-    "version": "1.0",
-    "mod_id": "galaxy-logistics-center",
-    "author": "YmStrip",
-    "lastUpdated": "2023-08-01T11:11:57Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "星系物流系统"
   },
   {
     "repo": "westernat/Mindgical-MindustryMod",
