@@ -481,19 +481,6 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
-    "repo": "liplum/MultiCrafterLib",
-    "name": "MultiCrafter Lib",
-    "version": "1.0",
-    "mod_id": "multi-crafter",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-08-13T12:48:08Z",
-    "stars": 36,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -544,6 +531,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
+  },
+  {
+    "repo": "liplum/MultiCrafterLib",
+    "name": "MultiCrafter Lib",
+    "version": "1.0",
+    "mod_id": "multi-crafter",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2023-08-13T12:48:08Z",
+    "stars": 34,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "younggam/multi-lib",
@@ -1903,7 +1903,7 @@
     "version": "1.2.6",
     "mod_id": "pyra",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2023-08-24T13:43:02Z",
+    "lastUpdated": "2023-08-24T16:41:56Z",
     "stars": 10,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5421,19 +5421,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "mrybs/dasuas",
-    "name": "Dasuas",
-    "version": "1.0",
-    "mod_id": "dasuas",
-    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nLpSts325 - pixelartist\nproneslow - pixelartist",
-    "lastUpdated": "2023-01-19T14:43:20Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dausas Project mod"
-  },
-  {
     "repo": "BlackDeluxeCat/SettingSweep",
     "name": "Setting Sweep",
     "version": "1.0",
@@ -5978,6 +5965,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "대회용 모드 0.7"
+  },
+  {
+    "repo": "mrybs/dasuas",
+    "name": "Dasuas",
+    "version": "1.0",
+    "mod_id": "dasuas",
+    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nLpSts325 - pixelartist\nproneslow - pixelartist",
+    "lastUpdated": "2023-01-19T14:43:20Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dausas Project mod"
   },
   {
     "repo": "UAdustry/Frozen-technologies",
@@ -7215,19 +7215,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.0",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-16T22:22:56Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "empty"
-  },
-  {
     "repo": "MrL1d4b/test_mindustry_mod",
     "name": "Test Mod",
     "version": "0.1",
@@ -7252,5 +7239,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.0",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-24T18:24:31Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "empty"
   }
 ]
