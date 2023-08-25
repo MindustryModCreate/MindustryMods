@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-08-06T22:20:29Z",
+    "lastUpdated": "2023-08-25T00:54:30Z",
     "stars": 273,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -3198,19 +3198,6 @@
     "description": "1. 大幅优化了代码高亮性能\n2. 添加监视功能"
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3521,6 +3508,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
+  },
+  {
+    "repo": "aawwaaa/aimClient",
+    "name": "AimClient",
+    "version": "1.0.0",
+    "mod_id": "aimclient",
+    "author": "awa",
+    "lastUpdated": "2023-04-21T14:04:03Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "for Aim"
   },
   {
     "repo": "MEEPofFaith/tranqol",
@@ -5447,6 +5447,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5811,19 +5824,6 @@
     "description": "Epic mindustry mod"
   },
   {
-    "repo": "MissAmity/Singabana",
-    "name": "Singabana",
-    "version": "0.1",
-    "mod_id": "singabana-mod",
-    "author": "Cato-1",
-    "lastUpdated": "2021-10-22T07:03:20Z",
-    "stars": 1,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 Mod that add modded maps"
-  },
-  {
     "repo": "Serg230/Overdustry",
     "name": "Overdustry",
     "version": "2.0 — production update",
@@ -5941,19 +5941,6 @@
     "description": "대회용 모드 0.7"
   },
   {
-    "repo": "UAdustry/Frozen-technologies",
-    "name": "Frozen technologies",
-    "version": "0.1",
-    "mod_id": "ft",
-    "author": "IvanDem",
-    "lastUpdated": "2023-01-27T17:55:19Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WIP mod"
-  },
-  {
     "repo": "CalebMonkey/Mindustry-Taller",
     "name": "Mindustry Taller",
     "version": "v0.1",
@@ -5965,19 +5952,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
-  },
-  {
-    "repo": "virat2010/SomeVanillaExtension",
-    "name": "VR's Mod",
-    "version": "v1.0",
-    "mod_id": "VR's Mod",
-    "author": "VR",
-    "lastUpdated": "2023-03-17T20:04:34Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
     "repo": "VaporSpace2/endrium-2",
@@ -6147,6 +6121,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
+  },
+  {
+    "repo": "MindustryExtended13/GeoCorpIndustries",
+    "name": "GeoCorp Industries",
+    "version": "1.0",
+    "mod_id": "gmod",
+    "author": "TheEE145",
+    "lastUpdated": "2023-08-22T19:53:57Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "Zeniku/Caeruleum",
@@ -6357,19 +6344,6 @@
     "description": "mod for Mindustry"
   },
   {
-    "repo": "FreezeMandu/mintchocotexture",
-    "name": "Mint Choco Texture",
-    "version": "1.01",
-    "mod_id": "mintchocotexture",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-05T11:29:19Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "gamerred/killer-drills",
     "name": "Killer Drill",
     "version": "3",
@@ -6472,19 +6446,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "Yunatexya/PlusAlfer",
-    "name": "PlusAlfer",
-    "version": "1.0",
-    "mod_id": "PlusAlfer",
-    "author": "YuNA彁",
-    "lastUpdated": "2021-10-27T16:36:38Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add a few content."
   },
   {
     "repo": "lantice3720/MIndustrial-Thermodynamics",
@@ -6968,6 +6929,32 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
+    "repo": "bttodi/Pandemonium",
+    "name": "Pandemonium",
+    "version": "No version provided.",
+    "mod_id": "pandemonium",
+    "author": "bttodi",
+    "lastUpdated": "2023-04-21T00:27:29Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
+  },
+  {
+    "repo": "zig-jeff/Supphiros",
+    "name": "Supphiros",
+    "version": "0.78",
+    "mod_id": "Supphiros",
+    "author": "zig-jeff",
+    "lastUpdated": "2023-04-27T19:44:54Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
     "repo": "Keurhsevar-0977/Inception",
     "name": "Inception",
     "version": "1.0.0",
@@ -7098,19 +7085,6 @@
     "description": "Weapons."
   },
   {
-    "repo": "YmStrip/galaxy-logistics-center",
-    "name": "Galaxy Logistics Center",
-    "version": "1.0",
-    "mod_id": "galaxy-logistics-center",
-    "author": "YmStrip",
-    "lastUpdated": "2023-08-01T11:11:57Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "星系物流系统"
-  },
-  {
     "repo": "westernat/Mindgical-MindustryMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7161,19 +7135,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this is a modding test"
-  },
-  {
-    "repo": "Xilites/MindustryMOD",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-08-24T14:24:10Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "ApsZoldat/MindustryMappingUtilities",
