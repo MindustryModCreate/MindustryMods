@@ -213,8 +213,8 @@
     "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-08-26T14:38:44Z",
-    "stars": 83,
+    "lastUpdated": "2023-08-26T15:43:24Z",
+    "stars": 84,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -260,6 +260,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 73,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -271,19 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 72,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "3Snake3/Sapphirium",
@@ -366,15 +366,15 @@
   {
     "repo": "xstabux/Omaloon",
     "name": "Omaloon",
-    "version": "0.6.1",
-    "mod_id": "ol",
-    "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-07-09T19:21:33Z",
+    "version": "v0.1A",
+    "mod_id": "omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2023-08-26T20:06:50Z",
     "stars": 52,
-    "minGameVersion": "140.3",
+    "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -1443,6 +1443,19 @@
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
   },
   {
+    "repo": "HPL-Team/Project-HPL",
+    "name": "Project HPL",
+    "version": "0.1.2A",
+    "mod_id": "hpl",
+    "author": "HPL Team",
+    "lastUpdated": "2023-08-25T07:53:10Z",
+    "stars": 14,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "Antlrr/best-texture-pack",
     "name": "The Best Texture Pack",
     "version": "0.3",
@@ -1506,19 +1519,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
-    "repo": "HPL-Team/Project-HPL",
-    "name": "Project HPL",
-    "version": "0.1.2A",
-    "mod_id": "hpl",
-    "author": "HPL Team",
-    "lastUpdated": "2023-08-25T07:53:10Z",
-    "stars": 13,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "Gdeft/bleach",
@@ -5551,19 +5551,6 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
-    "repo": "Yoru-Kitsune/Beskar-OUTDATED",
-    "name": "Beskar (OUTDATED)",
-    "version": "0.0.7",
-    "mod_id": "beskar-mod",
-    "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
-    "lastUpdated": "2023-07-09T16:47:34Z",
-    "stars": 2,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Updated mod is work in progress)"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Magnification",
     "name": "Magnification",
     "version": "0.1",
@@ -5614,19 +5601,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
-  },
-  {
-    "repo": "7003Mars/bocchi-the-shield",
-    "name": "Bocchi shield",
-    "version": "1.0",
-    "mod_id": "bocchi",
-    "author": "mars",
-    "lastUpdated": "2023-08-03T12:24:05Z",
-    "stars": 2,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "zinq7/beacons-yay",
@@ -5822,19 +5796,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
-  },
-  {
-    "repo": "MissAmity/Singabana",
-    "name": "Singabana",
-    "version": "0.1",
-    "mod_id": "singabana-mod",
-    "author": "Cato-1",
-    "lastUpdated": "2021-10-22T07:03:20Z",
-    "stars": 1,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 Mod that add modded maps"
   },
   {
     "repo": "Serg230/Overdustry",
@@ -7163,19 +7124,6 @@
     "description": "Weapons."
   },
   {
-    "repo": "YmStrip/galaxy-logistics-center",
-    "name": "Galaxy Logistics Center",
-    "version": "1.0",
-    "mod_id": "galaxy-logistics-center",
-    "author": "YmStrip",
-    "lastUpdated": "2023-08-01T11:11:57Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "星系物流系统"
-  },
-  {
     "repo": "westernat/Mindgical-MindustryMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7233,7 +7181,7 @@
     "version": "1.0",
     "mod_id": "mapping-utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2023-08-25T19:54:02Z",
+    "lastUpdated": "2023-08-26T19:48:45Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
