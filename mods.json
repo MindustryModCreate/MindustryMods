@@ -213,7 +213,7 @@
     "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-08-27T09:02:33Z",
+    "lastUpdated": "2023-08-27T13:04:51Z",
     "stars": 84,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -226,12 +226,25 @@
     "version": "0.3.1",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-08-27T04:54:44Z",
+    "lastUpdated": "2023-08-27T11:28:18Z",
     "stars": 76,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
+  },
+  {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 75,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "Fresh791/Fading-Revelations",
@@ -258,19 +271,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 73,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -1352,6 +1352,19 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "HPL-Team/Project-HPL",
+    "name": "Project HPL",
+    "version": "0.1.2A",
+    "mod_id": "hpl",
+    "author": "HPL Team",
+    "lastUpdated": "2023-08-25T07:53:10Z",
+    "stars": 15,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1441,19 +1454,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
-  },
-  {
-    "repo": "HPL-Team/Project-HPL",
-    "name": "Project HPL",
-    "version": "0.1.2A",
-    "mod_id": "hpl",
-    "author": "HPL Team",
-    "lastUpdated": "2023-08-25T07:53:10Z",
-    "stars": 14,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "Antlrr/best-texture-pack",
@@ -1885,6 +1885,19 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "version": "1.0",
+    "mod_id": "heavymachineryjava",
+    "author": "Zeniku",
+    "lastUpdated": "2023-03-23T10:59:40Z",
+    "stars": 10,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.7.1",
@@ -2078,19 +2091,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты! МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
-  },
-  {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "version": "1.0",
-    "mod_id": "heavymachineryjava",
-    "author": "Zeniku",
-    "lastUpdated": "2023-03-23T10:59:40Z",
-    "stars": 9,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "Uenhe/Fire",
@@ -6180,7 +6180,7 @@
     "version": "1.0",
     "mod_id": "caeruleum",
     "author": "Zeniku",
-    "lastUpdated": "2023-08-27T08:35:56Z",
+    "lastUpdated": "2023-08-27T10:10:14Z",
     "stars": 1,
     "minGameVersion": "145.1",
     "hasScripts": false,
