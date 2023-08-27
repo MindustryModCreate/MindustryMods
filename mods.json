@@ -213,7 +213,7 @@
     "version": "1.8.2",
     "mod_id": "informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2023-08-26T15:43:24Z",
+    "lastUpdated": "2023-08-27T09:02:33Z",
     "stars": 84,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -964,12 +964,12 @@
   {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
-    "version": "0.6",
+    "version": "0.7",
     "mod_id": "yellow-java",
     "author": "PKChaos (SMOLKEYS)",
-    "lastUpdated": "2023-08-26T12:14:26Z",
+    "lastUpdated": "2023-08-27T06:20:55Z",
     "stars": 21,
-    "minGameVersion": "138",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
@@ -5928,19 +5928,6 @@
     "description": "Your own mod"
   },
   {
-    "repo": "FreezeMandu/pvp-contest",
-    "name": "PVP 대회용 모드",
-    "version": "0.7",
-    "mod_id": "pvp-contest",
-    "author": "Mandu",
-    "lastUpdated": "2022-11-26T13:57:46Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "대회용 모드 0.7"
-  },
-  {
     "repo": "mrybs/dasuas",
     "name": "Dasuas",
     "version": "1.0",
@@ -6175,12 +6162,25 @@
     "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
+    "repo": "FreezeMandu/pvp-contest",
+    "name": "PVP 대회용 모드",
+    "version": "1.0",
+    "mod_id": "pvp-contest",
+    "author": "Mandu",
+    "lastUpdated": "2023-08-27T05:49:48Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "대회용 모드 0.7"
+  },
+  {
     "repo": "Zeniku/Caeruleum",
     "name": "Caeruleum",
     "version": "1.0",
     "mod_id": "caeruleum",
     "author": "Zeniku",
-    "lastUpdated": "2023-08-25T22:56:38Z",
+    "lastUpdated": "2023-08-27T08:35:56Z",
     "stars": 1,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -7202,19 +7202,6 @@
     "description": "this is a modding test"
   },
   {
-    "repo": "SecondMandu/noreloading",
-    "name": "No Reloading",
-    "version": "0.1",
-    "mod_id": "noreloading",
-    "author": "SencondMd",
-    "lastUpdated": "2023-08-25T14:16:22Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "ApsZoldat/MindustryMappingUtilities",
     "name": "Mapping Utilities",
     "version": "1.0",
@@ -7226,5 +7213,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "empty"
+  },
+  {
+    "repo": "kisgosti/radionis",
+    "name": "Radionis",
+    "version": "0.1",
+    "mod_id": "radionis",
+    "author": "[#ff8604]Kisgosti[white]",
+    "lastUpdated": "2023-08-27T08:01:19Z",
+    "stars": 0,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to [#3cff49]Radionis,\nwhere the ground is even barely stable from pollution. "
+  },
+  {
+    "repo": "SecondMandu/noreloading",
+    "name": "No Reloading",
+    "version": "0.2",
+    "mod_id": "noreloading",
+    "author": "SencondMd",
+    "lastUpdated": "2023-08-27T09:08:06Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   }
 ]
