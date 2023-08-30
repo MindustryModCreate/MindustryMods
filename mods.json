@@ -4243,7 +4243,7 @@
     "version": "1",
     "mod_id": "compression",
     "author": "sovakovrik",
-    "lastUpdated": "2023-08-22T17:55:17Z",
+    "lastUpdated": "2023-08-29T20:56:52Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4704,19 +4704,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
-  },
-  {
-    "repo": "sheptalo/ponchik-test",
-    "name": "ponchik",
-    "version": "1.1",
-    "mod_id": "pon",
-    "author": "sheptalo",
-    "lastUpdated": "2022-10-16T09:19:57Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "mod for doing chaotic things"
   },
   {
     "repo": "MxPerrot/StellarMind",
@@ -5460,6 +5447,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5538,19 +5538,6 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
-    "repo": "Yoru-Kitsune/Beskar-OUTDATED",
-    "name": "Beskar (OUTDATED)",
-    "version": "0.0.7",
-    "mod_id": "beskar-mod",
-    "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
-    "lastUpdated": "2023-07-09T16:47:34Z",
-    "stars": 2,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Updated mod is work in progress)"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Magnification",
     "name": "Magnification",
     "version": "0.1",
@@ -5601,19 +5588,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
-  },
-  {
-    "repo": "7003Mars/bocchi-the-shield",
-    "name": "Bocchi shield",
-    "version": "1.0",
-    "mod_id": "bocchi",
-    "author": "mars",
-    "lastUpdated": "2023-08-03T12:24:05Z",
-    "stars": 2,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "zinq7/beacons-yay",
@@ -5967,19 +5941,6 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
-    "repo": "virat2010/SomeVanillaExtension",
-    "name": "VR's Mod",
-    "version": "v1.0",
-    "mod_id": "VR's Mod",
-    "author": "VR",
-    "lastUpdated": "2023-03-17T20:04:34Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another Random Vanilla Extension for Mindustry"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "version": "3.1",
@@ -5991,19 +5952,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "NemesisTheory/Reach-Soundtracks",
-    "name": "Reach Soundtracks",
-    "version": "1.0",
-    "mod_id": "reach-soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-07T03:49:26Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from Halo: Reach."
   },
   {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
@@ -6251,19 +6199,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
-  },
-  {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
   },
   {
     "repo": "svan9/SVR",
@@ -6667,19 +6602,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds mower class to the game."
-  },
-  {
-    "repo": "sebmeister2077/Advanced-Refinement",
-    "name": "Advanced refinement",
-    "version": "2.6.0",
-    "mod_id": "advanced-refinement",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-02-18T19:06:57Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Still in development(only started since Ian 2022)"
   },
   {
     "repo": "AHRumjungle/Matter",
