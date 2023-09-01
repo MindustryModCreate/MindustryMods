@@ -1211,10 +1211,10 @@
   {
     "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
     "name": "Welcome to the Frostscape",
-    "version": "1.2-alpha",
+    "version": "1.3-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2023-08-23T11:02:01Z",
+    "lastUpdated": "2023-09-01T07:49:56Z",
     "stars": 17,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1662,6 +1662,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
+  },
+  {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 11,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "newB7140/duomod",
@@ -6180,7 +6193,7 @@
     "version": "1.0",
     "mod_id": "caeruleum",
     "author": "Zeniku",
-    "lastUpdated": "2023-08-31T08:49:22Z",
+    "lastUpdated": "2023-09-01T07:09:39Z",
     "stars": 1,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -7238,6 +7251,6 @@
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "empty"
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   }
 ]
