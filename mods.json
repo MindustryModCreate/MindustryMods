@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-23T12:32:15Z",
-    "stars": 264,
+    "stars": 265,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -2137,7 +2137,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-09-02T00:47:48Z",
+    "lastUpdated": "2023-09-02T12:18:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2676,19 +2676,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
-    "repo": "uujuju1/Monolith",
-    "name": "Flow",
-    "version": "v0.3",
-    "mod_id": "flow",
-    "author": "Uujuju",
-    "lastUpdated": "2022-11-10T22:40:30Z",
-    "stars": 7,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stuff."
   },
   {
     "repo": "sleepnevercomes/everything-is-grey",
@@ -3603,10 +3590,10 @@
   {
     "repo": "Agzam4/Mindustry-mod",
     "name": "Agzam's Mod",
-    "version": "1.4.5",
+    "version": "1.5",
     "mod_id": "agzam4mod",
     "author": "Agzam4",
-    "lastUpdated": "2023-09-01T16:39:44Z",
+    "lastUpdated": "2023-09-02T13:53:39Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -4984,10 +4971,10 @@
     "version": "003",
     "mod_id": "kiky5",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-09-02T09:40:30Z",
+    "lastUpdated": "2023-09-02T13:02:11Z",
     "stars": 3,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
@@ -5317,6 +5304,19 @@
     "description": "Mod adds bomber unit tree."
   },
   {
+    "repo": "bin-tenkuu/Mindustry-moreLogicMod",
+    "name": "更多逻辑",
+    "version": "1.2",
+    "mod_id": "bin-More-Logic",
+    "author": "bin",
+    "lastUpdated": "2022-08-06T04:27:27Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "添加更多逻辑条：打印缓存处理逻辑"
+  },
+  {
     "repo": "Mythril382/MorseCode",
     "name": "Morse Code",
     "version": "1.0.0",
@@ -5486,6 +5486,19 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
+  },
+  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5564,19 +5577,6 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
-    "repo": "Yoru-Kitsune/Beskar-OUTDATED",
-    "name": "Beskar (OUTDATED)",
-    "version": "0.0.7",
-    "mod_id": "beskar-mod",
-    "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
-    "lastUpdated": "2023-07-09T16:47:34Z",
-    "stars": 2,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Updated mod is work in progress)"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Magnification",
     "name": "Magnification",
     "version": "0.1",
@@ -5640,19 +5640,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
-  },
-  {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "version": "1.6",
-    "mod_id": "beacons-yay",
-    "author": "zinq",
-    "lastUpdated": "2023-08-06T16:53:48Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
     "repo": "Falkowitz/Medieval-Mindustry",
@@ -5954,19 +5941,6 @@
     "description": "Dausas Project mod"
   },
   {
-    "repo": "UAdustry/Frozen-technologies",
-    "name": "Frozen technologies",
-    "version": "0.1",
-    "mod_id": "ft",
-    "author": "IvanDem",
-    "lastUpdated": "2023-01-27T17:55:19Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WIP mod"
-  },
-  {
     "repo": "CalebMonkey/Mindustry-Taller",
     "name": "Mindustry Taller",
     "version": "v0.1",
@@ -6149,19 +6123,6 @@
     "description": "Expansion mod. Alpha stage."
   },
   {
-    "repo": "MindustryExtended13/GeoCorpIndustries",
-    "name": "GeoCorp Industries",
-    "version": "1.0",
-    "mod_id": "gmod",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-22T19:53:57Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds serpulo industry."
-  },
-  {
     "repo": "FreezeMandu/pvp-contest",
     "name": "PVP 대회용 모드",
     "version": "1.0",
@@ -6329,19 +6290,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reactor based on quantum mechanics."
-  },
-  {
-    "repo": "RebornTrack970/moonmod",
-    "name": "MoonMod",
-    "version": "0.1",
-    "mod_id": "moonmod",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-31T07:59:05Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds moon"
   },
   {
     "repo": "qwertyQ1234-programming/QQ-Mod",
@@ -7239,5 +7187,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
+    "repo": "Copious-Modding-Industries/mindustry",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-09-02T10:29:15Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
