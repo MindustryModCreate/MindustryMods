@@ -6,7 +6,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 296,
+    "stars": 297,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -65,6 +65,19 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "BlueWolf3682/Exotic-Mod",
+    "name": "Exotic Mod",
+    "version": "spaghetti",
+    "mod_id": "exotic-mod",
+    "author": "Elixias",
+    "lastUpdated": "2023-07-06T10:47:22Z",
+    "stars": 149,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Exotic seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Exotic is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
+  },
+  {
     "repo": "AvantTeam/ProjectUnityPublic",
     "name": "Project Unity",
     "version": "0.2-youngcha.3.3",
@@ -76,19 +89,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "version": "spaghetti",
-    "mod_id": "exotic-mod",
-    "author": "Elixias",
-    "lastUpdated": "2023-07-06T10:47:22Z",
-    "stars": 148,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Exotic seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Exotic is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
   },
   {
     "repo": "Slava0135/reVision",
@@ -2418,19 +2418,6 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
-    "repo": "RayanZ22/OP-Mod",
-    "name": "OP Things",
-    "version": "1.0",
-    "mod_id": "op-things",
-    "author": "[green]ABÊ#8931",
-    "lastUpdated": "2022-12-25T21:59:53Z",
-    "stars": 8,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
-  },
-  {
     "repo": "RebornTrack970/Multiplayernt",
     "name": "Multiplayern't",
     "version": "1.0",
@@ -2455,6 +2442,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
+  },
+  {
+    "repo": "RayanZ22/OP-Mod",
+    "name": "OP Things",
+    "version": "1.01",
+    "mod_id": "op-things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2023-09-01T23:54:52Z",
+    "stars": 8,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
     "repo": "deltanedas/no",
@@ -4145,19 +4145,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Observation is prohibited."
-  },
-  {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.57: Advanced",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2023-02-01T14:28:16Z",
-    "stars": 4,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets(maybe not a lot)"
   },
   {
     "repo": "error-27/Relics-Mod",
@@ -7005,32 +6992,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
-  },
-  {
-    "repo": "bttodi/Pandemonium",
-    "name": "Pandemonium",
-    "version": "No version provided.",
-    "mod_id": "pandemonium",
-    "author": "bttodi",
-    "lastUpdated": "2023-04-21T00:27:29Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An arbitrary and aimless assemblage of accumulated assorted additions."
-  },
-  {
-    "repo": "zig-jeff/Supphiros",
-    "name": "Supphiros",
-    "version": "0.78",
-    "mod_id": "Supphiros",
-    "author": "zig-jeff",
-    "lastUpdated": "2023-04-27T19:44:54Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
   },
   {
     "repo": "Keurhsevar-0977/Inception",
