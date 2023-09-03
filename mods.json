@@ -65,6 +65,19 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "BlueWolf3682/Exotic-Mod",
+    "name": "Exotic Mod",
+    "version": "spaghetti",
+    "mod_id": "exotic-mod",
+    "author": "Elixias",
+    "lastUpdated": "2023-07-06T10:47:22Z",
+    "stars": 150,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Exotic seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Exotic is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
+  },
+  {
     "repo": "AvantTeam/ProjectUnityPublic",
     "name": "Project Unity",
     "version": "0.2-youngcha.3.3",
@@ -76,19 +89,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "version": "spaghetti",
-    "mod_id": "exotic-mod",
-    "author": "Elixias",
-    "lastUpdated": "2023-07-06T10:47:22Z",
-    "stars": 149,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Exotic seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Exotic is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
   },
   {
     "repo": "Slava0135/reVision",
@@ -331,7 +331,7 @@
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2023-09-01T17:54:02Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1924,6 +1924,19 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
+    "repo": "RayanZ22/OP-Mod",
+    "name": "OP Things",
+    "version": "1.01",
+    "mod_id": "op-things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2023-09-03T02:11:33Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
+  },
+  {
     "repo": "lev43/TurretsMod",
     "name": "Turrets Mod",
     "version": "3.0",
@@ -2442,19 +2455,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
-    "repo": "RayanZ22/OP-Mod",
-    "name": "OP Things",
-    "version": "1.01",
-    "mod_id": "op-things",
-    "author": "[green]ABÊ#8931",
-    "lastUpdated": "2023-09-03T02:11:33Z",
-    "stars": 8,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
     "repo": "deltanedas/no",
@@ -3200,10 +3200,10 @@
   {
     "repo": "Agzam4/Mindustry-mod",
     "name": "Agzam's Mod",
-    "version": "1.5.1",
+    "version": "1.6",
     "mod_id": "agzam4mod",
     "author": "Agzam4",
-    "lastUpdated": "2023-09-02T19:29:47Z",
+    "lastUpdated": "2023-09-03T19:01:24Z",
     "stars": 6,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5655,6 +5655,19 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "name": "Holy Light",
+    "version": "1.6",
+    "mod_id": "beacons-yay",
+    "author": "zinq",
+    "lastUpdated": "2023-08-06T16:53:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "Falkowitz/Medieval-Mindustry",
     "name": "Medieval Mindustry",
     "version": "0.1",
@@ -6160,19 +6173,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
-  },
-  {
-    "repo": "MindustryExtended13/GeoCorpIndustries",
-    "name": "GeoCorp Industries",
-    "version": "1.0",
-    "mod_id": "gmod",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-22T19:53:57Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "FreezeMandu/pvp-contest",
