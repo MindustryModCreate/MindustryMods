@@ -234,19 +234,6 @@
     "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
   },
   {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 75,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "Fresh791/Fading-Revelations",
     "name": "Fading Revelations",
     "version": "2.3",
@@ -271,6 +258,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 74,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -637,19 +637,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "version": "53",
-    "mod_id": "test-utils",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2023-05-31T00:25:50Z",
-    "stars": 28,
-    "minGameVersion": "144.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "EB-wilson/Singularity",
     "name": "Singularity",
     "version": "alpha-0.8.8",
@@ -661,6 +648,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "version": "53",
+    "mod_id": "test-utils",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2023-09-02T22:59:11Z",
+    "stars": 28,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -2678,6 +2678,19 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "uujuju1/Monolith",
+    "name": "Flow",
+    "version": "v0.3",
+    "mod_id": "flow",
+    "author": "Uujuju",
+    "lastUpdated": "2022-11-10T22:40:30Z",
+    "stars": 7,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Stuff."
+  },
+  {
     "repo": "sleepnevercomes/everything-is-grey",
     "name": "EVERYTHING IS GREY",
     "version": "0.05a",
@@ -3185,6 +3198,19 @@
     "description": "1. 大幅优化了代码高亮性能\n2. 添加监视功能"
   },
   {
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.5.1",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2023-09-02T19:29:47Z",
+    "stars": 6,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -3365,6 +3391,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds nuclear power, cool turrets and many factories."
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -3586,19 +3625,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod"
-  },
-  {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.5.1",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-09-02T19:29:47Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4355,6 +4381,19 @@
     "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
   },
   {
+    "repo": "BlueTechnoCat/Infinitum-Mod",
+    "name": "Infinitum Mod",
+    "version": "0.1 alpha",
+    "mod_id": "infinitum-mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-05-13T21:56:13Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that creates the most powerful material ever made"
+  },
+  {
     "repo": "KotMilkMeoW/sun-mod",
     "name": "sun-mod",
     "version": "No version provided.",
@@ -4470,6 +4509,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+  },
+  {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -5018,6 +5070,19 @@
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
   },
   {
+    "repo": "ScolarIronFist/UnitCapMod",
+    "name": "unit cap modifier",
+    "version": "1",
+    "mod_id": "unit-cap-modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "version": "2.3.4",
@@ -5473,19 +5538,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.6",
@@ -5564,6 +5616,19 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
+    "repo": "Yoru-Kitsune/Beskar-OUTDATED",
+    "name": "Beskar (OUTDATED)",
+    "version": "0.0.7",
+    "mod_id": "beskar-mod",
+    "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
+    "lastUpdated": "2023-07-09T16:47:34Z",
+    "stars": 2,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Updated mod is work in progress)"
+  },
+  {
     "repo": "UnionofSovietSocialistRepublics/Magnification",
     "name": "Magnification",
     "version": "0.1",
@@ -5614,6 +5679,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "7003Mars/bocchi-the-shield",
+    "name": "Bocchi shield",
+    "version": "1.0",
+    "mod_id": "bocchi",
+    "author": "mars",
+    "lastUpdated": "2023-08-03T12:24:05Z",
+    "stars": 2,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "Falkowitz/Medieval-Mindustry",
@@ -6128,7 +6206,7 @@
     "version": "1.0",
     "mod_id": "caeruleum",
     "author": "Zeniku",
-    "lastUpdated": "2023-09-02T07:04:41Z",
+    "lastUpdated": "2023-09-02T22:30:35Z",
     "stars": 1,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -6383,6 +6461,19 @@
     "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
+    "repo": "TheSmuzy/SlideShowMod",
+    "name": "Slide show mod",
+    "version": "1.0",
+    "mod_id": "slide-show-mod",
+    "author": "WindustryTeam",
+    "lastUpdated": "2021-08-21T12:50:27Z",
+    "stars": 0,
+    "minGameVersion": "117",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod will make Mindustry Slide Show\n\nWith love, Windustry Team"
+  },
+  {
     "repo": "AHRumjungle/Snad",
     "name": "Snad",
     "version": "0.1",
@@ -6485,6 +6576,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A vanilla Mindustry Enhancement."
+  },
+  {
+    "repo": "Bergiu/HyperProcessor",
+    "name": "Hyper Processor",
+    "version": "1.0",
+    "mod_id": "hp",
+    "author": "Bergiu",
+    "lastUpdated": "2021-12-02T12:57:43Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds faster and better logic blocks"
   },
   {
     "repo": "BalaM314/mindustry-magic-mod-dead",
@@ -6732,6 +6836,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
+    "repo": "CREAsTIVE/PowerMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-10-25T13:06:37Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "TheMalaysianDude/malwork",
@@ -7148,18 +7265,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
-    "repo": "Copious-Modding-Industries/mindustry",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-09-02T10:29:15Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   }
 ]
