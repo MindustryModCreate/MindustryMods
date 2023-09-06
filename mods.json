@@ -1092,6 +1092,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "jslkr2707/focus-lib",
+    "name": "Focus System Library",
+    "version": "0.1",
+    "mod_id": "focus-lib",
+    "author": "AshesKaiser",
+    "lastUpdated": "2023-02-22T15:47:05Z",
+    "stars": 18,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Drullkus/Unnerf-Core-Units",
     "name": "Unnerf Core Units",
     "version": "1.1",
@@ -1181,19 +1194,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "jslkr2707/focus-lib",
-    "name": "Focus System Library",
-    "version": "0.1",
-    "mod_id": "focus-lib",
-    "author": "AshesKaiser",
-    "lastUpdated": "2023-02-22T15:47:05Z",
-    "stars": 17,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -2839,7 +2839,7 @@
     "version": "1.0.8",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-09-05T00:21:07Z",
+    "lastUpdated": "2023-09-06T00:10:50Z",
     "stars": 7,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5803,7 +5803,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-09-04T20:19:58Z",
+    "lastUpdated": "2023-09-05T23:34:13Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
