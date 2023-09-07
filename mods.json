@@ -4537,6 +4537,19 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
+    "repo": "DivisionByZero80/mindustry-launchpads",
+    "name": "Serpulo Launchpad Hub",
+    "version": "1.0",
+    "mod_id": "launchpad-destination-changer",
+    "author": "DivisionByZero",
+    "lastUpdated": "2022-03-11T09:39:36Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Change sector export destination from list on planet screen"
+  },
+  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4756,19 +4769,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
-  },
-  {
-    "repo": "sheptalo/ponchik-test",
-    "name": "ponchik",
-    "version": "1.1",
-    "mod_id": "pon",
-    "author": "sheptalo",
-    "lastUpdated": "2022-10-16T09:19:57Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "mod for doing chaotic things"
   },
   {
     "repo": "MxPerrot/StellarMind",
@@ -5263,19 +5263,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A factional mod focused on fortifaction, units and unit equipment.\r\n\r\nThis mod also includes the content of Unit Equipment Stand Alone."
-  },
-  {
-    "repo": "DivisionByZero80/mindustry-launchpads",
-    "name": "Serpulo Launchpad Hub",
-    "version": "1.0",
-    "mod_id": "launchpad-destination-changer",
-    "author": "DivisionByZero",
-    "lastUpdated": "2022-03-11T09:39:36Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Change sector export destination from list on planet screen"
   },
   {
     "repo": "RouterXdd/HellFraction-Industries",
@@ -5803,7 +5790,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-09-06T07:06:31Z",
+    "lastUpdated": "2023-09-07T04:57:55Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -6654,19 +6641,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
-  },
-  {
-    "repo": "GameStuffOffical/morebulletsmodforhjson",
-    "name": "More Bullets Extension",
-    "version": "1.0",
-    "mod_id": "more-bullets-extenison",
-    "author": "GameStuff",
-    "lastUpdated": "2022-01-25T02:46:52Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more bullets to mindustry mods."
   },
   {
     "repo": "Aeddlinges/ZXC-mod",
