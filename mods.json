@@ -1001,19 +1001,6 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
-    "repo": "ereHyddeS/NeonNights_v7",
-    "name": "NeonNights v6",
-    "version": "1.5",
-    "mod_id": "NeonNights v6",
-    "author": "!ereHyddeS",
-    "lastUpdated": "2023-06-11T19:48:20Z",
-    "stars": 20,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Hello there"
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "14",
@@ -1638,32 +1625,6 @@
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nSprites: LaIm_Ik"
   },
   {
-    "repo": "SunsetTeam/Sunset",
-    "name": "Sunset",
-    "version": "0.2.4A",
-    "mod_id": "sunset",
-    "author": "\n\nCoding: Slish, Nukleer Bomb, RePoweRED, Zelaux, LiptonIt, xStaBUx.\n\nSprites: MissionaryPoseBest, Snake, NotTheGrawxz, xStaBUx.\n\n\n Contributors: none.\n",
-    "lastUpdated": "2023-09-02T08:48:14Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
-  },
-  {
-    "repo": "LottieVixen/2xConveyors",
-    "name": "2X Conveyors",
-    "version": "0.2",
-    "mod_id": "2xconveyors",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-03T04:18:24Z",
-    "stars": 11,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Two (2) times faster conveyors, at twice the cost"
-  },
-  {
     "repo": "QmelZ/mainstreamdustry",
     "name": "mainstreamdustry",
     "version": "dustry",
@@ -1846,19 +1807,6 @@
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
   },
   {
-    "repo": "no9527dada/free-campaign",
-    "name": "free-campaign-自由战役",
-    "version": "0.2",
-    "mod_id": "free-campaign",
-    "author": "呵呵哒",
-    "lastUpdated": "2021-10-31T02:59:50Z",
-    "stars": 10,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
-  },
-  {
     "repo": "MinRi2/ItemBridgeX",
     "name": "ItemBridgeX",
     "version": "2.0",
@@ -1922,19 +1870,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "version": "1.7.1",
-    "mod_id": "yr2-logic-debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2023-06-20T10:51:57Z",
-    "stars": 10,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -2080,19 +2015,6 @@
     "description": "Library mod that allows multiple mods to override the same content."
   },
   {
-    "repo": "THCworkshopCN/THC-Industry",
-    "name": "THC-Industry",
-    "version": "0.4.8.0_dev_legacy",
-    "mod_id": "THC Industry",
-    "author": "THC Workshop CN, uujuju",
-    "lastUpdated": "2022-11-19T11:04:49Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
     "repo": "GermantovA/Erida",
     "name": "Erida",
     "version": "1.0",
@@ -2195,19 +2117,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "One should do what one enjoys, and won't harm anyone else."
-  },
-  {
-    "repo": "Voz-Duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "version": "0.0.1",
-    "mod_id": "prog-mats-pixel-texturepack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 8,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "skykatik/PaperMod",
@@ -2691,19 +2600,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "uujuju1/Monolith",
-    "name": "Flow",
-    "version": "v0.3",
-    "mod_id": "flow",
-    "author": "Uujuju",
-    "lastUpdated": "2022-11-10T22:40:30Z",
-    "stars": 7,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stuff."
-  },
-  {
     "repo": "sleepnevercomes/everything-is-grey",
     "name": "EVERYTHING IS GREY",
     "version": "0.05a",
@@ -3105,19 +3001,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
-    "repo": "sebmeister2077/GifToLogic",
-    "name": "GifToLogic",
-    "version": "1.0-alpha",
-    "mod_id": "giftologic",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-12-14T18:56:38Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Work in progress (not working)"
   },
   {
     "repo": "A5TR0spud/astro-additions",
@@ -3575,19 +3458,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "stacktrace-error/uwu-bundle",
-    "name": "uwu bundles",
-    "version": "0",
-    "mod_id": "uwu-bundles",
-    "author": "nullevoy#7763/stacktrace-error",
-    "lastUpdated": "2023-06-17T11:32:25Z",
-    "stars": 5,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "tuwns evewy R and L into a W. incwedibwe."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -3677,19 +3547,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description."
-  },
-  {
-    "repo": "Ztryga/Swamp-Saga",
-    "name": "Swamp Saga",
-    "version": "0.1",
-    "mod_id": "swampsaga",
-    "author": "MKosmic",
-    "lastUpdated": "2021-03-03T15:18:01Z",
-    "stars": 4,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
   },
   {
     "repo": "1qwaka/Adronium-mod",
@@ -4719,6 +4576,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "TippierPark8961/Green-Void",
+    "name": "Green Void",
+    "version": "1",
+    "mod_id": "modo",
+    "author": "TippierPark8961",
+    "lastUpdated": "2022-08-05T01:54:20Z",
+    "stars": 3,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod"
+  },
+  {
     "repo": "WilloIzCitron/Mindustry-Devilish-mod",
     "name": "Devilish Mode Shitass edition",
     "version": "1.3 Alpha",
@@ -4808,19 +4678,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench' in schematics!"
-  },
-  {
-    "repo": "EB-wilson/MindustryUNClibModTemplate",
-    "name": "UNC mod 模板",
-    "version": "0.1",
-    "mod_id": "uncTemplate",
-    "author": "author",
-    "lastUpdated": "2022-11-29T01:11:43Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个使用UniverseCore作为前置的mod模板"
   },
   {
     "repo": "BalaM314/flarogus-mod",
@@ -4951,19 +4808,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
-    "repo": "7003Mars/bocchi-the-shield",
-    "name": "Bocchi shield",
-    "version": "1.0",
-    "mod_id": "bocchi",
-    "author": "mars",
-    "lastUpdated": "2023-08-03T12:24:05Z",
-    "stars": 3,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "PLsubfarm61/Project_B",
@@ -5252,19 +5096,6 @@
     "description": "something and nothing"
   },
   {
-    "repo": "SummerPain/Aruita-master",
-    "name": "Aruita",
-    "version": "1.0",
-    "mod_id": "aruita-mod",
-    "author": "Kurayami",
-    "lastUpdated": "2022-02-13T09:45:45Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with nice weapons"
-  },
-  {
     "repo": "Sheep-Hugger/Frozen-Silver-Fortress",
     "name": "Frozen Silver Fortress",
     "version": "0.25",
@@ -5302,19 +5133,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod adds bomber unit tree."
-  },
-  {
-    "repo": "bin-tenkuu/Mindustry-moreLogicMod",
-    "name": "更多逻辑",
-    "version": "1.2",
-    "mod_id": "bin-More-Logic",
-    "author": "bin",
-    "lastUpdated": "2022-08-06T04:27:27Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
     "repo": "Mythril382/MorseCode",
@@ -5640,19 +5458,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
-  },
-  {
-    "repo": "Falkowitz/Medieval-Mindustry",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "mod_id": "mm",
-    "author": "Fitz",
-    "lastUpdated": "2023-08-09T19:10:54Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another total conversion PVP mod"
   },
   {
     "repo": "Weathercold/mindustry-clj-mod-template",
@@ -6058,19 +5863,6 @@
     "description": "This mod plays soundtracks from Halo: Reach."
   },
   {
-    "repo": "ImNotThatBrave/MindustryTextureTweaks",
-    "name": "TextureTweaks (Erekir)",
-    "version": "1.0",
-    "mod_id": "TextureTweaks (Erekir)",
-    "author": "ImNotThatBrave",
-    "lastUpdated": "2023-04-11T07:34:44Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
-  },
-  {
     "repo": "CptWaterbubble2301/StalloBlast",
     "name": "StalloBlast Advanced",
     "version": "5.0",
@@ -6188,19 +5980,6 @@
     "description": "Expansion mod. Alpha stage."
   },
   {
-    "repo": "FreezeMandu/pvp-contest",
-    "name": "PVP 대회용 모드",
-    "version": "1.0",
-    "mod_id": "pvp-contest",
-    "author": "Mandu",
-    "lastUpdated": "2023-08-27T05:49:48Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "대회용 모드 0.7"
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -6303,19 +6082,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "version": "1.0",
-    "mod_id": "more-batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "MemFaceGo/mod",
@@ -6825,19 +6591,6 @@
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
   },
   {
-    "repo": "CREAsTIVE/PowerMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-10-25T13:06:37Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "TheMalaysianDude/malwork",
     "name": "Malwork",
     "version": "1.0.1",
@@ -6901,19 +6654,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
-    "repo": "woodjecket/MindustryScalaModTemplate",
-    "name": "Scala Mod Template",
-    "version": "1.0",
-    "mod_id": "example-scala-mod",
-    "author": "You",
-    "lastUpdated": "2023-01-20T01:32:56Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Scala mod template."
   },
   {
     "repo": "Weathercold/Haxefrog",
@@ -7265,18 +7005,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Techtonic21/Tonic-Ideas-Vault",
-    "name": "Tonic's Idea Vault",
-    "version": "1.0",
-    "mod_id": "tonic-ideas-vault",
-    "author": "TonicTech",
-    "lastUpdated": "2023-09-05T13:44:28Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Sandbox Utility Mindustry Mod"
   }
 ]
