@@ -65,6 +65,19 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "AvantTeam/ProjectUnityPublic",
+    "name": "Project Unity",
+    "version": "0.2-youngcha.3.3",
+    "mod_id": "unity",
+    "author": "Avant Team",
+    "lastUpdated": "2023-05-02T09:26:00Z",
+    "stars": 151,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
+  },
+  {
     "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
     "version": "spaghetti",
@@ -76,19 +89,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WARNING: Not supported on low-end devices.\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Exotic seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Exotic is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
-  },
-  {
-    "repo": "AvantTeam/ProjectUnityPublic",
-    "name": "Project Unity",
-    "version": "0.2-youngcha.3.3",
-    "mod_id": "unity",
-    "author": "Avant Team",
-    "lastUpdated": "2023-05-02T09:26:00Z",
-    "stars": 150,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "Slava0135/reVision",
@@ -247,19 +247,6 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "z0mbiesrock/Diamond-Ore",
-    "name": "Diamond Ore Mod",
-    "version": "4.0.0",
-    "mod_id": "diamond-ore",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2023-03-26T15:30:31Z",
-    "stars": 74,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "version": "1.6.0",
@@ -271,6 +258,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "z0mbiesrock/Diamond-Ore",
+    "name": "Diamond Ore Mod",
+    "version": "4.0.0",
+    "mod_id": "diamond-ore",
+    "author": "z0mbiesrock",
+    "lastUpdated": "2023-03-26T15:30:31Z",
+    "stars": 73,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -4303,6 +4303,19 @@
     "description": "The Schematic mod of Sirius and Qwertynoob and Anchovy\nTag: Qwertynoob, Anchovy, Sirius, NothingToDo\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly.\n\nAB: AirBlast drill\nBS: Black Sand\nWS: White sand\nEW: External Water\nPOD: Phased Over Drive\nOD: Over Drive\nODD: Over Drive Dome\nWEX: Water EXtractor\nOEX: Oil EXtractor\n\nSirius Schem Youtube link\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.3",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-09-09T20:05:31Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -5790,7 +5803,7 @@
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-09-09T07:33:28Z",
+    "lastUpdated": "2023-09-09T19:35:06Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -7278,18 +7291,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Sandbox Utility Mindustry Mod"
-  },
-  {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.0",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-09-09T14:50:46Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   }
 ]
