@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-08-25T00:54:30Z",
-    "stars": 278,
+    "stars": 279,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -1612,6 +1612,19 @@
     "description": "Mindustry mod that places any kind of blocks (even modded and hidden) into the world.\n\n Star me on Github!   (please) "
   },
   {
+    "repo": "liplum/MindustryModTemplate",
+    "name": "%Repository%",
+    "version": "1.0",
+    "mod_id": "%Repository%",
+    "author": "%Owner%",
+    "lastUpdated": "2023-02-26T06:37:40Z",
+    "stars": 12,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.1.3",
@@ -1740,19 +1753,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
-  },
-  {
-    "repo": "liplum/MindustryModTemplate",
-    "name": "%Repository%",
-    "version": "1.0",
-    "mod_id": "%Repository%",
-    "author": "%Owner%",
-    "lastUpdated": "2023-02-26T06:37:40Z",
-    "stars": 11,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "PKChaos/Ion",
@@ -2163,7 +2163,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-09-08T12:20:11Z",
+    "lastUpdated": "2023-09-09T12:18:13Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4015,6 +4015,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first mod for mindustry"
+  },
+  {
+    "repo": "Txar/DenseCreations",
+    "name": "Dense Creations",
+    "version": "1.0.0",
+    "mod_id": "densecreations",
+    "author": "Txar",
+    "lastUpdated": "2022-02-10T21:16:41Z",
+    "stars": 4,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
     "repo": "YamiyoshinLevi/gun-mod",
@@ -6175,6 +6188,19 @@
     "description": "Expansion mod. Alpha stage."
   },
   {
+    "repo": "MindustryExtended13/GeoCorpIndustries",
+    "name": "GeoCorp Industries",
+    "version": "1.0",
+    "mod_id": "gmod",
+    "author": "TheEE145",
+    "lastUpdated": "2023-08-22T19:53:57Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that adds serpulo industry."
+  },
+  {
     "repo": "FreezeMandu/pvp-contest",
     "name": "PVP 대회용 모드",
     "version": "1.0",
@@ -7202,19 +7228,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.0",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-09-01T10:14:52Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
     "repo": "chennnnn666/mindustryMOD",
     "name": "%Repository%",
     "version": "1.0",
@@ -7265,5 +7278,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Sandbox Utility Mindustry Mod"
+  },
+  {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.0",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-09-09T14:50:46Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   }
 ]
