@@ -1279,7 +1279,7 @@
     "version": "0.1.2A",
     "mod_id": "hpl",
     "author": "HPL Team",
-    "lastUpdated": "2023-09-16T08:50:52Z",
+    "lastUpdated": "2023-09-16T13:29:35Z",
     "stars": 16,
     "minGameVersion": "141",
     "hasScripts": false,
@@ -5746,19 +5746,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "floppa-coder/IronExtened",
-    "name": "Iron Extended",
-    "version": "0.3",
-    "mod_id": "iron",
-    "author": "Floppa",
-    "lastUpdated": "2023-09-08T22:00:04Z",
-    "stars": 2,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/Zerubus-planet",
     "name": "Zerubus a new hell",
     "version": "135",
@@ -5822,6 +5809,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "floppa-coder/IronExtened",
+    "name": "Iron Extended",
+    "version": "0.3",
+    "mod_id": "iron",
+    "author": "Floppa",
+    "lastUpdated": "2023-09-16T14:53:06Z",
+    "stars": 2,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "4156/Infintory",
@@ -7330,5 +7330,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds custom hit-sounds to daggers."
+  },
+  {
+    "repo": "bhucft/mindustry-mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-09-16T11:11:40Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
