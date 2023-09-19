@@ -2873,19 +2873,6 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.1",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-25T08:01:08Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
-  },
-  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -4784,6 +4771,19 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
+    "repo": "sheptalo/ponchik-test",
+    "name": "ponchik",
+    "version": "1.1",
+    "mod_id": "pon",
+    "author": "sheptalo",
+    "lastUpdated": "2022-10-16T09:19:57Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "mod for doing chaotic things"
+  },
+  {
     "repo": "MxPerrot/StellarMind",
     "name": "Stellar Mind",
     "version": "0.1",
@@ -4992,19 +4992,6 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "The4codeblocks/sandbox-utilities",
-    "name": "Sandbox Utilities",
-    "version": "135",
-    "mod_id": "sandbox-utilities",
-    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
-    "lastUpdated": "2023-09-14T20:09:48Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
@@ -5029,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "The4codeblocks/sandbox-utilities",
+    "name": "Sandbox Utilities",
+    "version": "135",
+    "mod_id": "sandbox-utilities",
+    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
+    "lastUpdated": "2023-09-18T20:48:29Z",
+    "stars": 3,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5330,6 +5330,19 @@
     "description": "Mod adds bomber unit tree."
   },
   {
+    "repo": "bin-tenkuu/Mindustry-moreLogicMod",
+    "name": "更多逻辑",
+    "version": "1.2",
+    "mod_id": "bin-More-Logic",
+    "author": "bin",
+    "lastUpdated": "2022-08-06T04:27:27Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "添加更多逻辑条：打印缓存处理逻辑"
+  },
+  {
     "repo": "Mythril382/MorseCode",
     "name": "Morse Code",
     "version": "1.0.0",
@@ -5510,6 +5523,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs."
+  },
+  {
+    "repo": "Rorivus/UAschem",
+    "name": "UA schempack",
+    "version": "1.0",
+    "mod_id": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
   },
   {
     "repo": "FreezeMandu/PowerSources",
