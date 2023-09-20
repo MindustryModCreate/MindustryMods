@@ -5005,19 +5005,6 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-09-17T09:51:56Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "7003Mars/bocchi-the-shield",
     "name": "Bocchi shield",
     "version": "1.0",
@@ -5042,6 +5029,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-09-20T00:13:04Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5759,19 +5759,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/Zerubus-planet",
-    "name": "Zerubus a new hell",
-    "version": "135",
-    "mod_id": "zerubus",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-09-14T03:18:17Z",
-    "stars": 2,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
-  },
-  {
     "repo": "Antlrr/salt",
     "name": "Salt",
     "version": "1.0",
@@ -5829,12 +5816,25 @@
     "version": "1.0",
     "mod_id": "caeruleum",
     "author": "Zeniku",
-    "lastUpdated": "2023-09-19T13:27:36Z",
+    "lastUpdated": "2023-09-19T23:10:17Z",
     "stars": 2,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/Zerubus-planet",
+    "name": "Zerubus a new hell",
+    "version": "135",
+    "mod_id": "zerubus",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-09-19T23:52:20Z",
+    "stars": 2,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
     "repo": "4156/Infintory",
@@ -7239,6 +7239,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "MrL1d4b/test_mindustry_mod",
+    "name": "Test Mod",
+    "version": "0.1",
+    "mod_id": "test-mod",
+    "author": "Loki",
+    "lastUpdated": "2023-08-22T09:11:36Z",
+    "stars": 0,
+    "minGameVersion": "145.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this is a modding test"
   },
   {
     "repo": "SecondMandu/noreloading",
