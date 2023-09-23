@@ -2808,6 +2808,19 @@
     "description": "Extended Zoom! [to 0.5 <-> 25]"
   },
   {
+    "repo": "Slotterleet/example-planet-json",
+    "name": "JSON Example Solar System!",
+    "version": "No version provided.",
+    "mod_id": "ep-json",
+    "author": "Slotterleet",
+    "lastUpdated": "2023-09-04T15:31:44Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
+  },
+  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.8",
@@ -3224,32 +3237,6 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
-    "repo": "Slotterleet/example-planet-json",
-    "name": "JSON Example Solar System!",
-    "version": "No version provided.",
-    "mod_id": "ep-json",
-    "author": "Slotterleet",
-    "lastUpdated": "2023-09-04T15:31:44Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.3.2",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-09-17T06:59:52Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
-  },
-  {
     "repo": "Agzam4/Mindustry-mod",
     "name": "Agzam's Mod",
     "version": "1.6.2",
@@ -3261,6 +3248,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.3.2",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-09-23T10:01:49Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -6290,19 +6290,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Dausas Project mod"
-  },
-  {
-    "repo": "UAdustry/Frozen-technologies",
-    "name": "Frozen technologies",
-    "version": "0.1",
-    "mod_id": "ft",
-    "author": "IvanDem",
-    "lastUpdated": "2023-01-27T17:55:19Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WIP mod"
   },
   {
     "repo": "CalebMonkey/Mindustry-Taller",
