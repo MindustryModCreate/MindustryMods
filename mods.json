@@ -585,19 +585,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "w1-BeyeK/rl_mindustry",
-    "name": "Real Life Mod",
-    "version": "3.0",
-    "mod_id": "Real life mindustry mod",
-    "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
-    "lastUpdated": "2023-03-04T21:58:23Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "53",
@@ -648,6 +635,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "GRavillaso Mod based to improve basic content & add new things"
+  },
+  {
+    "repo": "w1-BeyeK/rl_mindustry",
+    "name": "Real Life Mod",
+    "version": "3.0",
+    "mod_id": "Real life mindustry mod",
+    "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
+    "lastUpdated": "2023-03-04T21:58:23Z",
+    "stars": 28,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-09-26T00:51:22Z",
+    "lastUpdated": "2023-09-26T12:21:55Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3001,6 +3001,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "Sh1penfire/pixelcraft",
+    "name": "Pixelcraft: The endless rust",
+    "version": "0.9.85",
+    "mod_id": "pixelcraft",
+    "author": "Sh1penfire and pankiwi",
+    "lastUpdated": "2022-06-05T23:00:15Z",
+    "stars": 6,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4225,19 +4238,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "EdwardBrok/JDST-mod",
-    "name": "Joey Drew Studios Technologies",
-    "version": "1.0-debuggin",
-    "mod_id": "jdst",
-    "author": "Edward_Brok (content), liplum (MultiCraft Lib)",
-    "lastUpdated": "2023-06-17T08:40:21Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
-  },
-  {
     "repo": "Vernaon/mindustry-admin-button",
     "name": "Admin button",
     "version": "2.1",
@@ -4314,6 +4314,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
+    "repo": "EdwardBrok/JDST-mod",
+    "name": "Joey Drew Studios Technologies",
+    "version": "1.0-debuggin",
+    "mod_id": "jdst",
+    "author": "Edward_Brok (content), liplum (MultiCraft Lib)",
+    "lastUpdated": "2023-09-26T11:50:52Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5057,19 +5070,6 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
-    "repo": "The4codeblocks/sandbox-utilities",
-    "name": "Sandbox Utilities",
-    "version": "135",
-    "mod_id": "sandbox-utilities",
-    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
-    "lastUpdated": "2023-09-18T20:48:29Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
@@ -5094,6 +5094,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠) Yet another planet mod "
+  },
+  {
+    "repo": "The4codeblocks/sandbox-utilities",
+    "name": "Sandbox Utilities",
+    "version": "135",
+    "mod_id": "sandbox-utilities",
+    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
+    "lastUpdated": "2023-09-26T15:05:59Z",
+    "stars": 3,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7564,6 +7577,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many colored blocks"
+  },
+  {
+    "repo": "woodjecket/MindustryScalaModTemplate",
+    "name": "Scala Mod Template",
+    "version": "1.0",
+    "mod_id": "example-scala-mod",
+    "author": "You",
+    "lastUpdated": "2023-01-20T01:32:56Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Scala mod template."
   },
   {
     "repo": "Miniontoby/mindustrirc",
