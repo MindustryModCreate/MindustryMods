@@ -96,7 +96,7 @@
     "version": "1.1.4.0",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-09-29T15:00:26Z",
+    "lastUpdated": "2023-09-29T15:30:53Z",
     "stars": 124,
     "minGameVersion": "144.3",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-09-29T09:43:53Z",
+    "lastUpdated": "2023-09-29T19:47:03Z",
     "stars": 53,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1597,19 +1597,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
-    "repo": "LighterTimes/Block-Placer",
-    "name": "Block Placer",
-    "version": "eicular manslaughter 2",
-    "mod_id": "block-placer",
-    "author": "Light",
-    "lastUpdated": "2022-09-20T17:07:41Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that places any kind of blocks (even modded and hidden) into the world.\n\n Star me on Github!   (please) "
   },
   {
     "repo": "liplum/MindustryModTemplate",
@@ -3653,6 +3640,19 @@
     "description": "A Mindustry mod"
   },
   {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.4",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-09-16T21:21:03Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4301,19 +4301,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.4",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-09-16T21:21:03Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "EdwardBrok/JDST-mod",
