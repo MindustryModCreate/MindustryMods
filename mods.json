@@ -356,7 +356,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-09-29T19:47:03Z",
+    "lastUpdated": "2023-09-30T19:37:55Z",
     "stars": 53,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -681,7 +681,7 @@
     "version": "1.2",
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-09-30T13:15:16Z",
+    "lastUpdated": "2023-09-30T16:54:49Z",
     "stars": 28,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -2600,6 +2600,19 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1.1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
+  },
+  {
     "repo": "RebornTrack970/infinicampaign",
     "name": "InfiniCampaign",
     "version": "1.0",
@@ -2800,7 +2813,7 @@
     "version": "1.0-alpha",
     "mod_id": "giftologic",
     "author": "sebmeister2077",
-    "lastUpdated": "2023-09-28T18:48:13Z",
+    "lastUpdated": "2023-09-30T20:03:34Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3003,19 +3016,6 @@
     "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1.1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T06:55:03Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
-  },
-  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "version": "1.1.4",
@@ -3216,7 +3216,7 @@
     "version": "1.4.3.2",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2023-09-30T05:45:15Z",
+    "lastUpdated": "2023-09-30T16:28:01Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3521,19 +3521,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
-    "repo": "SakuraLilly/Powered-by-nature",
-    "name": "Powered by Nature",
-    "version": "3.0",
-    "mod_id": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-11-12T15:22:58Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "GenericSomeone/RejecteDustry",
@@ -4810,6 +4797,19 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
+    "repo": "sheptalo/ponchik-test",
+    "name": "ponchik",
+    "version": "1.1",
+    "mod_id": "pon",
+    "author": "sheptalo",
+    "lastUpdated": "2022-10-16T09:19:57Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "mod for doing chaotic things"
+  },
+  {
     "repo": "MxPerrot/StellarMind",
     "name": "Stellar Mind",
     "version": "0.1",
@@ -5161,6 +5161,19 @@
     "description": "A Mod adding a very hard to mine resource"
   },
   {
+    "repo": "MakeItGame/Test4Life-Enhancement",
+    "name": "Test4Life Enhancement",
+    "version": "1.0",
+    "mod_id": "Test4Life",
+    "author": "MakeItGame",
+    "lastUpdated": "2020-12-30T16:07:12Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mod that enhaces your Game with  new Things and Enhancements."
+  },
+  {
     "repo": "ScolarIronFist/UnitCapMod",
     "name": "unit cap modifier",
     "version": "1",
@@ -5185,19 +5198,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "souvikpodder/Mindustry-souvy-mod",
-    "name": "Souvy Help Block",
-    "version": "1.6",
-    "mod_id": "souvy-help-block",
-    "author": "Souvy",
-    "lastUpdated": "2021-02-25T18:50:22Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
   },
   {
     "repo": "txomon/MindustryClientHostPauseMod",
@@ -5250,6 +5250,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New guns, drills, crafting, materials and resourses"
+  },
+  {
+    "repo": "Memedustry/Motivation",
+    "name": "Motivation",
+    "version": "69",
+    "mod_id": "Motivation",
+    "author": "Memedustry",
+    "lastUpdated": "2021-05-18T03:39:48Z",
+    "stars": 2,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Help your mod-making-mood with this motivational mod!"
   },
   {
     "repo": "BlueTechnoCat/Mindustry-Diamond-Mod",
@@ -5642,19 +5655,6 @@
     "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
   },
   {
-    "repo": "raffel080108/UnlockTechTreeMod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "mod_id": "unlock-tech-tree-mod",
-    "author": "You",
-    "lastUpdated": "2023-04-13T01:08:33Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
     "repo": "not8097/suck_mod",
     "name": "suck mod",
     "version": "0.2.198964",
@@ -5952,6 +5952,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small mod that keeps adding stuff"
+  },
+  {
+    "repo": "raffel080108/UnlockTechTreeMod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "mod_id": "unlock-tech-tree-mod",
+    "author": "You",
+    "lastUpdated": "2023-09-30T16:46:41Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "4156/Infintory",
@@ -6420,6 +6433,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
+    "repo": "azureplanet/zhxs-java",
+    "name": "《整活像素》",
+    "version": "beta0.01",
+    "mod_id": "aughhhh",
+    "author": "猫猫贴贴",
+    "lastUpdated": "2023-07-31T04:41:52Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
   },
   {
     "repo": "MindustryExtended13/ME13Template",
@@ -7566,6 +7592,19 @@
     "description": "IRC Mod for Mindustry"
   },
   {
+    "repo": "Doodle1333/cliff-mindustry-mod",
+    "name": "cliff",
+    "version": "1.1.0",
+    "mod_id": "cliff",
+    "author": "DeltaNedas",
+    "lastUpdated": "2023-02-23T16:42:13Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
     "repo": "Weathercold/Haxefrog",
     "name": "Haxefrog",
     "version": "1.0.0-SNAPSHOT",
@@ -7772,6 +7811,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
+  },
+  {
+    "repo": "wdfeer/MoarSilicon",
+    "name": "Moar Silicon",
+    "version": "1.0",
+    "mod_id": "moar-silicon",
+    "author": "wdfeer",
+    "lastUpdated": "2023-06-24T10:33:00Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about Silicon!"
   },
   {
     "repo": "992040/mindustry_better_mindustry",
