@@ -1170,19 +1170,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "version": "Algorithm 1.2",
-    "mod_id": "auto-research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 17,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.9",
@@ -2600,19 +2587,6 @@
     "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
-    "repo": "breadbug23/Somas",
-    "name": "Somas",
-    "version": "1.4",
-    "mod_id": "somas",
-    "author": "piksqu",
-    "lastUpdated": "2022-03-04T05:58:56Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extention of the base mindustry with T2 factories, a support naval tree and a new flying spinner tree, curently going through polish patch"
-  },
-  {
     "repo": "RebornTrack970/GigaFortSector",
     "name": "GigaFort Sector",
     "version": "1.0",
@@ -2663,19 +2637,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
-    "repo": "uujuju1/Monolith",
-    "name": "Flow",
-    "version": "v0.3",
-    "mod_id": "flow",
-    "author": "Uujuju",
-    "lastUpdated": "2022-11-10T22:40:30Z",
-    "stars": 7,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stuff."
   },
   {
     "repo": "sleepnevercomes/everything-is-grey",
@@ -4277,19 +4238,6 @@
     "description": ""
   },
   {
-    "repo": "TagGamer555/OMEGAZERO",
-    "name": "Ω0",
-    "version": "003",
-    "mod_id": "kiky5",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-09-02T13:02:11Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
     "repo": "deltanedas/radar",
     "name": "Radar",
     "version": "3.10.5",
@@ -4888,19 +4836,6 @@
     "description": "这是一个使用UniverseCore作为前置的mod模板"
   },
   {
-    "repo": "BalaM314/flarogus-mod",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "flarogus-mod",
-    "author": "BalaM314",
-    "lastUpdated": "2022-11-29T10:42:59Z",
-    "stars": 3,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds flarogus to Mindustry."
-  },
-  {
     "repo": "Thinkystuff7/MindustryMod-2",
     "name": "Mind ustry Mod1",
     "version": "3.1",
@@ -5083,19 +5018,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "The4codeblocks/sandbox-utilities",
-    "name": "Sandbox Utilities",
-    "version": "135",
-    "mod_id": "sandbox-utilities",
-    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
-    "lastUpdated": "2023-09-26T15:05:59Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
-  },
-  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.3",
@@ -5122,17 +5044,30 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
+    "repo": "The4codeblocks/sandbox-utilities",
+    "name": "Sandbox Utilities",
+    "version": "135",
+    "mod_id": "sandbox-utilities",
+    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
+    "lastUpdated": "2023-09-29T20:11:26Z",
+    "stars": 3,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
+  },
+  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A new beginning",
     "version": "v0.1.8-beta",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency",
-    "lastUpdated": "2023-09-29T09:33:58Z",
+    "lastUpdated": "2023-09-29T22:56:20Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A simple mindustry mod that contains a new planet, items, units and turrets\nhey, if you like this mod.. give it a star on github, that would really help :)"
+    "description": "Welcome to the world of Zeridmuth. Its a small planet located at the edge of the solar system\nIt is also a good place Start Over again\n->It is also more than just a planet, It has Fully working \n-Campaign(WIP)\n-A working Techtree that is balanced the way it is.\n-New Sectors, Maps, Ores, Items and last but not least Units\n-All of this is made on Android, which forces me to simplyfy the mod so much it only took less than 3 seconds for PC users!\nThanks for playing this mod. We hope you have a nice playthrough\nDisclaimer: mod is not fully polished yet, it may be in thr future to add more content as much as Java Mods but in HJSON!"
   },
   {
     "repo": "SirMachinegun/EBM",
