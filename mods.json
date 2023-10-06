@@ -1599,6 +1599,19 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.4",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 12,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
+  },
+  {
     "repo": "liplum/MindustryModTemplate",
     "name": "%Repository%",
     "version": "1.0",
@@ -1753,19 +1766,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
-  },
-  {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0.4",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-12-01T15:37:01Z",
-    "stars": 11,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "BalaM314/no-invasions",
@@ -2111,7 +2111,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-10-06T00:51:03Z",
+    "lastUpdated": "2023-10-06T12:21:56Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5057,19 +5057,6 @@
     "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "The4codeblocks/sandbox-utilities",
-    "name": "Sandbox Utilities",
-    "version": "135",
-    "mod_id": "sandbox-utilities",
-    "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
-    "lastUpdated": "2023-09-29T20:11:26Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.5",
@@ -5107,6 +5094,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "h"
+  },
+  {
+    "repo": "The4codeblocks/sandbox-utilities",
+    "name": "Sandbox Utilities",
+    "version": "135",
+    "mod_id": "sandbox-utilities",
+    "author": "The Chaoticans\n[sky]T4[stat]SC [gray][Mass <=> [blue]Energy][][][][]",
+    "lastUpdated": "2023-10-06T11:25:20Z",
+    "stars": 3,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5980,17 +5980,43 @@
     "description": "Minecraft in mindustry"
   },
   {
-    "repo": "zuoranartemwing/TurretExpansion",
-    "name": "Turret Expansion",
-    "version": "2.0",
-    "mod_id": "turret-expansion",
-    "author": "Zuoran Artemwing",
-    "lastUpdated": "2023-10-06T09:40:53Z",
+    "repo": "DemonEVD/KaDD-mod",
+    "name": "KaDD mod",
+    "version": "0.1",
+    "mod_id": "kadd",
+    "author": "DemKa",
+    "lastUpdated": "2023-10-05T21:23:22Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Add more Turrets!\n\nNote: THIS IS STILL IN DEVELOPMENT\nVersion: 2.1.2 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nYou can use Our code for free for personal use | Permission required for publication or sharing\n\nContributors:\nKanaede\nNeon"
+    "description": "Just my first mod)))"
+  },
+  {
+    "repo": "zuoranartemwing/TurretExpansion",
+    "name": "Turret Expansion",
+    "version": "2.0",
+    "mod_id": "turret-expansion",
+    "author": "zuoranartemwing",
+    "lastUpdated": "2023-10-06T10:38:21Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Turrets!\n\nNote: THIS IS STILL IN DEVELOPMENT\nVersion: 2.1.2 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nYou can use Our code for free for personal use | Permission required for publication or sharing\n\nContributors:\nKanaede\nNEON-XZR"
+  },
+  {
+    "repo": "Pirojok3000/MIndustry-classic-music",
+    "name": "Mindustry Classic Music",
+    "version": "V1",
+    "mod_id": "Mindustry classic music with new tracks from v6",
+    "author": "Pirojok3000",
+    "lastUpdated": "2023-10-06T11:29:56Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
     "repo": "4156/Infintory",
