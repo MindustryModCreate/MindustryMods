@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-08-25T00:54:30Z",
-    "stars": 283,
+    "stars": 284,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -728,6 +728,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -791,19 +804,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -1833,6 +1833,19 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.0.1",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-10-08T08:41:44Z",
+    "stars": 11,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "deltanedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -1922,19 +1935,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.0.1",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-10-08T08:41:44Z",
-    "stars": 10,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -5473,19 +5473,6 @@
     "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
-    "repo": "Mythril382/MorseCode",
-    "name": "Morse Code",
-    "version": "1.0.0",
-    "mod_id": "morse-code",
-    "author": "Mythril",
-    "lastUpdated": "2022-08-11T06:31:30Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
-  },
-  {
     "repo": "konkitoman/SpeedCtlMan",
     "name": "SpeedCtlMan",
     "version": "0.2",
@@ -6004,6 +5991,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nI`m working on:\n\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- New materials (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. A-B-G material system (now)\n3. Some difficult stuff\n4. Turrets\n5. Units\n6. Sectors + planet (~)\n"
+  },
+  {
+    "repo": "Mythril382/MorseCode",
+    "name": "Morse Code",
+    "version": "1.1.0",
+    "mod_id": "morse-code",
+    "author": "Mythril",
+    "lastUpdated": "2023-10-08T11:07:35Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
     "repo": "4156/Infintory",
