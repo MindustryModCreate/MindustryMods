@@ -57,7 +57,7 @@
     "version": "spaghetti",
     "mod_id": "allure",
     "author": "Elixias",
-    "lastUpdated": "2023-10-06T17:35:33Z",
+    "lastUpdated": "2023-10-08T15:49:13Z",
     "stars": 154,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3224,19 +3224,6 @@
     "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -5954,19 +5941,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "sheptalo/mindustry-minecraft-mod",
-    "name": "Minecraft mod",
-    "version": "1.0",
-    "mod_id": "minecraft",
-    "author": "sheptalo",
-    "lastUpdated": "2023-10-05T18:31:12Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft in mindustry"
-  },
-  {
     "repo": "Pirojok3000/MIndustry-classic-music",
     "name": "Mindustry Classic Music",
     "version": "V1",
@@ -6004,6 +5978,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
+  },
+  {
+    "repo": "sheptalo/mindustry-minecraft-mod",
+    "name": "Minecraft mod",
+    "version": "1.0",
+    "mod_id": "minecraft",
+    "author": "sheptalo",
+    "lastUpdated": "2023-10-08T15:48:01Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft in mindustry"
   },
   {
     "repo": "4156/Infintory",
@@ -6485,19 +6472,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench'(deleted) in schematics!"
-  },
-  {
-    "repo": "azureplanet/zhxs-java",
-    "name": "《整活像素》",
-    "version": "beta0.01",
-    "mod_id": "aughhhh",
-    "author": "猫猫贴贴",
-    "lastUpdated": "2023-07-31T04:41:52Z",
-    "stars": 1,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
   },
   {
     "repo": "MindustryExtended13/ME13Template",
@@ -8006,19 +7980,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Infinity Map Base"
-  },
-  {
-    "repo": "shan-luan/mindustryModTt2",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-10-03T12:09:21Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "VN-Shar/MindustryToolMod",
