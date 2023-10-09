@@ -1885,19 +1885,6 @@
     "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
-    "repo": "MinRi2/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.2",
@@ -3016,6 +3003,19 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
+    "repo": "Sh1penfire/pixelcraft",
+    "name": "Pixelcraft: The endless rust",
+    "version": "0.9.85",
+    "mod_id": "pixelcraft",
+    "author": "Sh1penfire and pankiwi",
+    "lastUpdated": "2022-06-05T23:00:15Z",
+    "stars": 6,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
+  },
+  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "version": "1.1.4",
@@ -3222,6 +3222,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
+  },
+  {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -4524,19 +4537,6 @@
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
-    "repo": "Txar/DenseCreationsOld",
-    "name": "Dense Creations",
-    "version": "1.0.0",
-    "mod_id": "densecreations",
-    "author": "Txar",
-    "lastUpdated": "2022-02-08T13:09:57Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
-  },
-  {
     "repo": "DivisionByZero80/mindustry-launchpads",
     "name": "Serpulo Launchpad Hub",
     "version": "1.0",
@@ -5185,19 +5185,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "souvikpodder/Mindustry-souvy-mod",
-    "name": "Souvy Help Block",
-    "version": "1.6",
-    "mod_id": "souvy-help-block",
-    "author": "Souvy",
-    "lastUpdated": "2021-02-25T18:50:22Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
   },
   {
     "repo": "txomon/MindustryClientHostPauseMod",
@@ -6474,6 +6461,19 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
+    "repo": "azureplanet/zhxs-java",
+    "name": "《整活像素》",
+    "version": "beta0.01",
+    "mod_id": "aughhhh",
+    "author": "猫猫贴贴",
+    "lastUpdated": "2023-07-31T04:41:52Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
+  },
+  {
     "repo": "MindustryExtended13/ME13Template",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7241,6 +7241,19 @@
     "description": "Still in development(only started since Ian 2022)"
   },
   {
+    "repo": "StepHindi/Mindustry_mod_java_test",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2022-04-15T16:32:59Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "AHRumjungle/Matter",
     "name": "Matter",
     "version": "0.1",
@@ -7304,19 +7317,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
-    "repo": "MBTiAmo712DEV/parachutists-mod",
-    "name": "parachutists",
-    "version": "1.0",
-    "mod_id": "parachutists",
-    "author": "mb",
-    "lastUpdated": "2022-06-16T08:07:49Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "There is no suitable profile for the time being."
   },
   {
     "repo": "Sheep-Hugger/Colonization-industry",
@@ -7421,19 +7421,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "TheMalaysianDude/malwork",
-    "name": "Malwork",
-    "version": "1.0.1",
-    "mod_id": "malwork",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2022-10-26T06:02:06Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Testing ground for java modding."
   },
   {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
@@ -7774,19 +7761,6 @@
     "description": "Modification based on MSGO"
   },
   {
-    "repo": "wdfeer/MoarSilicon",
-    "name": "Moar Silicon",
-    "version": "1.0",
-    "mod_id": "moar-silicon",
-    "author": "wdfeer",
-    "lastUpdated": "2023-06-24T10:33:00Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about Silicon!"
-  },
-  {
     "repo": "992040/mindustry_better_mindustry",
     "name": "mindustry_better_mindustry",
     "version": "0.4",
@@ -7980,6 +7954,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Infinity Map Base"
+  },
+  {
+    "repo": "shan-luan/mindustryModTt2",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-10-03T12:09:21Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "VN-Shar/MindustryToolMod",
