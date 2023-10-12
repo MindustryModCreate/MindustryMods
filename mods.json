@@ -200,7 +200,7 @@
     "version": "0.3.1",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-10-11T20:02:26Z",
+    "lastUpdated": "2023-10-12T13:57:00Z",
     "stars": 87,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -691,10 +691,10 @@
   {
     "repo": "MQ-1175/more-vanilla",
     "name": "Campaign Expansion Mod",
-    "version": "1.5",
+    "version": "1.6",
     "mod_id": "morevanilla",
     "author": "M.Q.",
-    "lastUpdated": "2023-10-10T14:30:56Z",
+    "lastUpdated": "2023-10-12T13:38:11Z",
     "stars": 28,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -838,7 +838,7 @@
     "mod_id": "v-scheme-pack",
     "author": "Rogen4, KirillRum",
     "lastUpdated": "2023-04-28T19:10:25Z",
-    "stars": 24,
+    "stars": 25,
     "minGameVersion": "141",
     "hasScripts": true,
     "hasJava": false,
@@ -1859,19 +1859,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "deltanedas/cliff",
-    "name": "cliff",
-    "version": "1.1.0",
-    "mod_id": "cliff",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-03T13:17:34Z",
-    "stars": 10,
-    "minGameVersion": "111",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables the cliff button and any map size in the editor."
-  },
-  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "version": "1.1",
@@ -1961,19 +1948,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Janssendel/Opposing-Front",
-    "name": "Opposing Front",
-    "version": "ask Jans",
-    "mod_id": "opposing-front",
-    "author": "Janssendel",
-    "lastUpdated": "2021-12-10T08:46:17Z",
-    "stars": 9,
-    "minGameVersion": "129.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
@@ -2111,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-10-12T00:49:15Z",
+    "lastUpdated": "2023-10-12T12:21:45Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2873,6 +2847,19 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
+  },
+  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -2962,6 +2949,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -5101,7 +5101,7 @@
     "version": "2.0",
     "mod_id": "turret-expansion",
     "author": "zuoranartemwing",
-    "lastUpdated": "2023-10-12T08:57:44Z",
+    "lastUpdated": "2023-10-12T10:27:45Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6472,19 +6472,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "removes all bundle text"
-  },
-  {
-    "repo": "FreezeMandu/infinite-processor",
-    "name": "Infinite Processor V7",
-    "version": "2.01",
-    "mod_id": "infiniteProcessor",
-    "author": "Mandu",
-    "lastUpdated": "2023-07-19T10:34:57Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
     "repo": "azureplanet/zhxs-java",
@@ -8034,7 +8021,7 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "VN-Shar/MindustryToolMod",
+    "repo": "sharrlotte/MindustryToolMod",
     "name": "MindustryTool",
     "version": "1.0",
     "mod_id": "MindustryTool",
