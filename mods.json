@@ -694,12 +694,12 @@
     "version": "1.6",
     "mod_id": "morevanilla",
     "author": "M.Q.",
-    "lastUpdated": "2023-10-13T05:00:23Z",
+    "lastUpdated": "2023-10-13T09:37:36Z",
     "stars": 28,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Adds higher tier of vanilla blocks, starting from Serpulo.\nThe mod aims to expand further production and defense in late game.\nMod is still in development more contents coming soon."
+    "description": "Adds higher tier of vanilla blocks, starting from Serpulo.\nThe mod aims to expand further production and defense in late game.\nMod is still in development more contents coming soon.\n\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -2288,19 +2288,6 @@
     "description": "Do not the Anuke"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
-    "name": "Max Rate Calculator",
-    "version": "2.1",
-    "mod_id": "MaxRateCalculator",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-02-26T23:46:45Z",
-    "stars": 8,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "version": "3.2.1",
@@ -2730,19 +2717,6 @@
     "description": "BetaMindy music assets. Does nothing on its own!"
   },
   {
-    "repo": "TeamOct/Erekir-Music",
-    "name": "Team Oct's Erekir Music",
-    "version": "1.2.0",
-    "mod_id": "erekir-music",
-    "author": "Team Oct",
-    "lastUpdated": "2023-08-12T12:35:49Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
-  },
-  {
     "repo": "AForgetfulness/TowerDefense",
     "name": "Tower Defense",
     "version": "0.2",
@@ -3014,19 +2988,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "Sh1penfire/pixelcraft",
-    "name": "Pixelcraft: The endless rust",
-    "version": "0.9.85",
-    "mod_id": "pixelcraft",
-    "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2022-06-05T23:00:15Z",
-    "stars": 6,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
@@ -3352,19 +3313,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "work in progress mod that adds cool stuff"
-  },
-  {
-    "repo": "AzhurniyBaklan/commically-large-units",
-    "name": "Comically large units",
-    "version": "0.41",
-    "mod_id": "largeunits",
-    "author": "CancerGuy",
-    "lastUpdated": "2021-08-22T20:14:01Z",
-    "stars": 5,
-    "minGameVersion": "128",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "yeah they are comically large"
   },
   {
     "repo": "3Snake3/Korium-Mod",
@@ -4264,6 +4212,19 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "PLsubfarm61/Project_B",
+    "name": "Project B [Alpha]",
+    "version": "0",
+    "mod_id": "project-b",
+    "author": " [white]pol[red]ish [lime]subfarm61 ",
+    "lastUpdated": "2023-08-07T10:46:01Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
+  },
+  {
     "repo": "deltanedas/radar",
     "name": "Radar",
     "version": "3.10.5",
@@ -4990,19 +4951,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
-    "repo": "PLsubfarm61/Project_B",
-    "name": "Project B [Alpha]",
-    "version": "0",
-    "mod_id": "project-b",
-    "author": " [white]pol[red]ish [lime]subfarm61 ",
-    "lastUpdated": "2023-08-07T10:46:01Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
     "repo": "Nezerit6/Starry",
