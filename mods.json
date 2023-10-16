@@ -1716,6 +1716,19 @@
     "description": "Harness the power of dreams in this content mod."
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "version": "1.9.6",
+    "mod_id": "anuke-logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 11,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "version": "0.6.2",
@@ -1883,19 +1896,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
-  },
-  {
-    "repo": "MinRi2/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "Mnemotechnician/CKAT",
@@ -3003,19 +3003,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "Sh1penfire/pixelcraft",
-    "name": "Pixelcraft: The endless rust",
-    "version": "0.9.85",
-    "mod_id": "pixelcraft",
-    "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2022-06-05T23:00:15Z",
-    "stars": 6,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
-  },
-  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "version": "1.1.4",
@@ -3224,19 +3211,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "CyberneticSquid/self-destruct",
-    "name": "Unit Self-Destruct",
-    "version": "1.0",
-    "mod_id": "self-destruct",
-    "author": "CyberneticSquid",
-    "lastUpdated": "2020-12-02T11:58:49Z",
-    "stars": 5,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3274,19 +3248,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
-  },
-  {
-    "repo": "Floofball-uwu/Jukeustry",
-    "name": "Jukeustry",
-    "version": "0.3",
-    "mod_id": "jukeustry",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-03-04T07:39:13Z",
-    "stars": 5,
-    "minGameVersion": "125.00",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
   },
   {
     "repo": "GlennFolker/Mindustry-ModTemplate",
@@ -7007,19 +6968,6 @@
     "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
-    "repo": "Potato-Man1/ZyganMod",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2021-09-06T08:06:15Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "snack-ie/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "version": "1.1",
@@ -7566,19 +7514,6 @@
     "description": "trying out modding"
   },
   {
-    "repo": "pepters/MinTorio",
-    "name": "MinTorio",
-    "version": "0.1",
-    "mod_id": "MinTorio",
-    "author": "c1219",
-    "lastUpdated": "2023-01-15T18:45:55Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
     "repo": "mrybs/pixelarts",
     "name": "Pixelarts",
     "version": "0.1",
@@ -7590,19 +7525,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many colored blocks"
-  },
-  {
-    "repo": "woodjecket/MindustryScalaModTemplate",
-    "name": "Scala Mod Template",
-    "version": "1.0",
-    "mod_id": "example-scala-mod",
-    "author": "You",
-    "lastUpdated": "2023-01-20T01:32:56Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Scala mod template."
   },
   {
     "repo": "Miniontoby/mindustrirc",
@@ -8071,5 +7993,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is not Mindustry"
+  },
+  {
+    "repo": "KayyAyeAre/melancholy",
+    "name": "Melancholy",
+    "version": "alpha 2023-31-8",
+    "mod_id": "melancholy",
+    "author": "KayAyeAre",
+    "lastUpdated": "2023-10-16T17:26:46Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "chill"
   }
 ]
