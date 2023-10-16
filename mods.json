@@ -2873,19 +2873,6 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.1",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-25T08:01:08Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
-  },
-  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3404,6 +3391,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -5070,32 +5070,6 @@
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.5",
-    "mod_id": "olupis",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-10-13T13:42:33Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-10-15T20:44:24Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "zuoranartemwing/TurretExpansion",
     "name": "Turret Expansion",
     "version": "2.0",
@@ -5107,6 +5081,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Turrets!\n\nNote: THIS IS STILL IN DEVELOPMENT\nVersion: 2.1.2 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nYou can use Our code for free for personal use | Permission required for publication or sharing\n\nContributors:\nKanaede\nNEON-XZR"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-10-16T06:10:28Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.5",
+    "mod_id": "olupis",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-10-16T08:30:11Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6023,8 +6023,8 @@
     "name": "Sentinel addon",
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
-    "author": "penguip",
-    "lastUpdated": "2023-10-15T19:11:31Z",
+    "author": "The skelebros",
+    "lastUpdated": "2023-10-16T09:19:37Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
