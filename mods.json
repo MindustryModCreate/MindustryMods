@@ -1898,6 +1898,19 @@
     "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
+    "repo": "MinRi2/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "Mnemotechnician/CKAT",
     "name": "Скат [kotlin]",
     "version": "2.2",
@@ -3211,6 +3224,19 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
+    "repo": "CyberneticSquid/self-destruct",
+    "name": "Unit Self-Destruct",
+    "version": "1.0",
+    "mod_id": "self-destruct",
+    "author": "CyberneticSquid",
+    "lastUpdated": "2020-12-02T11:58:49Z",
+    "stars": 5,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
+  },
+  {
     "repo": "TheSaus/ImprovedGamma",
     "name": "Improved Gamma",
     "version": "1.5",
@@ -3248,6 +3274,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
+  },
+  {
+    "repo": "Floofball-uwu/Jukeustry",
+    "name": "Jukeustry",
+    "version": "0.3",
+    "mod_id": "jukeustry",
+    "author": "Farmer Thanos",
+    "lastUpdated": "2021-03-04T07:39:13Z",
+    "stars": 5,
+    "minGameVersion": "125.00",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
   },
   {
     "repo": "GlennFolker/Mindustry-ModTemplate",
@@ -4771,19 +4810,6 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
-    "repo": "sheptalo/ponchik-test",
-    "name": "ponchik",
-    "version": "1.1",
-    "mod_id": "pon",
-    "author": "sheptalo",
-    "lastUpdated": "2022-10-16T09:19:57Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "mod for doing chaotic things"
-  },
-  {
     "repo": "MxPerrot/StellarMind",
     "name": "Stellar Mind",
     "version": "0.1",
@@ -5031,19 +5057,6 @@
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-10-16T06:10:28Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.5",
@@ -5068,6 +5081,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Turrets!\n\nNote: THIS IS STILL IN DEVELOPMENT\nVersion: 2.1.2 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nYou can use Our code for free for personal use | Permission required for publication or sharing\n\nContributors:\nKanaede\nNEON-XZR"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-10-16T22:45:30Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5159,19 +5185,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
-  },
-  {
-    "repo": "souvikpodder/Mindustry-souvy-mod",
-    "name": "Souvy Help Block",
-    "version": "1.6",
-    "mod_id": "souvy-help-block",
-    "author": "Souvy",
-    "lastUpdated": "2021-02-25T18:50:22Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds blocks which produces a ton of resources for free, useful for getting extra resources in campaign."
   },
   {
     "repo": "txomon/MindustryClientHostPauseMod",
@@ -7423,19 +7436,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "TheMalaysianDude/malwork",
-    "name": "Malwork",
-    "version": "1.0.1",
-    "mod_id": "malwork",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2022-10-26T06:02:06Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Testing ground for java modding."
-  },
-  {
     "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
     "name": "氢气核心",
     "version": "1.0.1",
@@ -7525,6 +7525,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many colored blocks"
+  },
+  {
+    "repo": "woodjecket/MindustryScalaModTemplate",
+    "name": "Scala Mod Template",
+    "version": "1.0",
+    "mod_id": "example-scala-mod",
+    "author": "You",
+    "lastUpdated": "2023-01-20T01:32:56Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Scala mod template."
   },
   {
     "repo": "Miniontoby/mindustrirc",
@@ -7746,19 +7759,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Modification based on MSGO"
-  },
-  {
-    "repo": "wdfeer/MoarSilicon",
-    "name": "Moar Silicon",
-    "version": "1.0",
-    "mod_id": "moar-silicon",
-    "author": "wdfeer",
-    "lastUpdated": "2023-06-24T10:33:00Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about Silicon!"
   },
   {
     "repo": "992040/mindustry_better_mindustry",
