@@ -676,19 +676,6 @@
     "description": "Adds higher tier of vanilla blocks, starting from Serpulo.\nThe mod aims to expand further production and defense in late game.\nMod is still in development more contents coming soon.\n\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "alpha-0.8.10",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-10-18T14:46:37Z",
-    "stars": 28,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的"
-  },
-  {
     "repo": "ZielonyTrojkat/Frozen-Farlands",
     "name": "Frozen Farlands",
     "version": "1.2",
@@ -700,6 +687,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.8.11",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-10-20T16:20:37Z",
+    "stars": 28,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n based on UniverseCore mod"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -741,19 +741,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.7",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 26,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -772,7 +759,7 @@
     "version": "1.8.9",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2023-10-20T14:55:08Z",
+    "lastUpdated": "2023-10-20T15:57:39Z",
     "stars": 26,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -830,6 +817,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.7",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2023-02-27T10:41:04Z",
+    "stars": 25,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -1300,19 +1300,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "TheSkyFather/Minerals",
-    "name": "Minerals",
-    "version": "0.9.6.1 Final",
-    "mod_id": "mineralmod",
-    "author": "TheSkyFather",
-    "lastUpdated": "2022-07-04T11:45:18Z",
-    "stars": 15,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Explore minerals and mechanisms."
-  },
-  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
@@ -1415,6 +1402,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod template."
+  },
+  {
+    "repo": "TheSkyFather/Minerals",
+    "name": "Minerals",
+    "version": "0.9.6.1 Final",
+    "mod_id": "mineralmod",
+    "author": "TheSkyFather",
+    "lastUpdated": "2022-07-04T11:45:18Z",
+    "stars": 14,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Explore minerals and mechanisms."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -4134,6 +4134,19 @@
     "description": ""
   },
   {
+    "repo": "XtarsAgency/Zeridmuth",
+    "name": "Zeridmuth: A new beginning",
+    "version": "v0.1.9",
+    "mod_id": "zeridmuth",
+    "author": "[red]Xtarsagency",
+    "lastUpdated": "2023-10-07T01:20:06Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to the world of Zeridmuth. Its a small planet located at the edge of the solar system\nIt is also a good place Start Over again\nIt is also more than just a planet, It has Fully working \n\n-Campaign(WIP)\n\n-A working Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Items and last but not least Units\n\n-All of this is made on Android, which forces me to simplyfy the mod so much it only took less than 3 seconds for PC users!\nDisclaimer: mod is not fully polished yet, it may be in the future to add more content as much as Java Mods but in HJSON!"
+  },
+  {
     "repo": "zuoranartemwing/TurretExpansion",
     "name": "Turret Expansion",
     "version": "2.0.1",
@@ -4769,19 +4782,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
-  },
-  {
-    "repo": "XtarsAgency/Zeridmuth",
-    "name": "Zeridmuth: A new beginning",
-    "version": "v0.1.9",
-    "mod_id": "zeridmuth",
-    "author": "[red]Xtarsagency",
-    "lastUpdated": "2023-10-07T01:20:06Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to the world of Zeridmuth. Its a small planet located at the edge of the solar system\nIt is also a good place Start Over again\nIt is also more than just a planet, It has Fully working \n\n-Campaign(WIP)\n\n-A working Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Items and last but not least Units\n\n-All of this is made on Android, which forces me to simplyfy the mod so much it only took less than 3 seconds for PC users!\nDisclaimer: mod is not fully polished yet, it may be in the future to add more content as much as Java Mods but in HJSON!"
   },
   {
     "repo": "JiroCab/Olupis",
@@ -5590,19 +5590,6 @@
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
-    "repo": "raffel080108/UnlockTechTreeMod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "mod_id": "unlock-tech-tree-mod",
-    "author": "You",
-    "lastUpdated": "2023-09-30T16:46:41Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
     "repo": "Yoru-Kitsune/Beskar-OUTDATED",
     "name": "Beskar (OUTDATED)",
     "version": "0.0.7",
@@ -6121,6 +6108,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Alot to see here!Funfact Metal Reactors explode when they are destroyed while active!"
+  },
+  {
+    "repo": "Nikisos/TheBattleMod",
+    "name": "Battle Comveyors",
+    "version": "1.0 In Development",
+    "mod_id": "aaa-thecombatmod-bynicksos",
+    "author": "Nikisos",
+    "lastUpdated": "2020-10-03T16:39:37Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Don't play it"
   },
   {
     "repo": "Thinkystuff7/MindustryMod-1",
