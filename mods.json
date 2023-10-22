@@ -3177,7 +3177,7 @@
     "version": "1.4.3.2",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2023-10-21T16:28:26Z",
+    "lastUpdated": "2023-10-22T07:24:58Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6929,19 +6929,6 @@
     "description": "Testing ground for java modding."
   },
   {
-    "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
-    "name": "氢气核心",
-    "version": "1.0.1",
-    "mod_id": "HydrogenCore",
-    "author": "m9O",
-    "lastUpdated": "2022-10-29T08:54:42Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "为所以氢气mod提供前置"
-  },
-  {
     "repo": "NFK1HEROUS1/mindustry-mod",
     "name": "cola",
     "version": "No version provided.",
@@ -7447,5 +7434,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "PlanetSat0rn/Saturnium",
+    "name": "Saturnium",
+    "version": "1.3.2",
+    "mod_id": "saturnium",
+    "author": "PlanetSat0rn",
+    "lastUpdated": "2023-10-22T07:38:31Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My main mod for stuff in hjson"
   }
 ]
