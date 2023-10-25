@@ -18,7 +18,7 @@
     "version": "1.9.1",
     "mod_id": "exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-08-25T00:54:30Z",
+    "lastUpdated": "2023-10-25T15:45:13Z",
     "stars": 286,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -96,7 +96,7 @@
     "version": "1.1.5.0",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-10-25T11:48:55Z",
+    "lastUpdated": "2023-10-25T15:44:52Z",
     "stars": 128,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -234,6 +234,19 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 75,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "version": "4.0.0",
@@ -245,19 +258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 74,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "3Snake3/Sapphirium",
@@ -317,7 +317,7 @@
     "version": "27.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-10-22T18:47:29Z",
+    "lastUpdated": "2023-10-25T17:33:13Z",
     "stars": 64,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-10-23T19:35:53Z",
+    "lastUpdated": "2023-10-25T17:49:43Z",
     "stars": 55,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6914,19 +6914,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Testing ground for java modding."
-  },
-  {
-    "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
-    "name": "氢气核心",
-    "version": "1.0.1",
-    "mod_id": "HydrogenCore",
-    "author": "m9O",
-    "lastUpdated": "2022-10-29T08:54:42Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "为所以氢气mod提供前置"
   },
   {
     "repo": "NFK1HEROUS1/mindustry-mod",
