@@ -58,7 +58,7 @@
     "mod_id": "allure",
     "author": "Elixias",
     "lastUpdated": "2023-10-19T07:51:40Z",
-    "stars": 156,
+    "stars": 157,
     "minGameVersion": "146.1",
     "hasScripts": false,
     "hasJava": false,
@@ -2085,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-10-28T12:18:41Z",
+    "lastUpdated": "2023-10-29T00:54:14Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3159,19 +3159,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.3.2",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-10-22T07:24:58Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
-  },
-  {
     "repo": "Agzam4/Mindustry-mod",
     "name": "Agzam's Mod",
     "version": "1.6.2",
@@ -3183,6 +3170,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.3.2",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-10-29T03:37:10Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -7421,5 +7421,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "chill"
+  },
+  {
+    "repo": "zzjjjjjjj/MindustryMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-10-29T02:30:26Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
