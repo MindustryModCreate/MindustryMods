@@ -1482,19 +1482,6 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
-    "repo": "Cynthion21x/prismatic",
-    "name": "Prismatic",
-    "version": "1.10.125",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2022-07-30T18:40:23Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
-  },
-  {
     "repo": "Shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "version": "3.9.9",
@@ -1571,6 +1558,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
+  },
+  {
+    "repo": "Cynthion21x/prismatic",
+    "name": "Prismatic",
+    "version": "1.10.125",
+    "mod_id": "prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2023-10-29T08:32:17Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
     "repo": "Gdeft/bleach",
@@ -3510,19 +3510,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "Redstonneur1256/Mindustry-ModLib",
-    "name": "Mod Library",
-    "version": "@version@",
-    "mod_id": "!mod-library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-07-21T16:09:59Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -3599,6 +3586,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "@version@",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-10-29T07:54:18Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4147,19 +4147,6 @@
     "description": ""
   },
   {
-    "repo": "zuoranartemwing/TurretExpansion",
-    "name": "Turret Expansion",
-    "version": "2.0.1",
-    "mod_id": "turret-expansion",
-    "author": "zuoranartemwing",
-    "lastUpdated": "2023-10-18T10:16:50Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Turrets!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.1.2 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
@@ -4210,6 +4197,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution is acceptable. "
+  },
+  {
+    "repo": "TLB1/Xilion",
+    "name": "Xilion",
+    "version": "pre-alpha build 22",
+    "mod_id": "xilion",
+    "author": "TLB1",
+    "lastUpdated": "2023-10-28T23:17:53Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that will add a new campaign."
+  },
+  {
+    "repo": "zuoranartemwing/TurretExpansion",
+    "name": "Turret Expansion",
+    "version": "2.0.1",
+    "mod_id": "turret-expansion",
+    "author": "zuoranartemwing",
+    "lastUpdated": "2023-10-29T09:44:25Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Turrets!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.2.0 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4808,19 +4821,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
-    "repo": "TLB1/Xilion",
-    "name": "Xilion",
-    "version": "pre-alpha build 22",
-    "mod_id": "xilion",
-    "author": "TLB1",
-    "lastUpdated": "2023-10-28T23:17:53Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
     "repo": "SirMachinegun/EBM",
