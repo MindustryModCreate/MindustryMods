@@ -382,9 +382,9 @@
     "version": "0.3v",
     "mod_id": "shar",
     "author": "Sharlottes",
-    "lastUpdated": "2023-07-01T17:44:09Z",
+    "lastUpdated": "2023-10-30T16:27:10Z",
     "stars": 50,
-    "minGameVersion": "138",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
@@ -585,19 +585,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "MQ-1175/more-vanilla",
-    "name": "Campaign Expansion Mod",
-    "version": "1.6",
-    "mod_id": "morevanilla",
-    "author": "M.Q.",
-    "lastUpdated": "2023-10-15T10:49:46Z",
-    "stars": 29,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tier of vanilla blocks, starting from Serpulo.\nThe mod aims to expand further production and defense in late game.\nMod is still in development more contents coming soon.\n\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "58",
@@ -609,6 +596,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "MQ-1175/more-vanilla",
+    "name": "Blocks Extension Mod",
+    "version": "1.7",
+    "mod_id": "morevanilla",
+    "author": "mq_1175",
+    "lastUpdated": "2023-10-30T18:06:40Z",
+    "stars": 29,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks, and only a slightest of addition. If you aren't interested in mods that has unioriginal contents, this mod might not suit you.\nMod is still in development, so expect some strangely unbalanced content. More contents coming soon.\n\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
   },
   {
     "repo": "Gdeft/substructure",
@@ -3601,6 +3601,19 @@
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
+    "repo": "zuoranartemwing/TurretExpansion",
+    "name": "Turret Expansion",
+    "version": "2.0.1",
+    "mod_id": "turret-expansion",
+    "author": "zuoranartemwing",
+    "lastUpdated": "2023-10-30T08:05:24Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Turrets!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.2.0 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4212,19 +4225,6 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "zuoranartemwing/TurretExpansion",
-    "name": "Turret Expansion",
-    "version": "2.0.1",
-    "mod_id": "turret-expansion",
-    "author": "zuoranartemwing",
-    "lastUpdated": "2023-10-30T08:05:24Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Turrets!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.2.0 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
-  },
-  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4815,7 +4815,7 @@
     "version": "1.5",
     "mod_id": "olupis",
     "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-10-26T22:26:42Z",
+    "lastUpdated": "2023-10-30T17:06:57Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5668,19 +5668,6 @@
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
-    "repo": "misterfirer/UrMod-mindustry-v7-",
-    "name": "UrMod",
-    "version": "No version provided.",
-    "mod_id": "UrMod",
-    "author": "SausageCheck1",
-    "lastUpdated": "2023-10-29T11:05:09Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
-  },
-  {
     "repo": "Yoru-Kitsune/Beskar-OUTDATED",
     "name": "Beskar (OUTDATED)",
     "version": "0.0.7",
@@ -5692,6 +5679,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "An outdated hardcore mod.\nGerman Translation of this mod is available in my big translation project on github!\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Sequel mod is work in progress)"
+  },
+  {
+    "repo": "misterfirer/UrMod-mindustry-v7-",
+    "name": "UrMod",
+    "version": "No version provided.",
+    "mod_id": "UrMod",
+    "author": "SausageCheck1",
+    "lastUpdated": "2023-10-30T18:04:03Z",
+    "stars": 2,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
     "repo": "4156/Infintory",
