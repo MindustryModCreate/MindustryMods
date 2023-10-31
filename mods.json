@@ -148,7 +148,7 @@
     "version": "2.7.71",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-08-10T23:00:11Z",
+    "lastUpdated": "2023-10-31T07:37:38Z",
     "stars": 93,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -286,6 +286,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "deltanedas/rtfm",
+    "name": "RTFM",
+    "version": "3.15.2",
+    "mod_id": "rtfm",
+    "author": "deltanedas",
+    "lastUpdated": "2023-07-14T01:02:34Z",
+    "stars": 72,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.3",
@@ -297,19 +310,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "deltanedas/rtfm",
-    "name": "RTFM",
-    "version": "3.15.2",
-    "mod_id": "rtfm",
-    "author": "deltanedas",
-    "lastUpdated": "2023-07-14T01:02:34Z",
-    "stars": 71,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "MEEPofFaith/prog-mats-java",
@@ -603,7 +603,7 @@
     "version": "1.7",
     "mod_id": "morevanilla",
     "author": "mq_1175",
-    "lastUpdated": "2023-10-31T04:58:57Z",
+    "lastUpdated": "2023-10-31T08:13:48Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4823,6 +4823,19 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
+    "repo": "misterfirer/UrMod-mindustry-v7-",
+    "name": "UrMod",
+    "version": "No version provided.",
+    "mod_id": "UrMod",
+    "author": "SausageCheck1",
+    "lastUpdated": "2023-10-30T18:04:03Z",
+    "stars": 3,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -5679,19 +5692,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "An outdated hardcore mod.\nGerman Translation of this mod is available in my big translation project on github!\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Sequel mod is work in progress)"
-  },
-  {
-    "repo": "misterfirer/UrMod-mindustry-v7-",
-    "name": "UrMod",
-    "version": "No version provided.",
-    "mod_id": "UrMod",
-    "author": "SausageCheck1",
-    "lastUpdated": "2023-10-30T18:04:03Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
     "repo": "4156/Infintory",
