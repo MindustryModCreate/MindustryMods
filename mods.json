@@ -585,6 +585,19 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
+    "repo": "w1-BeyeK/rl_mindustry",
+    "name": "Real Life Mod",
+    "version": "3.0",
+    "mod_id": "Real life mindustry mod",
+    "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
+    "lastUpdated": "2023-03-04T21:58:23Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "58",
@@ -648,19 +661,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
-    "repo": "w1-BeyeK/rl_mindustry",
-    "name": "Real Life Mod",
-    "version": "3.0",
-    "mod_id": "Real life mindustry mod",
-    "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
-    "lastUpdated": "2023-03-04T21:58:23Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -1916,7 +1916,7 @@
     "version": "0.15",
     "mod_id": "zerg",
     "author": "pardon",
-    "lastUpdated": "2023-10-04T02:53:06Z",
+    "lastUpdated": "2023-11-02T15:06:32Z",
     "stars": 10,
     "minGameVersion": "139",
     "hasScripts": true,
@@ -2085,7 +2085,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-11-01T12:21:10Z",
+    "lastUpdated": "2023-11-02T12:21:09Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4173,19 +4173,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "1.0",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2023-10-20T06:38:58Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v0.1.9.7",
@@ -4216,13 +4203,26 @@
     "name": "Sandbox Utilities",
     "version": "135",
     "mod_id": "sandbox-utilities",
-    "author": "The Chaoticans\n[sky]T4[stat]SC [gray][Mass <=> [blue]Energy][][][][]",
-    "lastUpdated": "2023-11-01T19:59:16Z",
+    "author": "The Chaoticans\n[#58b0f]T4[stat]SC [gray][Mass <=> [blue]Energy][][][][]",
+    "lastUpdated": "2023-11-02T10:19:43Z",
     "stars": 4,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
+  },
+  {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "1.0",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2023-11-02T14:36:16Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
