@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-23T12:32:15Z",
-    "stars": 275,
+    "stars": 276,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-10-30T21:06:53Z",
+    "lastUpdated": "2023-11-04T19:41:17Z",
     "stars": 55,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5525,19 +5525,6 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
-    "repo": "Antlrr/bitches",
-    "name": "Getting Bitches",
-    "version": "1.0",
-    "mod_id": "bitches",
-    "author": "Antlrr",
-    "lastUpdated": "2023-08-18T04:38:38Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds bitches and some other things"
-  },
-  {
     "repo": "gedrode/RustAndDustMod",
     "name": "锈与尘「Rust and Dust」",
     "version": "2.0.0",
@@ -5692,6 +5679,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "An outdated hardcore mod.\nGerman Translation of this mod is available in my big translation project on github!\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Sequel mod is work in progress)"
+  },
+  {
+    "repo": "Antlrr/bitches",
+    "name": "Getting Bitches",
+    "version": "1.0",
+    "mod_id": "bitches",
+    "author": "Antlrr",
+    "lastUpdated": "2023-11-04T15:48:47Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds bitches and some other things"
   },
   {
     "repo": "4156/Infintory",
@@ -6331,19 +6331,6 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
-    "repo": "rumulus/Mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-04-01T18:22:27Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "qwertyQ1234-programming/QQ-Mod",
     "name": "QQ-Mod",
     "version": "1.0.1b alpha [bugfixy]",
@@ -6355,19 +6342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Niezależny mod kompatybilny z G-Modem"
-  },
-  {
-    "repo": "jgonc19/Mindustry_Mods",
-    "name": "Pointer",
-    "version": "2.4.2",
-    "mod_id": "Mindustry_Mods",
-    "author": "Juan",
-    "lastUpdated": "2021-04-21T00:17:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "KotMilkMeoW/Milkmod",
@@ -6524,6 +6498,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
@@ -7397,19 +7384,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "spiral2404/spiral-mod",
-    "name": "Spiral2404 mod",
-    "version": "0.1",
-    "mod_id": "spiral-mod",
-    "author": "Spiral2404",
-    "lastUpdated": "2023-11-03T23:27:15Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mi primer mod, hecho en la plantilla de mods, está en version beta, tiene funciones muy rotas."
-  },
-  {
     "repo": "The4codeblocks/securityKey",
     "name": "Security Key",
     "version": "No version provided.",
@@ -7434,5 +7408,31 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "el wiwi"
+  },
+  {
+    "repo": "spiral2404/spiral-mod",
+    "name": "Spiral2404 mod",
+    "version": "0.1",
+    "mod_id": "spiral-mod",
+    "author": "Spiral2404",
+    "lastUpdated": "2023-11-04T19:29:12Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mi primer mod, hecho en la plantilla de mods, está en version beta, tiene funciones muy rotas."
+  },
+  {
+    "repo": "UAdustry/SporeMod",
+    "name": "Spore",
+    "version": "1.0",
+    "mod_id": "spor",
+    "author": "IvanDem",
+    "lastUpdated": "2023-11-04T19:49:50Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
   }
 ]
