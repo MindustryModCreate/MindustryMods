@@ -148,7 +148,7 @@
     "version": "2.7.71",
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2023-10-31T07:37:38Z",
+    "lastUpdated": "2023-11-05T15:48:46Z",
     "stars": 96,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -169,6 +169,19 @@
     "description": "Hackustry v4"
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-08-12T02:23:27Z",
+    "stars": 92,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "v0.8.4",
@@ -180,19 +193,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-08-12T02:23:27Z",
-    "stars": 91,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Aeyama-Mod/aeyama",
@@ -1094,10 +1094,10 @@
   {
     "repo": "HPL-Team/Project-HPL",
     "name": "Project HPL",
-    "version": "0.2A",
+    "version": "0.2.2A",
     "mod_id": "hpl",
     "author": "HPL Team",
-    "lastUpdated": "2023-11-05T15:03:38Z",
+    "lastUpdated": "2023-11-05T19:56:36Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3575,19 +3575,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "Redstonneur1256/Mindustry-ModLib",
-    "name": "Mod Library",
-    "version": "@version@",
-    "mod_id": "!mod-library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-10-29T07:54:18Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
     "repo": "TagGamer555/OMEGAZERO",
     "name": "Ω0",
     "version": "003",
@@ -3625,6 +3612,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution is acceptable. "
+  },
+  {
+    "repo": "Redstonneur1256/Mindustry-ModLib",
+    "name": "Mod Library",
+    "version": "${version}",
+    "mod_id": "!mod-library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-11-05T17:52:24Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
