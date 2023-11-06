@@ -858,6 +858,19 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "RA2EXE/Saturation-Firepower",
+    "name": "Saturation firepower",
+    "version": "3.1.3.3",
+    "mod_id": "饱和火力",
+    "author": "RA2",
+    "lastUpdated": "2023-11-02T16:07:33Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n每两月更新一次，偶尔会有紧急bug修复发布\n进群第一件事核对你的mod版本！\n若发现bug或有疑问进群咨询\n[green]———————————————[white]\n模组历史更新内容将在他处记录\n此处只记录当个大版本（X.X.X）的所有更新项目\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.3.3更新：\n持续跟进英翻\n继续格式化代码\n降低大多数协议研究消耗\n科技树位置修改\n"
+  },
+  {
     "repo": "Anuken/wind3",
     "name": "wind3",
     "version": "No version provided.",
@@ -895,19 +908,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "RA2EXE/Saturation-Firepower",
-    "name": "Saturation firepower",
-    "version": "3.1.3.3",
-    "mod_id": "饱和火力",
-    "author": "RA2",
-    "lastUpdated": "2023-11-02T16:07:33Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n每两月更新一次，偶尔会有紧急bug修复发布\n进群第一件事核对你的mod版本！\n若发现bug或有疑问进群咨询\n[green]———————————————[white]\n模组历史更新内容将在他处记录\n此处只记录当个大版本（X.X.X）的所有更新项目\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.3.3更新：\n持续跟进英翻\n继续格式化代码\n降低大多数协议研究消耗\n科技树位置修改\n"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1097,7 +1097,7 @@
     "version": "0.2.2A",
     "mod_id": "hpl",
     "author": "HPL Team",
-    "lastUpdated": "2023-11-05T19:56:36Z",
+    "lastUpdated": "2023-11-05T20:39:18Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4173,19 +4173,6 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.5",
-    "mod_id": "olupis",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-11-02T05:23:40Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4236,6 +4223,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.5",
+    "mod_id": "olupis",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-11-05T23:59:05Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6927,19 +6927,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
-    "repo": "mrybs/pixelarts",
-    "name": "Pixelarts",
-    "version": "0.1",
-    "mod_id": "pixelarts",
-    "author": "Mrybs - maintainer, main developer",
-    "lastUpdated": "2023-01-19T14:42:23Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many colored blocks"
   },
   {
     "repo": "woodjecket/MindustryScalaModTemplate",
