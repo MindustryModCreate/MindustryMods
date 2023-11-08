@@ -31,7 +31,7 @@
     "version": "0.4.8",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-08-23T12:32:15Z",
+    "lastUpdated": "2023-11-08T10:23:02Z",
     "stars": 277,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-11-08T00:52:09Z",
+    "lastUpdated": "2023-11-08T12:21:06Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2884,6 +2884,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that enables developer console and removes restrictions on access of classes."
+  },
+  {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
   },
   {
     "repo": "NiChrosia/Acceleration",
@@ -8097,5 +8110,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
+  },
+  {
+    "repo": "LaoHuaJiOfficial/FoodFactory",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-08T11:30:26Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
