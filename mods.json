@@ -629,7 +629,7 @@
     "version": "1.8",
     "mod_id": "morevanilla",
     "author": "mq_1175",
-    "lastUpdated": "2023-11-04T11:12:10Z",
+    "lastUpdated": "2023-11-09T16:55:33Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1222,6 +1222,19 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.75 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2023-06-08T14:15:00Z",
+    "stars": 17,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
     "version": "[#FFC000]0.1 [#FF4747]Alpha",
@@ -1298,19 +1311,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.75 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2023-06-08T14:15:00Z",
-    "stars": 16,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -4329,6 +4329,19 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
+    "repo": "misterfirer/UrMod-mindustry-v7-",
+    "name": "UrMod",
+    "version": "No version provided.",
+    "mod_id": "UrMod",
+    "author": "SausageCheck1",
+    "lastUpdated": "2023-10-30T18:04:03Z",
+    "stars": 4,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -5120,19 +5133,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
-  },
-  {
-    "repo": "misterfirer/UrMod-mindustry-v7-",
-    "name": "UrMod",
-    "version": "No version provided.",
-    "mod_id": "UrMod",
-    "author": "SausageCheck1",
-    "lastUpdated": "2023-10-30T18:04:03Z",
-    "stars": 3,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
     "repo": "Lunaticol/Erekir-to-Serpulo",
@@ -6201,6 +6201,19 @@
     "description": "7.0 vanila-like mod"
   },
   {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "version": "0.0 build 2 alpha",
+    "mod_id": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-12-21T07:31:19Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
+  },
+  {
     "repo": "Auseawesome/Mindustry-GameBreaker",
     "name": "Mindustry Gamebreaker",
     "version": "Alpha 0.1",
@@ -6329,19 +6342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
   },
   {
     "repo": "mrybs/dasuas",
