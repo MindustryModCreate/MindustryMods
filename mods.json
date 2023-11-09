@@ -2028,19 +2028,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:47Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -3289,19 +3276,6 @@
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
   },
   {
-    "repo": "Floofball-uwu/Jukeustry",
-    "name": "Jukeustry",
-    "version": "0.3",
-    "mod_id": "jukeustry",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-03-04T07:39:13Z",
-    "stars": 5,
-    "minGameVersion": "125.00",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
     "repo": "GlennFolker/Mindustry-ModTemplate",
     "name": "Mindustry Mod Template",
     "version": "1.0",
@@ -3549,19 +3523,6 @@
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
   },
   {
-    "repo": "SakuraLilly/Powered-by-nature",
-    "name": "Powered by Nature",
-    "version": "3.0",
-    "mod_id": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-11-12T15:22:58Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
-  },
-  {
     "repo": "GenericSomeone/RejecteDustry",
     "name": "RejecteDustry",
     "version": "1.3",
@@ -3638,19 +3599,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
-    "repo": "FreezeMandu/SQA-Schemic",
-    "name": "S.Q.A Schemic",
-    "version": "2.1",
-    "mod_id": "SQA-Schemic",
-    "author": "Sirus&Qwertynoob&Anchovy&Mandu",
-    "lastUpdated": "2023-09-10T02:16:09Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Schematic mod of Sirius and Qwertynoob and Anchovy\nTag: Qwertynoob, Anchovy, Sirius, NothingToDo\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly.\n\nAB: AirBlast drill\nBS: Black Sand\nWS: White sand\nEW: External Water\nPOD: Phased Over Drive\nOD: Over Drive\nODD: Over Drive Dome\nWEX: Water EXtractor\nOEX: Oil EXtractor\n\nSirius Schem Youtube link\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "ApsZoldat/MindustryMappingUtilities",
@@ -4004,19 +3952,6 @@
     "description": "makes the unitcap 99999."
   },
   {
-    "repo": "EntExists/AWP",
-    "name": "Advanced Weapons Platform",
-    "version": "2.0",
-    "mod_id": "entunits",
-    "author": "Ent",
-    "lastUpdated": "2021-11-12T16:48:15Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds an advanced weapons platform. Dread it. \n\n[ SANDBOX ONLY ]"
-  },
-  {
     "repo": "Kingfrankbob/Extra-Support",
     "name": "Extra Support",
     "version": "1.0",
@@ -4119,19 +4054,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to alter vanilla progression"
-  },
-  {
-    "repo": "wshon/MinerTools135",
-    "name": "MinerTools 135",
-    "version": "1.6.5.1",
-    "mod_id": "miner-tools-135",
-    "author": "miner, adapter by wshon",
-    "lastUpdated": "2022-06-05T01:13:11Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry 135.2"
   },
   {
     "repo": "TeeworldsFun/Mindustry-teeworlds",
@@ -5367,6 +5289,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks:\r\nMohole: slag drill\r\nSmall thermal generator: a smaller thermal generator\r\nChanges:\r\nSand water can be mined\r\nExperimental blocks enabled\r\nSand water variants have oil attribute"
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus-BetaMindyCompat",
+    "name": "Mindustry+ BetaMindy Compatibility",
+    "version": "Alpha 0.1",
+    "mod_id": "mindustry-plus-betamindy",
+    "author": "Auseawesome",
+    "lastUpdated": "2021-08-26T14:39:46Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to allow MindustryPlus and BetaMindy to work well together"
   },
   {
     "repo": "FreezeMandu/routertexturepack",
