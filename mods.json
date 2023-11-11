@@ -2121,12 +2121,12 @@
   {
     "repo": "ZoGGerS-cc/Major",
     "name": "Relaz",
-    "version": "1.1",
+    "version": "0.5",
     "mod_id": "relax",
     "author": "[ZoGGerS]",
-    "lastUpdated": "2023-11-10T23:22:42Z",
+    "lastUpdated": "2023-11-11T05:17:32Z",
     "stars": 9,
-    "minGameVersion": "144",
+    "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Мод на стадии разработки!"
@@ -2884,6 +2884,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that enables developer console and removes restrictions on access of classes."
+  },
+  {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
   },
   {
     "repo": "NiChrosia/Acceleration",
@@ -3692,6 +3705,19 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "misterfirer/UrMod-mindustry-v7-",
+    "name": "UrMod",
+    "version": "No version provided.",
+    "mod_id": "UrMod",
+    "author": "SausageCheck1",
+    "lastUpdated": "2023-11-10T14:12:26Z",
+    "stars": 5,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v0.1.9.7",
@@ -4368,19 +4394,6 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
   },
   {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "1.1",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2023-11-08T09:45:11Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
     "version": "1.0",
@@ -4394,19 +4407,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "misterfirer/UrMod-mindustry-v7-",
-    "name": "UrMod",
-    "version": "No version provided.",
-    "mod_id": "UrMod",
-    "author": "SausageCheck1",
-    "lastUpdated": "2023-11-10T14:12:26Z",
-    "stars": 4,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.5",
@@ -4418,6 +4418,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠) Yet another planet mod "
+  },
+  {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "1.1",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2023-11-11T09:38:15Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6188,19 +6201,6 @@
     "description": "7.0 vanila-like mod"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "version": "0.0 build 2 alpha",
-    "mod_id": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-12-21T07:31:19Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
     "repo": "Auseawesome/Mindustry-GameBreaker",
     "name": "Mindustry Gamebreaker",
     "version": "Alpha 0.1",
@@ -6329,6 +6329,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
   },
   {
     "repo": "mrybs/dasuas",
