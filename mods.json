@@ -317,7 +317,7 @@
     "version": "27.3",
     "mod_id": "prog-mats",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2023-10-28T19:58:08Z",
+    "lastUpdated": "2023-11-10T22:43:15Z",
     "stars": 64,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2120,16 +2120,16 @@
   },
   {
     "repo": "ZoGGerS-cc/Major",
-    "name": "Major",
-    "version": "2.4",
-    "mod_id": "Major",
-    "author": "ZoGGerS, Dim4ik, n33nat0",
-    "lastUpdated": "2023-11-10T20:07:00Z",
+    "name": "Relaz",
+    "version": "1.1",
+    "mod_id": "relax",
+    "author": "[ZoGGerS]",
+    "lastUpdated": "2023-11-10T23:22:42Z",
     "stars": 9,
-    "minGameVersion": "136",
+    "minGameVersion": "144",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты! МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
+    "description": "Мод на стадии разработки!"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3710,7 +3710,7 @@
     "version": "v0.1.9.7",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[]Contributors: [pink]Yoru-Kitsune, [cyan]ItzCraft",
-    "lastUpdated": "2023-11-10T09:48:10Z",
+    "lastUpdated": "2023-11-10T22:54:15Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4407,19 +4407,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.5",
-    "mod_id": "olupis",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-11-10T14:09:19Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
     "repo": "misterfirer/UrMod-mindustry-v7-",
     "name": "UrMod",
     "version": "No version provided.",
@@ -4431,6 +4418,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.5",
+    "mod_id": "olupis",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-11-11T00:21:55Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6201,6 +6201,19 @@
     "description": "7.0 vanila-like mod"
   },
   {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "version": "0.0 build 2 alpha",
+    "mod_id": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-12-21T07:31:19Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
+  },
+  {
     "repo": "Auseawesome/Mindustry-GameBreaker",
     "name": "Mindustry Gamebreaker",
     "version": "Alpha 0.1",
@@ -6329,19 +6342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
   },
   {
     "repo": "mrybs/dasuas",
@@ -6836,19 +6836,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reactor based on quantum mechanics."
-  },
-  {
-    "repo": "RebornTrack970/moonmod",
-    "name": "MoonMod",
-    "version": "0.1",
-    "mod_id": "moonmod",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-31T07:59:05Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds moon"
   },
   {
     "repo": "RebornTrack970/Singleplayernt",
