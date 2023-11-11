@@ -409,7 +409,7 @@
     "mod_id": "MI2-Utilities-Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2023-08-20T13:06:54Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -819,19 +819,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "TheRealIvyX/MoreDefences",
-    "name": "MoreDefences Classic",
-    "version": "1.0",
-    "mod_id": "more-defences-ivyx",
-    "author": "IvyX",
-    "lastUpdated": "2022-07-06T15:41:13Z",
-    "stars": 25,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -856,6 +843,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
+  },
+  {
+    "repo": "TheRealIvyX/MoreDefences",
+    "name": "MoreDefences",
+    "version": "1.0",
+    "mod_id": "more-defences-ivyx",
+    "author": "IvyX",
+    "lastUpdated": "2023-11-11T17:44:11Z",
+    "stars": 25,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "RA2EXE/Saturation-Firepower",
@@ -2457,19 +2457,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.8",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2023-11-04T00:53:58Z",
-    "stars": 8,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "TeamOct/Erekir-Music",
     "name": "Team Oct's Erekir Music",
     "version": "1.2.0",
@@ -2481,6 +2468,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.8",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2023-11-11T18:01:15Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "deltanedas/no",
@@ -2884,19 +2884,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that enables developer console and removes restrictions on access of classes."
-  },
-  {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.1",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-25T08:01:08Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
   },
   {
     "repo": "NiChrosia/Acceleration",
