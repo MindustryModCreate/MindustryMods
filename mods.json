@@ -1029,10 +1029,10 @@
   {
     "repo": "HPL-Team/Project-HPL",
     "name": "Project HPL",
-    "version": "0.2.2A",
+    "version": "0.2.3.1A",
     "mod_id": "hpl",
     "author": "HPL Team",
-    "lastUpdated": "2023-11-06T14:32:22Z",
+    "lastUpdated": "2023-11-12T10:05:21Z",
     "stars": 21,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1833,19 +1833,6 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.0.1",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-11-02T03:00:23Z",
-    "stars": 11,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "version": "1.2.8",
@@ -1870,6 +1857,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.0.1",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-11-12T09:18:27Z",
+    "stars": 11,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "deltanedas/cliff",
@@ -2028,19 +2028,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:47Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "version": "1.6.04",
@@ -2130,6 +2117,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "deltanedas/waisa",
+    "name": "WAISA",
+    "version": "3.3.3",
+    "mod_id": "waisa",
+    "author": "deltanedas",
+    "lastUpdated": "2023-11-12T06:08:00Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -6825,6 +6825,19 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
+    "repo": "RebornTrack970/moonmod",
+    "name": "MoonMod",
+    "version": "0.1",
+    "mod_id": "moonmod",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-31T07:59:05Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds moon"
+  },
+  {
     "repo": "RebornTrack970/Singleplayernt",
     "name": "Singleplayern't",
     "version": "1.0",
@@ -8097,18 +8110,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "chill"
-  },
-  {
-    "repo": "Hirnk/Mindustry-Industrialized",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2023-11-12T01:05:41Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
   }
 ]
