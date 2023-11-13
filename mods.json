@@ -4329,19 +4329,6 @@
     "description": ""
   },
   {
-    "repo": "TLB1/Xilion",
-    "name": "Xilion",
-    "version": "pre-alpha build 22",
-    "mod_id": "xilion",
-    "author": "TLB1",
-    "lastUpdated": "2023-10-28T23:17:53Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that will add a new campaign."
-  },
-  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4407,19 +4394,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.5",
-    "mod_id": "olupis",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-11-11T00:21:55Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
     "repo": "sharrlotte/MindustryToolMod",
     "name": "MindustryTool",
     "version": "1.1",
@@ -4431,6 +4405,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "TLB1/Xilion",
+    "name": "Xilion",
+    "version": "pre-alpha build 22",
+    "mod_id": "xilion",
+    "author": "TLB1",
+    "lastUpdated": "2023-11-12T21:06:48Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that will add a new campaign."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.5",
+    "mod_id": "olupis",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-11-13T00:21:51Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -7995,19 +7995,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "Twcash/Fabrica",
-    "name": "Fabrica",
-    "version": "0",
-    "mod_id": "fabrica",
-    "author": "twcash",
-    "lastUpdated": "2023-10-06T04:16:47Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is not Mindustry"
-  },
-  {
     "repo": "JoeEmp/DaoistJavaMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8123,5 +8110,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "chill"
+  },
+  {
+    "repo": "Twcash/Fabrica",
+    "name": "Fabrica",
+    "version": "0",
+    "mod_id": "fabrica",
+    "author": "twcash",
+    "lastUpdated": "2023-11-12T20:28:00Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is not Mindustry"
   }
 ]
