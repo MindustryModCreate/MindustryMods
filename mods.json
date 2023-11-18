@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-10-25T15:45:13Z",
-    "stars": 289,
+    "stars": 290,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -83,7 +83,7 @@
     "version": "1.1.5.2",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2023-11-12T15:29:14Z",
+    "lastUpdated": "2023-11-18T05:38:29Z",
     "stars": 132,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4342,19 +4342,6 @@
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-11-05T04:49:32Z",
-    "stars": 4,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
     "name": "Mindustry Turrets Extension",
     "version": "0.63: Advanced",
@@ -4418,6 +4405,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-11-18T06:29:30Z",
+    "stars": 4,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
