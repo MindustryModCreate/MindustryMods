@@ -585,6 +585,19 @@
     "description": "- What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks, and only a slightest of addition. If you aren't interested in mods that has unioriginal contents, this mod might not suit you.\n- Mod is still in development, so expect some strangely unbalanced content. More contents coming soon.\n- Important: The mod is lacking translation if you want to help me make one check the github repo.\n\n\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.9.1",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2023-11-18T16:59:24Z",
+    "stars": 30,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -622,19 +635,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.9.1",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2023-11-18T16:59:24Z",
-    "stars": 29,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
     "repo": "Gdeft/substructure",
@@ -3705,6 +3705,19 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "1.1",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2023-11-25T17:36:33Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4366,19 +4379,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
-  },
-  {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "1.1",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2023-11-11T09:38:15Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "TLB1/Xilion",
@@ -8110,5 +8110,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "usernamePaper/ProcessorUi",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-25T17:34:50Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
