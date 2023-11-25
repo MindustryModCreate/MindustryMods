@@ -2124,7 +2124,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-11-25T00:51:41Z",
+    "lastUpdated": "2023-11-25T12:19:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2137,7 +2137,7 @@
     "version": "v0.2.6A",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[]Contributors: [pink]Yoru-Kitsune, [cyan]ItzCraft",
-    "lastUpdated": "2023-11-25T09:41:10Z",
+    "lastUpdated": "2023-11-25T13:48:57Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3250,19 +3250,6 @@
     "description": "My own template for mindustry mods. Written in kotlin, uses kotlin dsl.\n\nIf you're viewing this in the mod browser, do not install this mod.\nThis mod doesn't add anything to the game, nor does it change anything."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.3.2",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-10-29T11:00:44Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
-  },
-  {
     "repo": "misterfirer/UrMod-mindustry-v7-",
     "name": "UrMod",
     "version": "No version provided.",
@@ -3274,6 +3261,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.3.2",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-11-25T14:43:22Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -8086,12 +8086,25 @@
     "description": "bee"
   },
   {
+    "repo": "Hirnk/Mindustry-Industrial",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-25T11:50:08Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
+  },
+  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "0.11",
     "mod_id": "gebr",
     "author": "Lehanchic25",
-    "lastUpdated": "2023-11-25T10:04:52Z",
+    "lastUpdated": "2023-11-25T13:24:35Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
