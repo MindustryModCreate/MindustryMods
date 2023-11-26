@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 282,
+    "stars": 283,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -409,7 +409,7 @@
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2023-11-25T06:01:08Z",
-    "stars": 46,
+    "stars": 47,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -6981,6 +6981,19 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
+  },
+  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -8060,19 +8073,6 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "0.11",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2023-11-25T13:24:35Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "usernamePaper/ProcessorUi",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8097,5 +8097,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "0.11",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2023-11-26T09:48:35Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   }
 ]
