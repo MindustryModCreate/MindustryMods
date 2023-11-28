@@ -273,6 +273,19 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "deltanedas/rtfm",
+    "name": "RTFM",
+    "version": "3.15.2",
+    "mod_id": "rtfm",
+    "author": "deltanedas",
+    "lastUpdated": "2023-07-14T01:02:34Z",
+    "stars": 73,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -284,19 +297,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "deltanedas/rtfm",
-    "name": "RTFM",
-    "version": "3.15.2",
-    "mod_id": "rtfm",
-    "author": "deltanedas",
-    "lastUpdated": "2023-07-14T01:02:34Z",
-    "stars": 72,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "What42Pizza/Mindustry-Production-Mod",
@@ -578,7 +578,7 @@
     "mod_id": "singularity",
     "author": "EBwilson",
     "lastUpdated": "2023-11-18T16:59:24Z",
-    "stars": 30,
+    "stars": 31,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -1443,6 +1443,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "version": "0.4.4",
+    "mod_id": "abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-03-13T01:12:30Z",
+    "stars": 14,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
+  },
+  {
     "repo": "TheSkyFather/Minerals",
     "name": "Minerals",
     "version": "0.9.6.1 Final",
@@ -1493,19 +1506,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "pain and suffering"
-  },
-  {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "version": "0.4.4",
-    "mod_id": "abyss",
-    "author": "Uujuju",
-    "lastUpdated": "2022-03-13T01:12:30Z",
-    "stars": 13,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
   },
   {
     "repo": "Shadowpazzo99/shadowdustry",
@@ -2137,7 +2137,7 @@
     "version": "v0.2.6A",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [pink]Yoru-Kitsune",
-    "lastUpdated": "2023-11-28T04:29:25Z",
+    "lastUpdated": "2023-11-28T05:26:43Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
