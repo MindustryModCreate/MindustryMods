@@ -590,7 +590,7 @@
     "version": "2.0",
     "mod_id": "morevanilla",
     "author": "mq_1175",
-    "lastUpdated": "2023-12-01T07:37:15Z",
+    "lastUpdated": "2023-12-04T07:54:56Z",
     "stars": 30,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3456,6 +3456,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -6968,19 +6981,6 @@
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
   },
   {
-    "repo": "zio-coder/mindustry_mods",
-    "name": "Template",
-    "version": "0",
-    "mod_id": "modtemplate",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-11-03T23:21:13Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gradle jar Mindustry mod template"
-  },
-  {
     "repo": "Antlrr/anuke-bundle",
     "name": "Anuke Bundle",
     "version": "1.0",
@@ -8110,5 +8110,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/javacamod",
+    "name": "Javacamod",
+    "version": "1.0",
+    "mod_id": "javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-12-04T05:50:25Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java camod"
   }
 ]
