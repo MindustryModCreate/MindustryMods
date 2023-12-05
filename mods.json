@@ -106,12 +106,12 @@
   {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
-    "version": "5.1",
+    "version": "6.0",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-12-05T04:36:03Z",
+    "lastUpdated": "2023-12-05T08:04:33Z",
     "stars": 110,
-    "minGameVersion": "141",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
@@ -1032,7 +1032,7 @@
     "version": "three",
     "mod_id": "bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2023-12-04T14:26:34Z",
+    "lastUpdated": "2023-12-05T08:56:49Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2483,6 +2483,19 @@
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.1.0",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2023-12-04T15:08:20Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.Alpha",
@@ -3456,6 +3469,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -6966,6 +6992,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes your gameplay more hotter and hotter..maybe harder?"
+  },
+  {
+    "repo": "zio-coder/mindustry_mods",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-11-03T23:21:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   },
   {
     "repo": "Antlrr/anuke-bundle",
