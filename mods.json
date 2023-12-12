@@ -1032,7 +1032,7 @@
     "version": "1.5",
     "mod_id": "sporepod",
     "author": "Water molecules",
-    "lastUpdated": "2023-12-12T09:39:06Z",
+    "lastUpdated": "2023-12-12T12:38:52Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1326,19 +1326,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.78",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2023-08-11T13:22:00Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
-  },
-  {
     "repo": "o7-Fire/Mindustry-Ozone",
     "name": "Ozone Mindustry",
     "version": "0.24.2:0.19.0",
@@ -1534,19 +1521,6 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "Slotterleet/distributor",
-    "name": "Distributor",
-    "version": "1.1",
-    "mod_id": "distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-10-19T05:40:50Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
     "repo": "KarlsonVive/A-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "version": "1.0.4",
@@ -1558,19 +1532,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.1.3",
-    "mod_id": "newcontrols",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-04-20T10:42:14Z",
-    "stars": 13,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "Cynthion21x/prismatic",
@@ -1950,19 +1911,6 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2023-11-12T06:08:00Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "430230562/zerg",
     "name": "zerg",
     "version": "0.15",
@@ -2119,17 +2067,17 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.2.0",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2023-12-09T09:34:35Z",
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.3.2",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2023-11-25T14:43:22Z",
     "stars": 9,
-    "minGameVersion": "145",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
     "repo": "XtarsAgency/Zeridmuth",
@@ -2150,12 +2098,25 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-12-12T00:55:04Z",
+    "lastUpdated": "2023-12-12T12:22:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.2.0",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2023-12-12T14:43:41Z",
+    "stars": 9,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2366,19 +2327,6 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
-    "repo": "deltanedas/modding-toolbox",
-    "name": "Modding Toolbox",
-    "version": "3.7.4",
-    "mod_id": "modding-toolbox",
-    "author": "deltanedas",
-    "lastUpdated": "2022-10-27T23:23:29Z",
-    "stars": 8,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds some utilities for mod developers.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "Slava0135/reFine",
     "name": "reFine",
     "version": "3.1",
@@ -2507,19 +2455,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.3.2",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2023-11-25T14:43:22Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
     "repo": "uujuju1/Steam-Works",
@@ -2689,19 +2624,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Replaces sector 0 (next to PLT with GigaFort."
-  },
-  {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1.1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T06:55:03Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
   },
   {
     "repo": "RebornTrack970/infinicampaign",
@@ -5174,6 +5096,19 @@
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
+    "repo": "raffel080108/UnlockTechTreeMod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "mod_id": "unlock-tech-tree-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-21T15:17:47Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -5993,19 +5928,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "raffel080108/UnlockTechTreeMod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "mod_id": "unlock-tech-tree-mod",
-    "author": "You",
-    "lastUpdated": "2023-11-21T15:17:47Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6290,6 +6212,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
+    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
+    "name": "MarkDownLoader",
+    "version": "1.0",
+    "mod_id": "mdl",
+    "author": "emmm",
+    "lastUpdated": "2022-12-09T04:32:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "For load MarkDown"
   },
   {
     "repo": "mrybs/dasuas",
@@ -8143,7 +8078,7 @@
     "version": "0.3",
     "mod_id": "aqualite",
     "author": "InxieRatZey",
-    "lastUpdated": "2023-12-12T09:03:53Z",
+    "lastUpdated": "2023-12-12T14:20:30Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
