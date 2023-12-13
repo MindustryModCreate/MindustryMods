@@ -109,7 +109,7 @@
     "version": "6.0",
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-12-13T06:43:26Z",
+    "lastUpdated": "2023-12-13T17:34:49Z",
     "stars": 110,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1261,6 +1261,19 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "Ferlern/extended-UI-v7",
+    "name": "extended UI",
+    "version": "0.78",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2023-08-11T13:22:00Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
+  },
+  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "version": "1.7 [B2]",
@@ -1324,19 +1337,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.78",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2023-08-11T13:22:00Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -1874,10 +1874,10 @@
   {
     "repo": "RayanZ22/OP-Mod",
     "name": "OP Things",
-    "version": "1.01",
+    "version": "1.1",
     "mod_id": "op-things",
     "author": "[green]ABÊ#8931",
-    "lastUpdated": "2023-12-13T14:52:31Z",
+    "lastUpdated": "2023-12-13T19:56:27Z",
     "stars": 11,
     "minGameVersion": "138",
     "hasScripts": true,
@@ -1909,19 +1909,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
-  },
-  {
-    "repo": "no9527dada/free-campaign",
-    "name": "free-campaign-自由战役",
-    "version": "0.2",
-    "mod_id": "free-campaign",
-    "author": "呵呵哒",
-    "lastUpdated": "2021-10-31T02:59:50Z",
-    "stars": 10,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities",
@@ -2260,19 +2247,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is dead, we have killed it."
-  },
-  {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "version": "0.6",
-    "mod_id": "random-stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-11-17T23:51:45Z",
-    "stars": 8,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "7rodo/Strawberry",
@@ -4262,19 +4236,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
-  },
-  {
-    "repo": "AzhurniyBaklan/Advanced-factories",
-    "name": "Advanced Factories",
-    "version": "1.0",
-    "mod_id": "advanced-factories",
-    "author": "AzhurniyBaklan",
-    "lastUpdated": "2023-04-03T12:01:55Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
   },
   {
     "repo": "Vernaon/mindustry-admin-button",
@@ -6290,19 +6251,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
   },
   {
     "repo": "mrybs/dasuas",
