@@ -1032,7 +1032,7 @@
     "version": "1.5",
     "mod_id": "sporepod",
     "author": "Water molecules",
-    "lastUpdated": "2023-12-16T14:58:20Z",
+    "lastUpdated": "2023-12-17T04:59:51Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -2132,12 +2132,25 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-12-16T12:19:49Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.3.2",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2023-11-25T14:43:22Z",
+    "lastUpdated": "2023-12-17T02:31:07Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2150,25 +2163,12 @@
     "version": "v0.2.6A",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [pink]Yoru-Kitsune",
-    "lastUpdated": "2023-12-10T07:47:10Z",
+    "lastUpdated": "2023-12-17T04:54:44Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution is acceptable. \n\"Zeridmuth, a mesmerizing blue-grassed planet, is a haven of flowing water and lush vegetation. However, its beauty belies a tense reality, as the planet is riddled with enemy sectors and a formidable base known as \"Zeridmuth.\" The tranquil landscapes hide a secret struggle for control, where factions vie for supremacy amidst the serene natural surroundings.\""
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-12-16T12:19:49Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3495,6 +3495,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
+  },
+  {
+    "repo": "TheMalaysianDude/additional-factory",
+    "name": "Additional Factory",
+    "version": "1.1",
+    "mod_id": "additional-factory",
+    "author": "TheMalaysianDude",
+    "lastUpdated": "2021-10-27T13:10:57Z",
+    "stars": 5,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -6279,19 +6292,6 @@
     "description": "Изменяет музыку из RUST. Не все музыки были взять."
   },
   {
-    "repo": "EmmmM9O/Mindustry-mod-MarkDownLoader",
-    "name": "MarkDownLoader",
-    "version": "1.0",
-    "mod_id": "mdl",
-    "author": "emmm",
-    "lastUpdated": "2022-12-09T04:32:19Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "For load MarkDown"
-  },
-  {
     "repo": "mrybs/dasuas",
     "name": "Dasuas",
     "version": "1.0",
@@ -8149,5 +8149,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "merbit/lectrosyne",
+    "name": "Lectrosyne",
+    "version": "1.0",
+    "mod_id": "lectrosyne",
+    "author": "Merbit",
+    "lastUpdated": "2023-12-17T03:54:24Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds more power stuffs."
+  },
+  {
+    "repo": "merbit/midnightly",
+    "name": "Midnightly",
+    "version": "1.0",
+    "mod_id": "midnightly",
+    "author": "Merbit",
+    "lastUpdated": "2023-12-17T05:06:25Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a mod i made for experimeting with js things... not really intended to be playable."
   }
 ]
