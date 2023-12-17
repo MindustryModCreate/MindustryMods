@@ -460,7 +460,7 @@
     "version": "1.8",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2023-12-16T23:08:39Z",
+    "lastUpdated": "2023-12-17T14:03:25Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2132,19 +2132,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-12-16T12:19:49Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.3.2",
@@ -2169,6 +2156,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution is acceptable. \n\"Zeridmuth, a mesmerizing blue-grassed planet, is a haven of flowing water and lush vegetation. However, its beauty belies a tense reality, as the planet is riddled with enemy sectors and a formidable base known as \"Zeridmuth.\" The tranquil landscapes hide a secret struggle for control, where factions vie for supremacy amidst the serene natural surroundings.\""
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-12-17T12:19:49Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2527,7 +2527,7 @@
     "version": "1.0.Alpha",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-12-14T16:58:23Z",
+    "lastUpdated": "2023-12-17T12:47:12Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -6045,19 +6045,6 @@
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "0.11",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2023-12-10T13:21:09Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Weathercold/mindustry-clj-mod-template",
     "name": "Clojure Mod Template",
     "version": "0.1.0",
@@ -6069,6 +6056,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Clojure mod template."
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "0.11",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2023-12-17T14:21:08Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "4156/Infintory",
@@ -8086,19 +8086,6 @@
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
-    "repo": "LaoHuaJiOfficial/FoodFactory",
-    "name": "FoodFactory",
-    "version": "0.1",
-    "mod_id": "FF",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2023-12-02T15:59:15Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A Mod In Dev"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "version": "1.0",
@@ -8169,11 +8156,37 @@
     "version": "1.0",
     "mod_id": "lectrosyne",
     "author": "Merbit",
-    "lastUpdated": "2023-12-17T09:07:55Z",
+    "lastUpdated": "2023-12-17T11:18:21Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more power stuffs."
+  },
+  {
+    "repo": "GlennFolker/MindustryModTemplate",
+    "name": "Mod Template",
+    "version": "1.0",
+    "mod_id": "mod-template",
+    "author": "You",
+    "lastUpdated": "2023-12-17T14:29:51Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
+  },
+  {
+    "repo": "LaoHuaJiOfficial/FoodFactory",
+    "name": "FoodFactory",
+    "version": "0.1",
+    "mod_id": "FF",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2023-12-17T14:44:37Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A Mod In Dev"
   }
 ]
