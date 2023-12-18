@@ -460,7 +460,7 @@
     "version": "1.8",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2023-12-17T14:03:25Z",
+    "lastUpdated": "2023-12-18T08:22:04Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -585,7 +585,7 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
-    "repo": "MQ-1175/more-vanilla",
+    "repo": "MQ-1175/upgraded-content",
     "name": "Upgraded Content (v2.0 Update)",
     "version": "2.0",
     "mod_id": "morevanilla",
@@ -1872,19 +1872,6 @@
     "description": ""
   },
   {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.2.0",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2023-12-12T14:43:41Z",
-    "stars": 11,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "RayanZ22/OP-Mod",
     "name": "OP Things",
     "version": "1.1",
@@ -1896,6 +1883,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
+  },
+  {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.2.0",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2023-12-18T06:24:44Z",
+    "stars": 11,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "deltanedas/cliff",
@@ -2163,12 +2163,12 @@
     "version": "v0.2.6A",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [pink]Yoru-Kitsune",
-    "lastUpdated": "2023-12-18T02:50:41Z",
+    "lastUpdated": "2023-12-18T09:29:46Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution is acceptable. \n\"Zeridmuth, a mesmerizing blue-grassed planet, is a haven of flowing water and lush vegetation. However, its beauty belies a tense reality, as the planet is riddled with enemy sectors and a formidable base known as \"Zeridmuth.\" The tranquil landscapes hide a secret struggle for control, where factions vie for supremacy amidst the serene natural surroundings.\""
+    "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution are acceptable.\n[ff0000]This is part of a massive lore.  So please await our future mods :)"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3495,19 +3495,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
-  },
-  {
-    "repo": "TheMalaysianDude/additional-factory",
-    "name": "Additional Factory",
-    "version": "1.1",
-    "mod_id": "additional-factory",
-    "author": "TheMalaysianDude",
-    "lastUpdated": "2021-10-27T13:10:57Z",
-    "stars": 5,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java Mod that adds upgraded version of factories."
   },
   {
     "repo": "Antlrr/dryehm-corvus",
@@ -6045,19 +6032,6 @@
     "description": "A Mindustry Clojure mod template."
   },
   {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "0.11",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2023-12-17T18:23:28Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "xjamiex/BioTech",
     "name": "Bio Tech",
     "version": "0.0.1",
@@ -6069,6 +6043,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds fleshy stuff"
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "0.11",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2023-12-18T07:47:07Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "4156/Infintory",
@@ -8182,7 +8169,7 @@
     "version": "1.0",
     "mod_id": "lectrosyne",
     "author": "Merbit",
-    "lastUpdated": "2023-12-18T04:42:21Z",
+    "lastUpdated": "2023-12-18T05:30:49Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
