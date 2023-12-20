@@ -2145,19 +2145,6 @@
     "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-12-20T00:43:43Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v0.6.8B",
@@ -2169,6 +2156,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution are acceptable.\nThis is part of a massive lore. So please await our future mods :)"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-12-20T12:17:33Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5174,19 +5174,6 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "xjamiex/BioTech",
-    "name": "Bio Tech",
-    "version": "0.0.1",
-    "mod_id": "biotech",
-    "author": "Jammuu",
-    "lastUpdated": "2023-12-20T04:40:09Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds fleshy stuff"
-  },
-  {
     "repo": "GlennFolker/MindustryModTemplate",
     "name": "Mod Template",
     "version": "1.0",
@@ -5198,6 +5185,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
+  },
+  {
+    "repo": "xjamiex/BioTech",
+    "name": "Bio Tech",
+    "version": "0.0.1",
+    "mod_id": "biotech",
+    "author": "Jammuu",
+    "lastUpdated": "2023-12-20T11:12:11Z",
+    "stars": 3,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds fleshy stuff"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5445,19 +5445,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
-  },
-  {
-    "repo": "Blerp23/Totally-Balanced-Mod",
-    "name": "Totally Balanced Mod",
-    "version": "0",
-    "mod_id": "balanced-mod",
-    "author": "Blerp23",
-    "lastUpdated": "2021-11-25T00:49:19Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a content mod that adds new blocks and units. The items are made to be as unba**COUGH** *ahEm* BALANCED as possible for a fun experience!"
   },
   {
     "repo": "SMOLKEYS/random-stuff",
@@ -8188,5 +8175,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more power stuffs."
+  },
+  {
+    "repo": "BlueTheCube/DefracturedMod",
+    "name": "Defractured Mod",
+    "version": "0.0",
+    "mod_id": "defractured-mod",
+    "author": "BlueTheCube",
+    "lastUpdated": "2023-12-20T14:21:01Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   }
 ]
