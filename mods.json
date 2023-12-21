@@ -460,7 +460,7 @@
     "version": "1.8",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2023-12-20T16:43:00Z",
+    "lastUpdated": "2023-12-20T22:19:29Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2527,7 +2527,7 @@
     "version": "1.0.Alpha",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-12-19T00:48:33Z",
+    "lastUpdated": "2023-12-20T23:31:58Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -5811,6 +5811,19 @@
     "description": "A mod for my study."
   },
   {
+    "repo": "Ruichka/ruika-space-station",
+    "name": "Space Station",
+    "version": "0.1",
+    "mod_id": "ruika-space-station",
+    "author": "Ruika",
+    "lastUpdated": "2023-08-09T11:02:48Z",
+    "stars": 2,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "SS13 теперь в вашей минде. НЕ ИГРАТЬ / DO NOT PLAY"
+  },
+  {
     "repo": "gedrode/RustAndDustMod",
     "name": "锈与尘「Rust and Dust」",
     "version": "2.0.0",
@@ -8164,19 +8177,6 @@
     "description": "A Mod In Dev"
   },
   {
-    "repo": "merbit/lectrosyne",
-    "name": "Lectrosyne",
-    "version": "1.0",
-    "mod_id": "lectrosyne",
-    "author": "Merbit",
-    "lastUpdated": "2023-12-19T11:24:48Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds more power stuffs."
-  },
-  {
     "repo": "BlueTheCube/DefracturedMod",
     "name": "Defractured Mod",
     "version": "0.0",
@@ -8188,5 +8188,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "merbit/lectrosyne",
+    "name": "Lectrosyne",
+    "version": "1.0",
+    "mod_id": "lectrosyne",
+    "author": "Merbit",
+    "lastUpdated": "2023-12-21T00:03:08Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds more power stuffs."
   }
 ]
