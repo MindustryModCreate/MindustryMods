@@ -460,7 +460,7 @@
     "version": "2.0.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2023-12-24T14:49:52Z",
+    "lastUpdated": "2023-12-24T15:17:33Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -720,12 +720,12 @@
     "version": "3.1.4.4",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2023-12-24T14:45:49Z",
+    "lastUpdated": "2023-12-24T15:59:21Z",
     "stars": 28,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.4.4更新：\n持续跟进英翻\n——————地图类——————\n荒芜矿区-世处修复\n急冻雾岭-世处修复\n雷鸣裂谷-世处修复\n——————炮台类——————\n扩散轨道炮-裂位能弹药特效更改\n怨灵-降低部分建材\n离子要塞炮-射程降低\n——————单位类——————\n敲门砖-修复面板显示问题\n"
+    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.4.4更新：\n持续跟进英翻\n——————地图类——————\n荒芜矿区-世处修复\n急冻雾岭-世处修复\n雷鸣裂谷-世处修复\n——————炮台类——————\n扩散轨道炮-裂位能弹药特效更改\n怨灵-降低部分建材\n离子要塞炮-射程降低\n死诏-贴图更新\n——————单位类——————\n多云系列-能量弹不可被墙反弹\n敲门砖-修复面板显示问题\n"
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -4438,7 +4438,7 @@
     "version": "1",
     "mod_id": "compression",
     "author": "sovakovrik",
-    "lastUpdated": "2023-12-24T02:21:08Z",
+    "lastUpdated": "2023-12-24T15:10:14Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4693,6 +4693,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4886,19 +4899,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
-  },
-  {
-    "repo": "RexAliis/Colorful-Darkness-Mod",
-    "name": "Colorful Darkness",
-    "version": "1.0",
-    "mod_id": "c-dark",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-08-14T23:16:13Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
     "repo": "Mnemotechnician/achievements",
@@ -6318,6 +6318,19 @@
     "description": "Dausas Project mod"
   },
   {
+    "repo": "woodjecket/MindustryScalaModTemplate",
+    "name": "Scala Mod Template",
+    "version": "1.0",
+    "mod_id": "example-scala-mod",
+    "author": "You",
+    "lastUpdated": "2023-01-20T01:32:56Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Scala mod template."
+  },
+  {
     "repo": "CalebMonkey/Mindustry-Taller",
     "name": "Mindustry Taller",
     "version": "v0.1",
@@ -7473,19 +7486,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many colored blocks"
-  },
-  {
-    "repo": "woodjecket/MindustryScalaModTemplate",
-    "name": "Scala Mod Template",
-    "version": "1.0",
-    "mod_id": "example-scala-mod",
-    "author": "You",
-    "lastUpdated": "2023-01-20T01:32:56Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Scala mod template."
   },
   {
     "repo": "Miniontoby/mindustrirc",
