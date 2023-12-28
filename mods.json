@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-12-27T11:31:14Z",
+    "lastUpdated": "2023-12-27T23:56:46Z",
     "stars": 57,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4420,19 +4420,6 @@
     "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
-    "repo": "sova444/compressing-mod",
-    "name": "compression",
-    "version": "1",
-    "mod_id": "compression",
-    "author": "sovakovrik",
-    "lastUpdated": "2023-12-24T15:10:14Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -4470,6 +4457,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
+    "repo": "sova444/compressing-mod",
+    "name": "compression",
+    "version": "1",
+    "mod_id": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-12-27T22:35:59Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4875,6 +4875,19 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
+    "repo": "deltanedas/routorio",
+    "name": "routorio",
+    "version": "3.36.4",
+    "mod_id": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2022-08-01T22:33:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
     "repo": "TippierPark8961/Green-Void",
     "name": "Green Void",
     "version": "1",
@@ -5081,6 +5094,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-15T11:55:50Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "Nezerit6/Starry",
@@ -6019,19 +6045,6 @@
     "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
   },
   {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "1",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2023-12-21T10:07:38Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Agzam4/Mindustry-new-game-mode",
     "name": "New game Mod",
     "version": "1.0.0",
@@ -6069,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "2",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2023-12-27T21:34:25Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "4156/Infintory",
@@ -7540,6 +7566,19 @@
     "description": "a mindustry json mod, please go to Github page and read the README"
   },
   {
+    "repo": "FreezeMandu/routertexturepack-v7",
+    "name": "Router Texture Pack 7.0",
+    "version": "1.0",
+    "mod_id": "routertexturepack-v7",
+    "author": "FreezeMandu",
+    "lastUpdated": "2023-04-03T13:08:39Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Use mod with router language setting"
+  },
+  {
     "repo": "ValkovY/MarsiumModMindustry",
     "name": "MarsiumMod",
     "version": "0.2",
@@ -8136,5 +8175,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
+  },
+  {
+    "repo": "iviuiwi/Modern-warfare",
+    "name": "Modern warfare Mod",
+    "version": "1.0",
+    "mod_id": "modern-warfare-mod",
+    "author": "ivi、mingy、congV、singed、QWERTY",
+    "lastUpdated": "2023-12-27T22:22:13Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Industry mod for ModernWarfareMod."
   }
 ]
