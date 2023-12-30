@@ -405,10 +405,10 @@
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
-    "version": "1.5.0",
+    "version": "1.5.1b",
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-12-21T17:24:03Z",
+    "lastUpdated": "2023-12-30T09:25:42Z",
     "stars": 49,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -591,7 +591,7 @@
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2023-12-26T12:48:48Z",
-    "stars": 30,
+    "stars": 31,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -962,19 +962,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
-    "name": "Spore Biomechs",
-    "version": "1.6",
-    "mod_id": "sporepod",
-    "author": "Water molecules",
-    "lastUpdated": "2023-12-29T14:35:28Z",
-    "stars": 22,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.73",
@@ -986,6 +973,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
+    "name": "Spore Biomechs",
+    "version": "1.6",
+    "mod_id": "sporepod",
+    "author": "Water molecules",
+    "lastUpdated": "2023-12-30T06:30:58Z",
+    "stars": 22,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "Eclipse-04/Project-Scrap",
@@ -3315,19 +3315,6 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
-    "repo": "GlennFolker/MindustryModTemplate",
-    "name": "Mod Template",
-    "version": "1.0",
-    "mod_id": "mod-template",
-    "author": "You",
-    "lastUpdated": "2023-12-24T13:16:34Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
     "repo": "misterfirer/UrMod-mindustry-v7-",
     "name": "UrMod",
     "version": "No version provided.",
@@ -3339,6 +3326,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
+  },
+  {
+    "repo": "GlennFolker/MindustryModTemplate",
+    "name": "Mod Template",
+    "version": "1.0",
+    "mod_id": "mod-template",
+    "author": "You",
+    "lastUpdated": "2023-12-30T09:39:23Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4238,19 +4238,6 @@
     "description": "This is just a simple Mindustry mod."
   },
   {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "galactustry",
-    "author": "Nilederg",
-    "lastUpdated": "2022-08-08T10:18:26Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Revived after 17 months, now in Java! Nowhere near done."
-  },
-  {
     "repo": "Voider404/InTheSpace",
     "name": "InTheSpace",
     "version": "0.1.2",
@@ -4522,19 +4509,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Масштабный мод который добавляет много-чего нового.\n-------------------\nArZar-Глав разработчик.\n------------------\n"
-  },
-  {
-    "repo": "sisit135/ExtendedGroundUnit",
-    "name": "Extended ground unit mod",
-    "version": "1.0.0",
-    "mod_id": "extendedgroundunit",
-    "author": "sisit135 + passive engineer",
-    "lastUpdated": "2021-03-04T09:39:00Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "High maneuverability land unit"
   },
   {
     "repo": "martycagas/mindustry-mod-armored-conveyor",
@@ -5042,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
+    "repo": "BlackDeluxeCat/SettingSweep",
+    "name": "Setting Sweep",
+    "version": "1.0",
+    "mod_id": "SettingSweep",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-25T04:13:05Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Clean up your settings!"
   },
   {
     "repo": "Fresh791/Fading-Revelations-OST",
@@ -5655,19 +5642,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "BlackDeluxeCat/SettingSweep",
-    "name": "Setting Sweep",
-    "version": "1.0",
-    "mod_id": "SettingSweep",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-25T04:13:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Clean up your settings!"
-  },
-  {
     "repo": "AlphaJRed1/Federal-X-Mod",
     "name": "Federal-X Mod",
     "version": "1.0",
@@ -6115,7 +6089,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2023-12-30T04:50:14Z",
+    "lastUpdated": "2023-12-30T05:36:45Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6836,19 +6810,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reactor based on quantum mechanics."
-  },
-  {
-    "repo": "RebornTrack970/moonmod",
-    "name": "MoonMod",
-    "version": "0.1",
-    "mod_id": "moonmod",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-31T07:59:05Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds moon"
   },
   {
     "repo": "RebornTrack970/Singleplayernt",
@@ -8027,19 +7988,6 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2023-11-25T17:34:50Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Mindustry-Yuik/MDT-java",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-11-26T04:02:44Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
