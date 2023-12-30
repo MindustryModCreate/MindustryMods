@@ -1781,19 +1781,6 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
-    "repo": "MinRi2/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "newB7140/duomod",
     "name": "duomod",
     "version": "1.14",
@@ -3445,19 +3432,6 @@
     "description": "Mod about the Etigeox Universe , don't look it up , it is all in our heads for now. <UNDER CONSTRUCTION. USE AT YOUR OWN RISK.>"
   },
   {
-    "repo": "bloool/SpecialWorks",
-    "name": "SpecialWorks",
-    "version": "0.1",
-    "mod_id": "spec",
-    "author": "blool",
-    "lastUpdated": "2021-08-18T18:15:45Z",
-    "stars": 5,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "work in progress mod that adds cool stuff"
-  },
-  {
     "repo": "AzhurniyBaklan/commically-large-units",
     "name": "Comically large units",
     "version": "0.41",
@@ -3742,19 +3716,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
-  },
-  {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.2.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-12-17T22:56:45Z",
-    "stars": 5,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
     "repo": "SaigoN0Nozomi/nightscape",
@@ -4719,19 +4680,6 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4886,19 +4834,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
-  },
-  {
-    "repo": "deltanedas/routorio",
-    "name": "routorio",
-    "version": "3.36.4",
-    "mod_id": "routorio",
-    "author": "deltanedas",
-    "lastUpdated": "2022-08-01T22:33:55Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
     "repo": "TippierPark8961/Green-Void",
@@ -6110,12 +6045,25 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
+    "repo": "Daxillion48/Farborne-Industries",
+    "name": "Farborne: Industries",
+    "version": "0.7",
+    "mod_id": "farborne-industries",
+    "author": "Daxillion",
+    "lastUpdated": "2023-12-30T18:26:01Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A work in progress"
+  },
+  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
     "mod_id": "gebr",
     "author": "Lehanchic25",
-    "lastUpdated": "2023-12-30T13:10:26Z",
+    "lastUpdated": "2023-12-30T20:07:41Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7670,19 +7618,6 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
-    "repo": "Twcash/Mindustry-mod-idk",
-    "name": "mod-idk",
-    "version": "1.0",
-    "mod_id": "mod-idk",
-    "author": "You",
-    "lastUpdated": "2023-06-14T03:49:02Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Ph4ntom8979/mindustry-mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8188,5 +8123,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add Distributions"
+  },
+  {
+    "repo": "GameStuffOffical/mindustry-agriculture",
+    "name": "Agriculture Mod",
+    "version": "0.0.1",
+    "mod_id": "midustry-agriculture",
+    "author": "GameStuff",
+    "lastUpdated": "2023-12-30T19:48:43Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Do you like cows? So you like farming? This is that game."
   }
 ]
