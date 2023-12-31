@@ -650,6 +650,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "RA2EXE/Saturation-Firepower",
+    "name": "Saturation firepower",
+    "version": "3.1.4.4",
+    "mod_id": "饱和火力",
+    "author": "RA2",
+    "lastUpdated": "2023-12-31T06:18:11Z",
+    "stars": 29,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.4.4更新：\n持续跟进英翻\n——————地图类——————\n荒芜矿区-世处修复\n急冻雾岭-世处修复\n雷鸣裂谷-世处修复\n——————炮台类——————\n扩散轨道炮-裂位能弹药特效更改\n怨灵-降低部分建材\n离子要塞炮-射程降低\n死诏-贴图更新\n——————单位类——————\n多云系列-能量弹不可被墙反弹\n敲门砖-修复面板显示问题\n"
+  },
+  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "RA2EXE/Saturation-Firepower",
-    "name": "Saturation firepower",
-    "version": "3.1.4.4",
-    "mod_id": "饱和火力",
-    "author": "RA2",
-    "lastUpdated": "2023-12-24T15:59:21Z",
-    "stars": 28,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n3.1.4.4更新：\n持续跟进英翻\n——————地图类——————\n荒芜矿区-世处修复\n急冻雾岭-世处修复\n雷鸣裂谷-世处修复\n——————炮台类——————\n扩散轨道炮-裂位能弹药特效更改\n怨灵-降低部分建材\n离子要塞炮-射程降低\n死诏-贴图更新\n——————单位类——————\n多云系列-能量弹不可被墙反弹\n敲门砖-修复面板显示问题\n"
   },
   {
     "repo": "Zelaux/ByteLogicMod",
@@ -1734,7 +1734,7 @@
     "version": "v1.5.2.0",
     "mod_id": "advance-lighting",
     "author": "EoD",
-    "lastUpdated": "2023-12-28T14:04:47Z",
+    "lastUpdated": "2023-12-31T07:32:07Z",
     "stars": 12,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2553,7 +2553,7 @@
     "version": "1.0.Alpha",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2023-12-29T18:19:26Z",
+    "lastUpdated": "2023-12-31T08:04:27Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2917,7 +2917,7 @@
     "version": "1",
     "mod_id": "Legendary Rainbow Mod",
     "author": "Mikamolimo",
-    "lastUpdated": "2023-12-31T05:04:50Z",
+    "lastUpdated": "2023-12-31T07:54:27Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3744,6 +3744,19 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
   },
   {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.2.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
+  },
+  {
     "repo": "SaigoN0Nozomi/nightscape",
     "name": "NightScape",
     "version": "1.0a",
@@ -4329,6 +4342,19 @@
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
   },
   {
+    "repo": "Lunaticol/Erekir-to-Serpulo",
+    "name": "Erekir To Serpulo",
+    "version": "1",
+    "mod_id": "erekir-to-serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2023-10-30T18:34:16Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
+  },
+  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4444,6 +4470,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "Daxillion48/Farborne-Industries",
+    "name": "Farborne: Industries",
+    "version": "0.7",
+    "mod_id": "farborne-industries",
+    "author": "Daxillion",
+    "lastUpdated": "2023-12-31T09:19:55Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A work in progress"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4691,6 +4730,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Change sector export destination from list on planet screen"
+  },
+  {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "PAP6/AUM",
@@ -5192,7 +5244,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2023-12-30T05:36:45Z",
+    "lastUpdated": "2023-12-31T09:24:40Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5915,19 +5967,6 @@
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
-    "repo": "I-am-Fuse347/MindustryPlus",
-    "name": "Mindustry Plus",
-    "version": "-router",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2023-10-19T11:50:11Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random mindustry modification."
-  },
-  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "version": "1.6",
@@ -6071,30 +6110,30 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
-    "repo": "Daxillion48/Farborne-Industries",
-    "name": "Farborne: Industries",
-    "version": "0.7",
-    "mod_id": "farborne-industries",
-    "author": "Daxillion",
-    "lastUpdated": "2023-12-30T18:26:01Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A work in progress"
-  },
-  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
     "mod_id": "gebr",
     "author": "Lehanchic25",
-    "lastUpdated": "2023-12-30T20:44:18Z",
+    "lastUpdated": "2023-12-31T08:51:32Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "I-am-Fuse347/MindustryPlus",
+    "name": "Mindustry Plus",
+    "version": "-router",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2023-12-31T10:01:43Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random mindustry modification."
   },
   {
     "repo": "4156/Infintory",
@@ -7436,19 +7475,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "duGenouGaemr/mindustry_mod_test",
-    "name": "displayName : am i doing this right ?",
-    "version": "1.0",
-    "mod_id": "duGenouGeamr-s-first-mod",
-    "author": "it's in the name",
-    "lastUpdated": "2023-01-15T16:25:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "trying out modding"
-  },
-  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -7642,19 +7668,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "Twcash/Mindustry-mod-idk",
-    "name": "mod-idk",
-    "version": "1.0",
-    "mod_id": "mod-idk",
-    "author": "You",
-    "lastUpdated": "2023-06-14T03:49:02Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Ph4ntom8979/mindustry-mod",
