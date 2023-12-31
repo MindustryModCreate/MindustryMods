@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-12-31T14:05:41Z",
+    "lastUpdated": "2023-12-31T18:11:51Z",
     "stars": 57,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -741,6 +741,19 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.8.9",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-10-20T15:57:39Z",
+    "stars": 27,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "Xeloboyo/PvP-Notifs",
     "name": "PvP notifs",
     "version": "0.1",
@@ -791,19 +804,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.8.9",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-10-20T15:57:39Z",
-    "stars": 26,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "AvantTeam/ProjectUnity",
@@ -1731,10 +1731,10 @@
   {
     "repo": "EyeOfDarkness/Advance-Lighting",
     "name": "Advance lighting",
-    "version": "v1.5.3.0",
+    "version": "v1.5.3.1",
     "mod_id": "advance-lighting",
     "author": "EoD",
-    "lastUpdated": "2023-12-31T14:49:44Z",
+    "lastUpdated": "2023-12-31T16:56:52Z",
     "stars": 12,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1922,19 +1922,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
-  },
-  {
-    "repo": "no9527dada/free-campaign",
-    "name": "free-campaign-自由战役",
-    "version": "0.2",
-    "mod_id": "free-campaign",
-    "author": "呵呵哒",
-    "lastUpdated": "2021-10-31T02:59:50Z",
-    "stars": 10,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added one planet. More than 500 maps，\r\n  The planet code of this MOD is fully open, support 132 + version, welcome to use\r\n  增加了一个行星，地图有500个以上\r\n  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities",
@@ -2163,7 +2150,7 @@
     "version": "1.4.4",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2023-12-31T12:45:54Z",
+    "lastUpdated": "2023-12-31T15:31:39Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3445,19 +3432,6 @@
     "description": "Mod about the Etigeox Universe , don't look it up , it is all in our heads for now. <UNDER CONSTRUCTION. USE AT YOUR OWN RISK.>"
   },
   {
-    "repo": "bloool/SpecialWorks",
-    "name": "SpecialWorks",
-    "version": "0.1",
-    "mod_id": "spec",
-    "author": "blool",
-    "lastUpdated": "2021-08-18T18:15:45Z",
-    "stars": 5,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "work in progress mod that adds cool stuff"
-  },
-  {
     "repo": "AzhurniyBaklan/commically-large-units",
     "name": "Comically large units",
     "version": "0.41",
@@ -3742,19 +3716,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
-  },
-  {
-    "repo": "Weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.2.0",
-    "mod_id": "extra-logging",
-    "author": "Weathercold",
-    "lastUpdated": "2023-12-17T22:56:45Z",
-    "stars": 5,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
     "repo": "SaigoN0Nozomi/nightscape",
@@ -4477,7 +4438,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2023-12-31T15:01:58Z",
+    "lastUpdated": "2023-12-31T19:15:09Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4901,19 +4862,6 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "deltanedas/routorio",
-    "name": "routorio",
-    "version": "3.36.4",
-    "mod_id": "routorio",
-    "author": "deltanedas",
-    "lastUpdated": "2022-08-01T22:33:55Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
     "repo": "TippierPark8961/Green-Void",
     "name": "Green Void",
     "version": "1",
@@ -5244,7 +5192,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2023-12-31T09:24:40Z",
+    "lastUpdated": "2023-12-31T19:06:04Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6422,19 +6370,6 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "NemesisTheory/Reach-Soundtracks",
-    "name": "Reach Soundtracks",
-    "version": "1.0",
-    "mod_id": "reach-soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-04-07T03:49:26Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from Halo: Reach."
-  },
-  {
     "repo": "ImNotThatBrave/MindustryTextureTweaks",
     "name": "TextureTweaks (Erekir)",
     "version": "1.0",
@@ -6745,19 +6680,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "test mod"
-  },
-  {
-    "repo": "LottieVixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "version": "0.1",
-    "mod_id": "example-resprite-mod",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
   },
   {
     "repo": "Sonnicon/GroovyModMod",
@@ -7226,19 +7148,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "sebmeister2077/Advanced-Refinement",
-    "name": "Advanced refinement",
-    "version": "2.6.0",
-    "mod_id": "advanced-refinement",
-    "author": "sebmeister2077",
-    "lastUpdated": "2022-02-18T19:06:57Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Still in development(only started since Ian 2022)"
   },
   {
     "repo": "AHRumjungle/Matter",
