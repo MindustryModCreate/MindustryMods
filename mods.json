@@ -2150,7 +2150,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2023-12-31T12:19:46Z",
+    "lastUpdated": "2024-01-01T00:58:57Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2163,7 +2163,7 @@
     "version": "1.4.4",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2023-12-31T15:31:39Z",
+    "lastUpdated": "2024-01-01T04:45:19Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3315,6 +3315,19 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
+    "repo": "SaigoN0Nozomi/nightscape",
+    "name": "NightScape",
+    "version": "1.0a",
+    "mod_id": "NScape",
+    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
+    "lastUpdated": "2023-12-19T18:36:55Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new planet with unique content and some new mechanics"
+  },
+  {
     "repo": "misterfirer/UrMod-mindustry-v7-",
     "name": "UrMod",
     "version": "No version provided.",
@@ -3443,6 +3456,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod about the Etigeox Universe , don't look it up , it is all in our heads for now. <UNDER CONSTRUCTION. USE AT YOUR OWN RISK.>"
+  },
+  {
+    "repo": "bloool/SpecialWorks",
+    "name": "SpecialWorks",
+    "version": "0.1",
+    "mod_id": "spec",
+    "author": "blool",
+    "lastUpdated": "2021-08-18T18:15:45Z",
+    "stars": 5,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "work in progress mod that adds cool stuff"
   },
   {
     "repo": "AzhurniyBaklan/commically-large-units",
@@ -3731,17 +3757,17 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
   },
   {
-    "repo": "SaigoN0Nozomi/nightscape",
-    "name": "NightScape",
-    "version": "1.0a",
-    "mod_id": "NScape",
-    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
-    "lastUpdated": "2023-12-19T18:36:55Z",
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.2.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
     "stars": 5,
-    "minGameVersion": "146",
+    "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds new planet with unique content and some new mechanics"
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
     "repo": "TeamOct/FOS-OST",
@@ -3775,7 +3801,7 @@
     "version": "0.0.1",
     "mod_id": "biotech",
     "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
-    "lastUpdated": "2023-12-30T00:50:06Z",
+    "lastUpdated": "2024-01-01T00:47:11Z",
     "stars": 5,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -4316,6 +4342,19 @@
     "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
   },
   {
+    "repo": "Lunaticol/Erekir-to-Serpulo",
+    "name": "Erekir To Serpulo",
+    "version": "1",
+    "mod_id": "erekir-to-serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2023-10-30T18:34:16Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
+  },
+  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4438,7 +4477,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2023-12-31T20:14:43Z",
+    "lastUpdated": "2024-01-01T02:48:56Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4693,19 +4732,6 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "PAP6/AUM",
     "name": "Another Useless Mod",
     "version": "CT0.0.11b",
@@ -4860,6 +4886,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
+  },
+  {
+    "repo": "deltanedas/routorio",
+    "name": "routorio",
+    "version": "3.36.4",
+    "mod_id": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2022-08-01T22:33:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
     "repo": "TippierPark8961/Green-Void",
@@ -5192,7 +5231,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2023-12-31T19:06:04Z",
+    "lastUpdated": "2024-01-01T04:56:23Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5263,19 +5302,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
-  },
-  {
-    "repo": "ScolarIronFist/UnitCapMod",
-    "name": "unit cap modifier",
-    "version": "1",
-    "mod_id": "unit-cap-modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "GaviTSRA/OhNoMod",
@@ -6058,19 +6084,6 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
-    "repo": "I-am-Fuse347/MindustryPlus",
-    "name": "Mindustry Plus",
-    "version": "-indev",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2023-12-31T10:24:45Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
@@ -6082,6 +6095,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "I-am-Fuse347/MindustryPlus",
+    "name": "Mindustry Plus",
+    "version": "-indev",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2024-01-01T03:56:43Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
   },
   {
     "repo": "4156/Infintory",
@@ -7423,6 +7449,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "duGenouGaemr/mindustry_mod_test",
+    "name": "displayName : am i doing this right ?",
+    "version": "1.0",
+    "mod_id": "duGenouGeamr-s-first-mod",
+    "author": "it's in the name",
+    "lastUpdated": "2023-01-15T16:25:20Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "trying out modding"
+  },
+  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -7616,6 +7655,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "Twcash/Mindustry-mod-idk",
+    "name": "mod-idk",
+    "version": "1.0",
+    "mod_id": "mod-idk",
+    "author": "You",
+    "lastUpdated": "2023-06-14T03:49:02Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Ph4ntom8979/mindustry-mod",
