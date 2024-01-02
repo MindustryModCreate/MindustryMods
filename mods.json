@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 288,
+    "stars": 287,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -71,7 +71,7 @@
     "mod_id": "unity",
     "author": "Avant Team",
     "lastUpdated": "2023-09-14T00:03:05Z",
-    "stars": 156,
+    "stars": 155,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2023-12-01T13:16:35Z",
-    "stars": 140,
+    "stars": 139,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -110,7 +110,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 112,
+    "stars": 111,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2023-12-31T21:36:14Z",
+    "lastUpdated": "2024-01-02T17:42:59Z",
     "stars": 57,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1623,6 +1623,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Two (2) times faster conveyors, at twice the cost"
+  },
+  {
+    "repo": "Gdeft/bleach",
+    "name": "Bleach",
+    "version": "1.4",
+    "mod_id": "bleach",
+    "author": "Gdeft",
+    "lastUpdated": "2020-12-16T00:19:00Z",
+    "stars": 12,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bleaches the game, nothing suspicious at all.\nAlso try DeltaNedas/yes!"
   },
   {
     "repo": "3Snake3/Units-mod",
@@ -4464,12 +4477,12 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-02T14:27:01Z",
+    "lastUpdated": "2024-01-02T19:51:56Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Welcome to the world of Farborne: Industries!\nI am Daxillion, and I hope you enjoy playing my mod as much as I enjoyed making it!\nSpecial thanks to the Mindustry Discord Server.\nWithout the help of the members of the server, I would've had a much harder time making this mod.\nIt's still a work in progress, so expect updates!\nFeel free to join my TG: t.me/+LG8_WOTN9JgwYWIy\n"
+    "description": "This mod is a hot pile of garbage tbf. \n"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6630,6 +6643,19 @@
     "description": "Medium sized mod with tons of content."
   },
   {
+    "repo": "Chaoticans-mindustry-modding-team/javacamod",
+    "name": "Javacamod",
+    "version": "1.0",
+    "mod_id": "javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-01-02T17:03:06Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java camod"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "version": "1.0 In Development",
@@ -7657,6 +7683,19 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
+    "repo": "Twcash/Mindustry-mod-idk",
+    "name": "mod-idk",
+    "version": "1.0",
+    "mod_id": "mod-idk",
+    "author": "You",
+    "lastUpdated": "2023-06-14T03:49:02Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Ph4ntom8979/mindustry-mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8058,19 +8097,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
-  },
-  {
-    "repo": "Chaoticans-mindustry-modding-team/javacamod",
-    "name": "Javacamod",
-    "version": "1.0",
-    "mod_id": "javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-12-05T04:21:47Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java camod"
   },
   {
     "repo": "xie100/mindustry",
