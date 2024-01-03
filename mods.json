@@ -1131,19 +1131,6 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.9",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-03-27T13:53:54Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "fox1va-the-fox/schems",
     "name": "Schemepack 400+",
     "version": "1.3",
@@ -1168,6 +1155,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.9",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-01-02T21:09:19Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -2930,7 +2930,7 @@
     "version": "0.0.1",
     "mod_id": "biotech",
     "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
-    "lastUpdated": "2024-01-01T20:34:50Z",
+    "lastUpdated": "2024-01-02T20:46:49Z",
     "stars": 7,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -7681,19 +7681,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "Twcash/Mindustry-mod-idk",
-    "name": "mod-idk",
-    "version": "1.0",
-    "mod_id": "mod-idk",
-    "author": "You",
-    "lastUpdated": "2023-06-14T03:49:02Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Ph4ntom8979/mindustry-mod",
