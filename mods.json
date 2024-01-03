@@ -117,6 +117,19 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.7.71",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2024-01-03T15:06:49Z",
+    "stars": 105,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -128,19 +141,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.7.71",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2023-12-10T20:05:00Z",
-    "stars": 104,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
@@ -616,7 +616,7 @@
     "version": "BETA3.1.5",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-01-03T03:57:35Z",
+    "lastUpdated": "2024-01-03T11:52:57Z",
     "stars": 30,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2163,7 +2163,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-03T00:54:06Z",
+    "lastUpdated": "2024-01-03T12:21:08Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2286,6 +2286,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod has been merged with TheRealIvyX/MoreDefences now"
+  },
+  {
+    "repo": "iarkn/mind-util",
+    "name": "mind-util - Utility Mod",
+    "version": "1.3.0",
+    "mod_id": "mind-util",
+    "author": "iarkn",
+    "lastUpdated": "2021-12-25T10:45:38Z",
+    "stars": 8,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
     "repo": "p101q/Snowdustry",
@@ -2468,6 +2481,45 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
+  },
+  {
+    "repo": "AForgetfulness/TowerDefense",
+    "name": "Tower Defense",
+    "version": "0.2",
+    "mod_id": "towerdefense",
+    "author": "Forgetfulness",
+    "lastUpdated": "2023-08-16T09:13:54Z",
+    "stars": 8,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod with tower defense maps and objects"
+  },
+  {
+    "repo": "sebmeister2077/GifToLogic",
+    "name": "GifToLogic",
+    "version": "1.0-alpha",
+    "mod_id": "giftologic",
+    "author": "sebmeister2077",
+    "lastUpdated": "2023-09-30T21:50:08Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Work in progress (not working)"
+  },
+  {
+    "repo": "osp54/CloudSave",
+    "name": "Cloud Save",
+    "version": "1.0",
+    "mod_id": "cloud-save",
+    "author": "OSPx",
+    "lastUpdated": "2023-10-01T11:32:33Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod"
   },
   {
     "repo": "TeamOct/Erekir-Music",
@@ -2951,6 +3003,19 @@
     "description": "A kotlin mod."
   },
   {
+    "repo": "MindustryInside/JavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "java-mod-template",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-08-16T14:30:25Z",
+    "stars": 6,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A template for Java mods for Mindustry."
+  },
+  {
     "repo": "QmelZ/void",
     "name": "Void",
     "version": "0.2",
@@ -3003,6 +3068,19 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "Skrrby/Community-Mod",
+    "name": "CommunityMod",
+    "version": "0.2",
+    "mod_id": "communitymod",
+    "author": "The Mindustry Community",
+    "lastUpdated": "2022-02-07T16:47:11Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
+  },
+  {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
     "name": "2R2T Mod",
     "version": "You Dont See This",
@@ -3040,6 +3118,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
+    "repo": "SolarPH/Mindustry-Crystal-Pack",
+    "name": "Mindustry-Crystal-Pack",
+    "version": "1.1.4",
+    "mod_id": "Crystal Pack",
+    "author": "SolarPH",
+    "lastUpdated": "2022-07-25T12:02:01Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that contains an OP yet super expensive weapon."
   },
   {
     "repo": "vghfr/Mindustellar",
@@ -3339,6 +3430,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
+  },
+  {
+    "repo": "GlennFolker/Mindustry-ModTemplate",
+    "name": "Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "mindustry-mod-template",
+    "author": "GlennFolker",
+    "lastUpdated": "2021-05-06T03:57:13Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "MindustryInside/ClassicMusic",
@@ -3666,6 +3770,19 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
   },
   {
+    "repo": "Weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.2.0",
+    "mod_id": "extra-logging",
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
+  },
+  {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
     "version": "1.0",
@@ -3690,6 +3807,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Turrets!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.2.1 (Alpha)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
+  },
+  {
+    "repo": "Daxillion48/Farborne-Industries",
+    "name": "Farborne: Industries",
+    "version": "0.7",
+    "mod_id": "farborne-industries",
+    "author": "Daxillion",
+    "lastUpdated": "2024-01-03T12:29:47Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is a hot pile of garbage tbf. \n"
+  },
+  {
+    "repo": "LottieVixen/1-tile-drills",
+    "name": "1 Tile Drills",
+    "version": "0.0.1",
+    "mod_id": "1-tile-drills",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-06T23:48:03Z",
+    "stars": 4,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
   },
   {
     "repo": "Leyn-pl/TheWorstMod2",
@@ -4342,19 +4485,6 @@
     "description": ""
   },
   {
-    "repo": "Daxillion48/Farborne-Industries",
-    "name": "Farborne: Industries",
-    "version": "0.7",
-    "mod_id": "farborne-industries",
-    "author": "Daxillion",
-    "lastUpdated": "2024-01-03T09:25:01Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod is a hot pile of garbage tbf. \n"
-  },
-  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4862,6 +4992,19 @@
     "description": "A simple mod allowing trading one metal for the next"
   },
   {
+    "repo": "FreezeMandu/infiniteProcessor-v6",
+    "name": "Infinite Processor V6",
+    "version": "0.76.3",
+    "mod_id": "infiniteProcessor-v6",
+    "author": "Mandu",
+    "lastUpdated": "2022-11-15T03:15:06Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench' in schematics!"
+  },
+  {
     "repo": "EB-wilson/MindustryUNClibModTemplate",
     "name": "UNC mod 模板",
     "version": "0.1",
@@ -4951,6 +5094,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: NotZero#4043\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "FreezeMandu/minZoom",
+    "name": "minZoom",
+    "version": "1.52",
+    "mod_id": "minzoom",
+    "author": "Mandu",
+    "lastUpdated": "2023-04-03T13:04:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "FreezeMandu/PowerSources",
@@ -5075,7 +5231,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-01-02T15:03:47Z",
+    "lastUpdated": "2024-01-03T12:51:48Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7525,6 +7681,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "Twcash/Mindustry-mod-idk",
+    "name": "mod-idk",
+    "version": "1.0",
+    "mod_id": "mod-idk",
+    "author": "You",
+    "lastUpdated": "2023-06-14T03:49:02Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Ph4ntom8979/mindustry-mod",
