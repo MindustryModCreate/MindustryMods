@@ -980,7 +980,7 @@
     "version": "1.6",
     "mod_id": "sporepod",
     "author": "Water molecules",
-    "lastUpdated": "2024-01-03T04:33:28Z",
+    "lastUpdated": "2024-01-04T14:57:38Z",
     "stars": 22,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1612,6 +1612,19 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.3.1",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2023-12-31T16:56:52Z",
+    "stars": 13,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1727,19 +1740,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.3.1",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2023-12-31T16:56:52Z",
-    "stars": 12,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -2163,7 +2163,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-04T00:54:20Z",
+    "lastUpdated": "2024-01-04T12:20:51Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3814,10 +3814,10 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-04T09:21:11Z",
+    "lastUpdated": "2024-01-04T14:52:51Z",
     "stars": 5,
     "minGameVersion": "145",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\n"
   },
@@ -4251,6 +4251,19 @@
     "description": "This is just a simple Mindustry mod."
   },
   {
+    "repo": "nilederg/Galactustry",
+    "name": "Galactustry",
+    "version": "Alpha",
+    "mod_id": "galactustry",
+    "author": "Nilederg",
+    "lastUpdated": "2022-08-08T10:18:26Z",
+    "stars": 4,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Revived after 17 months, now in Java! Nowhere near done."
+  },
+  {
     "repo": "Voider404/InTheSpace",
     "name": "InTheSpace",
     "version": "0.1.2",
@@ -4407,19 +4420,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-12-08T14:30:41Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "Vernaon/mindustry-admin-button",
     "name": "Admin button",
     "version": "2.1",
@@ -4470,6 +4470,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-01-04T10:52:22Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4862,6 +4875,19 @@
     "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
+    "repo": "MCDRA135/sorterimages",
+    "name": "SorterImages",
+    "version": "1.0",
+    "mod_id": "sorterimages",
+    "author": "MCDRA",
+    "lastUpdated": "2022-07-27T20:08:27Z",
+    "stars": 3,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
+  },
+  {
     "repo": "deltanedas/routorio",
     "name": "routorio",
     "version": "3.36.4",
@@ -5185,6 +5211,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
+  },
+  {
+    "repo": "raffel080108/UnlockTechTreeMod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "mod_id": "unlock-tech-tree-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-21T15:17:47Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "Kitrr1x/Mindustry-Addon",
@@ -6043,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.1",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-12-31T21:20:58Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages."
   },
   {
     "repo": "I-am-Fuse347/MindustryPlus",
@@ -7449,19 +7501,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "duGenouGaemr/mindustry_mod_test",
-    "name": "displayName : am i doing this right ?",
-    "version": "1.0",
-    "mod_id": "duGenouGeamr-s-first-mod",
-    "author": "it's in the name",
-    "lastUpdated": "2023-01-15T16:25:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "trying out modding"
-  },
-  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -8058,6 +8097,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
+  },
+  {
+    "repo": "xie100/mindustry",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-12-11T06:41:21Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "AilPhaune/MindustryAntimatter",
