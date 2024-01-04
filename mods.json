@@ -2163,7 +2163,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-03T12:21:08Z",
+    "lastUpdated": "2024-01-04T00:54:20Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -7683,19 +7683,6 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
-    "repo": "Twcash/Mindustry-mod-idk",
-    "name": "mod-idk",
-    "version": "1.0",
-    "mod_id": "mod-idk",
-    "author": "You",
-    "lastUpdated": "2023-06-14T03:49:02Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "Ph4ntom8979/mindustry-mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8201,5 +8188,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add Distributions"
+  },
+  {
+    "repo": "zerodegress/MindustryScalaModTemplate",
+    "name": "Scala Mod Template",
+    "version": "0.1.0",
+    "mod_id": "example-scala-mod",
+    "author": "You",
+    "lastUpdated": "2024-01-04T02:58:33Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Scala mod template."
   }
 ]
