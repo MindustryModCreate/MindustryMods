@@ -598,19 +598,6 @@
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
-    "repo": "MQ-1175/upgraded-content",
-    "name": "Upgraded Content (v2.0 Update)",
-    "version": "2.0",
-    "mod_id": "morevanilla",
-    "author": "mq_1175",
-    "lastUpdated": "2023-12-29T12:47:21Z",
-    "stars": 30,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "- What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation\n- thebildeo: Korean translation (outdated)"
-  },
-  {
     "repo": "RA2EXE/Saturation-Firepower",
     "name": "Saturation firepower",
     "version": "BETA3.1.5",
@@ -622,6 +609,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]\n\n"
+  },
+  {
+    "repo": "MQ-1175/upgraded-tiers",
+    "name": "Upgraded Tiers",
+    "version": "2.1",
+    "mod_id": "morevanilla",
+    "author": "mq_1175",
+    "lastUpdated": "2024-01-04T07:57:29Z",
+    "stars": 30,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation (outdated)\n- thebildeo: Korean translation (outdated)"
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -3814,7 +3814,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-03T17:44:08Z",
+    "lastUpdated": "2024-01-04T09:21:11Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4249,19 +4249,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is just a simple Mindustry mod."
-  },
-  {
-    "repo": "nilederg/Galactustry",
-    "name": "Galactustry",
-    "version": "Alpha",
-    "mod_id": "galactustry",
-    "author": "Nilederg",
-    "lastUpdated": "2022-08-08T10:18:26Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Revived after 17 months, now in Java! Nowhere near done."
   },
   {
     "repo": "Voider404/InTheSpace",
@@ -4875,19 +4862,6 @@
     "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
-    "repo": "MCDRA135/sorterimages",
-    "name": "SorterImages",
-    "version": "1.0",
-    "mod_id": "sorterimages",
-    "author": "MCDRA",
-    "lastUpdated": "2022-07-27T20:08:27Z",
-    "stars": 3,
-    "minGameVersion": "135.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
-  },
-  {
     "repo": "deltanedas/routorio",
     "name": "routorio",
     "version": "3.36.4",
@@ -5211,19 +5185,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
-  },
-  {
-    "repo": "raffel080108/UnlockTechTreeMod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "mod_id": "unlock-tech-tree-mod",
-    "author": "You",
-    "lastUpdated": "2023-11-21T15:17:47Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "Kitrr1x/Mindustry-Addon",
@@ -6121,6 +6082,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "StormyBytes/mindustry-schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "version": "1.0",
+    "mod_id": "schematic-browser",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-01-04T06:23:02Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "4156/Infintory",
@@ -8086,19 +8060,6 @@
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
-    "repo": "xie100/mindustry",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-12-11T06:41:21Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "AilPhaune/MindustryAntimatter",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8175,19 +8136,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Do you like cows? So you like farming? This is that game."
-  },
-  {
-    "repo": "xxy173/TransportPlus",
-    "name": "TransportPlus",
-    "version": "1",
-    "mod_id": "TransportPlus",
-    "author": "xxy173",
-    "lastUpdated": "2024-01-01T13:40:39Z",
-    "stars": 0,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add Distributions"
   },
   {
     "repo": "zerodegress/MindustryScalaModTemplate",
