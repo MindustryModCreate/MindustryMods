@@ -123,7 +123,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-03T15:52:30Z",
-    "stars": 105,
+    "stars": 106,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -344,7 +344,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-01-05T02:48:59Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -405,10 +405,10 @@
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
-    "version": "1.5.1b",
+    "version": "1.5.2",
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-01-01T05:13:16Z",
+    "lastUpdated": "2024-01-05T08:57:57Z",
     "stars": 49,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2158,6 +2158,19 @@
     "description": "Welcome to the world of Zeridmuth. Its a small bright blue planet located at the edge of the solar system\nIt is also more than just a planet, It has Fully working \n\n-Campaign\n\n-Techtree that is balanced the way it is.\n\n-New Sector, Maps, Ores, Powerful Units\n\n-All of this is made on android. So please give it a star on GitHub if you like it :)\n\nWe have a small discord server, and any contribution are acceptable.\nThis is part of a massive lore. So please await our future mods :)"
   },
   {
+    "repo": "xjamiex/BioTech",
+    "name": "Bio Tech",
+    "version": "0.0.1",
+    "mod_id": "biotech",
+    "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
+    "lastUpdated": "2024-01-02T20:46:49Z",
+    "stars": 9,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds [red]fleshy stuff"
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2886,19 +2899,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.7.1",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-12-19T17:49:57Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "MindustryExtended13/MaterialEnergy2",
     "name": "Material Energy 2",
     "version": "1.0",
@@ -2925,17 +2925,17 @@
     "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
   },
   {
-    "repo": "xjamiex/BioTech",
-    "name": "Bio Tech",
-    "version": "0.0.1",
-    "mod_id": "biotech",
-    "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
-    "lastUpdated": "2024-01-02T20:46:49Z",
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.7.1",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2024-01-05T09:57:04Z",
     "stars": 7,
-    "minGameVersion": "143",
+    "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod that adds [red]fleshy stuff"
+    "description": "Additional functionality"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3814,7 +3814,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-04T18:13:06Z",
+    "lastUpdated": "2024-01-05T07:17:13Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": true,
@@ -4433,19 +4433,6 @@
     "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2023-12-24T21:26:26Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.3",
@@ -4483,6 +4470,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-01-05T05:21:28Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5213,19 +5213,6 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "Kitrr1x/Mindustry-Addon",
-    "name": "Mindustry Addon+",
-    "version": "2.0 alpha b19",
-    "mod_id": "Mindustry-Addon+",
-    "author": "Kitrr1x",
-    "lastUpdated": "2024-01-03T12:51:48Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
-  },
-  {
     "repo": "7003Mars/bocchi-the-shield",
     "name": "Bocchi shield",
     "version": "1.0",
@@ -5237,6 +5224,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "Kitrr1x/Mindustry-Addon",
+    "name": "Mindustry Addon+",
+    "version": "2.0 alpha b19",
+    "mod_id": "Mindustry-Addon+",
+    "author": "Kitrr1x",
+    "lastUpdated": "2024-01-05T08:06:07Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -8138,19 +8138,6 @@
     "description": "bee"
   },
   {
-    "repo": "LaoHuaJiOfficial/FoodFactory",
-    "name": "FoodFactory",
-    "version": "0.1",
-    "mod_id": "FF",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2023-12-27T14:47:07Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
-  },
-  {
     "repo": "GameStuffOffical/mindustry-agriculture",
     "name": "Agriculture Mod",
     "version": "0.0.1",
@@ -8188,5 +8175,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "LaoHuaJiOfficial/FoodFactory",
+    "name": "FoodFactory",
+    "version": "0.1",
+    "mod_id": "FF",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-01-05T05:58:55Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
   }
 ]
