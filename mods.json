@@ -613,15 +613,15 @@
   {
     "repo": "MQ-1175/upgraded-tiers",
     "name": "Upgraded Tiers",
-    "version": "2.1",
+    "version": "2.0",
     "mod_id": "morevanilla",
     "author": "mq_1175",
-    "lastUpdated": "2024-01-05T11:53:35Z",
+    "lastUpdated": "2024-01-06T14:47:37Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation (outdated)\n- thebildeo: Korean translation (outdated)"
+    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking complete translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation \n- thebildeo: Korean translation "
   },
   {
     "repo": "xamionex/Opore-Mod",
@@ -2176,7 +2176,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-06T00:53:29Z",
+    "lastUpdated": "2024-01-06T12:19:53Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3814,7 +3814,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-06T08:31:36Z",
+    "lastUpdated": "2024-01-06T12:44:44Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4459,19 +4459,6 @@
     "description": ""
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-01-05T05:21:28Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4483,6 +4470,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-01-06T10:43:17Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -8188,5 +8188,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "sunRay004/MindustryModTest",
+    "name": "test-mod-thing-idksomething",
+    "version": "1.0",
+    "mod_id": "test-mod-thing-idksomething",
+    "author": "sunRay004",
+    "lastUpdated": "2024-01-06T12:07:38Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A test mod to see if i can alive myself"
+  },
+  {
+    "repo": "sunRay004/MindustryModdingAtempt2",
+    "name": "Template",
+    "version": "0",
+    "mod_id": "modtemplate",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2024-01-06T12:17:13Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradle jar Mindustry mod template"
   }
 ]
