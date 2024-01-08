@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 212,
+    "stars": 213,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-07T19:15:30Z",
+    "lastUpdated": "2024-01-08T17:54:06Z",
     "stars": 58,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -364,6 +364,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
+    "name": "MI2-Utilities Java",
+    "version": "1.5.2b",
+    "mod_id": "mi2-utilities-java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2024-01-05T17:45:42Z",
+    "stars": 52,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
+  },
+  {
     "repo": "Sharlottes/sharustry",
     "name": "Sharustry",
     "version": "0.3v",
@@ -375,19 +388,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
-    "name": "MI2-Utilities Java",
-    "version": "1.5.2b",
-    "mod_id": "mi2-utilities-java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-01-05T17:45:42Z",
-    "stars": 51,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -993,7 +993,7 @@
     "version": "0.73",
     "mod_id": "yellow-java",
     "author": "SMOLKEYS",
-    "lastUpdated": "2024-01-08T15:06:23Z",
+    "lastUpdated": "2024-01-08T15:36:07Z",
     "stars": 22,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1110,7 +1110,7 @@
     "version": "1.4",
     "mod_id": "tmi",
     "author": "EBwilson",
-    "lastUpdated": "2023-12-21T04:20:43Z",
+    "lastUpdated": "2024-01-08T15:52:26Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1175,7 +1175,7 @@
     "version": "1.4-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-07T18:29:53Z",
+    "lastUpdated": "2024-01-08T15:39:09Z",
     "stars": 18,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -3341,19 +3341,6 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
-    "repo": "Daxillion48/Farborne-Industries",
-    "name": "Farborne: Industries",
-    "version": "0.7",
-    "mod_id": "farborne-industries",
-    "author": "Daxillion",
-    "lastUpdated": "2024-01-06T16:53:10Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
-  },
-  {
     "repo": "GlennFolker/MindustryModTemplate",
     "name": "Mod Template",
     "version": "v1.0",
@@ -3365,6 +3352,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
+  },
+  {
+    "repo": "Daxillion48/Farborne-Industries",
+    "name": "Farborne: Industries",
+    "version": "0.7",
+    "mod_id": "farborne-industries",
+    "author": "Daxillion",
+    "lastUpdated": "2024-01-08T17:27:44Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3814,10 +3814,10 @@
     "version": "0 :shrug:",
     "mod_id": "mindustry-alasion",
     "author": "voider",
-    "lastUpdated": "2024-01-07T23:51:42Z",
+    "lastUpdated": "2024-01-08T18:22:21Z",
     "stars": 5,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "adennos moment"
   },
@@ -5239,6 +5239,19 @@
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
+    "repo": "StormyBytes/mindustry-schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "version": "1.0",
+    "mod_id": "schematic-browser",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-01-05T14:36:45Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
+  },
+  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "0.1.3.1",
@@ -5265,6 +5278,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "2",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-01-07T15:04:03Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -5276,19 +5302,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mindustry mod which reveals hidden blocks that are in the game files/folders."
-  },
-  {
-    "repo": "Tenser43/random-mod",
-    "name": "Random Mod",
-    "version": "0.1.0",
-    "mod_id": "Random Mod",
-    "author": "Tenser",
-    "lastUpdated": "2020-12-24T03:54:38Z",
-    "stars": 2,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds some random, but useful stuff."
   },
   {
     "repo": "AmateurPotion/NuclearJavaMod",
@@ -6108,32 +6121,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Another total conversion PVP mod"
-  },
-  {
-    "repo": "StormyBytes/mindustry-schematic-browser",
-    "name": "Schematic Browser Reworked",
-    "version": "1.0",
-    "mod_id": "schematic-browser",
-    "author": "SByte, Eeve-lyn",
-    "lastUpdated": "2024-01-05T14:36:45Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "2",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-01-07T15:04:03Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "I-am-Fuse347/MindustryPlus",
@@ -7293,6 +7280,19 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-06-08T12:20:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
     "repo": "MBTiAmo712DEV/parachutists-mod",
     "name": "parachutists",
     "version": "1.0",
@@ -8006,6 +8006,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod template."
+  },
+  {
+    "repo": "usernamePaper/ProcessorUi",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-11-25T17:34:50Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "Mindustry-Yuik/MDT-java",
