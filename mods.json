@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-10-25T15:45:13Z",
-    "stars": 301,
+    "stars": 302,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -117,6 +117,19 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2023-05-26T06:12:17Z",
+    "stars": 107,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.7.79",
@@ -128,19 +141,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 106,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
@@ -4394,6 +4394,19 @@
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
   },
   {
+    "repo": "lethiferal/Sound-Overhaul",
+    "name": "Sound Overhaul",
+    "version": "0",
+    "mod_id": "sound-overhaul",
+    "author": "Lethiferal",
+    "lastUpdated": "2023-11-07T11:48:17Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
+  },
+  {
     "repo": "TLB1/Xilion",
     "name": "Xilion",
     "version": "pre-alpha build 22",
@@ -5185,19 +5198,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!\nMOVED TO NEW CONTENT AT Chaoticans-mindustry-modding-team/New-Content"
-  },
-  {
-    "repo": "lethiferal/Sound-Overhaul",
-    "name": "Sound Overhaul",
-    "version": "0",
-    "mod_id": "sound-overhaul",
-    "author": "Lethiferal",
-    "lastUpdated": "2023-11-07T11:48:17Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
     "repo": "raffel080108/UnlockTechTreeMod",
