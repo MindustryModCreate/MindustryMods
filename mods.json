@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 213,
+    "stars": 212,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -57,7 +57,7 @@
     "version": "spaghetti",
     "mod_id": "allure",
     "author": "Elixias",
-    "lastUpdated": "2024-01-08T08:48:57Z",
+    "lastUpdated": "2024-01-09T16:57:40Z",
     "stars": 164,
     "minGameVersion": "146.1",
     "hasScripts": false,
@@ -117,19 +117,6 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
-    "repo": "sk7725/TimeControl",
-    "name": "Time Control",
-    "version": "0.2",
-    "mod_id": "time-control",
-    "author": "sk7725",
-    "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 107,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "version": "2.7.79",
@@ -141,6 +128,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
+    "repo": "sk7725/TimeControl",
+    "name": "Time Control",
+    "version": "0.2",
+    "mod_id": "time-control",
+    "author": "sk7725",
+    "lastUpdated": "2023-05-26T06:12:17Z",
+    "stars": 106,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-09T03:03:04Z",
+    "lastUpdated": "2024-01-09T20:03:14Z",
     "stars": 58,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1105,6 +1105,19 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "1.4-alpha",
+    "mod_id": "hollow-frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2024-01-08T15:39:09Z",
+    "stars": 19,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
     "repo": "EB-wilson/TooManyItems",
     "name": "Too Many Items",
     "version": "1.4",
@@ -1168,19 +1181,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
-    "name": "Welcome to the Frostscape",
-    "version": "1.4-alpha",
-    "mod_id": "hollow-frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2024-01-08T15:39:09Z",
-    "stars": 18,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -3359,12 +3359,25 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-09T14:51:04Z",
+    "lastUpdated": "2024-01-09T15:55:51Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
+  },
+  {
+    "repo": "theangelurd/Mindustry-Alasion",
+    "name": "Alasion",
+    "version": "0 :shrug:",
+    "mod_id": "mindustry-alasion",
+    "author": "voider",
+    "lastUpdated": "2024-01-09T17:43:15Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adennos moment"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3807,19 +3820,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
-    "repo": "theangelurd/Mindustry-Alasion",
-    "name": "Alasion",
-    "version": "0 :shrug:",
-    "mod_id": "mindustry-alasion",
-    "author": "voider",
-    "lastUpdated": "2024-01-09T02:56:13Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adennos moment"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
