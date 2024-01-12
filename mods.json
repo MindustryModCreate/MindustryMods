@@ -117,19 +117,6 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "version": "2.7.79",
-    "mod_id": "scheme-size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2024-01-03T15:52:30Z",
-    "stars": 107,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
@@ -141,6 +128,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress on 'x#' to fold the slider.\nPress and hold to unfold.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "version": "2.7.79",
+    "mod_id": "scheme-size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2024-01-03T15:52:30Z",
+    "stars": 105,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
@@ -344,7 +344,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-01-11T03:59:30Z",
-    "stars": 58,
+    "stars": 57,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -370,7 +370,7 @@
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-01-11T17:11:05Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -460,7 +460,7 @@
     "version": "2.0.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2023-12-28T23:57:39Z",
+    "lastUpdated": "2024-01-12T19:27:54Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -715,6 +715,19 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
+    "repo": "paulieg626/Cheat",
+    "name": "CheatMod",
+    "version": "2.7",
+    "mod_id": "cheat",
+    "author": "paulieg626",
+    "lastUpdated": "2023-02-27T10:41:04Z",
+    "stars": 27,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
     "repo": "Zelaux/ByteLogicMod",
     "name": "Byte Logic Mod",
     "version": "v1.2.1",
@@ -778,19 +791,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
-  },
-  {
-    "repo": "paulieg626/Cheat",
-    "name": "CheatMod",
-    "version": "2.7",
-    "mod_id": "cheat",
-    "author": "paulieg626",
-    "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 26,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -871,6 +871,19 @@
     "description": "The technology of the oblivion awaits you..."
   },
   {
+    "repo": "MinRi2/MinerTools",
+    "name": "MinerTools",
+    "version": "1.7.5",
+    "mod_id": "miner-tools",
+    "author": "miner",
+    "lastUpdated": "2023-07-20T02:10:28Z",
+    "stars": 24,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "Anuken/wind3",
     "name": "wind3",
     "version": "No version provided.",
@@ -908,19 +921,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "MinRi2/MinerTools",
-    "name": "MinerTools",
-    "version": "1.7.5",
-    "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2023-07-20T02:10:28Z",
-    "stars": 23,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "HPL-Team/Project-HPL",
@@ -973,19 +973,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow",
-    "version": "0.73",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-01-11T16:31:39Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Very pog."
   },
   {
     "repo": "Eclipse-04/Project-Scrap",
@@ -1053,6 +1040,19 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow",
+    "version": "0.73",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-01-11T16:31:39Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Very pog."
+  },
+  {
     "repo": "ereHyddeS/NeonNights_v7",
     "name": "NeonNights v6",
     "version": "1.5",
@@ -1064,19 +1064,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Hello there"
-  },
-  {
-    "repo": "Jasmarkelina/Tantros-Mod",
-    "name": "Tantria",
-    "version": "0.9.1",
-    "mod_id": "Tantros-mod",
-    "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-09-15T04:10:40Z",
-    "stars": 20,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -1105,19 +1092,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
-    "name": "Welcome to the Frostscape",
-    "version": "1.4-alpha",
-    "mod_id": "hollow-frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2024-01-08T15:39:09Z",
-    "stars": 19,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
     "repo": "EB-wilson/TooManyItems",
     "name": "Too Many Items",
     "version": "1.4",
@@ -1129,6 +1103,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
+    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "1.4-alpha",
+    "mod_id": "hollow-frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2024-01-12T15:08:53Z",
+    "stars": 19,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1168,6 +1155,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233"
+  },
+  {
+    "repo": "Jasmarkelina/Tantros-Mod",
+    "name": "Tantria",
+    "version": "0.9.1",
+    "mod_id": "Tantros-mod",
+    "author": "Jasmarkelina, Gander & RouterXdd",
+    "lastUpdated": "2023-09-15T04:10:40Z",
+    "stars": 18,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -1612,19 +1612,6 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.0.1",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-01-09T06:10:01Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1727,6 +1714,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.0.1",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-01-09T06:10:01Z",
+    "stars": 12,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -2171,19 +2171,6 @@
     "description": "Adds new planet with unique content and some new mechanics"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-12T12:21:29Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2572,6 +2559,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-01-12T12:21:29Z",
+    "stars": 8,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/no",
@@ -3354,19 +3354,6 @@
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "Daxillion48/Farborne-Industries",
-    "name": "Farborne: Industries",
-    "version": "0.7",
-    "mod_id": "farborne-industries",
-    "author": "Daxillion",
-    "lastUpdated": "2024-01-12T10:43:39Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
-  },
-  {
     "repo": "PLsubfarm61/Project_B",
     "name": "Project B [Alpha]",
     "version": "0",
@@ -3378,6 +3365,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
+  },
+  {
+    "repo": "Daxillion48/Farborne-Industries",
+    "name": "Farborne: Industries",
+    "version": "0.7",
+    "mod_id": "farborne-industries",
+    "author": "Daxillion",
+    "lastUpdated": "2024-01-12T15:48:26Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3768,19 +3768,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.63: Advanced",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2023-11-07T13:15:31Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
   },
   {
     "repo": "Weathercold/extra-logging",
@@ -5187,6 +5174,19 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!\nMOVED TO NEW CONTENT AT Chaoticans-mindustry-modding-team/New-Content"
   },
   {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.63: Advanced",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2023-11-07T13:15:31Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets that are based on real guns and turrets/towers."
+  },
+  {
     "repo": "raffel080108/UnlockTechTreeMod",
     "name": "UnlockTechTreeMod",
     "version": "1.0",
@@ -5265,19 +5265,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "StormyBytes/mindustry-schematic-browser",
-    "name": "Schematic Browser Reworked",
-    "version": "1.0",
-    "mod_id": "schematic-browser",
-    "author": "SByte, Eeve-lyn",
-    "lastUpdated": "2024-01-10T16:41:15Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "BalaM314/flarogus-mod",
     "name": "Flarogus",
     "version": "1.0",
@@ -5289,6 +5276,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds flarogus to Mindustry."
+  },
+  {
+    "repo": "StormyBytes/mindustry-schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "version": "1.0",
+    "mod_id": "schematic-browser",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-01-12T17:11:15Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "SirMachinegun/EBM",
