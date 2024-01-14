@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 290,
+    "stars": 291,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -1110,7 +1110,7 @@
     "version": "1.4-alpha",
     "mod_id": "hollow-frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-12T15:08:53Z",
+    "lastUpdated": "2024-01-14T01:11:38Z",
     "stars": 19,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1142,6 +1142,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
+  },
+  {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.75 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2023-06-08T14:15:00Z",
+    "stars": 18,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "Ferlern/extended-UI-v7",
@@ -1246,19 +1259,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.75 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2023-06-08T14:15:00Z",
-    "stars": 17,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "MindustryDagger/VanillaPlus",
@@ -1903,7 +1903,7 @@
     "version": "1.4.4",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-01-13T13:03:37Z",
+    "lastUpdated": "2024-01-14T04:39:08Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2566,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-13T12:20:08Z",
+    "lastUpdated": "2024-01-14T00:59:29Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4706,6 +4706,19 @@
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
+    "repo": "Txar/DenseCreationsOld",
+    "name": "Dense Creations",
+    "version": "1.0.0",
+    "mod_id": "densecreations",
+    "author": "Txar",
+    "lastUpdated": "2022-02-08T13:09:57Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+  },
+  {
     "repo": "DivisionByZero80/mindustry-launchpads",
     "name": "Serpulo Launchpad Hub",
     "version": "1.0",
@@ -6526,19 +6539,6 @@
     "description": "This Mod adds new factions, planets, cores, resources, materials, and much more!"
   },
   {
-    "repo": "Stieno3000/Polgranium-Works",
-    "name": "polgranium works",
-    "version": "0.17 Beta",
-    "mod_id": "polgranium works",
-    "author": " Stieno3000",
-    "lastUpdated": "2023-06-28T19:29:31Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "new campaign and more"
-  },
-  {
     "repo": "XenoForce/Happy-Times-Mod",
     "name": "Happy Times Mod",
     "version": "1.0.2",
@@ -6654,6 +6654,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An Infinity Map Base"
+  },
+  {
+    "repo": "Hina2901/drills-and-mills",
+    "name": "drills and mills mod",
+    "version": "0.4",
+    "mod_id": "drills and mills",
+    "author": "Hina2901",
+    "lastUpdated": "2023-10-07T09:14:01Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Alot to see here!Funfact Metal Reactors explode when they are destroyed while active!"
   },
   {
     "repo": "mctheend/MindustryMod-IronCraft",
@@ -7993,19 +8006,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "chill"
-  },
-  {
-    "repo": "UAdustry/SporeMod",
-    "name": "Spore",
-    "version": "1.0",
-    "mod_id": "spor",
-    "author": "IvanDem",
-    "lastUpdated": "2023-11-16T05:46:35Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
   },
   {
     "repo": "Hirnk/Mindustry-Industrial",
