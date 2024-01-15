@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-11T03:59:30Z",
+    "lastUpdated": "2024-01-15T16:41:47Z",
     "stars": 57,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -435,7 +435,7 @@
     "mod_id": "aeromindustry",
     "author": "AeronGreva",
     "lastUpdated": "2022-06-26T19:44:10Z",
-    "stars": 41,
+    "stars": 42,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
@@ -650,6 +650,19 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -687,19 +700,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -2956,7 +2956,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-15T07:30:57Z",
+    "lastUpdated": "2024-01-15T19:54:22Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5291,19 +5291,6 @@
     "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
   },
   {
-    "repo": "FreezeMandu/PowerSources",
-    "name": "Power Sources mod",
-    "version": "0.62",
-    "mod_id": "powersources",
-    "author": "Mandu",
-    "lastUpdated": "2024-01-15T09:19:45Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "German Translation: Yoru-Kitsune"
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -5315,6 +5302,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "FreezeMandu/PowerSources",
+    "name": "Power Sources mod",
+    "version": "0.62",
+    "mod_id": "powersources",
+    "author": "Mandu",
+    "lastUpdated": "2024-01-15T16:36:57Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "German Translation: Yoru-Kitsune"
   },
   {
     "repo": "SirMachinegun/EBM",
