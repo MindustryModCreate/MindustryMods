@@ -1625,19 +1625,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.5.0",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-01-18T12:19:58Z",
-    "stars": 13,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -2496,45 +2483,6 @@
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
   },
   {
-    "repo": "AForgetfulness/TowerDefense",
-    "name": "Tower Defense",
-    "version": "0.2",
-    "mod_id": "towerdefense",
-    "author": "Forgetfulness",
-    "lastUpdated": "2023-08-16T09:13:54Z",
-    "stars": 8,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod with tower defense maps and objects"
-  },
-  {
-    "repo": "sebmeister2077/GifToLogic",
-    "name": "GifToLogic",
-    "version": "1.0-alpha",
-    "mod_id": "giftologic",
-    "author": "sebmeister2077",
-    "lastUpdated": "2023-09-30T21:50:08Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Work in progress (not working)"
-  },
-  {
-    "repo": "osp54/CloudSave",
-    "name": "Cloud Save",
-    "version": "1.0",
-    "mod_id": "cloud-save",
-    "author": "OSPx",
-    "lastUpdated": "2023-10-01T11:32:33Z",
-    "stars": 8,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod"
-  },
-  {
     "repo": "TeamOct/Erekir-Music",
     "name": "Team Oct's Erekir Music",
     "version": "1.2.0",
@@ -2566,7 +2514,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-19T00:55:35Z",
+    "lastUpdated": "2024-01-19T12:22:09Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2956,7 +2904,7 @@
     "version": "0.7",
     "mod_id": "farborne-industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-19T09:22:55Z",
+    "lastUpdated": "2024-01-19T15:02:54Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3027,19 +2975,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A kotlin mod."
-  },
-  {
-    "repo": "MindustryInside/JavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "java-mod-template",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-08-16T14:30:25Z",
-    "stars": 6,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Java mods for Mindustry."
   },
   {
     "repo": "QmelZ/void",
@@ -3443,19 +3378,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
-    "repo": "GlennFolker/Mindustry-ModTemplate",
-    "name": "Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "mindustry-mod-template",
-    "author": "GlennFolker",
-    "lastUpdated": "2021-05-06T03:57:13Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "MindustryInside/ClassicMusic",
@@ -4433,19 +4355,6 @@
     "description": ""
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-01-13T16:48:13Z",
-    "stars": 4,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -4483,6 +4392,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-01-19T15:06:04Z",
+    "stars": 4,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4535,19 +4457,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Масштабный мод который добавляет много-чего нового.\n-------------------\nArZar-Глав разработчик.\n------------------\n"
-  },
-  {
-    "repo": "sisit135/ExtendedGroundUnit",
-    "name": "Extended ground unit mod",
-    "version": "1.0.0",
-    "mod_id": "extendedgroundunit",
-    "author": "sisit135 + passive engineer",
-    "lastUpdated": "2021-03-04T09:39:00Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "High maneuverability land unit"
   },
   {
     "repo": "martycagas/mindustry-mod-armored-conveyor",
@@ -4691,6 +4600,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mods that added maybe lot of content."
+  },
+  {
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2022-01-27T14:02:39Z",
+    "stars": 3,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "Txar/DenseCreationsOld",
@@ -4966,19 +4888,6 @@
     "description": "A simple mod allowing trading one metal for the next"
   },
   {
-    "repo": "FreezeMandu/infiniteProcessor-v6",
-    "name": "Infinite Processor V6",
-    "version": "0.76.3",
-    "mod_id": "infiniteProcessor-v6",
-    "author": "Mandu",
-    "lastUpdated": "2022-11-15T03:15:06Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
-  },
-  {
     "repo": "EB-wilson/MindustryUNClibModTemplate",
     "name": "UNC mod 模板",
     "version": "0.1",
@@ -5068,32 +4977,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "kubikaugustyn/MindustryToolkit",
-    "name": "Mindustry Toolkit",
-    "version": "1.1",
-    "mod_id": "mindustry-toolkit-kubikaugustyn",
-    "author": "Jakub Augustýn",
-    "lastUpdated": "2023-07-06T11:59:45Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
-  },
-  {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-07-15T11:55:50Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "Nezerit6/Starry",
@@ -5211,19 +5094,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod template."
-  },
-  {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "2",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-01-07T15:04:03Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "BalaM314/flarogus-mod",
@@ -5380,19 +5250,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to allow the host to pause the game."
-  },
-  {
-    "repo": "RebornTrack970/routerplanet",
-    "name": "Router Planet",
-    "version": "0.2",
-    "mod_id": "rpm",
-    "author": "RTOmega & Qmelz ",
-    "lastUpdated": "2021-03-31T08:00:08Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds router planet. Yes, this is a mindustry mod."
   },
   {
     "repo": "Daves1245/Mindustry_Mod",
@@ -5731,19 +5588,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "Mythril382/Sardines",
-    "name": "Sardines",
-    "version": "1.1.0",
-    "mod_id": "mythril-sardines",
-    "author": "Mythril",
-    "lastUpdated": "2023-02-10T14:33:36Z",
-    "stars": 2,
-    "minGameVersion": "141.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
     "repo": "Rorivus/UAschem",
@@ -6149,19 +5993,6 @@
     "description": "Add some things. Im making a new mod, therefore there will be fewer updates, :( . Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-01-18T19:19:30Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
-  },
-  {
     "repo": "Antlrr/bitches",
     "name": "Getting Bitches",
     "version": "1.0",
@@ -6173,6 +6004,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-01-19T12:36:53Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
   },
   {
     "repo": "4156/Infintory",
@@ -6758,19 +6602,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A v6 mod for mindustry\nThis mod aims to expand mindustry's content by adding a new tech tree, adding upgraded versions of existinc blocks and more.\nThis mod adds new resources, new turrets and new zones as well as slight tweaks to vanilla. 41 new building blocks to play with, one environmental block, two ores and 5 items with moree to come.\n(Lore included, find the lore of the mod in building and unit descriptions/reading the source code)\nnote: Has been ported over to 113, enjoy the mod! "
-  },
-  {
-    "repo": "WilloIzCitron/Mindustry-Ultra-Mod",
-    "name": "Mindustry ULTRA  Mod",
-    "version": "0.1",
-    "mod_id": "mindustry_ultra_mod",
-    "author": "WilloIzCitron",
-    "lastUpdated": "2020-11-29T00:55:09Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "oh no"
   },
   {
     "repo": "RebornTrack970/Cursed-Tantros-Mod",
