@@ -344,7 +344,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-01-21T22:45:45Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1001,6 +1001,19 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "SMOLKEYS/yellow-java",
+    "name": "Yellow",
+    "version": "0.8",
+    "mod_id": "yellow-java",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-01-19T17:41:07Z",
+    "stars": 22,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n\"Chaos in a mod!\"\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n    - Yellow, the unit stronger than vanilla units but weaker than most modded units\n    - 10+ disableable weapons for Yellow of varying powers\n    - Spells! Although there's only one for now, many more will come\n    - 5 lives for Yellow, which invoke different effects for each life lost\n    \nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!\n"
+  },
+  {
     "repo": "Eclipse-04/Project-Scrap",
     "name": "Project Scrap",
     "version": "0.2.4.5",
@@ -1038,19 +1051,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-java",
-    "name": "Yellow",
-    "version": "0.8",
-    "mod_id": "yellow-java",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-01-19T17:41:07Z",
-    "stars": 21,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n\"Chaos in a mod!\"\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n    - Yellow, the unit stronger than vanilla units but weaker than most modded units\n    - 10+ disableable weapons for Yellow of varying powers\n    - Spells! Although there's only one for now, many more will come\n    - 5 lives for Yellow, which invoke different effects for each life lost\n    \nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!\n"
   },
   {
     "repo": "ereHyddeS/NeonNights_v7",
@@ -1118,6 +1118,19 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.9",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-01-04T20:20:27Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "Ferlern/extended-UI-v7",
     "name": "extended UI",
     "version": "0.78",
@@ -1181,19 +1194,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.9",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-01-04T20:20:27Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1482,6 +1482,19 @@
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.5.0",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-01-21T17:13:54Z",
+    "stars": 14,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "version": "1.7.0",
@@ -1623,19 +1636,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
-  },
-  {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.5.0",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-01-21T17:13:54Z",
-    "stars": 13,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -6851,19 +6851,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -7200,19 +7187,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -8097,19 +8071,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "BakkaBlue/RGBee",
-    "name": "RGBee",
-    "version": "1.0",
-    "mod_id": "RGBee",
-    "author": "Cyan",
-    "lastUpdated": "2023-12-26T12:18:12Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bee"
   },
   {
     "repo": "GameStuffOffical/mindustry-agriculture",
