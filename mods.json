@@ -343,7 +343,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-24T04:08:09Z",
+    "lastUpdated": "2024-01-24T20:48:23Z",
     "stars": 59,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1149,7 +1149,7 @@
     "version": "1.4-alpha Afflict peashooter",
     "mod_id": "No name provided.",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-21T02:06:39Z",
+    "lastUpdated": "2024-01-24T21:37:09Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1898,19 +1898,6 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
-    "repo": "Abe-isCharlie/OP-Mod",
-    "name": "OP Things",
-    "version": "1.1",
-    "mod_id": "op-things",
-    "author": "[green]ABÊ#8931",
-    "lastUpdated": "2023-12-14T15:55:24Z",
-    "stars": 11,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
-  },
-  {
     "repo": "BalaM314/no-invasions",
     "name": "No Sector Re Attacks",
     "version": "1.0",
@@ -1935,6 +1922,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
+  },
+  {
+    "repo": "Abe-isCharlie/OP-Mod",
+    "name": "OP Things",
+    "version": "1.1",
+    "mod_id": "op-things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2024-01-24T20:22:58Z",
+    "stars": 11,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
     "repo": "deltanedas/cliff",
@@ -3796,6 +3796,19 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-01-23T03:51:27Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4459,19 +4472,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-01-23T03:51:27Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "0.1.3.24",
@@ -4487,15 +4487,15 @@
   {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
-    "version": "2.3.0",
+    "version": "2.3.2",
     "mod_id": "mindustry-expansion",
     "author": "zuoranartemwing",
-    "lastUpdated": "2024-01-24T15:14:28Z",
+    "lastUpdated": "2024-01-24T22:36:52Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\nVersion: 2.3.0 (Early)\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
+    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\njoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4717,19 +4717,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
-  },
-  {
-    "repo": "Txar/DenseCreationsOld",
-    "name": "Dense Creations",
-    "version": "1.0.0",
-    "mod_id": "densecreations",
-    "author": "Txar",
-    "lastUpdated": "2022-02-08T13:09:57Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
     "repo": "DivisionByZero80/mindustry-launchpads",
@@ -6669,6 +6656,19 @@
     "description": "An Infinity Map Base"
   },
   {
+    "repo": "Hina2901/drills-and-mills",
+    "name": "drills and mills mod",
+    "version": "0.4",
+    "mod_id": "drills and mills",
+    "author": "Hina2901",
+    "lastUpdated": "2023-10-07T09:14:01Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Alot to see here!Funfact Metal Reactors explode when they are destroyed while active!"
+  },
+  {
     "repo": "KayyAyeAre/melancholy",
     "name": "Melancholy",
     "version": "alpha 2023-31-8",
@@ -6786,19 +6786,6 @@
     "description": "oh no"
   },
   {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6836,19 +6823,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -7046,19 +7020,6 @@
     "description": "Building."
   },
   {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
-  },
-  {
     "repo": "Potato-Man1/ZyganMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7070,19 +7031,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "snack-ie/Esoterum-Solutions",
-    "name": "Esoterum Solutions",
-    "version": "1.1",
-    "mod_id": "eso",
-    "author": "Goober",
-    "lastUpdated": "2021-09-20T05:46:49Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "yuna-akashi/PlusAlfer",
@@ -7187,19 +7135,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -7577,6 +7512,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Super Java Mod"
+  },
+  {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "SkyeTheFoxyFox/Malcalor",
@@ -8084,19 +8032,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "BakkaBlue/RGBee",
-    "name": "RGBee",
-    "version": "1.0",
-    "mod_id": "RGBee",
-    "author": "Cyan",
-    "lastUpdated": "2023-12-26T12:18:12Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bee"
   },
   {
     "repo": "GameStuffOffical/mindustry-agriculture",
