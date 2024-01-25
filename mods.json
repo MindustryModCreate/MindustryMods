@@ -343,12 +343,25 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-25T04:41:50Z",
+    "lastUpdated": "2024-01-25T14:47:23Z",
     "stars": 59,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
+    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
+    "name": "MI2-Utilities Java",
+    "version": "1.5.4",
+    "mod_id": "mi2-utilities-java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2024-01-24T05:21:47Z",
+    "stars": 56,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -362,19 +375,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "BlackDeluxeCat/MI2-Utilities-Java",
-    "name": "MI2-Utilities Java",
-    "version": "1.5.4",
-    "mod_id": "mi2-utilities-java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-01-24T05:21:47Z",
-    "stars": 55,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -988,19 +988,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
-    "name": "Spore Biomechs",
-    "version": "1.6",
-    "mod_id": "sporepod",
-    "author": "Water molecules",
-    "lastUpdated": "2024-01-06T03:43:45Z",
-    "stars": 22,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.8",
@@ -1012,6 +999,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n\"Chaos in a mod!\"\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n    - Yellow, the unit stronger than vanilla units but weaker than most modded units\n    - 10+ disableable weapons for Yellow of varying powers\n    - Spells! Although there's only one for now, many more will come\n    - 5 lives for Yellow, which invoke different effects for each life lost\n    \nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!\n"
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
+    "name": "Spore Biomechs",
+    "version": "1.6",
+    "mod_id": "sporepod",
+    "author": "Water molecules",
+    "lastUpdated": "2024-01-25T13:28:58Z",
+    "stars": 22,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "Eclipse-04/Project-Scrap",
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-25T00:56:32Z",
+    "lastUpdated": "2024-01-25T12:22:28Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3250,6 +3250,19 @@
     "description": "A mindustry content mod inspired by terrarias end game resources."
   },
   {
+    "repo": "Fresh791/Floatydustry",
+    "name": "Floatydustry",
+    "version": "1",
+    "mod_id": "ftd",
+    "author": "\nAuthor: Fresh791\n",
+    "lastUpdated": "2023-03-31T16:14:25Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
+  },
+  {
     "repo": "aawwaaa/aimClient",
     "name": "AimClient",
     "version": "1.0.0",
@@ -3801,7 +3814,7 @@
     "version": "2.3.3",
     "mod_id": "mindustry-expansion",
     "author": "zuoranartemwing",
-    "lastUpdated": "2024-01-25T09:34:22Z",
+    "lastUpdated": "2024-01-25T12:54:46Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4693,17 +4706,17 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
-    "repo": "Txar/DenseCreationsOld",
-    "name": "Dense Creations",
-    "version": "1.0.0",
-    "mod_id": "densecreations",
-    "author": "Txar",
-    "lastUpdated": "2022-02-08T13:09:57Z",
+    "repo": "EmanuelG-Gaming/barrier",
+    "name": "Barrier",
+    "version": "1.0, the Final Update...?",
+    "mod_id": "barrier",
+    "author": "Emanuel G or Antumbra",
+    "lastUpdated": "2022-01-27T14:02:39Z",
     "stars": 3,
-    "minGameVersion": "134",
+    "minGameVersion": "129",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+    "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
     "repo": "DivisionByZero80/mindustry-launchpads",
@@ -5798,6 +5811,19 @@
     "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
   },
   {
+    "repo": "ocalhoun6/Resource-Supply-Mod",
+    "name": "Resource Supply Mod",
+    "version": "1.6.4",
+    "mod_id": "source_mod",
+    "author": "DLS",
+    "lastUpdated": "2023-05-23T22:27:20Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
+  },
+  {
     "repo": "JustTroniusPlay/Unicorp-Technologies-Reinvented",
     "name": "Unicorp Technologies Reinvented",
     "version": "0.5",
@@ -6747,19 +6773,6 @@
     "description": "oh no"
   },
   {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6797,19 +6810,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -7005,19 +7005,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Building."
-  },
-  {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
   },
   {
     "repo": "Potato-Man1/ZyganMod",
@@ -7527,6 +7514,19 @@
     "description": "Super Java Mod"
   },
   {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "SkyeTheFoxyFox/Malcalor",
     "name": "malcalor",
     "version": "0.0.1",
@@ -8019,6 +8019,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mindustry mod that adds a planet"
+  },
+  {
+    "repo": "4gameworld4/mindustry-mod",
+    "name": "compression",
+    "version": "1",
+    "mod_id": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-12-24T01:58:25Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "GameStuffOffical/mindustry-agriculture",
