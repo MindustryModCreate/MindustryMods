@@ -156,6 +156,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "Aeyama-Mod/aeyama",
+    "name": "Aeyama: The New World",
+    "version": "0.4-pre.1",
+    "mod_id": "aeyama",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-11-21T20:02:50Z",
+    "stars": 100,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
+  },
+  {
     "repo": "Eschatologue/Heavy-Armaments-Industries",
     "name": "Heavy Armaments Industries [DISCONTINUED]",
     "version": "2.6",
@@ -169,26 +182,13 @@
     "description": "This mod is now discontinued. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
-    "repo": "Aeyama-Mod/aeyama",
-    "name": "Aeyama: The New World",
-    "version": "0.4-pre.1",
-    "mod_id": "aeyama",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-11-21T20:02:50Z",
-    "stars": 99,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world and play differently from the base game.\n\n    [gray]Language: [white]- English\n                       [white]- Français\n                       [white]- Русский\n                       [white]- Polski [red](WIP)\n                       [white]- Українська [red](WIP)\n                       [white]- 简体中文 [red](WIP)\n                       [white]- Español [red](WIP)\n\n[white]. . . check our Discord and GitHub repository for more info!"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "version": "v0.8.4",
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2023-07-27T11:04:24Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -2566,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-25T12:22:28Z",
+    "lastUpdated": "2024-01-26T00:51:56Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3827,7 +3827,7 @@
     "version": "2.3.3",
     "mod_id": "mindustry-expansion",
     "author": "zuoranartemwing",
-    "lastUpdated": "2024-01-26T00:09:43Z",
+    "lastUpdated": "2024-01-26T04:02:45Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4730,19 +4730,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
-  },
-  {
-    "repo": "Txar/DenseCreationsOld",
-    "name": "Dense Creations",
-    "version": "1.0.0",
-    "mod_id": "densecreations",
-    "author": "Txar",
-    "lastUpdated": "2022-02-08T13:09:57Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
     "repo": "DivisionByZero80/mindustry-launchpads",
@@ -6799,19 +6786,6 @@
     "description": "oh no"
   },
   {
-    "repo": "RebornTrack970/Cursed-Tantros-Mod",
-    "name": "Cursed Tantros",
-    "version": "3",
-    "mod_id": "cursed-tatros",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-02T17:52:51Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "..."
-  },
-  {
     "repo": "davlucas/GreenMod",
     "name": "Greenmod",
     "version": "0.1",
@@ -6849,19 +6823,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An example to help respriting"
-  },
-  {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
   },
   {
     "repo": "svan9/SVR",
@@ -7059,19 +7020,6 @@
     "description": "Building."
   },
   {
-    "repo": "StepHindi/NEC",
-    "name": "New electronic components",
-    "version": "1.0",
-    "mod_id": "NEC",
-    "author": "Qanter&Hindi",
-    "lastUpdated": "2021-09-04T08:37:59Z",
-    "stars": 0,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod expands the possibilities for the transfer of energy"
-  },
-  {
     "repo": "Potato-Man1/ZyganMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7200,19 +7148,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
@@ -7590,6 +7525,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Super Java Mod"
+  },
+  {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "SkyeTheFoxyFox/Malcalor",
+    "name": "malcalor",
+    "version": "0.0.1",
+    "mod_id": "Volcano Planet",
+    "author": "SkyeTheFoxyFox",
+    "lastUpdated": "2023-03-16T01:40:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "volcano planet"
   },
   {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
@@ -8084,19 +8045,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "BakkaBlue/RGBee",
-    "name": "RGBee",
-    "version": "1.0",
-    "mod_id": "RGBee",
-    "author": "Cyan",
-    "lastUpdated": "2023-12-26T12:18:12Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bee"
   },
   {
     "repo": "GameStuffOffical/mindustry-agriculture",
