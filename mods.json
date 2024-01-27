@@ -1162,7 +1162,7 @@
     "version": "1.4-alpha Afflict peashooter",
     "mod_id": "No name provided.",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-27T14:59:27Z",
+    "lastUpdated": "2024-01-27T19:51:45Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2509,6 +2509,19 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
+    "repo": "TeamOct/Erekir-Music",
+    "name": "Team Oct's Erekir Music",
+    "version": "1.2.0",
+    "mod_id": "erekir-music",
+    "author": "Team Oct",
+    "lastUpdated": "2023-11-09T12:46:40Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
     "repo": "sharrlotte/MindustryToolMod",
     "name": "MindustryTool",
     "version": "1.1",
@@ -2858,19 +2871,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod replaces all texts in the game with random ones."
-  },
-  {
-    "repo": "TeamOct/Erekir-Music",
-    "name": "Team Oct's Erekir Music",
-    "version": "1.2.0",
-    "mod_id": "erekir-music",
-    "author": "Team Oct",
-    "lastUpdated": "2023-11-09T12:46:40Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
     "repo": "Mak992/Future-Technologies-mod",
@@ -3718,6 +3718,19 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. When this mod will contain all features of old version, the old version will be removed from mod browser and completely replaced by this one.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n\n\nCheck README.md in GitHub repo for more detailed information about the mod\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-01-16T19:16:35Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -4277,6 +4290,19 @@
     "description": ""
   },
   {
+    "repo": "abaines/Kizraks-Radar",
+    "name": "Kizrak's Radar",
+    "version": "2.0.3",
+    "mod_id": "kizrak-radar",
+    "author": "Kizrak",
+    "lastUpdated": "2024-01-14T07:16:18Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
+  },
+  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4288,19 +4314,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-01-16T19:16:35Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
@@ -4953,19 +4966,6 @@
     "description": "Adds flarogus to Mindustry."
   },
   {
-    "repo": "abaines/Kizraks-Radar",
-    "name": "Kizrak's Radar",
-    "version": "2.0.3",
-    "mod_id": "kizrak-radar",
-    "author": "Kizrak",
-    "lastUpdated": "2024-01-14T07:16:18Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
-  },
-  {
     "repo": "FreezeMandu/PowerSources",
     "name": "Power Sources mod",
     "version": "0.63",
@@ -5486,19 +5486,6 @@
     "description": "A Mindustry Java mod that adds random stuffs."
   },
   {
-    "repo": "Rorivus/UAschem",
-    "name": "UA schempack",
-    "version": "1.0",
-    "mod_id": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "rudynakodach/FasterConveyors",
     "name": "Faster Conveyors",
     "version": "1.0",
@@ -5679,6 +5666,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
+    "repo": "ThomasThings/erekir-scaled",
+    "name": "Erekir Scaled",
+    "version": "0.0",
+    "mod_id": "es",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-11-05T00:44:08Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
     "repo": "misterfirer/UrModMusic-mindustry-v7-",
@@ -5863,19 +5863,6 @@
     "description": "A jar mod."
   },
   {
-    "repo": "deltanedas/notepad",
-    "name": "Notepad",
-    "version": "2.0.0",
-    "mod_id": "notepad",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:44:34Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "SkyDraco-8bit/mindustry-mod",
     "name": "a mod in developpement",
     "version": "1.0",
@@ -6004,6 +5991,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "Kasp19/Metalextension",
+    "name": "Metal Extension (1.0 Beta)",
+    "version": "1.0 beta",
+    "mod_id": "Metalextension",
+    "author": "Inc.Mr.rpgKasp",
+    "lastUpdated": "2022-09-11T02:17:49Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
     "repo": "koctz34/Rust-Music-mod",
@@ -6186,19 +6186,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这个mod有很多整活の东西\n特别感谢:\nGodlenGlow\n警告：这个mod有很多破坏平衡性的内容，请自行取舍\n\nby anuke\n"
-  },
-  {
-    "repo": "MindustryExtended13/GeoCorpIndustries",
-    "name": "GeoCorp Industries",
-    "version": "1.0",
-    "mod_id": "gmod",
-    "author": "TheEE145",
-    "lastUpdated": "2023-08-22T19:53:57Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds serpulo industry."
   },
   {
     "repo": "FreezeMandu/pvp-contest",
@@ -6877,19 +6864,6 @@
     "description": "This is my first mod, please be kind."
   },
   {
-    "repo": "ElectronicsArchiver/BreakingMindustry",
-    "name": "Breaking Mindustry",
-    "version": "0.0",
-    "mod_id": "breakustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-22T21:11:46Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "XenoForce/PlayMod",
     "name": "Play Mod",
     "version": "1.0.1",
@@ -7200,6 +7174,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Weapons."
+  },
+  {
+    "repo": "MindustryExtended13/ME13Template",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-08-14T14:52:20Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "SecondMandu/noreloading",
