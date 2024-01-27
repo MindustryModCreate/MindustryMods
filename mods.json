@@ -1898,19 +1898,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-01-26T16:16:03Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
-  },
-  {
     "repo": "Abe-isCharlie/OP-Mod",
     "name": "OP Things",
     "version": "1.1",
@@ -1922,6 +1909,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.4",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-01-27T06:54:09Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
   },
   {
     "repo": "deltanedas/cliff",
@@ -3749,7 +3749,7 @@
     "version": "2.3.4",
     "mod_id": "mindustry-expansion",
     "author": "zuoranartemwing",
-    "lastUpdated": "2024-01-27T05:06:46Z",
+    "lastUpdated": "2024-01-27T09:59:45Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5842,7 +5842,7 @@
     "version": "0.1",
     "mod_id": "psammos",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-01-26T17:52:49Z",
+    "lastUpdated": "2024-01-27T08:59:35Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5861,6 +5861,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A jar mod."
+  },
+  {
+    "repo": "deltanedas/notepad",
+    "name": "Notepad",
+    "version": "2.0.0",
+    "mod_id": "notepad",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-14T20:44:34Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
@@ -6862,6 +6875,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "ElectronicsArchiver/BreakingMindustry",
+    "name": "Breaking Mindustry",
+    "version": "0.0",
+    "mod_id": "breakustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-22T21:11:46Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "XenoForce/PlayMod",
