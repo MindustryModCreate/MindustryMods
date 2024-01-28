@@ -356,7 +356,7 @@
     "version": "1.5.5",
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-01-27T14:19:43Z",
+    "lastUpdated": "2024-01-28T07:26:34Z",
     "stars": 56,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "1.4-alpha Afflict peashooter",
     "mod_id": "No name provided.",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-27T19:51:45Z",
+    "lastUpdated": "2024-01-28T09:41:44Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1898,19 +1898,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.4",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-01-27T06:54:09Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
-  },
-  {
     "repo": "Abe-isCharlie/OP-Mod",
     "name": "OP Things",
     "version": "1.1",
@@ -1922,6 +1909,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.4",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-01-28T09:42:29Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
   },
   {
     "repo": "deltanedas/cliff",
@@ -4888,6 +4888,19 @@
     "description": "h"
   },
   {
+    "repo": "ThomasThings/erekir-scaled",
+    "name": "Erekir Scaled",
+    "version": "0.0",
+    "mod_id": "es",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-11-05T00:44:08Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
+  },
+  {
     "repo": "rylid-umil/New-Units",
     "name": "New Units",
     "version": "5",
@@ -5577,6 +5590,19 @@
     "description": "Make enemies stronger with magnification status effect (like in battle cats)"
   },
   {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor V7",
+    "version": "2.01",
+    "mod_id": "infiniteProcessor",
+    "author": "Mandu",
+    "lastUpdated": "2023-07-19T10:34:57Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
     "repo": "Ruichka/ruika-space-station",
     "name": "Space Station",
     "version": "0.1",
@@ -5666,19 +5692,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
-    "repo": "ThomasThings/erekir-scaled",
-    "name": "Erekir Scaled",
-    "version": "0.0",
-    "mod_id": "es",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-11-05T00:44:08Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
     "repo": "misterfirer/UrModMusic-mindustry-v7-",
@@ -6160,19 +6173,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "removes all bundle text"
-  },
-  {
-    "repo": "FreezeMandu/infinite-processor",
-    "name": "Infinite Processor V7",
-    "version": "2.01",
-    "mod_id": "infiniteProcessor",
-    "author": "Mandu",
-    "lastUpdated": "2023-07-19T10:34:57Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
     "repo": "azureplanet/zhxs-java",
