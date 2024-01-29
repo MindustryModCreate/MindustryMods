@@ -356,7 +356,7 @@
     "version": "1.5.5",
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-01-28T07:26:34Z",
+    "lastUpdated": "2024-01-29T00:46:43Z",
     "stars": 56,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1916,7 +1916,7 @@
     "version": "1.4.4",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-01-28T10:29:47Z",
+    "lastUpdated": "2024-01-29T02:50:30Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-01-28T12:17:51Z",
+    "lastUpdated": "2024-01-29T00:52:12Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3328,6 +3328,19 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-01-28T19:01:53Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -3742,19 +3755,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
-  },
-  {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-01-28T19:01:53Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4303,19 +4303,6 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1.3.24",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-01-28T01:15:51Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
@@ -4327,6 +4314,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.24",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-01-29T04:03:15Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5224,6 +5224,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Super Mecha. 一个超强的机甲"
+  },
+  {
+    "repo": "NewJumper/Futurdustry",
+    "name": "Futurdustry",
+    "version": "0.2.3",
+    "mod_id": "futurdustry",
+    "author": "NewJumper",
+    "lastUpdated": "2021-10-22T02:31:51Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
     "repo": "IxGamerXL/ChipCompiler",
