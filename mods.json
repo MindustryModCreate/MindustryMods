@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 296,
+    "stars": 297,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -343,8 +343,8 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-02-04T19:33:12Z",
-    "stars": 61,
+    "lastUpdated": "2024-02-05T01:04:50Z",
+    "stars": 62,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -915,7 +915,7 @@
     "version": "1.7.5",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2024-02-04T09:12:26Z",
+    "lastUpdated": "2024-02-05T04:28:31Z",
     "stars": 25,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2566,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-02-04T12:18:28Z",
+    "lastUpdated": "2024-02-05T00:53:03Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4290,19 +4290,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1.3.24",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-02-01T03:58:53Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4314,6 +4301,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.24",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-02-05T05:08:09Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -5122,6 +5122,19 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "Memedustry/Motivation",
+    "name": "Motivation",
+    "version": "69",
+    "mod_id": "Motivation",
+    "author": "Memedustry",
+    "lastUpdated": "2021-05-18T03:39:48Z",
+    "stars": 2,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Help your mod-making-mood with this motivational mod!"
+  },
+  {
     "repo": "snack-ie/dynamics",
     "name": "dynamics",
     "version": "0.1",
@@ -5289,6 +5302,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
+  },
+  {
+    "repo": "Zelaux/ZelauxMindustryModTemplate",
+    "name": "Your mod name",
+    "version": "0.1",
+    "mod_id": "your-mod",
+    "author": "YourNickName",
+    "lastUpdated": "2022-06-02T22:38:52Z",
+    "stars": 2,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Your own mod"
   },
   {
     "repo": "BoolmanO/BOMBERmod",
@@ -5842,7 +5868,7 @@
     "version": "0.1",
     "mod_id": "psammos",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-02-04T15:57:49Z",
+    "lastUpdated": "2024-02-05T03:37:01Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5978,19 +6004,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
-  },
-  {
-    "repo": "Zelaux/ZelauxMindustryModTemplate",
-    "name": "Your mod name",
-    "version": "0.1",
-    "mod_id": "your-mod",
-    "author": "YourNickName",
-    "lastUpdated": "2022-06-02T22:38:52Z",
-    "stars": 1,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Your own mod"
   },
   {
     "repo": "koctz34/Rust-Music-mod",
