@@ -344,7 +344,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-02-05T01:04:50Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -585,30 +585,30 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2024-02-08T18:38:28Z",
-    "stars": 33,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "RA2EXE/Saturation-Firepower",
     "name": "Saturation firepower",
     "version": "BETA3.1.5",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-02-09T12:53:50Z",
+    "lastUpdated": "2024-02-09T17:05:48Z",
     "stars": 33,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "QQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2024-02-09T18:05:29Z",
+    "stars": 33,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "FlinTyX/DiverseTech",
@@ -821,10 +821,10 @@
   {
     "repo": "MinRi2/MinerTools",
     "name": "MinerTools",
-    "version": "1.7.5",
+    "version": "2.0",
     "mod_id": "miner-tools",
     "author": "miner",
-    "lastUpdated": "2024-02-09T14:54:12Z",
+    "lastUpdated": "2024-02-09T15:20:13Z",
     "stars": 27,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1105,6 +1105,19 @@
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
+    "repo": "EmanuelG-Gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "version": "0.75 Pre-Alpha",
+    "mod_id": "erekir-expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2023-06-08T14:15:00Z",
+    "stars": 20,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "ereHyddeS/NeonNights_v7",
     "name": "NeonNights v6",
     "version": "1.5",
@@ -1142,19 +1155,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "EmanuelG-Gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "version": "0.75 Pre-Alpha",
-    "mod_id": "erekir-expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2023-06-08T14:15:00Z",
-    "stars": 19,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -5863,19 +5863,6 @@
     "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> [#2469D6]https://discord.gg/Rfr2s8bQd9\n[#FFFFFF]\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to [#ffae00]Alex[#ffffff] for encouraging me with making this mod, and supporting my ideas!"
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-02-08T19:18:19Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
-  },
-  {
     "repo": "MEEPofFaith/drunkustry",
     "name": "Hallucinogen",
     "version": "2",
@@ -5887,6 +5874,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Oh god oh god oh god"
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-02-09T19:20:09Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
   },
   {
     "repo": "4156/Infintory",
