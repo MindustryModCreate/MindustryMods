@@ -377,6 +377,19 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "abomb4/super-cheat",
+    "name": "(v7) Invincible Cheat 无敌作弊",
+    "version": "3.1.1",
+    "mod_id": "Invincible Cheat Mod v7",
+    "author": "滞人",
+    "lastUpdated": "2023-08-08T15:04:45Z",
+    "stars": 51,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
     "repo": "Sharlottes/sharustry",
     "name": "Sharustry",
     "version": "0.3v",
@@ -401,19 +414,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "New guns, drills, crafting, materials and resourses"
-  },
-  {
-    "repo": "abomb4/super-cheat",
-    "name": "(v7) Invincible Cheat 无敌作弊",
-    "version": "3.1.1",
-    "mod_id": "Invincible Cheat Mod v7",
-    "author": "滞人",
-    "lastUpdated": "2023-08-08T15:04:45Z",
-    "stars": 50,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -704,10 +704,10 @@
   {
     "repo": "MinRi2/MinerTools",
     "name": "MinerTools",
-    "version": "2.0",
+    "version": "2.0.0",
     "mod_id": "miner-tools",
-    "author": "miner",
-    "lastUpdated": "2024-02-11T08:33:32Z",
+    "author": "MinRi2",
+    "lastUpdated": "2024-02-13T09:45:34Z",
     "stars": 29,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -3066,19 +3066,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
-    "repo": "snack-ie/modding-tools",
-    "name": "Modding Tools",
-    "version": "0.1",
-    "mod_id": "modding-tools",
-    "author": "Pietro",
-    "lastUpdated": "2021-10-11T23:40:52Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "PiGPiG2048/KENGINTERmod",
@@ -5928,19 +5915,6 @@
     "description": "mod which expands serpulo end erekir and adds ways to get oil and slag from normal items, beta version"
   },
   {
-    "repo": "LaoHuaJiOfficial/FoodFactory",
-    "name": "FoodFactory",
-    "version": "0.1",
-    "mod_id": "FF",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-12T17:16:03Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
-  },
-  {
     "repo": "ItsKirby69/MineDusty",
     "name": "MineDusty [new]",
     "version": "1",
@@ -5952,6 +5926,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod by itsdakirby69. Very descriptive yes..."
+  },
+  {
+    "repo": "LaoHuaJiOfficial/FoodFactory",
+    "name": "FoodFactory",
+    "version": "0.1",
+    "mod_id": "FF",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-02-13T08:16:00Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
   },
   {
     "repo": "4156/Infintory",
