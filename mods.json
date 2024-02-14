@@ -1170,6 +1170,19 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "version": "1.7 [EoL]",
+    "mod_id": "EI",
+    "author": "WMF Industries",
+    "lastUpdated": "2024-02-02T18:33:14Z",
+    "stars": 19,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
     "repo": "Zeniku/HeavyMachinery",
     "name": "Heavy Machinery",
     "version": "1.0",
@@ -1207,19 +1220,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
-  },
-  {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "version": "1.7 [EoL]",
-    "mod_id": "EI",
-    "author": "WMF Industries",
-    "lastUpdated": "2024-02-02T18:33:14Z",
-    "stars": 18,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1404,6 +1404,19 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "Cynthion21x/prismatic",
+    "name": "Prismatic",
+    "version": "1.10.125",
+    "mod_id": "prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2023-10-29T08:32:17Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1469,6 +1482,19 @@
     "description": "Explore minerals and mechanisms."
   },
   {
+    "repo": "KarlsonVive/A-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "version": "1.0.4",
+    "mod_id": "fstrcnvyrs",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 14,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
+  },
+  {
     "repo": "Mnemotechnician/New-Controls-Public",
     "name": "New controls",
     "version": "1.1.3",
@@ -1480,19 +1506,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "Cynthion21x/prismatic",
-    "name": "Prismatic",
-    "version": "1.10.125",
-    "mod_id": "prismatic",
-    "author": "ice100k, thecrisperson",
-    "lastUpdated": "2023-10-29T08:32:17Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -1610,19 +1623,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
-    "repo": "KarlsonVive/A-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "version": "1.0.4",
-    "mod_id": "fstrcnvyrs",
-    "author": "Rhoo",
-    "lastUpdated": "2022-12-01T15:37:01Z",
-    "stars": 13,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "Zeniku/HeavyMachineryJava",
@@ -2566,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-02-13T00:51:41Z",
+    "lastUpdated": "2024-02-13T12:19:42Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3757,6 +3757,19 @@
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "3",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-02-13T01:39:18Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4316,19 +4329,6 @@
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "3",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-02-13T01:39:18Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4782,19 +4782,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Clean up your settings!"
-  },
-  {
-    "repo": "Fresh791/Fading-Revelations-OST",
-    "name": "Fading Revelations OST",
-    "version": "1",
-    "mod_id": "frost",
-    "author": "Author: Fresh791\nMusic: Crisps",
-    "lastUpdated": "2023-02-17T11:27:56Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Contains soundtracks that go with Fresh791's Fading Revelations.\n\nCurrently overwrites the soundtracks game4 and boss2 with the Fading Revelations \nsoundtracks Impending Doom and Mysterious World."
   },
   {
     "repo": "YSpoof/mindustry-zmod",
@@ -5933,7 +5920,7 @@
     "version": "0.1",
     "mod_id": "FF",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-13T08:16:00Z",
+    "lastUpdated": "2024-02-13T17:55:25Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6336,7 +6323,7 @@
     "version": "1.0",
     "mod_id": "javacamod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-02-12T19:37:55Z",
+    "lastUpdated": "2024-02-13T20:55:38Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
