@@ -188,7 +188,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2023-07-27T11:04:24Z",
-    "stars": 97,
+    "stars": 96,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -585,19 +585,6 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
-    "repo": "RA2EXE/Saturation-Firepower",
-    "name": "Saturation firepower",
-    "version": "3.1.5",
-    "mod_id": "饱和火力",
-    "author": "RA2",
-    "lastUpdated": "2024-02-10T15:45:24Z",
-    "stars": 33,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "当前版本：[green]3.1.5[white]\nQQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -609,6 +596,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
+  },
+  {
+    "repo": "RA2EXE/Saturation-Firepower",
+    "name": "Saturation firepower",
+    "version": "3.1.5",
+    "mod_id": "饱和火力",
+    "author": "RA2",
+    "lastUpdated": "2024-02-14T23:54:52Z",
+    "stars": 33,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "当前版本：[green]3.1.5[white]\nQQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
   },
   {
     "repo": "FlinTyX/DiverseTech",
@@ -988,19 +988,6 @@
     "description": "Adds inverted versions of crafters."
   },
   {
-    "repo": "genNAowl/Upgraded-Factories",
-    "name": "Upgraded Factories",
-    "version": "2.0.1",
-    "mod_id": "upgraded-factories",
-    "author": "genNAowl",
-    "lastUpdated": "2022-02-02T05:10:24Z",
-    "stars": 22,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds upgraded versions of existing factories."
-  },
-  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -1064,6 +1051,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
+    "repo": "genNAowl/Upgraded-Factories",
+    "name": "Upgraded Factories",
+    "version": "2.0.1",
+    "mod_id": "upgraded-factories",
+    "author": "genNAowl",
+    "lastUpdated": "2022-02-02T05:10:24Z",
+    "stars": 21,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds upgraded versions of existing factories."
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -1196,19 +1196,6 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
-    "repo": "Drullkus/Unnerf-Core-Units",
-    "name": "Unnerf Core Units",
-    "version": "1.1",
-    "mod_id": "unnerf_core_units",
-    "author": "Drullkus",
-    "lastUpdated": "2023-03-15T01:47:02Z",
-    "stars": 18,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
-  },
-  {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantria",
     "version": "0.9.1",
@@ -1298,6 +1285,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
+  },
+  {
+    "repo": "Drullkus/Unnerf-Core-Units",
+    "name": "Unnerf Core Units",
+    "version": "1.1",
+    "mod_id": "unnerf_core_units",
+    "author": "Drullkus",
+    "lastUpdated": "2023-03-15T01:47:02Z",
+    "stars": 17,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
     "repo": "MindustryDagger/VanillaPlus",
@@ -2990,19 +2990,6 @@
     "description": "(WIP mod) Plans on adding more unique turrets and shit like that using scripts and json"
   },
   {
-    "repo": "MindustryInside/AdvancedDevMode",
-    "name": "Advanced Developer Mode",
-    "version": "1.2",
-    "mod_id": "advanced-dev-mode",
-    "author": "Summet",
-    "lastUpdated": "2021-06-14T15:27:24Z",
-    "stars": 6,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that enables developer console and removes restrictions on access of classes."
-  },
-  {
     "repo": "S1ugCat/Heavy-Arsenal",
     "name": "Heavy Arsenal",
     "version": "2.1",
@@ -3443,6 +3430,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod to return the music to 3.5."
+  },
+  {
+    "repo": "MindustryInside/AdvancedDevMode",
+    "name": "Advanced Developer Mode",
+    "version": "1.2",
+    "mod_id": "advanced-dev-mode",
+    "author": "Summet",
+    "lastUpdated": "2021-06-14T15:27:24Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
     "repo": "superwibr/etigeox-mod",
@@ -4303,32 +4303,6 @@
     "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "version": "135",
-    "mod_id": "camod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-02-10T08:52:33Z",
-    "stars": 4,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1.3.24",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-02-12T22:57:55Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -4340,6 +4314,32 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.24",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-02-14T23:27:53Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "version": "135",
+    "mod_id": "camod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-02-15T00:06:25Z",
+    "stars": 4,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4984,7 +4984,7 @@
     "version": "0.1",
     "mod_id": "psammos",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-02-14T17:12:11Z",
+    "lastUpdated": "2024-02-14T21:10:37Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
