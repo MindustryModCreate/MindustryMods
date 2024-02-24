@@ -31,7 +31,7 @@
     "version": "0.4.8",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-02-17T11:51:52Z",
+    "lastUpdated": "2024-02-24T05:19:55Z",
     "stars": 300,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -1235,19 +1235,6 @@
     "description": "Gradle jar Mindustry mod template"
   },
   {
-    "repo": "Anuken/MindustryKotlinModTemplate",
-    "name": "Kotlin Mod Template",
-    "version": "1.0",
-    "mod_id": "example-kotlin-mod",
-    "author": "You",
-    "lastUpdated": "2021-08-21T03:02:48Z",
-    "stars": 17,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
-  },
-  {
     "repo": "SnakkiZXZ/Coppermod",
     "name": "Coppermod",
     "version": "2.4.1",
@@ -1311,6 +1298,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+  },
+  {
+    "repo": "Anuken/MindustryKotlinModTemplate",
+    "name": "Kotlin Mod Template",
+    "version": "1.0",
+    "mod_id": "example-kotlin-mod",
+    "author": "You",
+    "lastUpdated": "2024-02-24T09:48:19Z",
+    "stars": 17,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -3783,6 +3783,19 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "0.1.3.24",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-02-24T01:46:06Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
+  },
+  {
     "repo": "LottieVixen/1-tile-drills",
     "name": "1 Tile Drills",
     "version": "0.0.1",
@@ -4327,19 +4340,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "0.1.3.24",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-02-24T01:46:06Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -7605,19 +7605,6 @@
     "description": "chaos-contents."
   },
   {
-    "repo": "WdgW/DG-MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-01-27T03:20:55Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "The4codeblocks/securityKey",
     "name": "Security Key",
     "version": "No version provided.",
@@ -7668,5 +7655,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Not only it makes you sandbox, it gives you a super fast drill (supports Erekir) that probably mines 50 items per second and a free turret that absoulutely destroys anything."
+  },
+  {
+    "repo": "WdgW/DG-MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-02-24T10:03:19Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
