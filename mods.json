@@ -767,19 +767,6 @@
     "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "1.8.9",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-10-20T15:57:39Z",
-    "stars": 28,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
     "repo": "coaldeficit/MoreDefences",
     "name": "MoreDefences V1",
     "version": "1.0",
@@ -791,6 +778,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "1.8.10",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2024-02-24T14:02:13Z",
+    "stars": 28,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -1032,7 +1032,7 @@
     "version": "1.5-alpha",
     "mod_id": "No name provided.",
     "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-02-20T12:35:31Z",
+    "lastUpdated": "2024-02-24T11:46:57Z",
     "stars": 22,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1142,6 +1142,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "E",
+    "mod_id": "asthosus",
+    "author": "Fresh791",
+    "lastUpdated": "2024-02-24T13:02:05Z",
+    "stars": 20,
+    "minGameVersion": "144.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod aiming to add a new planet with new content and mechanics and a new campaign."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -1755,19 +1768,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.5.1",
-    "mod_id": "mod-tools",
-    "author": "“I hope...”",
-    "lastUpdated": "2024-02-19T02:51:45Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "兼容性 & 功能\n- 支持虚拟线程（如果支持）\n- 兼容java8\n- 渲染优化\n- 自定义Http重定向（Config: b0kkihope/http_redirect.properties）\n\nBug修复\n- 修复了Tester的sidebar在log上端也能移动的bug\n- 修复了Tester的在单线程无法超时停止的bug\n- 修复了addressOf的实现\n- 修复Selection的WorldDraw有时不显示的bug\n- 修复Selection更新延迟的bug\n- 修复菜单无法点击旁边隐藏的bug\n- 修复HoverTable在屏幕外不显示的bug\n- 修复Window，游戏窗口改变时，不更新最大化的bug\n- 修复Window阻塞输入的bug\n- 修复模糊等级调0会 / by zero\n\n其他\n- 删除了MyFLabel.java\n\nCompatibility & Features\n- Added support for virtual threads (if supported).\n- Compatible with Java 8.\n- Render optimization.\n- Customizable HTTP redirection (Config: b0kkihope/http_redirect.properties).\n\nBug Fixes\n- Fixed a bug where the Tester's sidebar could be moved above the log.\n- Addressed an issue in Tester where timeouts were not working in single-threaded mode.\n- Fixed the implementation of `addressOf`.\n- Resolved a bug where Selection's WorldDraw would sometimes not display.\n- Fixed the delay issue in Selection updates.\n- Corrected a bug where menus couldn't be clicked when partially hidden.\n- Fixed the bug where HoverTable wouldn't display when outside the screen.\n- Addressed the bug where the Window wouldn't update maximization when the game window changes.\n- Resolved the bug where Window would block input.\n- Fixed the issue where setting blur level to 0 would result in a division by zero.\n\nOthers\n- Removed MyFLabel.java."
-  },
-  {
     "repo": "SaigoN0Nozomi/nightscape",
     "name": "NightScape",
     "version": "1.2",
@@ -1779,6 +1779,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.5.1",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-02-24T13:41:51Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1994,7 +2007,7 @@
     "version": "0.1",
     "mod_id": "FF",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-23T17:29:22Z",
+    "lastUpdated": "2024-02-24T13:56:17Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2579,7 +2592,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-02-24T00:49:00Z",
+    "lastUpdated": "2024-02-24T12:17:51Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2964,19 +2977,6 @@
     "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
   },
   {
-    "repo": "PLsubfarm61/Project_B",
-    "name": "Project B [Alpha]",
-    "version": "0",
-    "mod_id": "project-b",
-    "author": " [white]pol[red]ish [lime]subfarm61 ",
-    "lastUpdated": "2024-02-21T16:50:10Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
-  },
-  {
     "repo": "KoraKiwi/PlanetaryAdditions",
     "name": "Planetary Additions",
     "version": "1.2.0",
@@ -2988,6 +2988,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds new ways to destroy nature, mostly factories."
+  },
+  {
+    "repo": "PLsubfarm61/Project_B",
+    "name": "Project B [Alpha]",
+    "version": "0",
+    "mod_id": "project-b",
+    "author": " [white]pol[red]ish [lime]subfarm61 ",
+    "lastUpdated": "2024-02-24T11:04:39Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3744,19 +3757,6 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "3",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-02-13T01:39:18Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
     "version": "2.3.4",
@@ -3794,6 +3794,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
+  },
+  {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "3",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-02-24T11:56:24Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -7662,7 +7675,7 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2024-02-24T10:03:19Z",
+    "lastUpdated": "2024-02-24T10:08:30Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
