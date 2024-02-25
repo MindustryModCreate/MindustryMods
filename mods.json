@@ -330,7 +330,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-02-25T13:06:40Z",
+    "lastUpdated": "2024-02-25T19:49:09Z",
     "stars": 64,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1149,7 +1149,7 @@
     "version": "1.0",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-02-25T13:25:18Z",
+    "lastUpdated": "2024-02-25T16:25:28Z",
     "stars": 20,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1534,6 +1534,19 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "version": "1.4",
+    "mod_id": "halo-3-odst-soundtracks-ost",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-11-12T00:47:52Z",
+    "stars": 14,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "version": "1.7.1",
@@ -1649,19 +1662,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a lot of new content on type: 3 planets, new and upgraded turrets, factories, 50+ units, items, embodiment and more....."
-  },
-  {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "version": "1.4",
-    "mod_id": "halo-3-odst-soundtracks-ost",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-11-12T00:47:52Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
     "repo": "liplum/MindustryModTemplate",
@@ -4732,19 +4732,6 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
-    "repo": "MxPerrot/StellarMind",
-    "name": "Stellar Mind",
-    "version": "0.1",
-    "mod_id": "stellar-mind",
-    "author": "Jobert [#bebebe]Industries[]",
-    "lastUpdated": "2022-11-08T20:20:04Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not that much, still very new.\n\nSupport Language: English and French."
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0.1",
@@ -5406,6 +5393,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
+  },
+  {
+    "repo": "MxPerrot/StellarMind",
+    "name": "Stellar Mind",
+    "version": "0.1",
+    "mod_id": "stellar-mind",
+    "author": "Jobert [#bebebe]Industries[]",
+    "lastUpdated": "2022-11-08T20:20:04Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not that much, still very new.\n\nSupport Language: English and French."
   },
   {
     "repo": "SakuraLilly/Trade-It",
