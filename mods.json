@@ -123,7 +123,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 108,
+    "stars": 107,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -598,19 +598,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.74",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-12-16T17:36:50Z",
-    "stars": 34,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 pre-alpha",
@@ -622,6 +609,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod focused on space exploration."
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.74",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-12-16T17:36:50Z",
+    "stars": 33,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "FlinTyX/DiverseTech",
@@ -1045,7 +1045,7 @@
     "version": "1.5-alpha",
     "mod_id": "No name provided.",
     "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-02-27T21:18:12Z",
+    "lastUpdated": "2024-02-29T14:21:48Z",
     "stars": 22,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1690,12 +1690,25 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "SaigoN0Nozomi/nightscape",
+    "name": "NightScape",
+    "version": "1.2",
+    "mod_id": "NScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-02-23T21:11:52Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
     "repo": "LaoHuaJiOfficial/FoodFactory",
     "name": "FoodFactory",
     "version": "0.1",
     "mod_id": "FF",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-28T18:18:06Z",
+    "lastUpdated": "2024-02-29T07:43:33Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1781,19 +1794,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "SaigoN0Nozomi/nightscape",
-    "name": "NightScape",
-    "version": "1.2",
-    "mod_id": "NScape",
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-02-23T21:11:52Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.5.1",
@@ -1825,7 +1825,7 @@
     "version": "v0.6.8B",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]Yoru-Kitsune",
-    "lastUpdated": "2024-02-28T13:05:43Z",
+    "lastUpdated": "2024-02-29T06:08:53Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2592,7 +2592,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-02-28T00:50:32Z",
+    "lastUpdated": "2024-02-29T12:20:25Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4355,6 +4355,19 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-02-28T19:00:50Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while. \n\nThanks @thisiscrimsoncheck on Discord for Cavern map"
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -4548,19 +4561,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Change sector export destination from list on planet screen"
-  },
-  {
-    "repo": "PAP6/AUM",
-    "name": "Another Useless Mod",
-    "version": "CT0.0.11b",
-    "mod_id": "AUM",
-    "author": "PAOI, Xto_Ya#3098",
-    "lastUpdated": "2022-03-19T03:02:37Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod is no more useless!"
   },
   {
     "repo": "ExplerHD/EnerLect-tech",
@@ -5018,19 +5018,6 @@
     "description": "Have you probably caught yourself thinking that your Mind is too heterosexual? In that case, you need this mod. If anything, then in no case is there any gayness. Purely male sex."
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-02-28T19:00:50Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while. \n\nThanks @thisiscrimsoncheck on Discord for Cavern map"
-  },
-  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -5341,6 +5328,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A factional mod focused on fortifaction, units and unit equipment.\r\n\r\nThis mod also includes the content of Unit Equipment Stand Alone."
+  },
+  {
+    "repo": "PAP6/AUM",
+    "name": "Another Useless Mod",
+    "version": "CT0.0.11b",
+    "mod_id": "AUM",
+    "author": "PAOI, Xto_Ya#3098",
+    "lastUpdated": "2022-03-19T03:02:37Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is no more useless!"
   },
   {
     "repo": "Raoul1808/Routermageddon",
@@ -7007,19 +7007,6 @@
     "description": "This is my first mod, please be kind."
   },
   {
-    "repo": "XenoForce/PlayMod",
-    "name": "Play Mod",
-    "version": "1.0.1",
-    "mod_id": "playmod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-10-20T14:18:30Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod makes it easy to play the game. (Serpulo planet)"
-  },
-  {
     "repo": "CREAsTIVE/PowerMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -7681,5 +7668,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "HumansAreWeak/mindustry-repetition",
+    "name": "Repetition",
+    "version": "1.0",
+    "mod_id": "repetition",
+    "author": "HumansAreWeak",
+    "lastUpdated": "2024-02-29T08:16:04Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Overhaul of Mindustry"
   }
 ]
