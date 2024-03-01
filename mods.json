@@ -353,7 +353,7 @@
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
-    "version": "1.5.6",
+    "version": "1.5.6b",
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-02-22T12:05:03Z",
@@ -1105,6 +1105,19 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "Mnemotechnician/new-console",
+    "name": "New Console",
+    "version": "1.9",
+    "mod_id": "newconsole",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-01-04T20:20:27Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "three",
@@ -1142,19 +1155,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Hello there"
-  },
-  {
-    "repo": "Mnemotechnician/new-console",
-    "name": "New Console",
-    "version": "1.9",
-    "mod_id": "newconsole",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-01-04T20:20:27Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -5985,7 +5985,7 @@
     "version": "0.16",
     "mod_id": "sueno",
     "author": "// TODO authors",
-    "lastUpdated": "2024-02-27T21:45:51Z",
+    "lastUpdated": "2024-03-01T10:13:52Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
