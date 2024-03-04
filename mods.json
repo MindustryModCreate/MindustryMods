@@ -19,7 +19,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-10-25T15:45:13Z",
-    "stars": 309,
+    "stars": 310,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -58,7 +58,7 @@
     "mod_id": "allure",
     "author": "Lixie",
     "lastUpdated": "2024-03-01T20:52:25Z",
-    "stars": 168,
+    "stars": 169,
     "minGameVersion": "24787",
     "hasScripts": false,
     "hasJava": false,
@@ -83,7 +83,7 @@
     "version": "1.1.5.4",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2024-02-05T14:30:32Z",
+    "lastUpdated": "2024-03-04T16:32:50Z",
     "stars": 148,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-03-03T20:24:03Z",
+    "lastUpdated": "2024-03-04T18:11:15Z",
     "stars": 65,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -871,19 +871,6 @@
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 26,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -936,6 +923,19 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-01-31T15:47:33Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "EB-wilson/TooManyItems",
     "name": "Too Many Items",
     "version": "1.5",
@@ -947,6 +947,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "1.0",
+    "mod_id": "asthosus",
+    "author": "Catana791",
+    "lastUpdated": "2024-03-04T15:01:00Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "Anuken/wind3",
@@ -986,19 +999,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "Catana791/asthosus",
-    "name": "Asthosus",
-    "version": "1.0",
-    "mod_id": "asthosus",
-    "author": "Catana791",
-    "lastUpdated": "2024-03-04T15:01:00Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1194,6 +1194,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
+    "repo": "way-zer/ContentsTweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "@version@",
+    "mod_id": "ContentsTweaker",
+    "author": "WayZer",
+    "lastUpdated": "2024-03-04T15:35:32Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -3385,7 +3398,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-02-27T15:24:22Z",
+    "lastUpdated": "2024-03-04T15:50:01Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3807,6 +3820,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-03-04T16:18:30Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while. \n\nThanks @thisiscrimsoncheck on Discord for Cavern map"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -4342,25 +4368,12 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-01T22:19:21Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while. \n\nThanks @thisiscrimsoncheck on Discord for Cavern map"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "version": "135",
     "mod_id": "camod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-03-03T15:26:08Z",
+    "lastUpdated": "2024-03-04T17:17:54Z",
     "stars": 4,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -4966,19 +4979,6 @@
     "description": "German Translation: Yoru-Kitsune"
   },
   {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "2",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-01-29T20:14:09Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "TLB1/Xilion",
     "name": "Xilion",
     "version": "pre-alpha build 24",
@@ -5016,6 +5016,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "2",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-03-04T19:26:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "SirMachinegun/EBM",
