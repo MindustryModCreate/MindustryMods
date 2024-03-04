@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-03-03T01:53:29Z",
+    "lastUpdated": "2024-03-03T20:24:03Z",
     "stars": 65,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3770,19 +3770,6 @@
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "5",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-03-02T07:39:06Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
     "version": "1.0",
@@ -3807,6 +3794,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "6",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-03-03T23:33:00Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5980,7 +5980,7 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "SuenoDev/Sueno",
+    "repo": "SuenoDev/SUSeno",
     "name": "Sueno",
     "version": "0.16",
     "mod_id": "sueno",
@@ -6383,19 +6383,6 @@
     "description": "A Mindustry music loader."
   },
   {
-    "repo": "Chaoticans-mindustry-modding-team/javacamod",
-    "name": "Javacamod",
-    "version": "1.0",
-    "mod_id": "javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-02-27T01:52:40Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Finally."
-  },
-  {
     "repo": "books4thoughtgit/Mindustrialist",
     "name": "Mindustrialist",
     "version": "1.0",
@@ -6407,6 +6394,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)"
+  },
+  {
+    "repo": "Chaoticans-mindustry-modding-team/javacamod",
+    "name": "Javacamod",
+    "version": "1.0",
+    "mod_id": "javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-03-04T00:24:37Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Finally."
   },
   {
     "repo": "Nikisos/TheBattleMod",
