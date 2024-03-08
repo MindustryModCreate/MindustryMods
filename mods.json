@@ -97,7 +97,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2023-01-07T13:43:43Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -954,8 +954,8 @@
     "version": "1.0",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-07T14:59:22Z",
-    "stars": 24,
+    "lastUpdated": "2024-03-08T12:51:49Z",
+    "stars": 25,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1591,7 +1591,7 @@
     "version": "0.1",
     "mod_id": "FF",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-03-07T16:41:37Z",
+    "lastUpdated": "2024-03-08T15:04:28Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2002,19 +2002,6 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "1.5",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-02-14T16:25:40Z",
-    "stars": 11,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
-  },
-  {
     "repo": "430230562/zerg",
     "name": "zerg",
     "version": "0.15",
@@ -2026,6 +2013,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
+  },
+  {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "1.5",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-03-08T10:42:34Z",
+    "stars": 11,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
   },
   {
     "repo": "deltanedas/cliff",
@@ -2605,7 +2605,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-03-08T00:51:00Z",
+    "lastUpdated": "2024-03-08T12:20:09Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3822,19 +3822,6 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-07T15:00:17Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nThe campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while.\r\n\r\nThanks @thisiscrimsoncheck on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -3846,6 +3833,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-03-08T15:02:51Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nThe campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while.\r\n\r\nThanks @thisiscrimsoncheck on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5036,7 +5036,7 @@
     "version": "0.5.1",
     "mod_id": "Larnos Planet",
     "author": "Ochpochmaks",
-    "lastUpdated": "2024-03-08T08:52:35Z",
+    "lastUpdated": "2024-03-08T11:49:58Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
