@@ -889,7 +889,7 @@
     "version": "1.0",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-08T19:20:59Z",
+    "lastUpdated": "2024-03-09T09:20:05Z",
     "stars": 26,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1846,19 +1846,6 @@
     "description": "A thing."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.5.1",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-03-02T16:04:47Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v0.6.8B",
@@ -1883,6 +1870,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A online schematic browser"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.5.1",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-03-09T09:22:25Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -3770,19 +3770,6 @@
     "description": "A mod that adds small drills. A part of my elementary mod."
   },
   {
-    "repo": "zuoranartemwing/MindustryExpansion",
-    "name": "Mindustry Expansion",
-    "version": "2.3.4",
-    "mod_id": "mindustry-expansion",
-    "author": "zuoranartemwing",
-    "lastUpdated": "2024-02-15T14:02:21Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
-  },
-  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "0.1.3.24",
@@ -3846,6 +3833,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nThe campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while.\r\n\r\nThanks @thisiscrimsoncheck on Discord for Cavern map and Liquid Fuel Burner"
+  },
+  {
+    "repo": "zuoranartemwing/MindustryExpansion",
+    "name": "Mindustry Expansion",
+    "version": "2.3.4",
+    "mod_id": "mindustry-expansion",
+    "author": "zuoranartemwing",
+    "lastUpdated": "2024-03-09T08:24:46Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
     "repo": "LottieVixen/1-tile-drills",
@@ -5588,19 +5588,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Faster Conveyors"
-  },
-  {
-    "repo": "cardillan/SchematicsRefresher",
-    "name": "Schematics Refresher",
-    "version": "1.0",
-    "mod_id": "schematics-refresher",
-    "author": "Cardillan",
-    "lastUpdated": "2023-05-08T21:20:50Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
   },
   {
     "repo": "Keurhsevar-0977/turret-vodka",
@@ -7720,5 +7707,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod for Mindustrys"
+  },
+  {
+    "repo": "qifad/MindustryTestMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-03-09T06:48:05Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
