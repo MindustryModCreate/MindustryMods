@@ -889,7 +889,7 @@
     "version": "1.1",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-09T15:55:11Z",
+    "lastUpdated": "2024-03-10T08:25:59Z",
     "stars": 26,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1729,6 +1729,19 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.0.1",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-01-24T09:54:08Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1820,19 +1833,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.0.1",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-01-24T09:54:08Z",
-    "stars": 12,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v0.6.8B",
@@ -1877,7 +1877,7 @@
     "version": "1.4.5.2",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-03-10T03:15:29Z",
+    "lastUpdated": "2024-03-10T07:43:03Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3840,7 +3840,7 @@
     "version": "0.1",
     "mod_id": "psammos",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-09T19:03:20Z",
+    "lastUpdated": "2024-03-10T09:46:17Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5032,11 +5032,11 @@
   },
   {
     "repo": "Ochpochmaks/Larnos-Planet",
-    "name": "Larnos-Planet",
+    "name": "Larnos Planet",
     "version": "0.5.1",
     "mod_id": "Larnos Planet",
-    "author": "Ochpochmaks",
-    "lastUpdated": "2024-03-09T15:39:26Z",
+    "author": "[green]Ochpoc[purple]hmaks",
+    "lastUpdated": "2024-03-10T07:19:51Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5588,6 +5588,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Faster Conveyors"
+  },
+  {
+    "repo": "cardillan/SchematicsRefresher",
+    "name": "Schematics Refresher",
+    "version": "1.0",
+    "mod_id": "schematics-refresher",
+    "author": "Cardillan",
+    "lastUpdated": "2023-05-08T21:20:50Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
   },
   {
     "repo": "Keurhsevar-0977/turret-vodka",
@@ -7696,12 +7709,12 @@
     "description": "Mod for Mindustrys"
   },
   {
-    "repo": "qifad/MindustryTestMod",
+    "repo": "LingWuLW/Stea-Krp",
     "name": "Java Mod Template",
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2024-03-09T06:48:05Z",
+    "lastUpdated": "2024-03-09T18:34:01Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7709,12 +7722,12 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "LingWuLW/Stea-Krp",
+    "repo": "qifad/MindustryTestMOD",
     "name": "Java Mod Template",
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2024-03-09T18:34:01Z",
+    "lastUpdated": "2024-03-10T09:47:29Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
