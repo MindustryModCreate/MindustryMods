@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 304,
+    "stars": 305,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2024-03-11T07:53:22Z",
-    "stars": 150,
+    "stars": 151,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -3419,19 +3419,6 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod (WIP)",
-    "version": "0.1",
-    "mod_id": "psammos",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-17T13:03:49Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "SITUVNgcd/MindustryModTest",
     "name": "SVN Test mod",
     "version": "0.1",
@@ -3443,6 +3430,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod (WIP)",
+    "version": "0.1",
+    "mod_id": "psammos",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-03-18T05:40:10Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4691,19 +4691,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
-  },
-  {
-    "repo": "MCDRA135/sorterimages",
-    "name": "SorterImages",
-    "version": "1.0",
-    "mod_id": "sorterimages",
-    "author": "MCDRA",
-    "lastUpdated": "2022-07-27T20:08:27Z",
-    "stars": 3,
-    "minGameVersion": "135.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
     "repo": "deltanedas/routorio",
@@ -6227,6 +6214,19 @@
     "description": "Make Erekir components available on Serpulo."
   },
   {
+    "repo": "NemesisTheory/blank",
+    "name": "blank",
+    "version": "0.1",
+    "mod_id": "blank",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-07-09T06:21:47Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "removes all bundle text"
+  },
+  {
     "repo": "HehCrashes/MindustryMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -6459,6 +6459,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
+  },
+  {
+    "repo": "LottieVixen/test-mindustry-mod",
+    "name": "Test Mindustry Mod",
+    "version": "0.0.1",
+    "mod_id": "test-mod",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-16T20:38:55Z",
+    "stars": 0,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "test mod"
   },
   {
     "repo": "LottieVixen/example-resprite-mod",
@@ -6927,19 +6940,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
-  },
-  {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-06-08T12:20:55Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
   },
   {
     "repo": "MBTiAmo712DEV/parachutists-mod",
