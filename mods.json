@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-03-23T20:03:28Z",
+    "lastUpdated": "2024-03-24T15:24:04Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -733,7 +733,7 @@
     "version": "1.1",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-24T15:05:25Z",
+    "lastUpdated": "2024-03-24T20:07:20Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1175,7 +1175,7 @@
     "version": "0.1",
     "mod_id": "FF",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-03-18T04:25:38Z",
+    "lastUpdated": "2024-03-24T16:06:11Z",
     "stars": 20,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1417,6 +1417,19 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.5.0",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-03-24T17:03:41Z",
+    "stars": 16,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "o7-Fire/Mindustry-Ozone",
     "name": "Ozone Mindustry",
     "version": "0.24.2:0.19.0",
@@ -1430,6 +1443,19 @@
     "description": "o7-Fire Ozone Project, a client enhancement mods.\n\nMinimum Requirement:\nAndroid version:4.0.2.\nCPU: 4Core x 2ghz or 2Core x 3ghz\nRAM: 2GB of free RAM\n\nWiki:https://github.com/o7-Fire/Mindustry-Ozone/wiki\n\nChangelog: wtf stop bugging"
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 15,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "Cynthion21x/prismatic",
     "name": "Prismatic",
     "version": "1.10.125",
@@ -1441,19 +1467,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
-  },
-  {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.5.0",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-01-21T17:13:54Z",
-    "stars": 15,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1558,19 +1571,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.16",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 14,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "NemesisTheory/ODST-Soundtracks",
@@ -2236,19 +2236,6 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
-    "repo": "sebmeister2077/GifToLogic",
-    "name": "GifToLogic",
-    "version": "1.0-alpha",
-    "mod_id": "giftologic",
-    "author": "sebmeister2077",
-    "lastUpdated": "2023-09-30T21:50:08Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Work in progress (not working)"
-  },
-  {
     "repo": "osp54/CloudSave",
     "name": "Cloud Save",
     "version": "1.0",
@@ -2286,6 +2273,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
+  },
+  {
+    "repo": "sebmeister2077/GifToLogic",
+    "name": "GifToLogic",
+    "version": "1.0-alpha",
+    "mod_id": "giftologic",
+    "author": "sebmeister2077",
+    "lastUpdated": "2024-03-24T19:03:20Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Work in progress (not working)"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -7137,6 +7137,19 @@
     "description": "Super Java Mod"
   },
   {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
     "name": "RDC MM",
     "version": "1.0",
@@ -7161,19 +7174,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
-  },
-  {
-    "repo": "ValkovY/MarsiumModMindustry",
-    "name": "MarsiumMod",
-    "version": "0.2",
-    "mod_id": "vm",
-    "author": "ValkovY",
-    "lastUpdated": "2023-04-08T20:15:09Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry on v7."
   },
   {
     "repo": "yuna-akashi/MPTv2ModRE",
