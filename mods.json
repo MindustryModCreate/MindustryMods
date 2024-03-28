@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-03-26T23:48:25Z",
+    "lastUpdated": "2024-03-27T23:12:57Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -668,7 +668,7 @@
     "version": "1.1",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-26T08:28:44Z",
+    "lastUpdated": "2024-03-27T16:00:40Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1019,12 +1019,12 @@
     "version": "0.78",
     "mod_id": "extended-ui",
     "author": "wizer",
-    "lastUpdated": "2024-03-17T12:35:42Z",
+    "lastUpdated": "2024-03-27T19:31:22Z",
     "stars": 23,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nYoru (Yoru-Kitsune) - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1859,19 +1859,6 @@
     "description": "A online schematic browser"
   },
   {
-    "repo": "XtarsAgency/Zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "version": "v1.336.8B",
-    "mod_id": "zeridmuth",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-03-23T05:17:23Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF]Zeridmuth, A Serene Planet, no one knew.\n[#FF0000]Behind its Serenity. This planet held Sorrow, and a Harrowing Reality.\n\n[#FFFFFF]Buildings, and Shattered Hopes.. Overwritten, in almost Instant.\nHow are you able to Revive this Planet off its Dread, and Sorrows?\n\n..Zeridmuth. A New Beginning\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.Alpha",
@@ -1883,6 +1870,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
+  },
+  {
+    "repo": "XtarsAgency/Zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "version": "v1.336.8B",
+    "mod_id": "zeridmuth",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-03-28T00:26:39Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF]Zeridmuth, A Serene Planet, no one knew.\n[#FF0000]Behind its Serenity. This planet held Sorrow, and a Harrowing Reality.\n\n[#FFFFFF]Buildings, and Shattered Hopes.. Overwritten, in almost Instant.\nHow are you able to Revive this Planet off its Dread, and Sorrows?\n\n..Zeridmuth. A New Beginning\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -6344,19 +6344,6 @@
     "description": "围绕一块铁展开的故事"
   },
   {
-    "repo": "BakkaBlue/RGBee",
-    "name": "RGBee",
-    "version": "1.0",
-    "mod_id": "RGBee",
-    "author": "Cyan",
-    "lastUpdated": "2023-12-26T12:18:12Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "bee"
-  },
-  {
     "repo": "ArkSourcer/arktik-java",
     "name": "Arktik-java",
     "version": "1.0",
@@ -7629,6 +7616,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Not only it makes you sandbox, it gives you a super fast drill (supports Erekir) that probably mines 50 items per second and a free turret that absoulutely destroys anything."
+  },
+  {
+    "repo": "WdgW/DG-MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-02-25T11:10:17Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "HumansAreWeak/mindustry-repetition",
