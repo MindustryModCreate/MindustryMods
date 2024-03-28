@@ -162,7 +162,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2024-03-26T14:50:51Z",
-    "stars": 105,
+    "stars": 106,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1859,19 +1859,6 @@
     "description": "A online schematic browser"
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-03-27T02:39:19Z",
-    "stars": 12,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v1.336.8B",
@@ -1883,6 +1870,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF]Zeridmuth, A Serene Planet, no one knew.\n[#FF0000]Behind its Serenity. This planet held Sorrow, and a Harrowing Reality.\n\n[#FFFFFF]Buildings, and Shattered Hopes.. Overwritten, in almost Instant.\nHow are you able to Revive this Planet off its Dread, and Sorrows?\n\n..Zeridmuth. A New Beginning\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-03-28T15:46:47Z",
+    "stars": 12,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -2119,19 +2119,6 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "GlennFolker/MindustryModTemplate",
-    "name": "Mod Template",
-    "version": "v1.0",
-    "mod_id": "No name provided.",
-    "author": "You",
-    "lastUpdated": "2024-02-12T15:50:28Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
     "repo": "sebmeister2077/GifToLogic",
     "name": "GifToLogic",
     "version": "1.0-alpha",
@@ -2143,6 +2130,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Work in progress (not working)"
+  },
+  {
+    "repo": "GlennFolker/MindustryModTemplate",
+    "name": "Mod Template",
+    "version": "v1.0",
+    "mod_id": "No name provided.",
+    "author": "You",
+    "lastUpdated": "2024-03-28T15:10:48Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2631,7 +2631,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-03-28T00:52:00Z",
+    "lastUpdated": "2024-03-28T12:21:17Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3406,19 +3406,6 @@
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-03-18T14:07:27Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -3469,6 +3456,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-03-28T14:59:21Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4745,6 +4745,19 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
+    "repo": "StoneSteel27/PanForMobile",
+    "name": "pan for mobile",
+    "version": "1.0.0",
+    "mod_id": "pan_for_mobile",
+    "author": "StoneSteel",
+    "lastUpdated": "2022-09-18T09:08:15Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Panning option to move without the avatar from mobile."
+  },
+  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0.1",
@@ -5068,6 +5081,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
+  },
+  {
+    "repo": "MEEPofFaith/black-holes-library",
+    "name": "Black Holes Library",
+    "version": "12",
+    "mod_id": "black-hole-renderer",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-03-28T01:31:31Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6500,19 +6526,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "DvNamedo/world-war-2",
-    "name": "Example Java Mod",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "Anuke",
-    "lastUpdated": "2020-12-31T06:10:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A jar mod."
-  },
-  {
     "repo": "svan9/SVR",
     "name": "SVR",
     "version": "1.4",
@@ -6810,19 +6823,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "duo"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/flarogus",
-    "name": "Flarogus",
-    "version": "1.0",
-    "mod_id": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
   },
   {
     "repo": "dashmaster-c/DS-Industry",
