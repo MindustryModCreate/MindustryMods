@@ -83,7 +83,7 @@
     "version": "1.1.5.4",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2024-03-11T07:53:22Z",
+    "lastUpdated": "2024-03-31T17:35:44Z",
     "stars": 152,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -434,7 +434,7 @@
     "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2024-03-20T06:01:17Z",
+    "lastUpdated": "2024-03-31T19:09:12Z",
     "stars": 43,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -600,10 +600,10 @@
   {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
-    "version": "61",
+    "version": "62",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
-    "lastUpdated": "2024-03-22T01:14:02Z",
+    "lastUpdated": "2024-03-31T17:58:59Z",
     "stars": 34,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -616,7 +616,7 @@
     "version": "1.1 pre-alpha",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2024-03-30T20:07:00Z",
+    "lastUpdated": "2024-03-31T19:42:31Z",
     "stars": 34,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -668,7 +668,7 @@
     "version": "1.1",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-03-31T14:34:05Z",
+    "lastUpdated": "2024-03-31T16:02:26Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3432,19 +3432,6 @@
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod",
-    "version": "1.0",
-    "mod_id": "psammos",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-03-31T12:08:34Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -3456,6 +3443,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod",
+    "version": "1.0",
+    "mod_id": "psammos",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-03-31T17:55:05Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -7137,6 +7137,19 @@
     "description": "Super Java Mod"
   },
   {
+    "repo": "MayFlowerz0505/PlanetsMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-03-15T10:10:51Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Lisenok229/RDC-Mindustry-Mod",
     "name": "RDC MM",
     "version": "1.0",
@@ -7616,19 +7629,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Not only it makes you sandbox, it gives you a super fast drill (supports Erekir) that probably mines 50 items per second and a free turret that absoulutely destroys anything."
-  },
-  {
-    "repo": "WdgW/DG-MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-02-25T11:10:17Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "HumansAreWeak/mindustry-repetition",
