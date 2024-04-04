@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-04-03T21:28:05Z",
+    "lastUpdated": "2024-04-04T00:40:12Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "28.1",
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-03-31T03:10:29Z",
+    "lastUpdated": "2024-04-04T04:36:48Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -624,6 +624,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "1.1",
+    "mod_id": "asthosus",
+    "author": "Catana791",
+    "lastUpdated": "2024-04-03T19:32:15Z",
+    "stars": 34,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.74",
@@ -635,19 +648,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "Catana791/asthosus",
-    "name": "Asthosus",
-    "version": "1.1",
-    "mod_id": "asthosus",
-    "author": "Catana791",
-    "lastUpdated": "2024-04-03T19:32:15Z",
-    "stars": 33,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "MQ-1175/upgraded-tiers",
@@ -689,6 +689,19 @@
     "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
+    "repo": "Zelaux/ByteLogicMod",
+    "name": "Byte Logic Mod",
+    "version": "v1.2.1",
+    "mod_id": "byte-logic-mod",
+    "author": "Zelaux",
+    "lastUpdated": "2023-04-05T18:24:57Z",
+    "stars": 30,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "version": "0.24.2",
@@ -713,19 +726,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
-  },
-  {
-    "repo": "Zelaux/ByteLogicMod",
-    "name": "Byte Logic Mod",
-    "version": "v1.2.1",
-    "mod_id": "byte-logic-mod",
-    "author": "Zelaux",
-    "lastUpdated": "2023-04-05T18:24:57Z",
-    "stars": 29,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "MinRi2/MinerTools",
@@ -1155,19 +1155,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
-    "repo": "fox1va-the-fox/schems",
-    "name": "Schemepack 400+",
-    "version": "1.3",
-    "mod_id": "shemepackbyobsidian",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-01-12T14:49:11Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
     "repo": "WMF-Industries/ExpandedIndustries",
@@ -1877,7 +1864,7 @@
     "version": "1.0.Alpha",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-04-01T01:04:17Z",
+    "lastUpdated": "2024-04-04T00:59:00Z",
     "stars": 12,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2631,7 +2618,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-03T12:20:26Z",
+    "lastUpdated": "2024-04-04T00:53:16Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4451,7 +4438,7 @@
     "version": "13",
     "mod_id": "black-hole-renderer",
     "author": "MEEPofFaith",
-    "lastUpdated": "2024-03-30T05:23:37Z",
+    "lastUpdated": "2024-04-04T04:32:27Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6940,19 +6927,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "version": "0.1",
-    "mod_id": "UsA-Military",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
   },
   {
     "repo": "oguh43/quantumReactor",
