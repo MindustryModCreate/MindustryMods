@@ -474,7 +474,7 @@
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2023-12-26T12:48:48Z",
-    "stars": 38,
+    "stars": 39,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -1734,7 +1734,7 @@
     "version": "v1.336.8B",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-04-05T23:29:11Z",
+    "lastUpdated": "2024-04-06T13:51:11Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2631,7 +2631,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-06T00:51:00Z",
+    "lastUpdated": "2024-04-06T12:19:30Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3378,19 +3378,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
-  },
-  {
-    "repo": "zuoranartemwing/MindustryExpansion",
-    "name": "Mindustry Expansion",
-    "version": "2.3.4",
-    "mod_id": "mindustry-expansion",
-    "author": "zuoranartemwing",
-    "lastUpdated": "2024-03-31T04:00:14Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
@@ -4355,12 +4342,25 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "MEEPofFaith/black-holes-library",
+    "name": "Black Holes Library",
+    "version": "13",
+    "mod_id": "black-hole-renderer",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-04-04T04:32:27Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
     "mod_id": "gebr",
     "author": "Lehanchic25",
-    "lastUpdated": "2024-03-23T15:55:49Z",
+    "lastUpdated": "2024-04-06T09:28:01Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4719,19 +4719,6 @@
     "description": "A mindustry mod that adds an achievement tree.\nComplete achievements by fulfilling their objectives and flex you progress to other players!\n\nAchievement trees are saved per-map. This means that all your saves on the \"maze\" will have the same achievement progress,\nso will the saves on the \"archipelago\" map, etc. Campaign and multiplayer are different - in these modes the same achievement\ntree is used regardless of the map/sector (this may be changed in the future).\n\nIn addiction to all the above, this mod provides an achievement API, allowing other mods to easily create their own achievement trees\nor extend fhe existing one."
   },
   {
-    "repo": "StoneSteel27/PanForMobile",
-    "name": "pan for mobile",
-    "version": "1.0.0",
-    "mod_id": "pan_for_mobile",
-    "author": "StoneSteel",
-    "lastUpdated": "2022-09-18T09:08:15Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Panning option to move without the avatar from mobile."
-  },
-  {
     "repo": "ColdAnkles/mindustry-trade-terminals",
     "name": "Trade Terminals",
     "version": "2.0.1",
@@ -5044,19 +5031,6 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "Ochpochmaks/Larnos-Planet",
-    "name": "Larnos Planet",
-    "version": "0.5.1",
-    "mod_id": "Larnos Planet",
-    "author": "[green]Ochpoc[purple]hmaks",
-    "lastUpdated": "2024-03-10T07:19:51Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
-  },
-  {
     "repo": "EMOYT/Calamity",
     "name": "Calamity",
     "version": "146v",
@@ -5068,6 +5042,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n[blue]Mod in alpha testing\n[white]This mod add lot of content for Erekir\n[red]New vote everymonth in [purple]discord(https://discord.com/invite/sbXRnesR)[red] server.\n[blue]New mod [red]= [blue]New [red]World"
+  },
+  {
+    "repo": "StoneSteel27/PanForMobile",
+    "name": "pan for mobile",
+    "version": "1.0.0",
+    "mod_id": "pan_for_mobile",
+    "author": "StoneSteel",
+    "lastUpdated": "2024-04-06T09:47:49Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Panning option to move without the avatar from mobile."
+  },
+  {
+    "repo": "Ochpochmaks/Larnos-Planet",
+    "name": "Larnos Planet",
+    "version": "0.5.1",
+    "mod_id": "Larnos Planet",
+    "author": "[green]Ochpoc[purple]hmaks",
+    "lastUpdated": "2024-04-06T12:04:45Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7592,19 +7592,6 @@
     "description": "Not only it makes you sandbox, it gives you a super fast drill (supports Erekir) that probably mines 50 items per second and a free turret that absoulutely destroys anything."
   },
   {
-    "repo": "WdgW/DG-MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-02-25T11:10:17Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "HumansAreWeak/mindustry-repetition",
     "name": "Repetition",
     "version": "1.0",
@@ -7720,5 +7707,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A custom Mindustry mod music from other game. Check on Repo for more information"
+  },
+  {
+    "repo": "TXCZCSZ/MindustryMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "TXCZCSZ",
+    "lastUpdated": "2024-04-06T14:26:06Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
