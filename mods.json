@@ -520,19 +520,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.9.1",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2024-02-15T04:45:12Z",
-    "stars": 37,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
-  },
-  {
     "repo": "liplum/MultiCrafterLib",
     "name": "MultiCrafter Lib",
     "version": "2.0.0",
@@ -544,6 +531,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.9.1",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2024-04-10T16:04:09Z",
+    "stars": 37,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
     "repo": "Gdeft/portal",
@@ -808,10 +808,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "1.8.10",
+    "version": "2.0.0",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2024-04-08T10:23:10Z",
+    "lastUpdated": "2024-04-10T16:05:50Z",
     "stars": 28,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -1155,19 +1155,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
-    "repo": "fox1va-the-fox/schems",
-    "name": "Schemepack 400+",
-    "version": "1.3",
-    "mod_id": "shemepackbyobsidian",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-01-12T14:49:11Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
     "repo": "WMF-Industries/ExpandedIndustries",
@@ -3450,7 +3437,7 @@
     "version": "1.0",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-04-10T12:20:45Z",
+    "lastUpdated": "2024-04-10T20:08:41Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7709,19 +7696,6 @@
     "description": "A custom Mindustry mod music from other game. Check on Repo for more information"
   },
   {
-    "repo": "Q8er2y/Vertros",
-    "name": "Vertros",
-    "version": "No version provided.",
-    "mod_id": "Vertrosmod",
-    "author": "Q8er2y",
-    "lastUpdated": "2024-04-08T18:07:37Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\ncopied some code from exogenesis. (pls dont eat me)"
-  },
-  {
     "repo": "TXCZCSZ/MindustryMod",
     "name": "TestMod by TXCZCSZ",
     "version": "1.0",
@@ -7733,5 +7707,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "TXCZCSZ写的模组"
+  },
+  {
+    "repo": "Q8er2y/Vertros",
+    "name": "Vertros",
+    "version": "No version provided.",
+    "mod_id": "Vertrosmod",
+    "author": "Q8er2y",
+    "lastUpdated": "2024-04-10T20:00:41Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\ncopied some code from exogenesis. (pls dont eat me)"
   }
 ]
