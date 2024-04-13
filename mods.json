@@ -767,6 +767,19 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
+    "repo": "NiTiSon/GRavillaso",
+    "name": "GRavillaso [Abandoned]",
+    "version": "2 b41",
+    "mod_id": "gravillaso",
+    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-10-31T19:09:15Z",
+    "stars": 28,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
+  },
+  {
     "repo": "paulieg626/Cheat",
     "name": "CheatMod",
     "version": "2.7",
@@ -2618,7 +2631,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-12T12:20:38Z",
+    "lastUpdated": "2024-04-13T00:43:06Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4368,19 +4381,6 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
-    "repo": "MEEPofFaith/black-holes-library",
-    "name": "Black Holes Library",
-    "version": "13",
-    "mod_id": "black-hole-renderer",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-04-04T04:32:27Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
-  },
-  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
@@ -4405,6 +4405,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "MEEPofFaith/black-holes-library",
+    "name": "Black Holes Library",
+    "version": "13",
+    "mod_id": "black-hole-renderer",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-04-13T02:27:29Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -8333,19 +8346,6 @@
     "description": "A custom Mindustry mod music from other game. Check on Repo for more information"
   },
   {
-    "repo": "BinaryElement/FreeTheCores",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-04-06T06:57:15Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "TXCZCSZ/MindustryMod",
     "name": "TestMod by TXCZCSZ",
     "version": "1.0",
@@ -8370,5 +8370,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\ncopied some code from exogenesis. (pls dont eat me)"
+  },
+  {
+    "repo": "BinaryElement/FreeTheCores",
+    "name": "Free The Cores",
+    "version": "1.0",
+    "mod_id": "free-the-cores",
+    "author": "SkyKiwi",
+    "lastUpdated": "2024-04-13T01:59:33Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A simple mod to remove core zone requirements."
   }
 ]
