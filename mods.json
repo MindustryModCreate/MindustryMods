@@ -97,7 +97,7 @@
     "mod_id": "revision",
     "author": "Slava0135",
     "lastUpdated": "2023-01-07T13:43:43Z",
-    "stars": 136,
+    "stars": 137,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -765,19 +765,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
-  },
-  {
-    "repo": "NiTiSon/GRavillaso",
-    "name": "GRavillaso [Abandoned]",
-    "version": "2 b41",
-    "mod_id": "gravillaso",
-    "author": "NiTiSon aka NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-10-31T19:09:15Z",
-    "stars": 28,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "paulieg626/Cheat",
@@ -3406,19 +3393,6 @@
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-03-25T16:14:10Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "MEEPofFaith/hallucinogen",
     "name": "Hallucinogen",
     "version": "7",
@@ -3456,6 +3430,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod with ambitious goals, and a fresh start."
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-04-12T21:43:47Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
