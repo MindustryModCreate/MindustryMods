@@ -577,7 +577,7 @@
     "version": "1.1 pre-alpha",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2024-04-11T13:02:52Z",
+    "lastUpdated": "2024-04-14T10:46:22Z",
     "stars": 35,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1157,30 +1157,17 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
-    "repo": "fox1va-the-fox/schems",
-    "name": "Schemepack 400+",
-    "version": "1.3",
-    "mod_id": "shemepackbyobsidian",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-01-12T14:49:11Z",
+    "repo": "EyeOfDarkness/FlameOut",
+    "name": "Flame Out",
+    "version": "v1.1.2",
+    "mod_id": "flameout",
+    "author": "EoD",
+    "lastUpdated": "2024-02-11T16:39:00Z",
     "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
-  },
-  {
-    "repo": "LaoHuaJiOfficial/FoodFactory",
-    "name": "FoodFactory",
-    "version": "ALPHA_v0.2",
-    "mod_id": "FF",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-04-12T12:57:57Z",
-    "stars": 20,
-    "minGameVersion": "146",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mod In Dev"
+    "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
   },
   {
     "repo": "WMF-Industries/ExpandedIndustries",
@@ -1194,6 +1181,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
+    "repo": "LaoHuaJiOfficial/FoodFactory",
+    "name": "FoodFactory",
+    "version": "ALPHA_v0.2",
+    "mod_id": "FF",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-04-14T08:00:30Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-js",
@@ -1742,19 +1742,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.5.2",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-04-13T15:14:54Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v1.336.8B",
@@ -1766,6 +1753,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.5.2",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-04-14T08:41:55Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2264,10 +2264,10 @@
   {
     "repo": "TeamOct/Erekir-Music",
     "name": "Team Oct's Erekir Music",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "mod_id": "erekir-music",
     "author": "Team Oct",
-    "lastUpdated": "2023-11-09T12:46:40Z",
+    "lastUpdated": "2024-04-14T08:57:57Z",
     "stars": 9,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3850,10 +3850,10 @@
   {
     "repo": "TeamOct/FOS-OST",
     "name": "Fictional Octo System OST",
-    "version": "1.0",
+    "version": "1.0.1",
     "mod_id": "fosost",
     "author": "Team Oct",
-    "lastUpdated": "2024-03-21T13:30:51Z",
+    "lastUpdated": "2024-04-14T08:38:49Z",
     "stars": 5,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -6409,6 +6409,19 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
+    "repo": "Agzam4/Mindustry-Units-Mod",
+    "name": "Agzam's Units Mod",
+    "version": "1.1",
+    "mod_id": "agzam4mod-units",
+    "author": "Agzam4",
+    "lastUpdated": "2023-03-12T14:21:36Z",
+    "stars": 1,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hide units hotkey & button"
+  },
+  {
     "repo": "virat2010/SomeVanillaExtension",
     "name": "VR's Mod",
     "version": "v1.0",
@@ -6810,6 +6823,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A v6 mod for mindustry\nThis mod aims to expand mindustry's content by adding a new tech tree, adding upgraded versions of existinc blocks and more.\nThis mod adds new resources, new turrets and new zones as well as slight tweaks to vanilla. 41 new building blocks to play with, one environmental block, two ores and 5 items with moree to come.\n(Lore included, find the lore of the mod in building and unit descriptions/reading the source code)\nnote: Has been ported over to 113, enjoy the mod! "
+  },
+  {
+    "repo": "WilloIzCitron/Mindustry-Ultra-Mod",
+    "name": "Mindustry ULTRA  Mod",
+    "version": "0.1",
+    "mod_id": "mindustry_ultra_mod",
+    "author": "WilloIzCitron",
+    "lastUpdated": "2020-11-29T00:55:09Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "oh no"
   },
   {
     "repo": "RebornTrack970/Cursed-Tantros-Mod",
