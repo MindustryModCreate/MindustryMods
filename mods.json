@@ -572,19 +572,6 @@
     "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 pre-alpha",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2024-04-19T07:22:50Z",
-    "stars": 35,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "64",
@@ -596,6 +583,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 pre-alpha",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2024-04-20T08:22:45Z",
+    "stars": 35,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -1872,6 +1872,19 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
+    "repo": "Uenhe/Fire",
+    "name": "Fire",
+    "version": "1.2.0",
+    "mod_id": "fire",
+    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
+    "lastUpdated": "2024-01-31T06:18:30Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
+  },
+  {
     "repo": "sharrlotte/MindustryToolMod",
     "name": "MindustryTool",
     "version": "v1.6",
@@ -2000,19 +2013,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nSprites: LaIm_Ik"
-  },
-  {
-    "repo": "Uenhe/Fire",
-    "name": "Fire",
-    "version": "1.2.0",
-    "mod_id": "fire",
-    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
-    "lastUpdated": "2024-01-31T06:18:30Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
     "repo": "Abe-isCharlie/OP-Mod",
@@ -4563,6 +4563,19 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
+    "repo": "raffel080108/UnlockTechTreeMod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "mod_id": "unlock-tech-tree-mod",
+    "author": "You",
+    "lastUpdated": "2024-03-08T22:15:45Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
+  },
+  {
     "repo": "Lehanchic25/Planet-Gebr",
     "name": "Планета гебр",
     "version": "2",
@@ -5458,19 +5471,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you probably caught yourself thinking that your Mind is too heterosexual? In that case, you need this mod. If anything, then in no case is there any gayness. Purely male sex."
-  },
-  {
-    "repo": "raffel080108/UnlockTechTreeMod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "mod_id": "unlock-tech-tree-mod",
-    "author": "You",
-    "lastUpdated": "2024-03-08T22:15:45Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "Kitrr1x/Mindustry-Addon",
@@ -6539,19 +6539,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
-    "name": "Spore biomethane",
-    "version": "0.5",
-    "mod_id": "jp",
-    "author": "Water white",
-    "lastUpdated": "2024-04-19T14:40:36Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
-  },
-  {
     "repo": "sheptalo/mindustry-minecraft-mod",
     "name": "Minecraft mod",
     "version": "1.0",
@@ -6576,6 +6563,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
+    "name": "Spore biomethane",
+    "version": "0.5",
+    "mod_id": "jp",
+    "author": "Water white",
+    "lastUpdated": "2024-04-20T05:13:44Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
     "repo": "4156/Infintory",
@@ -8364,7 +8364,7 @@
     "version": "No version provided.",
     "mod_id": "Vertrosmod",
     "author": "Q8er2y",
-    "lastUpdated": "2024-04-19T21:04:47Z",
+    "lastUpdated": "2024-04-20T08:33:59Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
