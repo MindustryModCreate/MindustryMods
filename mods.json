@@ -6,7 +6,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-03-16T07:37:41Z",
-    "stars": 329,
+    "stars": 330,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 311,
+    "stars": 312,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-04-19T23:36:03Z",
+    "lastUpdated": "2024-04-20T12:15:32Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -455,6 +455,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "ZielonyTrojkat/Frozen-Farlands",
+    "name": "Frozen Farlands",
+    "version": "1.3",
+    "mod_id": "moon mod",
+    "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
+    "lastUpdated": "2023-12-26T12:48:48Z",
+    "stars": 41,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
     "repo": "FlinTyX/Animalia",
     "name": "Animalia",
     "version": "java 1.0",
@@ -466,19 +479,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
-    "repo": "ZielonyTrojkat/Frozen-Farlands",
-    "name": "Frozen Farlands",
-    "version": "1.3",
-    "mod_id": "moon mod",
-    "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2023-12-26T12:48:48Z",
-    "stars": 40,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "RA2EXE/Saturation-Firepower",
@@ -715,6 +715,19 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
+    "repo": "MinRi2/MinerTools",
+    "name": "MinerTools",
+    "version": "2.0.0",
+    "mod_id": "miner-tools",
+    "author": "MinRi2",
+    "lastUpdated": "2024-02-15T05:36:42Z",
+    "stars": 30,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -726,19 +739,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
-  },
-  {
-    "repo": "MinRi2/MinerTools",
-    "name": "MinerTools",
-    "version": "2.0.0",
-    "mod_id": "miner-tools",
-    "author": "MinRi2",
-    "lastUpdated": "2024-02-15T05:36:42Z",
-    "stars": 29,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "HPL-Team/Project-HPL",
@@ -1110,7 +1110,7 @@
     "version": "1.5-alpha",
     "mod_id": "No name provided.",
     "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-04-11T09:07:30Z",
+    "lastUpdated": "2024-04-20T10:44:32Z",
     "stars": 22,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2696,7 +2696,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-20T00:53:13Z",
+    "lastUpdated": "2024-04-20T12:19:38Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2709,7 +2709,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-04-20T04:51:48Z",
+    "lastUpdated": "2024-04-20T12:29:29Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3081,12 +3081,25 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-04-19T16:11:16Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
     "name": "Psammos Mod",
     "version": "1.0",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-04-18T16:56:13Z",
+    "lastUpdated": "2024-04-20T11:27:47Z",
     "stars": 7,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3549,19 +3562,6 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-04-19T16:11:16Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -3950,6 +3950,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
+  },
+  {
+    "repo": "Lehanchic25/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "2",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-04-06T09:28:01Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "TeamOct/FOS-OST",
@@ -4574,19 +4587,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
-    "repo": "Lehanchic25/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "2",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-04-06T09:28:01Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
