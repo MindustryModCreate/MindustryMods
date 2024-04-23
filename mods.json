@@ -260,6 +260,19 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "version": "1.6.0",
+    "mod_id": "pictologic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 77,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "version": "3.15.2",
@@ -271,19 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "version": "1.6.0",
-    "mod_id": "pictologic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 76,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -364,6 +364,19 @@
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
+    "repo": "abomb4/super-cheat",
+    "name": "(v7) Invincible Cheat 无敌作弊",
+    "version": "3.1.1",
+    "mod_id": "Invincible Cheat Mod v7",
+    "author": "滞人",
+    "lastUpdated": "2023-08-08T15:04:45Z",
+    "stars": 55,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
     "repo": "deltanedas/routorio-old",
     "name": "routorio",
     "version": "2.37.0",
@@ -375,19 +388,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "abomb4/super-cheat",
-    "name": "(v7) Invincible Cheat 无敌作弊",
-    "version": "3.1.1",
-    "mod_id": "Invincible Cheat Mod v7",
-    "author": "滞人",
-    "lastUpdated": "2023-08-08T15:04:45Z",
-    "stars": 54,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
     "repo": "PetruCHIOrus/lead_ind",
@@ -486,7 +486,7 @@
     "version": "3.1.6.2",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-04-19T18:20:04Z",
+    "lastUpdated": "2024-04-23T14:18:16Z",
     "stars": 40,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -520,6 +520,19 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "1.2",
+    "mod_id": "asthosus",
+    "author": "Catana791",
+    "lastUpdated": "2024-04-23T16:51:22Z",
+    "stars": 38,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 18ß pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -546,19 +559,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "Catana791/asthosus",
-    "name": "Asthosus",
-    "version": "1.1",
-    "mod_id": "asthosus",
-    "author": "Catana791",
-    "lastUpdated": "2024-04-22T16:44:17Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
-  },
-  {
     "repo": "Gdeft/portal",
     "name": "Portal",
     "version": "0.1.0",
@@ -572,30 +572,30 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 beta build-1",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2024-04-21T19:23:58Z",
-    "stars": 36,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "version": "65",
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
     "lastUpdated": "2024-04-22T00:54:10Z",
-    "stars": 35,
+    "stars": 36,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 beta build-1",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2024-04-23T18:00:04Z",
+    "stars": 36,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -1729,19 +1729,6 @@
     "description": ""
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.3.0",
-    "mod_id": "pyra",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-04-05T06:23:49Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.5.2",
@@ -1779,6 +1766,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.3.1",
+    "mod_id": "pyra",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-04-23T11:08:43Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2696,7 +2696,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-23T00:53:26Z",
+    "lastUpdated": "2024-04-23T12:22:03Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2709,7 +2709,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-04-23T01:12:49Z",
+    "lastUpdated": "2024-04-23T14:58:44Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3099,7 +3099,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-04-22T20:53:32Z",
+    "lastUpdated": "2024-04-23T17:00:29Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3562,6 +3562,19 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
+    "repo": "SuenoDev/Sueno",
+    "name": "Sueno",
+    "version": "0.18",
+    "mod_id": "sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2024-04-23T10:54:55Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -3950,19 +3963,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds small drills. A part of my elementary mod."
-  },
-  {
-    "repo": "SuenoDev/Sueno",
-    "name": "Sueno",
-    "version": "0.18",
-    "mod_id": "sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2024-04-21T08:17:15Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
     "repo": "Lehanchic25/Planet-Gebr",
@@ -4613,6 +4613,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
+  },
+  {
+    "repo": "Fun7Game/Gloomistrymod",
+    "name": "Gloomistry",
+    "version": "0.0",
+    "mod_id": "gloomustry",
+    "author": "FunGame(фан)",
+    "lastUpdated": "2024-04-20T10:04:54Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
   },
   {
     "repo": "Chaoticans-mindustry-modding-team/ca-mod",
@@ -5549,19 +5562,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: yspoof\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
-  },
-  {
-    "repo": "Fun7Game/Gloomistrymod",
-    "name": "Gloomistry",
-    "version": "0.0",
-    "mod_id": "gloomustry",
-    "author": "FunGame(фан)",
-    "lastUpdated": "2024-04-20T10:04:54Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
   },
   {
     "repo": "WilloIzCitron/Mindustry-Devilish-mod",
@@ -7059,6 +7059,19 @@
     "description": "im just training"
   },
   {
+    "repo": "Lazfimg/Defense-Industry-Js",
+    "name": "Defense Industry",
+    "version": "0.1",
+    "mod_id": "Defense-industry",
+    "author": "Lazfimg",
+    "lastUpdated": "2024-04-14T02:32:45Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod focusing on units, turret, and defense thing"
+  },
+  {
     "repo": "Chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "version": "1.0",
@@ -8359,19 +8372,6 @@
     "description": "TXCZCSZ写的模组"
   },
   {
-    "repo": "Q8er2y/Vertros",
-    "name": "Vertros",
-    "version": "No version provided.",
-    "mod_id": "Vertrosmod",
-    "author": "Q8er2y",
-    "lastUpdated": "2024-04-22T19:31:18Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\ncopied some code from exogenesis. (pls dont eat me)"
-  },
-  {
     "repo": "illa4257/MindustrySyncProject",
     "name": "Mindustry Sync Project",
     "version": "0.0.1",
@@ -8383,5 +8383,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java Mod for synchronization (for now only schematics)."
+  },
+  {
+    "repo": "Q8er2y/Vertros",
+    "name": "Vertros",
+    "version": "No version provided.",
+    "mod_id": "Vertrosmod",
+    "author": "Q8er2y",
+    "lastUpdated": "2024-04-23T16:25:26Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\ncopied some code from exogenesis. (pls dont eat me)"
   }
 ]
