@@ -83,7 +83,7 @@
     "version": "1.1.5.4",
     "mod_id": "extra-utilities",
     "author": "guiY",
-    "lastUpdated": "2024-04-24T02:40:49Z",
+    "lastUpdated": "2024-04-28T10:17:40Z",
     "stars": 154,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -344,7 +344,7 @@
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-03-30T13:00:41Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -499,7 +499,7 @@
     "version": "1.2",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-04-27T18:54:32Z",
+    "lastUpdated": "2024-04-28T12:22:20Z",
     "stars": 39,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -819,6 +819,19 @@
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "EB-wilson/TooManyItems",
+    "name": "Too Many Items",
+    "version": "1.5",
+    "mod_id": "tmi",
+    "author": "EBwilson",
+    "lastUpdated": "2024-02-27T12:43:55Z",
+    "stars": 28,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "2.1.0",
@@ -856,19 +869,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
-  },
-  {
-    "repo": "EB-wilson/TooManyItems",
-    "name": "Too Many Items",
-    "version": "1.5",
-    "mod_id": "tmi",
-    "author": "EBwilson",
-    "lastUpdated": "2024-02-27T12:43:55Z",
-    "stars": 27,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -2613,32 +2613,6 @@
     "description": "A Mindustry mod"
   },
   {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.6",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2024-04-20T20:03:14Z",
-    "stars": 8,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-28T00:57:31Z",
-    "stars": 8,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2650,6 +2624,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-04-28T12:21:34Z",
+    "stars": 8,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.7",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2024-04-28T14:22:09Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "deltanedas/no",
@@ -3508,19 +3508,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
-    "repo": "GlennFolker/Mindustry-ModTemplate",
-    "name": "Mindustry Mod Template",
-    "version": "1.0",
-    "mod_id": "mindustry-mod-template",
-    "author": "GlennFolker",
-    "lastUpdated": "2021-05-06T03:57:13Z",
-    "stars": 5,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "MindustryInside/ClassicMusic",
@@ -5205,7 +5192,7 @@
     "version": "1.1.0",
     "mod_id": "ZMod",
     "author": "N0TZ3R0",
-    "lastUpdated": "2024-04-27T19:29:18Z",
+    "lastUpdated": "2024-04-28T12:10:30Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -6110,19 +6097,6 @@
     "description": "Minecraft in mindustry"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "ATLAS' Revolutions",
-    "version": "No version provided.",
-    "mod_id": "sentinel-addon",
-    "author": "The skelebros",
-    "lastUpdated": "2024-04-20T01:09:13Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
     "name": "Spore biomethane",
     "version": "0.5",
@@ -6160,6 +6134,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A work in progress rewrite of the ultimate shitpost."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "ATLAS' Revolutions",
+    "version": "No version provided.",
+    "mod_id": "sentinel-addon",
+    "author": "The skelebros",
+    "lastUpdated": "2024-04-28T11:38:16Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "4156/Infintory",
@@ -6708,19 +6695,6 @@
     "description": "A Mindustry music loader."
   },
   {
-    "repo": "guiYMOUR/TwilightFallMod",
-    "name": "Twilight Fall",
-    "version": "0.0.1",
-    "mod_id": "twilight-fall",
-    "author": "guiY",
-    "lastUpdated": "2024-03-02T05:50:44Z",
-    "stars": 1,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry v7"
-  },
-  {
     "repo": "Mekalil/Modmind-DevTeam",
     "name": "TEST",
     "version": "0.8.3",
@@ -6771,6 +6745,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Finally."
+  },
+  {
+    "repo": "guiYMOUR/TwilightFallMod",
+    "name": "Twilight Fall",
+    "version": "0.0.1",
+    "mod_id": "twilight-fall",
+    "author": "guiY",
+    "lastUpdated": "2024-04-28T10:23:55Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod for Mindustry v7"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6992,6 +6979,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "lordReddx/Mindustry-ModTemplate-1",
+    "name": "Mindustry Mod Template",
+    "version": "1.0",
+    "mod_id": "mindustry-mod-template",
+    "author": "GlennFolker",
+    "lastUpdated": "2021-05-06T03:57:13Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "KotMilkMeoW/Milkmod",
@@ -8214,6 +8214,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Not only it makes you sandbox, it gives you a super fast drill (supports Erekir) that probably mines 50 items per second and a free turret that absoulutely destroys anything."
+  },
+  {
+    "repo": "WdgW/DG-MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-02-25T11:10:17Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "HumansAreWeak/mindustry-repetition",
