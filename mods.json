@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 218,
+    "stars": 219,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -104,6 +104,19 @@
     "description": "Install for fresh and revised mindustry experience"
   },
   {
+    "repo": "Anuken/MindustryJavaModTemplate",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-03-29T16:13:24Z",
+    "stars": 114,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "version": "6.0",
@@ -130,26 +143,13 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
-    "repo": "Anuken/MindustryJavaModTemplate",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-03-29T16:13:24Z",
-    "stars": 113,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "sk7725/TimeControl",
     "name": "Time Control",
     "version": "0.2",
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 110,
+    "stars": 111,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -214,7 +214,7 @@
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 92,
+    "stars": 93,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -240,7 +240,7 @@
     "mod_id": "sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-11-03T10:18:40Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -305,7 +305,7 @@
     "mod_id": "Production Mod",
     "author": "What42Pizza",
     "lastUpdated": "2023-10-16T02:58:23Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
@@ -396,7 +396,7 @@
     "mod_id": "lead_ind",
     "author": "PetruCHIOrus\nDefenseX\npaulieg626",
     "lastUpdated": "2023-04-09T14:02:42Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "143",
     "hasScripts": true,
     "hasJava": false,
@@ -1760,7 +1760,7 @@
     "version": "v1.336.8B",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-01T00:14:56Z",
+    "lastUpdated": "2024-05-01T02:04:44Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2639,19 +2639,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-04-30T12:20:56Z",
-    "stars": 8,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2663,6 +2650,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-01T00:57:37Z",
+    "stars": 8,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/no",
@@ -6019,19 +6019,6 @@
     "description": "adds bitches and some other things"
   },
   {
-    "repo": "XtarsAgency/Arvtom",
-    "name": "Arvtom: Last Descent (WIP)",
-    "version": "v1.0",
-    "mod_id": "arvtom",
-    "author": "[red]Xtarsagency",
-    "lastUpdated": "2024-02-03T07:07:54Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
-  },
-  {
     "repo": "PLsubfarm61/Random-Expansion-Mod-by-Oleksiy",
     "name": "Random Expansion Mod",
     "version": "0.17",
@@ -6136,19 +6123,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "ItsKirby69/MineDusty",
-    "name": "MineDusty [new]",
-    "version": "1",
-    "mod_id": "minedusty-mod",
-    "author": "ItsKirby",
-    "lastUpdated": "2024-04-30T03:09:50Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod by itsdakirby69. Very descriptive yes..."
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
     "name": "Spore biomethane",
     "version": "0.5",
@@ -6160,6 +6134,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
+    "repo": "ItsKirby69/MineDusty",
+    "name": "MineDusty [new]",
+    "version": "1",
+    "mod_id": "minedusty-mod",
+    "author": "ItsKirby",
+    "lastUpdated": "2024-05-01T01:18:33Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod by itsdakirby69. Planned to bring a more immersive gameplay."
   },
   {
     "repo": "4156/Infintory",
@@ -8164,6 +8151,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "ItzCraft/Arvtom",
+    "name": "Arvtom: Last Descent (WIP)",
+    "version": "v1.0",
+    "mod_id": "arvtom",
+    "author": "[red]Xtarsagency",
+    "lastUpdated": "2024-01-13T19:58:16Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
+  },
+  {
     "repo": "Kieaer/Mindustry_question_mod",
     "name": "LOL missing ping sound",
     "version": "1.0",
@@ -8390,11 +8390,24 @@
     "version": "v1.0",
     "mod_id": "No name provided.",
     "author": "Hexazeta",
-    "lastUpdated": "2024-04-30T12:50:31Z",
+    "lastUpdated": "2024-05-01T01:40:28Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "funny frozen planet"
+  },
+  {
+    "repo": "XtarsAgency/sst-000",
+    "name": "Station 000(WIP)",
+    "version": "1",
+    "mod_id": "sst-000",
+    "author": "[red]Xtarsagency",
+    "lastUpdated": "2024-05-01T05:03:54Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A space-themed unsettling exploration mod\nplayer discretion is advised."
   }
 ]
