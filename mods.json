@@ -422,7 +422,7 @@
     "mod_id": "schematics-pack",
     "author": "pixecoz",
     "lastUpdated": "2024-04-26T06:24:30Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -512,7 +512,7 @@
     "version": "1.1 beta build-2.2",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2024-05-02T20:14:03Z",
+    "lastUpdated": "2024-05-03T07:46:21Z",
     "stars": 39,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2262,6 +2262,19 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
+    "repo": "ApsZoldat/MindustryMappingUtilities",
+    "name": "Mapping Utilities",
+    "version": "1.7",
+    "mod_id": "mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2024-04-28T17:40:08Z",
+    "stars": 9,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2624,19 +2637,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod"
-  },
-  {
-    "repo": "ApsZoldat/MindustryMappingUtilities",
-    "name": "Mapping Utilities",
-    "version": "1.7",
-    "mod_id": "mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2024-04-28T17:40:08Z",
-    "stars": 8,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "JiroCab/Olupis",
@@ -5161,19 +5161,6 @@
     "description": "Random small mindustry mod."
   },
   {
-    "repo": "aerialasfofotherprojects/Mindustrialist",
-    "name": "Mindustrialist",
-    "version": "1.0",
-    "mod_id": "mindustrialist",
-    "author": "aerialasf",
-    "lastUpdated": "2024-04-11T09:04:15Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhi"
-  },
-  {
     "repo": "MEEPofFaith/extra-sand-redux",
     "name": "Extra Sand in the Sandbox - Redux",
     "version": "1.1",
@@ -5224,6 +5211,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod provides a new way to play Mindustry on Serpulo, being a Ground Unit, it also tweaks and add some useful things, like turrets, units, etc...\n\nMy Discord: yspoof\n\nContributors: \n\nPenguin0 (Sprites/Code/Balance)\nkuraisensei (Sprites/Balance)\n"
+  },
+  {
+    "repo": "aerialasfofotherprojects/Mindustrialist",
+    "name": "Mindustrialist",
+    "version": "1.0",
+    "mod_id": "mindustrialist",
+    "author": "aerialasf",
+    "lastUpdated": "2024-05-03T09:31:07Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhi"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6141,7 +6141,7 @@
     "version": "1",
     "mod_id": "minedusty-mod",
     "author": "ItsKirby",
-    "lastUpdated": "2024-05-03T04:59:04Z",
+    "lastUpdated": "2024-05-03T05:25:11Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
