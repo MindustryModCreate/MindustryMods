@@ -123,7 +123,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 113,
+    "stars": 114,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -486,7 +486,7 @@
     "version": "1.2",
     "mod_id": "asthosus",
     "author": "Catana791",
-    "lastUpdated": "2024-05-03T13:57:56Z",
+    "lastUpdated": "2024-05-03T18:01:50Z",
     "stars": 41,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1006,10 +1006,10 @@
     "version": "2.0.15",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-05-03T02:56:23Z",
+    "lastUpdated": "2024-05-03T17:47:07Z",
     "stars": 24,
     "minGameVersion": "146",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a campaign extension to recreate tantros including a custom campaign planet, units and blocks."
   },
@@ -1742,19 +1742,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "XtarsAgency/Zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "version": "v1.336.8B",
-    "mod_id": "zeridmuth",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-01T07:51:40Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.5.2",
@@ -1766,6 +1753,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "XtarsAgency/Zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "version": "v1.336.8B",
+    "mod_id": "zeridmuth",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-05-03T15:52:18Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -3489,7 +3489,7 @@
     "version": "2.3.6",
     "mod_id": "mindustry-expansion",
     "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
-    "lastUpdated": "2024-05-03T14:42:00Z",
+    "lastUpdated": "2024-05-03T15:21:32Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7304,6 +7304,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "pankiwi/Project-Eclipse",
+    "name": "Project Eclipse",
+    "version": "0.1.0.3",
+    "mod_id": "mindus",
+    "author": "Eclipse",
+    "lastUpdated": "2022-01-16T12:37:38Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
     "repo": "game-stuff-official/morebulletsmodforhjson",
