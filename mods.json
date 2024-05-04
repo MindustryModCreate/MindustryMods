@@ -123,7 +123,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 114,
+    "stars": 115,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -162,7 +162,7 @@
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-03-13T06:42:43Z",
-    "stars": 106,
+    "stars": 107,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -525,7 +525,7 @@
     "version": "1.1 beta build-2.2",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2024-05-03T07:46:21Z",
+    "lastUpdated": "2024-05-04T13:40:36Z",
     "stars": 39,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1006,7 +1006,7 @@
     "version": "2.0.15.1",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-05-04T05:09:00Z",
+    "lastUpdated": "2024-05-04T14:23:48Z",
     "stars": 24,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1703,19 +1703,6 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "Slotterleet/distributor",
-    "name": "Distributor",
-    "version": "1.1",
-    "mod_id": "distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-10-19T05:40:50Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form. Multiplayer compatible."
-  },
-  {
     "repo": "SunsetTeam/Sunset",
     "name": "Sunset",
     "version": "0.2.4A",
@@ -1779,6 +1766,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "Slotterleet/distributor",
+    "name": "Distributor",
+    "version": "1.2",
+    "mod_id": "distributor",
+    "author": "Slotterleet",
+    "lastUpdated": "2024-05-04T10:36:38Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The ultimate form of the ultimate form. Multiplayer compatible. Also supports modded distributors."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2670,7 +2670,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-04T00:53:20Z",
+    "lastUpdated": "2024-05-04T12:19:28Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3042,19 +3042,6 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-04-27T22:13:21Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
     "name": "Psammos Mod",
     "version": "1.0",
@@ -3079,6 +3066,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-05-04T14:58:37Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -5681,19 +5681,6 @@
     "description": "V7 fixed. Trade in ores for when your map is missing some hard needed recourses. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins."
   },
   {
-    "repo": "EmmmM9O/Mindustry-mod-HydrogenCore-java",
-    "name": "氢气核心java",
-    "version": "1.0",
-    "mod_id": "hc",
-    "author": "m9O",
-    "lastUpdated": "2022-11-28T04:57:13Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "氢气核心为一些mod提供前置"
-  },
-  {
     "repo": "EmanuelG-Gaming/quizdustry",
     "name": "Quizdustry",
     "version": "0.2 Pre-Alpha",
@@ -6123,45 +6110,6 @@
     "description": "A mod that adds a menu which easily allows you to reuse commands"
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
-    "name": "Spore biomethane",
-    "version": "0.5",
-    "mod_id": "jp",
-    "author": "Water white",
-    "lastUpdated": "2024-05-01T14:15:17Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
-  },
-  {
-    "repo": "SMOLKEYS/yellow-rewritten",
-    "name": "Yellow",
-    "version": "1B",
-    "mod_id": "yellow",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-05-02T12:58:23Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A work in progress rewrite of the ultimate shitpost."
-  },
-  {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "ATLAS' Revolutions",
-    "version": "No version provided.",
-    "mod_id": "sentinel-addon",
-    "author": "The skelebros",
-    "lastUpdated": "2024-05-03T12:26:20Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "ItsKirby69/MineDusty",
     "name": "MineDusty [new]",
     "version": "1",
@@ -6173,6 +6121,45 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod by itsdakirby69. Planned to bring a more immersive gameplay."
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
+    "name": "Spore biomethane",
+    "version": "0.5",
+    "mod_id": "jp",
+    "author": "Water white",
+    "lastUpdated": "2024-05-04T10:52:42Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "ATLAS' Revolutions",
+    "version": "No version provided.",
+    "mod_id": "sentinel-addon",
+    "author": "The skelebros",
+    "lastUpdated": "2024-05-04T12:32:25Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "SMOLKEYS/yellow-rewritten",
+    "name": "Yellow",
+    "version": "1B",
+    "mod_id": "yellow",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-05-04T14:47:50Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A work in progress rewrite of the ultimate shitpost."
   },
   {
     "repo": "4156/Infintory",
@@ -6251,6 +6238,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
+  },
+  {
+    "repo": "middlewhite/Mindustry_powerdrill_mod",
+    "name": "Mindustry_powerdrill_mod",
+    "version": "1.0",
+    "mod_id": "电动钻头 by mid",
+    "author": "中白",
+    "lastUpdated": "2021-08-27T15:42:30Z",
+    "stars": 1,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "使用电力驱动的钻头"
   },
   {
     "repo": "MissAmity/Singabana",
@@ -6615,6 +6615,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "chill"
+  },
+  {
+    "repo": "UAdustry/SporeMod",
+    "name": "Spore",
+    "version": "1.0",
+    "mod_id": "spor",
+    "author": "IvanDem",
+    "lastUpdated": "2023-11-16T05:46:35Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
   },
   {
     "repo": "mctheend/MindustryMod-IronCraft",
@@ -7553,19 +7566,6 @@
     "description": "Testing ground for java modding."
   },
   {
-    "repo": "EmmmM9O/mindustry-mod-HydrogenCore",
-    "name": "氢气核心",
-    "version": "1.0.1",
-    "mod_id": "HydrogenCore",
-    "author": "m9O",
-    "lastUpdated": "2022-10-29T08:54:42Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "为所以氢气mod提供前置"
-  },
-  {
     "repo": "NFK1HEROUS1/mindustry-mod",
     "name": "cola",
     "version": "No version provided.",
@@ -7993,19 +7993,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "el wiwi"
-  },
-  {
-    "repo": "UAdustry/SporeMod",
-    "name": "Spore",
-    "version": "1.0",
-    "mod_id": "spor",
-    "author": "IvanDem",
-    "lastUpdated": "2023-11-16T05:46:35Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
   },
   {
     "repo": "usernamePaper/ProcessorUi",
