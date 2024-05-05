@@ -162,7 +162,7 @@
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-03-13T06:42:43Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -486,7 +486,7 @@
     "version": "1.2",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-05-04T18:17:04Z",
+    "lastUpdated": "2024-05-05T12:29:35Z",
     "stars": 41,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1157,19 +1157,6 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
-    "repo": "fox1va-the-fox/schems",
-    "name": "Schemepack 400+",
-    "version": "1.3",
-    "mod_id": "shemepackbyobsidian",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-01-12T14:49:11Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
-  },
-  {
     "repo": "EmanuelG-Gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "version": "0.75 Pre-Alpha",
@@ -1643,7 +1630,7 @@
     "version": "v1.336.8B",
     "mod_id": "zeridmuth",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-03T15:52:18Z",
+    "lastUpdated": "2024-05-05T10:26:36Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2670,7 +2657,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-05T00:57:22Z",
+    "lastUpdated": "2024-05-05T12:20:12Z",
     "stars": 8,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4433,19 +4420,6 @@
     "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
   },
   {
-    "repo": "Cong0707/multiplayer",
-    "name": "Claj联机",
-    "version": "1.1",
-    "mod_id": "claj",
-    "author": "xzxADIxzx 由cong重写",
-    "lastUpdated": "2024-01-28T04:15:28Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "通过claj进行联机"
-  },
-  {
     "repo": "raffel080108/UnlockTechTreeMod",
     "name": "UnlockTechTreeMod",
     "version": "1.0",
@@ -4483,6 +4457,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "Cong0707/multiplayer",
+    "name": "联机",
+    "version": "2.0",
+    "mod_id": "multiplayer",
+    "author": "xzxADIxzx 由cong重写并改进",
+    "lastUpdated": "2024-05-05T11:44:04Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "通过multiplayer service进行联机"
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6773,19 +6760,6 @@
     "description": "A java mod for Mindustry v7"
   },
   {
-    "repo": "Hexazeta/Frigid-Devastation",
-    "name": "Frigid Devastation",
-    "version": "v1.0",
-    "mod_id": "No name provided.",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-05-03T14:53:53Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "funny frozen planet"
-  },
-  {
     "repo": "Chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "version": "1.0",
@@ -6797,6 +6771,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Finally."
+  },
+  {
+    "repo": "Hexazeta/Frigid-Devastation",
+    "name": "Frigid Devastation",
+    "version": "v1.0",
+    "mod_id": "No name provided.",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-05-05T10:57:49Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "funny frozen planet"
   },
   {
     "repo": "Nikisos/TheBattleMod",
