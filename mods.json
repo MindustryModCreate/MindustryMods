@@ -481,19 +481,6 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
-    "repo": "TeamOct/fictional-octo-system",
-    "name": "Fictional Octo System",
-    "version": "1.1 beta build-2.2",
-    "mod_id": "fos",
-    "author": "Team Oct",
-    "lastUpdated": "2024-05-04T13:40:36Z",
-    "stars": 41,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod focused on space exploration."
-  },
-  {
     "repo": "Catana791/asthosus",
     "name": "Asthosus",
     "version": "1.2",
@@ -505,6 +492,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
+    "repo": "TeamOct/fictional-octo-system",
+    "name": "Fictional Octo System",
+    "version": "1.1 beta build-2.2",
+    "mod_id": "fos",
+    "author": "Team Oct",
+    "lastUpdated": "2024-05-10T08:50:30Z",
+    "stars": 41,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
   },
   {
     "repo": "FlinTyX/Animalia",
@@ -850,7 +850,7 @@
     "version": "2.1",
     "mod_id": "tmi",
     "author": "EBwilson",
-    "lastUpdated": "2024-05-09T14:30:24Z",
+    "lastUpdated": "2024-05-10T08:19:29Z",
     "stars": 28,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1040,6 +1040,19 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
+    "name": "Welcome to the Frostscape",
+    "version": "1.5-alpha",
+    "mod_id": "No name provided.",
+    "author": "Sh1penfire\nFractured\nRilyProductions",
+    "lastUpdated": "2024-04-20T10:44:32Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "version": "two shit loads",
@@ -1129,19 +1142,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "Three-Cold-Planets/Welcome-to-the-Frostscape",
-    "name": "Welcome to the Frostscape",
-    "version": "1.5-alpha",
-    "mod_id": "No name provided.",
-    "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-04-20T10:44:32Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -1669,7 +1669,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCoSnow",
-    "lastUpdated": "2024-05-09T02:12:39Z",
+    "lastUpdated": "2024-05-10T10:08:07Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3606,7 +3606,7 @@
     "version": "2.3.6",
     "mod_id": "mindustry-expansion",
     "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
-    "lastUpdated": "2024-05-09T16:46:43Z",
+    "lastUpdated": "2024-05-10T06:51:06Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5512,19 +5512,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
-    "repo": "WilloIzCitron/Mindustry-Devilish-mod",
-    "name": "Devilish Mode Shitass edition",
-    "version": "1.3 Alpha",
-    "mod_id": "devilish-mode",
-    "author": "[THREAT LEVEL: HIGH] Plays",
-    "lastUpdated": "2024-04-21T10:26:33Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
-  },
-  {
     "repo": "Catana791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -5601,6 +5588,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
+  },
+  {
+    "repo": "WilloIzCitron/Mindustry-Devilish-mod",
+    "name": "Devilish Mode Shitass edition",
+    "version": "1.3 Alpha",
+    "mod_id": "devilish-mode",
+    "author": "[THREAT LEVEL: HIGH] Plays",
+    "lastUpdated": "2024-05-10T09:47:22Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -8396,5 +8396,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Cave Crawler inspired mod?\nreally, its a simple horror mod"
+  },
+  {
+    "repo": "fghjk455rg/oilio",
+    "name": "oilio",
+    "version": "0.0.56",
+    "mod_id": "oilio",
+    "author": "Enless and every who helped me",
+    "lastUpdated": "2024-05-10T09:33:22Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "WorkInProgress"
   }
 ]
