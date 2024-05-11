@@ -1287,6 +1287,19 @@
     "description": "A Mindustry Kotlin mod template."
   },
   {
+    "repo": "EyeOfDarkness/Advance-Lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.5.1",
+    "mod_id": "advance-lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-11T03:58:42Z",
+    "stars": 18,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -1363,19 +1376,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "EyeOfDarkness/Advance-Lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.5.1",
-    "mod_id": "advance-lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-11T03:58:42Z",
-    "stars": 17,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -2353,6 +2353,19 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-11T00:53:44Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "zeroCore-salamander/HackForAll",
     "name": "HackForAll",
     "version": "0.1",
@@ -2743,19 +2756,6 @@
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-11T00:53:44Z",
-    "stars": 8,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "deltanedas/no",
     "name": "no",
     "version": "1.1.0",
@@ -3120,19 +3120,6 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
-    "repo": "SuenoDev/Sueno",
-    "name": "Sueno",
-    "version": "0.18",
-    "mod_id": "sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2024-05-08T15:13:05Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -3144,6 +3131,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "SuenoDev/Sueno",
+    "name": "Sueno",
+    "version": "0.18",
+    "mod_id": "sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2024-05-11T09:44:10Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3606,7 +3606,7 @@
     "version": "2.3.6",
     "mod_id": "mindustry-expansion",
     "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
-    "lastUpdated": "2024-05-10T06:51:06Z",
+    "lastUpdated": "2024-05-11T09:49:39Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
