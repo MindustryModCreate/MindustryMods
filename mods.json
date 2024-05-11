@@ -481,19 +481,6 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
-    "repo": "Catana791/asthosus",
-    "name": "Asthosus",
-    "version": "1.2",
-    "mod_id": "asthosus",
-    "author": "Catana",
-    "lastUpdated": "2024-05-11T12:28:21Z",
-    "stars": 41,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
-  },
-  {
     "repo": "TeamOct/fictional-octo-system",
     "name": "Fictional Octo System",
     "version": "1.1 beta build-2.2",
@@ -505,6 +492,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
+  },
+  {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "1.2",
+    "mod_id": "asthosus",
+    "author": "Catana",
+    "lastUpdated": "2024-05-11T17:16:49Z",
+    "stars": 41,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "FlinTyX/Animalia",
@@ -1812,7 +1812,7 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-05-11T13:14:55Z",
+    "lastUpdated": "2024-05-11T16:45:49Z",
     "stars": 13,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -8399,11 +8399,11 @@
   },
   {
     "repo": "fghjk455rg/oilio",
-    "name": "oilio",
-    "version": "0.0.56",
+    "name": "OIlIO",
+    "version": "0.0.1",
     "mod_id": "oilio",
-    "author": "Enless and every who helped me",
-    "lastUpdated": "2024-05-10T11:03:20Z",
+    "author": "Enless, Nekit508, Kanutah Doshik",
+    "lastUpdated": "2024-05-11T15:58:13Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
