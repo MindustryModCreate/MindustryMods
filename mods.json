@@ -435,7 +435,7 @@
     "mod_id": "饱和火力",
     "author": "RA2",
     "lastUpdated": "2024-05-12T09:19:38Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": true,
@@ -487,7 +487,7 @@
     "mod_id": "fos",
     "author": "Team Oct",
     "lastUpdated": "2024-05-11T14:37:00Z",
-    "stars": 41,
+    "stars": 42,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -496,15 +496,15 @@
   {
     "repo": "Catana791/asthosus",
     "name": "Asthosus",
-    "version": "1.2",
+    "version": "1.3",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-05-11T17:16:49Z",
+    "lastUpdated": "2024-05-12T10:41:25Z",
     "stars": 41,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "FlinTyX/Animalia",
@@ -767,6 +767,19 @@
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "2.1.0",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2024-04-21T07:29:15Z",
+    "stars": 29,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "version": "0.1.1",
@@ -817,19 +830,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "2.1.0",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2024-04-21T07:29:15Z",
-    "stars": 28,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "EB-wilson/TooManyItems",
@@ -923,6 +923,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "xjamiex/BioTech",
+    "name": "BioTech",
+    "version": "0.2",
+    "mod_id": "biotech",
+    "author": "Jammuu-EndoFreeze",
+    "lastUpdated": "2024-05-08T00:38:01Z",
+    "stars": 26,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Meatballs."
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -986,19 +999,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "xjamiex/BioTech",
-    "name": "BioTech",
-    "version": "0.2",
-    "mod_id": "biotech",
-    "author": "Jammuu-EndoFreeze",
-    "lastUpdated": "2024-05-08T00:38:01Z",
-    "stars": 25,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Meatballs."
   },
   {
     "repo": "Anuken/wind3",
@@ -1682,12 +1682,25 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-05-12T09:27:33Z",
+    "lastUpdated": "2024-05-12T11:09:50Z",
     "stars": 14,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
+  },
+  {
+    "repo": "LottieVixen/2xConveyors",
+    "name": "2X Conveyors",
+    "version": "0.2",
+    "mod_id": "2xconveyors",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-03T04:18:24Z",
+    "stars": 13,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Two (2) times faster conveyors, at twice the cost"
   },
   {
     "repo": "ThatOneBepis/Infinitodustry",
@@ -1818,19 +1831,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
-    "repo": "LottieVixen/2xConveyors",
-    "name": "2X Conveyors",
-    "version": "0.2",
-    "mod_id": "2xconveyors",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-03T04:18:24Z",
-    "stars": 12,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Two (2) times faster conveyors, at twice the cost"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2054,6 +2054,19 @@
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
+    "repo": "Andromeda-Galaxy29/Psammos-Mod",
+    "name": "Psammos Mod",
+    "version": "1.0",
+    "mod_id": "psammos",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-05-12T13:25:39Z",
+    "stars": 11,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+  },
+  {
     "repo": "deltanedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -2182,19 +2195,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
-    "repo": "Andromeda-Galaxy29/Psammos-Mod",
-    "name": "Psammos Mod",
-    "version": "1.0",
-    "mod_id": "psammos",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-05-10T21:22:37Z",
-    "stars": 10,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
     "repo": "lev43/TurretsMod",
@@ -2353,12 +2353,25 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-05-12T11:12:30Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-12T00:58:53Z",
+    "lastUpdated": "2024-05-12T12:22:00Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2743,17 +2756,17 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-05-10T13:01:37Z",
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-05-10T20:02:06Z",
     "stars": 8,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "deltanedas/no",
@@ -3120,25 +3133,12 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-05-10T20:02:06Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "SuenoDev/Sueno",
     "name": "Sueno",
     "version": "0.19",
     "mod_id": "sueno",
     "author": "// TODO authors",
-    "lastUpdated": "2024-05-12T06:40:04Z",
+    "lastUpdated": "2024-05-12T11:59:06Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3419,6 +3419,19 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
+    "repo": "SakuraLilly/Powered-by-nature",
+    "name": "Powered by Nature",
+    "version": "3.0",
+    "mod_id": "Powered by Nature",
+    "author": "SakuraLilly",
+    "lastUpdated": "2022-11-12T15:22:58Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
+  },
+  {
     "repo": "A5TR0spud/astro-additions",
     "name": "Astronomical Additions [pre alpha]",
     "version": "0.0.2",
@@ -3588,19 +3601,6 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
-    "repo": "zuoranartemwing/MindustryExpansion",
-    "name": "Mindustry Expansion",
-    "version": "2.3.6",
-    "mod_id": "mindustry-expansion",
-    "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
-    "lastUpdated": "2024-05-11T15:00:30Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[]\n\nWant fast update??\nJoin to our server or check at our github\n\nMF Version: 0.1.0"
-  },
-  {
     "repo": "MEEPofFaith/tranqol",
     "name": "Tranqol",
     "version": "v4",
@@ -3612,6 +3612,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
+    "repo": "zuoranartemwing/MindustryExpansion",
+    "name": "Mindustry Expansion",
+    "version": "2.3.6",
+    "mod_id": "mindustry-expansion",
+    "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
+    "lastUpdated": "2024-05-12T12:42:36Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[]\n\nWant fast update??\nJoin to our server or check at our github\n\nMF Version: 0.1.0"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -3898,19 +3911,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V6 (v135)\r\n"
-  },
-  {
-    "repo": "SakuraLilly/Powered-by-nature",
-    "name": "Powered by Nature",
-    "version": "3.0",
-    "mod_id": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-11-12T15:22:58Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "GenericSomeone/RejecteDustry",
@@ -4589,6 +4589,19 @@
     "description": "Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes,\n• Much more!"
   },
   {
+    "repo": "ThomasThings/erekir-scaled",
+    "name": "Erekir Scaled",
+    "version": "0.0",
+    "mod_id": "es",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-11-05T00:44:08Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
+  },
+  {
     "repo": "Vernaon/mindustry-admin-button",
     "name": "Admin button",
     "version": "2.1",
@@ -4626,6 +4639,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
+  },
+  {
+    "repo": "gh-doot/erekir-reworked",
+    "name": "Erekir Reworked",
+    "version": "1.0",
+    "mod_id": "erekir-reworked",
+    "author": "doot",
+    "lastUpdated": "2024-01-19T07:18:55Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Boatload ton of Erekir content that fill gaps in progression. Avoid if you don't like unoriginal stuff."
   },
   {
     "repo": "raffel080108/UnlockTechTreeMod",
@@ -4925,19 +4951,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Change sector export destination from list on planet screen"
-  },
-  {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "ExplerHD/EnerLect-tech",
@@ -5315,19 +5328,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
-  },
-  {
-    "repo": "ThomasThings/erekir-scaled",
-    "name": "Erekir Scaled",
-    "version": "0.0",
-    "mod_id": "es",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-11-05T00:44:08Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
     "repo": "rylid-umil/New-Units",
