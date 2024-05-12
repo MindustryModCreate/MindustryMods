@@ -669,7 +669,7 @@
     "mod_id": "hpl",
     "author": "HPL Team",
     "lastUpdated": "2024-03-27T14:47:42Z",
-    "stars": 31,
+    "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -850,7 +850,7 @@
     "version": "2.0.18",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-05-10T16:55:07Z",
+    "lastUpdated": "2024-05-12T05:08:47Z",
     "stars": 28,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -975,6 +975,19 @@
     "description": "Chaos in a mod!\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n- Yellow, the unit stronger than vanilla units but weaker than most modded units\n- 10+ disableable weapons for Yellow of varying powers\n- Spells (or Abilities)! Things that make Yellow do funny stuff\n- 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)\n\nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!"
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
+    "name": "Spore Biomechs",
+    "version": "1.6",
+    "mod_id": "sporepod",
+    "author": "Water molecules",
+    "lastUpdated": "2024-05-07T10:28:44Z",
+    "stars": 25,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
     "repo": "xjamiex/BioTech",
     "name": "BioTech",
     "version": "0.2",
@@ -1025,19 +1038,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
-    "name": "Spore Biomechs",
-    "version": "1.6",
-    "mod_id": "sporepod",
-    "author": "Water molecules",
-    "lastUpdated": "2024-05-07T10:28:44Z",
-    "stars": 24,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "way-zer/ContentsTweaker",
@@ -1677,6 +1677,19 @@
     "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units\nthis description gets shorter every commit mann\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha1",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-05-11T20:57:55Z",
+    "stars": 14,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
+  },
+  {
     "repo": "ThatOneBepis/Infinitodustry",
     "name": "Infinitodustry",
     "version": "2",
@@ -1805,19 +1818,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha1",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-05-11T20:57:55Z",
-    "stars": 13,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2358,7 +2358,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-11T12:20:20Z",
+    "lastUpdated": "2024-05-12T00:58:53Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5577,6 +5577,19 @@
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
+    "name": "Spore biomethane",
+    "version": "0.5",
+    "mod_id": "jp",
+    "author": "Water white",
+    "lastUpdated": "2024-05-10T02:52:21Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
     "repo": "WilloIzCitron/Mindustry-Devilish-mod",
     "name": "Devilish Mode Shitass edition",
     "version": "1.3 Alpha",
@@ -6524,19 +6537,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A work in progress rewrite of the ultimate shitpost."
-  },
-  {
-    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
-    "name": "Spore biomethane",
-    "version": "0.5",
-    "mod_id": "jp",
-    "author": "Water white",
-    "lastUpdated": "2024-05-10T02:52:21Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
     "repo": "ItsKirby69/MineDusty",
