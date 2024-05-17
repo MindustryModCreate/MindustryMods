@@ -331,7 +331,7 @@
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-05-14T03:16:03Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -444,15 +444,15 @@
   {
     "repo": "RA2EXE/Saturation-Firepower",
     "name": "Saturation firepower",
-    "version": "3.1.6.4",
+    "version": "3.1.7",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-05-16T09:04:47Z",
+    "lastUpdated": "2024-05-17T10:03:50Z",
     "stars": 45,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": true,
-    "description": "当前版本：[green]3.1.6.4[white]\nQQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
+    "description": "当前版本：[green]3.1.7[white]\nQQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
   },
   {
     "repo": "Catana791/asthosus",
@@ -1248,19 +1248,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "EchoVespy/Simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.12.0",
-    "mod_id": "Simplistic",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-10-28T21:49:56Z",
-    "stars": 19,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
     "repo": "Jasmarkelina/Tantros-Mod",
     "name": "Tantria",
     "version": "0.9.1",
@@ -1272,6 +1259,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
+  },
+  {
+    "repo": "EchoVespy/Simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.12.0",
+    "mod_id": "Simplistic",
+    "author": "EchoVespy",
+    "lastUpdated": "2024-05-17T05:55:29Z",
+    "stars": 19,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -3146,6 +3146,19 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
+    "repo": "Fun7Game/Gloomistrymod",
+    "name": "Gloomistry",
+    "version": "0.0",
+    "mod_id": "gloomustry",
+    "author": "FunGame(фан)",
+    "lastUpdated": "2024-04-25T11:46:15Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
+  },
+  {
     "repo": "SuenoDev/Sueno",
     "name": "Sueno",
     "version": "0.19",
@@ -3612,19 +3625,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
-  },
-  {
-    "repo": "Fun7Game/Gloomistrymod",
-    "name": "Gloomistry",
-    "version": "0.0",
-    "mod_id": "gloomustry",
-    "author": "FunGame(фан)",
-    "lastUpdated": "2024-04-25T11:46:15Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
   },
   {
     "repo": "MEEPofFaith/hallucinogen",
@@ -5620,13 +5620,13 @@
     "name": "Mobile-Controls",
     "version": "2.0.0",
     "mod_id": "mobile_controls",
-    "author": "StoneSteel",
-    "lastUpdated": "2024-05-17T05:05:47Z",
+    "author": "StoneSteel/MoltenSteel",
+    "lastUpdated": "2024-05-17T08:26:19Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds Panning, selecting all units, factories option to mobile."
+    "description": "Mindustry mod that gives mobile users to opportunity use desktop controls.\nAuthor Discord: moltensteel"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7046,6 +7046,19 @@
     "description": "A Mindustry music loader."
   },
   {
+    "repo": "bob900-cod/STIdustrys",
+    "name": "Stidustrys.",
+    "version": "0.1",
+    "mod_id": "Stidustrys",
+    "author": "Bim",
+    "lastUpdated": "2024-03-06T16:03:32Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod for Mindustrys"
+  },
+  {
     "repo": "Mekalil/Modmind-DevTeam",
     "name": "TEST",
     "version": "0.8.3",
@@ -8292,19 +8305,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Overhaul Mod"
-  },
-  {
-    "repo": "bob900-cod/STIdustrys",
-    "name": "Stidustrys.",
-    "version": "0.1",
-    "mod_id": "Stidustrys",
-    "author": "Bim",
-    "lastUpdated": "2024-03-06T16:03:32Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod for Mindustrys"
   },
   {
     "repo": "LingWuLW/Stea-Krp",
