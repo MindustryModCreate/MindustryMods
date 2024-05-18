@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-17T01:56:17Z",
+    "lastUpdated": "2024-05-18T01:12:33Z",
     "stars": 70,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -780,30 +780,30 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "EB-wilson/TooManyItems",
-    "name": "Too Many Items",
-    "version": "2.2",
-    "mod_id": "tmi",
-    "author": "EBwilson",
-    "lastUpdated": "2024-05-14T14:02:48Z",
-    "stars": 29,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
-  },
-  {
     "repo": "Twcash/Tantros-Test",
     "name": "Aquarion",
     "version": "2.0.24",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-05-17T16:08:22Z",
+    "lastUpdated": "2024-05-18T03:32:36Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
+    "repo": "EB-wilson/TooManyItems",
+    "name": "Too Many Items",
+    "version": "2.2",
+    "mod_id": "tmi",
+    "author": "EBwilson",
+    "lastUpdated": "2024-05-18T05:01:20Z",
+    "stars": 29,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "Gdeft/substructure",
@@ -2384,7 +2384,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-17T12:21:49Z",
+    "lastUpdated": "2024-05-18T00:54:36Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4966,19 +4966,6 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
-    "repo": "GenericSomeone/UnitConstruct",
-    "name": "Unit Construct",
-    "version": "1.0 beta",
-    "mod_id": "unit-construct",
-    "author": "Someone",
-    "lastUpdated": "2022-03-13T00:42:56Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
-  },
-  {
     "repo": "ExplerHD/EnerLect-tech",
     "name": "EnerLect Industries",
     "version": "1.0",
@@ -6565,19 +6552,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "ItsKirby69/MineDusty",
-    "name": "MineDusty [new]",
-    "version": "1",
-    "mod_id": "minedusty-mod",
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2024-05-15T00:44:12Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6589,6 +6563,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I'm added some iron and story to this mod. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "ItsKirby69/MineDusty",
+    "name": "MineDusty [new]",
+    "version": "1",
+    "mod_id": "minedusty-mod",
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2024-05-18T01:47:07Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
   },
   {
     "repo": "4156/Infintory",
@@ -8448,5 +8435,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Cave Crawler inspired mod?\nreally, its a simple horror mod"
+  },
+  {
+    "repo": "DFAFSS/MindustryGalaxyMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-05-18T01:26:30Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
