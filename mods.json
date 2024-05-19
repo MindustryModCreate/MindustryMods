@@ -45,7 +45,7 @@
     "mod_id": "xelos-pixel-texturepack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 219,
+    "stars": 220,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -1131,19 +1131,6 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2023-11-01T14:20:28Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "EyeOfDarkness/FlameOut",
     "name": "Flame Out",
     "version": "v1.1.2",
@@ -1168,6 +1155,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "WilloIzCitron/ArchiveDustry-Java",
+    "name": "ArchiveDustry Java",
+    "version": "1.1",
+    "mod_id": "bluearchive",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-05-18T06:39:57Z",
+    "stars": 22,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -1820,19 +1820,6 @@
     "description": ""
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.3.1",
-    "mod_id": "pyra",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-05-01T07:24:12Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "Slotterleet/distributor",
     "name": "Distributor",
     "version": "1.2",
@@ -1870,6 +1857,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.3.1",
+    "mod_id": "pyra",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-05-19T09:56:03Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "Gdeft/bleach",
@@ -1937,30 +1937,30 @@
     "description": "This mod adds various new types of repair and accelerator projectors, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275"
   },
   {
-    "repo": "Uenhe/Fire",
-    "name": "Fire",
-    "version": "1.2.0",
-    "mod_id": "fire",
-    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
-    "lastUpdated": "2024-05-12T07:24:57Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
-  },
-  {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
     "name": "Psammos Mod",
     "version": "1.0",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-05-18T16:23:20Z",
+    "lastUpdated": "2024-05-19T08:48:24Z",
     "stars": 12,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+  },
+  {
+    "repo": "Uenhe/Fire",
+    "name": "Fire",
+    "version": "1.2.0",
+    "mod_id": "fire",
+    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
+    "lastUpdated": "2024-05-19T09:08:52Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -2215,7 +2215,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-05-19T00:59:09Z",
+    "lastUpdated": "2024-05-19T06:31:22Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3172,19 +3172,6 @@
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
   },
   {
-    "repo": "SuenoDev/Sueno",
-    "name": "Sueno",
-    "version": "0.19",
-    "mod_id": "sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2024-05-16T02:31:53Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "nv0.0",
@@ -3203,7 +3190,7 @@
     "version": "2.0",
     "mod_id": "multiplayer",
     "author": "xzxADIxzx 由cong重写并改进",
-    "lastUpdated": "2024-05-17T15:08:02Z",
+    "lastUpdated": "2024-05-19T06:49:12Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3216,12 +3203,25 @@
     "version": "2.3.6",
     "mod_id": "mindustry-expansion",
     "author": "[yellow]zuoranartemwing\n\n[gray]Contributors:[blue]\nKanaede [yellow](has left the team (8 May 2024))[blue]\nchaoticmarzu[white]",
-    "lastUpdated": "2024-05-19T04:14:52Z",
+    "lastUpdated": "2024-05-19T07:50:11Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "SuenoDev/Sueno",
+    "name": "Sueno",
+    "version": "0.19",
+    "mod_id": "sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2024-05-19T08:26:05Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
     "repo": "Vixelot/Facdustrio",
