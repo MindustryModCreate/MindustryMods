@@ -318,7 +318,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-05-19T20:57:53Z",
-    "stars": 70,
+    "stars": 71,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -2405,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-20T12:25:00Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -2429,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-21T00:55:27Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3198,19 +3198,6 @@
     "description": "通过multiplayer service进行联机"
   },
   {
-    "repo": "SuenoDev/Sueno",
-    "name": "Sueno",
-    "version": "0.19",
-    "mod_id": "sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2024-05-19T08:26:05Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
     "repo": "Redstonneur1256/Mindustry-ModLib",
     "name": "Mod Library",
     "version": "${version}",
@@ -3224,19 +3211,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "nv0.0",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-05-20T05:11:40Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start."
-  },
-  {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
     "version": "2.3.6",
@@ -3248,6 +3222,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "SuenoDev/Sueno",
+    "name": "Sueno",
+    "version": "0.19",
+    "mod_id": "sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2024-05-21T01:10:47Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "nv0.0",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-05-21T05:09:07Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start."
   },
   {
     "repo": "Vixelot/Facdustrio",
