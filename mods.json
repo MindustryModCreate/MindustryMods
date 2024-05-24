@@ -110,7 +110,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 129,
+    "stars": 130,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -474,7 +474,7 @@
     "mod_id": "fos",
     "author": "Team Oct",
     "lastUpdated": "2024-05-22T17:25:56Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1110,7 +1110,7 @@
     "version": "1.1",
     "mod_id": "bluearchive",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-22T01:54:45Z",
+    "lastUpdated": "2024-05-24T08:14:49Z",
     "stars": 23,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1552,7 +1552,7 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-05-23T19:08:21Z",
+    "lastUpdated": "2024-05-24T07:28:51Z",
     "stars": 15,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1877,7 +1877,7 @@
     "version": "1.3.2",
     "mod_id": "pyra",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-05-23T13:15:04Z",
+    "lastUpdated": "2024-05-24T08:38:12Z",
     "stars": 13,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2405,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-05-23T10:53:03Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2429,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-05-24T08:56:29Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3211,19 +3211,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "zuoranartemwing/MindustryExpansion",
-    "name": "Mindustry Expansion",
-    "version": "2.3.6",
-    "mod_id": "mindustry-expansion",
-    "author": "[yellow]zuoranartemwing\n\n[gray]Contributors:[blue]\nKanaede [yellow](has left the team (8 May 2024))[blue]\nchaoticmarzu[white]",
-    "lastUpdated": "2024-05-20T11:00:21Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
-  },
-  {
     "repo": "SuenoDev/Sueno",
     "name": "Sueno",
     "version": "0.19",
@@ -3248,6 +3235,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod with ambitious goals, and a fresh start."
+  },
+  {
+    "repo": "zuoranartemwing/MindustryExpansion",
+    "name": "Mindustry Expansion",
+    "version": "2.3.6",
+    "mod_id": "mindustry-expansion",
+    "author": "[yellow]zuoranartemwing\n\n[gray]Contributors:[blue]\nKanaede [yellow](has left the team (8 May 2024))[blue]\nchaoticmarzu[white]",
+    "lastUpdated": "2024-05-24T08:57:11Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
   },
   {
     "repo": "Vixelot/Facdustrio",
