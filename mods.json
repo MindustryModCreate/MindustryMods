@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-23T21:50:50Z",
+    "lastUpdated": "2024-05-25T01:30:52Z",
     "stars": 71,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2405,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-24T12:22:09Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -2429,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-25T00:54:32Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -6682,6 +6682,19 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
+    "repo": "CoCuCoH41k/ReloadedMod",
+    "name": "Reloaded",
+    "version": "0.0.0.1 ALPHA",
+    "mod_id": "r",
+    "author": "CoCuCka",
+    "lastUpdated": "2022-04-16T11:03:50Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+  },
+  {
     "repo": "Icewav3/mindustry-vanilla-expanded",
     "name": "Vanilla Expanded",
     "version": "0.1",
@@ -7800,19 +7813,6 @@
     "description": "Use mod with router language setting"
   },
   {
-    "repo": "ValkovY/MarsiumModMindustry",
-    "name": "MarsiumMod",
-    "version": "0.2",
-    "mod_id": "vm",
-    "author": "ValkovY",
-    "lastUpdated": "2023-04-08T20:15:09Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry on v7."
-  },
-  {
     "repo": "yuna-akashi/MPTv2ModRE",
     "name": "MPTv2 RE",
     "version": "0.1.5",
@@ -8385,19 +8385,6 @@
     "description": "chaos-contents."
   },
   {
-    "repo": "XtarsAgency/sst-000",
-    "name": "Station 000(WIP)",
-    "version": "1",
-    "mod_id": "sst-000",
-    "author": "[scarlet]XSA\n[yellow]Contributors: [green]Mitemi",
-    "lastUpdated": "2024-05-13T01:30:19Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Cave Crawler inspired mod?\nreally, its a simple horror mod"
-  },
-  {
     "repo": "DFAFSS/MindustryGalaxyMod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -8448,5 +8435,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds new content."
+  },
+  {
+    "repo": "XtarsAgency/sst-000",
+    "name": "Station 000(WIP)",
+    "version": "1",
+    "mod_id": "sst-000",
+    "author": "[scarlet]XSA\n[yellow]Contributors: [green]Mitemi",
+    "lastUpdated": "2024-05-25T04:43:23Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Theres a space station in orbit\nIts sentient?\nOh well, lets explore it."
   }
 ]
