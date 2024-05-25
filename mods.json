@@ -421,7 +421,7 @@
     "version": "1.3",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-05-23T20:12:19Z",
+    "lastUpdated": "2024-05-25T12:49:27Z",
     "stars": 48,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -936,6 +936,19 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-01-31T15:47:33Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "p101q/UNI",
     "name": "UNI",
     "version": " alpha1.0",
@@ -975,19 +988,6 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow",
     "version": "0.74",
@@ -1012,6 +1012,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
+    "repo": "WilloIzCitron/ArchiveDustry-Java",
+    "name": "ArchiveDustry Java",
+    "version": "1.1",
+    "mod_id": "bluearchive",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-05-24T13:31:10Z",
+    "stars": 25,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "Anuken/wind3",
@@ -1051,19 +1064,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
-    "repo": "WilloIzCitron/ArchiveDustry-Java",
-    "name": "ArchiveDustry Java",
-    "version": "1.1",
-    "mod_id": "bluearchive",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-24T13:31:10Z",
-    "stars": 24,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -1552,7 +1552,7 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-05-25T09:29:13Z",
+    "lastUpdated": "2024-05-25T11:51:39Z",
     "stars": 15,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1695,7 +1695,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCoSnow",
-    "lastUpdated": "2024-05-25T09:56:03Z",
+    "lastUpdated": "2024-05-25T13:15:43Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2405,30 +2405,30 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-05-24T18:49:15Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-25T00:54:32Z",
+    "lastUpdated": "2024-05-25T12:21:39Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-05-25T13:19:57Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5551,19 +5551,6 @@
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
-    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
-    "name": "Mindustry Turrets Extension",
-    "version": "0.85: Advanced",
-    "mod_id": "new-turrets",
-    "author": "Evo04Taser",
-    "lastUpdated": "2024-05-21T14:25:43Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
     "name": "Spore biomethane",
     "version": "0.5",
@@ -5575,6 +5562,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
+    "repo": "Evo04Taser/Mindustry-Turrets-Extension",
+    "name": "Mindustry Turrets Extension",
+    "version": "0.94: Advanced",
+    "mod_id": "new-turrets",
+    "author": "Evo04Taser",
+    "lastUpdated": "2024-05-25T13:35:19Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -7798,6 +7798,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
+  },
+  {
+    "repo": "ValkovY/MarsiumModMindustry",
+    "name": "MarsiumMod",
+    "version": "0.2",
+    "mod_id": "vm",
+    "author": "ValkovY",
+    "lastUpdated": "2023-04-08T20:15:09Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry on v7."
   },
   {
     "repo": "yuna-akashi/MPTv2ModRE",
