@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-25T21:55:55Z",
+    "lastUpdated": "2024-05-26T04:40:27Z",
     "stars": 71,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1066,6 +1066,19 @@
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
+    "repo": "SMOLKEYS/bundles",
+    "name": "Bundles",
+    "version": "two shit loads",
+    "mod_id": "bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-04-21T14:50:22Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -1090,19 +1103,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "SMOLKEYS/bundles",
-    "name": "Bundles",
-    "version": "two shit loads",
-    "mod_id": "bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-04-21T14:50:22Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
     "repo": "fox1va-the-fox/schems",
@@ -2405,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-25T12:21:39Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -2429,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-26T00:59:56Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -4966,6 +4966,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "ExplerHD/EnerLect-tech",
     "name": "EnerLect Industries",
     "version": "1.0",
@@ -5566,10 +5579,10 @@
   {
     "repo": "Evo04Taser/Mindustry-Turrets-Extension",
     "name": "Mindustry Turrets Extension",
-    "version": "0.94: Advanced",
+    "version": "0.96: Advanced",
     "mod_id": "new-turrets",
     "author": "Evo04Taser",
-    "lastUpdated": "2024-05-25T13:35:19Z",
+    "lastUpdated": "2024-05-26T05:03:21Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": false,
