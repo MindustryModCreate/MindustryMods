@@ -538,7 +538,7 @@
     "version": "2.0.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2024-05-18T22:35:36Z",
+    "lastUpdated": "2024-05-27T19:18:03Z",
     "stars": 40,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2405,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-05-27T08:50:53Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2429,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-05-27T19:50:01Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3224,19 +3224,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "SuenoDev/Sueno",
-    "name": "Sueno",
-    "version": "0.19",
-    "mod_id": "sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2024-05-21T01:10:47Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
     "version": "2.3.6",
@@ -3248,6 +3235,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "SuenoDev/Sueno",
+    "name": "Sueno",
+    "version": "0.19",
+    "mod_id": "sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2024-05-27T16:55:10Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -4964,6 +4964,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Change sector export destination from list on planet screen"
+  },
+  {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
     "repo": "ExplerHD/EnerLect-tech",
