@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 313,
+    "stars": 314,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -941,7 +941,7 @@
     "version": "1.1",
     "mod_id": "bluearchive",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-27T04:47:04Z",
+    "lastUpdated": "2024-05-28T02:14:43Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1168,19 +1168,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2024-05-27T14:55:51Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -2418,19 +2405,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-05-27T12:23:17Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
@@ -2442,6 +2416,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-05-28T00:56:00Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -4979,6 +4966,19 @@
     "description": "Change sector export destination from list on planet screen"
   },
   {
+    "repo": "GenericSomeone/UnitConstruct",
+    "name": "Unit Construct",
+    "version": "1.0 beta",
+    "mod_id": "unit-construct",
+    "author": "Someone",
+    "lastUpdated": "2022-03-13T00:42:56Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
+  },
+  {
     "repo": "ExplerHD/EnerLect-tech",
     "name": "EnerLect Industries",
     "version": "1.0",
@@ -6940,19 +6940,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Sandbox Utility Mindustry Mod"
-  },
-  {
-    "repo": "Def-Try/Mindustry-Infmap",
-    "name": "Inf Map Base",
-    "version": "0.1",
-    "mod_id": "infmap",
-    "author": "Benry#5935",
-    "lastUpdated": "2023-09-23T14:57:29Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An Infinity Map Base"
   },
   {
     "repo": "spiral2404/spiral-mod",
