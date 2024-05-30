@@ -435,7 +435,7 @@
     "mod_id": "schematics-pack",
     "author": "pixecoz",
     "lastUpdated": "2024-04-26T06:24:30Z",
-    "stars": 47,
+    "stars": 48,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -546,6 +546,19 @@
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "mod_id": "fooInstaller",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 38,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -557,19 +570,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "mod_id": "fooInstaller",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 37,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "Gdeft/portal",
@@ -598,6 +598,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "HPL-Team/Project-HPL",
+    "name": "Project HPL",
+    "version": "0.2.3.1A",
+    "mod_id": "hpl",
+    "author": "HPL Team",
+    "lastUpdated": "2024-05-20T13:00:33Z",
+    "stars": 36,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "MQ-1175/upgraded-tiers",
     "name": "Upgraded Tiers",
     "version": "2.0",
@@ -609,19 +622,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking complete translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation \n- thebildeo: Korean translation "
-  },
-  {
-    "repo": "HPL-Team/Project-HPL",
-    "name": "Project HPL",
-    "version": "0.2.3.1A",
-    "mod_id": "hpl",
-    "author": "HPL Team",
-    "lastUpdated": "2024-05-20T13:00:33Z",
-    "stars": 35,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "MEEPofFaith/prog-mats-js",
@@ -938,10 +938,10 @@
   {
     "repo": "WilloIzCitron/ArchiveDustry-Java",
     "name": "ArchiveDustry Java",
-    "version": "1.1",
+    "version": "1.2",
     "mod_id": "bluearchive",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-29T12:12:57Z",
+    "lastUpdated": "2024-05-30T08:16:01Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": false,
