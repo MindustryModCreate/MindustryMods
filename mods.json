@@ -122,8 +122,8 @@
     "version": "1.0",
     "mod_id": "example-java-mod",
     "author": "You",
-    "lastUpdated": "2024-03-29T16:13:24Z",
-    "stars": 119,
+    "lastUpdated": "2024-06-04T14:21:10Z",
+    "stars": 120,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -201,7 +201,7 @@
     "mod_id": "hackustry",
     "author": "QmelZ",
     "lastUpdated": "2023-04-22T12:42:03Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -369,7 +369,7 @@
     "version": "1.3",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-03T18:26:27Z",
+    "lastUpdated": "2024-06-04T12:10:56Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "version": "2.0.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2024-05-31T06:00:18Z",
+    "lastUpdated": "2024-06-04T09:22:56Z",
     "stars": 40,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1456,6 +1456,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 16,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "version": "0.4.1",
@@ -1506,19 +1519,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.16",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 15,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "Cynthion21x/prismatic",
@@ -2462,7 +2462,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-04T00:57:08Z",
+    "lastUpdated": "2024-06-04T12:23:29Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -6526,19 +6526,6 @@
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
   },
   {
-    "repo": "SMOLKEYS/yellow-rewritten",
-    "name": "Yellow",
-    "version": "2B",
-    "mod_id": "yellow",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-05-19T14:41:07Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A work in progress rewrite of the ultimate shitpost."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6576,6 +6563,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "part of a icey planets collab"
+  },
+  {
+    "repo": "SMOLKEYS/yellow-rewritten",
+    "name": "Yellow",
+    "version": "2B",
+    "mod_id": "yellow",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-06-04T14:22:44Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A work in progress rewrite of the ultimate shitpost."
   },
   {
     "repo": "4156/Infintory",
@@ -8451,15 +8451,15 @@
   },
   {
     "repo": "GulpeIT/Astorio",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2024-06-04T00:59:50Z",
+    "name": "Astorio",
+    "version": "0.0.001",
+    "mod_id": "astorio",
+    "author": "GulpIT",
+    "lastUpdated": "2024-06-04T14:09:07Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "Мод созданый для проверки с гит-ом"
   }
 ]
