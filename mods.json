@@ -704,10 +704,10 @@
   {
     "repo": "Twcash/Tantros-Test",
     "name": "Aquarion",
-    "version": "2.0.28",
+    "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-06-01T02:42:17Z",
+    "lastUpdated": "2024-06-04T01:53:11Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2072,7 +2072,7 @@
     "version": "1.2.1",
     "mod_id": "op-things",
     "author": "[green]ABÊ#8931",
-    "lastUpdated": "2024-06-03T23:29:15Z",
+    "lastUpdated": "2024-06-04T04:02:26Z",
     "stars": 11,
     "minGameVersion": "138",
     "hasScripts": true,
@@ -2462,7 +2462,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-03T12:24:21Z",
+    "lastUpdated": "2024-06-04T00:57:08Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -6149,19 +6149,6 @@
     "description": "Faster Conveyors"
   },
   {
-    "repo": "cardillan/SchematicsRefresher",
-    "name": "Schematics Refresher",
-    "version": "1.0",
-    "mod_id": "schematics-refresher",
-    "author": "Cardillan",
-    "lastUpdated": "2023-05-08T21:20:50Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
-  },
-  {
     "repo": "Keurhsevar-0977/turret-vodka",
     "name": "Turret Vodka",
     "version": "1.3.16",
@@ -8461,5 +8448,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Big mod with a lot of different content and new planets, unique lore, and more!!!"
+  },
+  {
+    "repo": "GulpeIT/Astorio",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-06-04T00:59:50Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
