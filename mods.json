@@ -97,7 +97,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 140,
+    "stars": 141,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -330,7 +330,7 @@
     "version": "28.1",
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-05-14T03:16:03Z",
+    "lastUpdated": "2024-06-06T18:35:11Z",
     "stars": 69,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -689,6 +689,19 @@
     "description": "Meatballs."
   },
   {
+    "repo": "Twcash/Tantros-Test",
+    "name": "Aquarion",
+    "version": "2.0.29",
+    "mod_id": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-06-04T01:53:11Z",
+    "stars": 32,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.74",
@@ -713,19 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "Twcash/Tantros-Test",
-    "name": "Aquarion",
-    "version": "2.0.29",
-    "mod_id": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-06-04T01:53:11Z",
-    "stars": 31,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -850,7 +850,7 @@
     "version": "1.2",
     "mod_id": "No name provided.",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-06-06T03:05:08Z",
+    "lastUpdated": "2024-06-07T00:28:49Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1278,13 +1278,13 @@
     "name": "VanillaPlus",
     "version": "[#FFC000]0.1 [#FF4747]Alpha",
     "mod_id": "vanillaplus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2024-06-04T21:24:27Z",
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-06-06T15:43:03Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -2228,7 +2228,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-06-06T04:57:09Z",
+    "lastUpdated": "2024-06-06T23:46:13Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4719,6 +4719,19 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "Slotterleet/a-lot-of-damage",
+    "name": "A Lot of Damage!",
+    "version": "1.0.1",
+    "mod_id": "alod",
+    "author": "Slotterleet",
+    "lastUpdated": "2024-06-06T18:32:39Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -5601,19 +5614,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
-  },
-  {
-    "repo": "Slotterleet/a-lot-of-damage",
-    "name": "A Lot of Damage!",
-    "version": "1.0.0",
-    "mod_id": "alod",
-    "author": "Slotterleet",
-    "lastUpdated": "2024-06-05T15:51:59Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for showing damage numbers."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6583,7 +6583,7 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-06T15:08:02Z",
+    "lastUpdated": "2024-06-06T21:55:23Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
