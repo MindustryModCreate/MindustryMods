@@ -1547,19 +1547,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha1",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-05-25T11:51:39Z",
-    "stars": 15,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "XtarsAgency/Zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "version": "v1.806ZA",
@@ -1584,6 +1571,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha1",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-06-07T00:52:42Z",
+    "stars": 15,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1742,6 +1742,19 @@
     "description": "pain and suffering"
   },
   {
+    "repo": "MinRi2/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "Shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "version": "3.9.9",
@@ -1890,7 +1903,7 @@
     "version": "1.4.5.2",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-06-06T03:27:59Z",
+    "lastUpdated": "2024-06-07T03:05:31Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1922,19 +1935,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry auto updater"
-  },
-  {
-    "repo": "MinRi2/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "3Snake3/Units-mod",
@@ -2462,7 +2462,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-06T12:23:44Z",
+    "lastUpdated": "2024-06-07T00:58:50Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5590,19 +5590,6 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
   },
   {
-    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
-    "name": "Spore biomethane",
-    "version": "0.5",
-    "mod_id": "jp",
-    "author": "Water white",
-    "lastUpdated": "2024-05-26T12:12:08Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
-  },
-  {
     "repo": "Kitrr1x/Mindustry-Addon",
     "name": "Mindustry Addon+",
     "version": "2.0 alpha b19",
@@ -5614,6 +5601,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
+  },
+  {
+    "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
+    "name": "Spore biomethane",
+    "version": "0.5",
+    "mod_id": "jp",
+    "author": "Water white",
+    "lastUpdated": "2024-06-07T05:08:38Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6628,19 +6628,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "DO NOT USE THIS Mindustry Mod!"
-  },
-  {
-    "repo": "Delourians/Mindustry-mod",
-    "name": "Mindustry-mod",
-    "version": "0.1",
-    "mod_id": "OP mod to finish the campaign",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
   },
   {
     "repo": "Sonnicon/mindustry-newhorizons",
