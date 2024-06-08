@@ -369,7 +369,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-07T12:42:56Z",
+    "lastUpdated": "2024-06-08T12:50:52Z",
     "stars": 59,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1391,6 +1391,19 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
+    "repo": "ApsZoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "0.16",
+    "mod_id": "mindustry-mapping-utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 17,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "SaigoN0Nozomi/nightscape",
     "name": "NightScape",
     "version": "1.2",
@@ -1454,19 +1467,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "ApsZoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "0.16",
-    "mod_id": "mindustry-mapping-utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 16,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "theangelurd/Additional-Content",
@@ -1872,19 +1872,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "version": "1.3.3",
-    "mod_id": "pyra",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-06-01T19:04:09Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.2.0",
@@ -1909,6 +1896,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "version": "1.3.3",
+    "mod_id": "pyra",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-06-08T14:09:53Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2444,19 +2444,6 @@
     "description": "A mod with ambitious goals, and a fresh start."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-08T00:56:56Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
     "version": "2.3.6",
@@ -2468,6 +2455,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-06-08T12:21:01Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -6700,10 +6700,10 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-07T20:46:35Z",
+    "lastUpdated": "2024-06-08T12:11:40Z",
     "stars": 2,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
@@ -7293,19 +7293,6 @@
     "description": "im just training"
   },
   {
-    "repo": "camelStyleUser/haxorMindustryMod",
-    "name": "PoC of hax[DISABLE]",
-    "version": "0",
-    "mod_id": "haxor-poc",
-    "author": "camelStyleUser",
-    "lastUpdated": "2024-03-14T14:34:30Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "if you do not want anything to run on your device, disable this mod"
-  },
-  {
     "repo": "TXCZCSZ/MindustryMod",
     "name": "TestMod by TXCZCSZ",
     "version": "1.0",
@@ -7389,12 +7376,12 @@
     "version": "0.1.1",
     "mod_id": "original-beta-version",
     "author": "Benny_Li",
-    "lastUpdated": "2024-06-08T08:48:02Z",
+    "lastUpdated": "2024-06-08T13:58:49Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "加入了许多有趣的东西\nv0.1.1 built"
+    "description": "加入了许多有趣的东西\nAdd many intersting things.\nv0.1.1 built"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -7759,6 +7746,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "StoneMcYT/FirstMindustryMod",
+    "name": "Stones Mod",
+    "version": "1.0.0",
+    "mod_id": "Stones First Mod",
+    "author": "StoneMc",
+    "lastUpdated": "2021-09-15T23:43:13Z",
+    "stars": 0,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My First mod"
   },
   {
     "repo": "snack-ie/Esoterum-Solutions",
@@ -9113,19 +9113,6 @@
     "description": "made with Mobile"
   },
   {
-    "repo": "VincenzoTheDuck/Vincents-Mindustry-Mod",
-    "name": "Vincent's Mindustry Mod",
-    "version": "1.0.0",
-    "mod_id": "vincents-mindustry-mod",
-    "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-07T04:44:19Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A wip mod that adds a bit of stuff"
-  },
-  {
     "repo": "Lazfimg/mindustry-js-mod-template",
     "name": "This isn't a mod.",
     "version": "1.0",
@@ -9137,5 +9124,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Bbfashbjhcbabfhsbafbhajbf"
+  },
+  {
+    "repo": "VincenzoTheDuck/Vincents-Mindustry-Mod",
+    "name": "Vincent's Mindustry Mod",
+    "version": "1.0.0",
+    "mod_id": "vincents-mindustry-mod",
+    "author": "VincenzoTheDuck",
+    "lastUpdated": "2024-06-08T15:00:04Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A wip mod that adds a bit of stuff"
   }
 ]
