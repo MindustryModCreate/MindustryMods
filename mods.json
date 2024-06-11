@@ -598,7 +598,7 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
-    "repo": "HPL-Team/Project-HPL",
+    "repo": "Azaria-Team/Project-HPL",
     "name": "Project HPL",
     "version": "0.2.3.1A",
     "mod_id": "hpl",
@@ -1547,6 +1547,19 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "Mnemotechnician/New-Controls-Public",
+    "name": "New controls",
+    "version": "1.1.3",
+    "mod_id": "newcontrols",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-04-20T10:42:14Z",
+    "stars": 15,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "Cynthion21x/prismatic",
     "name": "Prismatic",
     "version": "1.10.125",
@@ -1662,19 +1675,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "Mnemotechnician/New-Controls-Public",
-    "name": "New controls",
-    "version": "1.1.3",
-    "mod_id": "newcontrols",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-04-20T10:42:14Z",
-    "stars": 14,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "BalaM314/no-invasions",
@@ -2241,7 +2241,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-10T21:33:55Z",
+    "lastUpdated": "2024-06-11T11:31:12Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2462,7 +2462,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-11T00:57:49Z",
+    "lastUpdated": "2024-06-11T12:24:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3614,19 +3614,6 @@
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在b0kkihope文件夹).\n\n旧版本不支持某些功能"
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-04-04T16:13:55Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "misterfirer/UrMod-mindustry-v7-",
     "name": "UrMod",
     "version": "No version provided.",
@@ -3664,6 +3651,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-06-11T11:19:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -5712,7 +5712,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-06-11T00:00:52Z",
+    "lastUpdated": "2024-06-11T14:23:03Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6656,19 +6656,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "ItsKirby69/MineDusty",
-    "name": "MineDusty [new]",
-    "version": "1",
-    "mod_id": "minedusty-mod",
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2024-05-18T01:47:07Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -6706,6 +6693,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "ItsKirby69/MineDusty",
+    "name": "MineDusty [new]",
+    "version": "1",
+    "mod_id": "minedusty-mod",
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2024-06-11T15:08:40Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
   },
   {
     "repo": "4156/Infintory",
@@ -7395,6 +7395,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "加入了许多有趣的东西Add many interesting things."
+  },
+  {
+    "repo": "NikitaPos/neo-dustry",
+    "name": "Neo-Dustry",
+    "version": "v0.3.1",
+    "mod_id": "neo-dustry",
+    "author": "NikitaPos",
+    "lastUpdated": "2024-06-11T15:01:54Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nMindustry mod that adds some things.\n"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -8450,19 +8463,6 @@
     "description": "Adds a few blocks."
   },
   {
-    "repo": "mikael-chowdhury/mindustry-ultimate-mod",
-    "name": "THE ULTIMATE MOD",
-    "version": "1.0",
-    "mod_id": "ultimate-mod",
-    "author": "mikaelcoffee",
-    "lastUpdated": "2023-07-10T20:31:30Z",
-    "stars": 0,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a pretty ultimate mod"
-  },
-  {
     "repo": "992040/mindustry_better_mindustry",
     "name": "mindustry_better_mindustry",
     "version": "0.4",
@@ -9111,19 +9111,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
-  },
-  {
-    "repo": "NikitaPos/neo-dustry",
-    "name": "Neo-Dustry",
-    "version": "0.2",
-    "mod_id": "Neo-Dustry",
-    "author": "NikitaPos",
-    "lastUpdated": "2024-06-10T11:54:55Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry mod."
   },
   {
     "repo": "VincenzoTheDuck/Vincents-Mindustry-Mod",
