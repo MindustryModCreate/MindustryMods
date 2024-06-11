@@ -32,7 +32,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 316,
+    "stars": 317,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -97,7 +97,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 143,
+    "stars": 144,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -331,7 +331,7 @@
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-06-06T18:35:11Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -369,7 +369,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-09T11:52:13Z",
+    "lastUpdated": "2024-06-11T05:48:32Z",
     "stars": 61,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2813,7 +2813,7 @@
     "version": "0.0",
     "mod_id": "gloomustry",
     "author": "FunGame(фан)",
-    "lastUpdated": "2024-06-09T14:56:36Z",
+    "lastUpdated": "2024-06-11T08:35:41Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8697,19 +8697,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Andgihrew/ModTestMindustry",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2023-12-20T18:50:04Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "4gameworld4/mindustry-mod",
     "name": "compression",
     "version": "1",
@@ -9139,19 +9126,6 @@
     "description": "Mindustry mod."
   },
   {
-    "repo": "Yoctus/artillery-mod",
-    "name": "Artillery",
-    "version": "2.0",
-    "mod_id": "Artillery",
-    "author": "SAMURAI",
-    "lastUpdated": "2024-06-10T17:25:31Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Этот мод добавляет артиллерию в Mindustry! Несколько новых, уникальных артиллерийских турелей."
-  },
-  {
     "repo": "VincenzoTheDuck/Vincents-Mindustry-Mod",
     "name": "Vincent's Mindustry Mod",
     "version": "1.0.0",
@@ -9163,5 +9137,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A wip mod that adds a bit of stuff"
+  },
+  {
+    "repo": "Yoctus/artillery-mod",
+    "name": "Artillery",
+    "version": "2.0",
+    "mod_id": "Artillery",
+    "author": "SAMURAI",
+    "lastUpdated": "2024-06-11T07:31:10Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Этот мод добавляет артиллерию в Mindustry! Несколько новых, уникальных артиллерийских турелей."
   }
 ]
