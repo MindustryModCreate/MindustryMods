@@ -330,7 +330,7 @@
     "version": "29.0",
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-06-12T05:05:56Z",
+    "lastUpdated": "2024-06-12T05:18:44Z",
     "stars": 70,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1591,9 +1591,9 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-06-11T04:38:26Z",
+    "lastUpdated": "2024-06-12T07:40:24Z",
     "stars": 15,
-    "minGameVersion": "136",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units.\nAvailable in:\nIndonesian\nEnglish \nRussian (WIP)\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
@@ -2210,19 +2210,6 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-06-11T11:31:12Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2247,6 +2234,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-06-12T09:36:29Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -5712,7 +5712,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-06-12T05:05:00Z",
+    "lastUpdated": "2024-06-12T09:50:17Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6773,19 +6773,6 @@
     "description": "Epic mindustry mod"
   },
   {
-    "repo": "middlewhite/Mindustry_powerdrill_mod",
-    "name": "Mindustry_powerdrill_mod",
-    "version": "1.0",
-    "mod_id": "电动钻头 by mid",
-    "author": "中白",
-    "lastUpdated": "2021-08-27T15:42:30Z",
-    "stars": 1,
-    "minGameVersion": "111",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "使用电力驱动的钻头"
-  },
-  {
     "repo": "MissAmity/Singabana",
     "name": "Singabana",
     "version": "0.1",
@@ -7473,6 +7460,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
+  },
+  {
+    "repo": "avocado5182/FirstMindustryMod",
+    "name": "Epic Mindustry Mod",
+    "version": "1.5",
+    "mod_id": "firstmod-a5182",
+    "author": "avocado5182",
+    "lastUpdated": "2020-12-12T12:48:22Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dumb mod that does dumb stuff."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -8216,19 +8216,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "duGenouGaemr/mindustry_mod_test",
-    "name": "displayName : am i doing this right ?",
-    "version": "1.0",
-    "mod_id": "duGenouGeamr-s-first-mod",
-    "author": "it's in the name",
-    "lastUpdated": "2023-01-15T16:25:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "trying out modding"
-  },
-  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -8344,6 +8331,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry on v7."
+  },
+  {
+    "repo": "Jaeden-T/testMindustryMod",
+    "name": "This isn't a mod.",
+    "version": "1.0",
+    "mod_id": "mod-name",
+    "author": "Yourself",
+    "lastUpdated": "2023-04-09T09:58:27Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
     "repo": "yuna-akashi/MPTv2ModRE",
@@ -8708,6 +8708,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "Andgihrew/ModTestMindustry",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-12-20T18:50:04Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "4gameworld4/mindustry-mod",
