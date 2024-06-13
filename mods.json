@@ -850,7 +850,7 @@
     "version": "1.2",
     "mod_id": "No name provided.",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-06-11T20:01:10Z",
+    "lastUpdated": "2024-06-13T08:35:58Z",
     "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2223,19 +2223,6 @@
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-06-12T09:36:29Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2247,6 +2234,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-06-13T08:27:29Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -5712,7 +5712,7 @@
     "version": "2.0 alpha b19",
     "mod_id": "Mindustry-Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-06-13T05:08:18Z",
+    "lastUpdated": "2024-06-13T08:55:17Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6786,6 +6786,19 @@
     "description": "Epic mindustry mod"
   },
   {
+    "repo": "middlewhite/Mindustry_powerdrill_mod",
+    "name": "Mindustry_powerdrill_mod",
+    "version": "1.0",
+    "mod_id": "电动钻头 by mid",
+    "author": "中白",
+    "lastUpdated": "2021-08-27T15:42:30Z",
+    "stars": 1,
+    "minGameVersion": "111",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "使用电力驱动的钻头"
+  },
+  {
     "repo": "MissAmity/Singabana",
     "name": "Singabana",
     "version": "0.1",
@@ -7202,19 +7215,6 @@
     "description": "围绕一块铁展开的故事"
   },
   {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
-  },
-  {
     "repo": "BakkaBlue/RGBee",
     "name": "RGBee",
     "version": "1.0",
@@ -7460,19 +7460,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cheat mod."
-  },
-  {
-    "repo": "avocado5182/FirstMindustryMod",
-    "name": "Epic Mindustry Mod",
-    "version": "1.5",
-    "mod_id": "firstmod-a5182",
-    "author": "avocado5182",
-    "lastUpdated": "2020-12-12T12:48:22Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dumb mod that does dumb stuff."
   },
   {
     "repo": "LottieVixen/test-mindustry-mod",
@@ -8216,6 +8203,19 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "duGenouGaemr/mindustry_mod_test",
+    "name": "displayName : am i doing this right ?",
+    "version": "1.0",
+    "mod_id": "duGenouGeamr-s-first-mod",
+    "author": "it's in the name",
+    "lastUpdated": "2023-01-15T16:25:20Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "trying out modding"
+  },
+  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -8331,19 +8331,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry on v7."
-  },
-  {
-    "repo": "Jaeden-T/testMindustryMod",
-    "name": "This isn't a mod.",
-    "version": "1.0",
-    "mod_id": "mod-name",
-    "author": "Yourself",
-    "lastUpdated": "2023-04-09T09:58:27Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
     "repo": "yuna-akashi/MPTv2ModRE",
