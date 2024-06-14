@@ -317,7 +317,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-06-12T23:09:18Z",
+    "lastUpdated": "2024-06-14T16:54:13Z",
     "stars": 74,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-11T05:48:32Z",
+    "lastUpdated": "2024-06-14T16:58:17Z",
     "stars": 64,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -500,7 +500,7 @@
     "mod_id": "animalia",
     "author": "Flin",
     "lastUpdated": "2023-02-18T17:29:06Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -1508,19 +1508,6 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha1",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-06-11T21:47:09Z",
-    "stars": 16,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "zeutd/Disintegration",
     "name": "disintegration",
     "version": "0.0.3",
@@ -1532,6 +1519,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha1",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-06-14T18:26:17Z",
+    "stars": 16,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -1718,15 +1718,15 @@
   {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
     "name": "Psammos Mod",
-    "version": "1.0",
+    "version": "1.2",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-06-14T08:35:37Z",
+    "lastUpdated": "2024-06-14T16:03:12Z",
     "stars": 14,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2241,7 +2241,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-14T13:00:50Z",
+    "lastUpdated": "2024-06-14T19:53:56Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3268,7 +3268,7 @@
     "version": "0.20",
     "mod_id": "sueno",
     "author": "// TODO authors",
-    "lastUpdated": "2024-06-10T10:59:36Z",
+    "lastUpdated": "2024-06-14T18:27:27Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7228,19 +7228,6 @@
     "description": "围绕一块铁展开的故事"
   },
   {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
-  },
-  {
     "repo": "BakkaBlue/RGBee",
     "name": "RGBee",
     "version": "1.0",
@@ -9144,11 +9131,24 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-06-14T04:19:30Z",
+    "lastUpdated": "2024-06-14T19:27:48Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
+  },
+  {
+    "repo": "Creator-Art-Life/Mod-for-Mindustry",
+    "name": "Mod-for-Mindustry",
+    "version": "1.0.0",
+    "mod_id": "Just Industry Mod",
+    "author": "Creator-Art-Life",
+    "lastUpdated": "2024-06-14T19:31:12Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   }
 ]
