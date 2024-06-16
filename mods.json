@@ -299,6 +299,19 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "xstabux/Omaloon",
+    "name": "Omaloon",
+    "version": "v0.1A",
+    "mod_id": "omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2024-06-14T16:54:13Z",
+    "stars": 76,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "What42Pizza/Mindustry-Production-Mod",
     "name": "Mindustry-Production-Mod",
     "version": "A4.4.3",
@@ -310,19 +323,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "xstabux/Omaloon",
-    "name": "Omaloon",
-    "version": "v0.1A",
-    "mod_id": "omaloon",
-    "author": "_stabu_",
-    "lastUpdated": "2024-06-14T16:54:13Z",
-    "stars": 75,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "MEEPofFaith/prog-mats-java",
@@ -1170,19 +1170,6 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "TeamViscott/ModProjectViscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "mod_id": "project-viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-06-13T22:03:37Z",
-    "stars": 22,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -1443,6 +1430,19 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.0.3",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-06-16T00:40:44Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1513,25 +1513,12 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-06-15T17:52:42Z",
+    "lastUpdated": "2024-06-16T04:42:28Z",
     "stars": 16,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.0.3",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-06-16T00:40:44Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -2457,30 +2444,30 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "nv0.0",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-06-14T03:46:50Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-15T12:22:22Z",
+    "lastUpdated": "2024-06-16T01:02:16Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "nv0.0",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-06-16T01:59:18Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -7397,19 +7384,6 @@
     "description": "!!! WARNING: THIS IS MALWARE !!!, we do not bear any responsibility for the damage it may cause, we warned that it is a virus"
   },
   {
-    "repo": "Benny0Li/original-beta-version",
-    "name": "Original Beta Version",
-    "version": "0.1.1",
-    "mod_id": "original-beta-version",
-    "author": "Benny_Li",
-    "lastUpdated": "2024-06-09T10:16:59Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "加入了许多有趣的东西Add many interesting things."
-  },
-  {
     "repo": "NikitaPos/neo-dustry",
     "name": "Neo-Dustry",
     "version": "v0.3.1",
@@ -7421,6 +7395,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
+    "repo": "Benny0Li/original-beta-version",
+    "name": "Original Beta Version",
+    "version": "0.1.1",
+    "mod_id": "original-beta-version",
+    "author": "Benny_Li",
+    "lastUpdated": "2024-06-16T02:54:54Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "加入了许多有趣的东西Add many interesting things."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -9157,7 +9144,7 @@
     "version": "1.0.0",
     "mod_id": "vincents-mindustry-mod",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-15T23:43:45Z",
+    "lastUpdated": "2024-06-16T05:04:39Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
