@@ -123,7 +123,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2024-06-13T10:49:57Z",
-    "stars": 122,
+    "stars": 123,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -447,7 +447,7 @@
     "version": "1.1 beta build-2.2",
     "mod_id": "fos",
     "author": "Team Oct",
-    "lastUpdated": "2024-06-16T18:08:54Z",
+    "lastUpdated": "2024-06-17T09:07:01Z",
     "stars": 50,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -715,6 +715,19 @@
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
+    "repo": "EB-wilson/TooManyItems",
+    "name": "Too Many Items",
+    "version": "2.3",
+    "mod_id": "tmi",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-09T08:49:49Z",
+    "stars": 32,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "version": "0.74",
@@ -726,19 +739,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "EB-wilson/TooManyItems",
-    "name": "Too Many Items",
-    "version": "2.3",
-    "mod_id": "tmi",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-09T08:49:49Z",
-    "stars": 31,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -847,10 +847,10 @@
   {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "mod_id": "universe-core",
     "author": "EBwilson",
-    "lastUpdated": "2024-04-21T07:29:15Z",
+    "lastUpdated": "2024-06-17T09:38:33Z",
     "stars": 29,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -1168,6 +1168,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "TeamViscott/ModProjectViscott",
+    "name": "Project Viscott",
+    "version": "0.1.9.7",
+    "mod_id": "project-viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-06-13T22:03:37Z",
+    "stars": 22,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -5629,6 +5642,19 @@
     "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhi"
   },
   {
+    "repo": "Hao-1337/mindustry-better-vanilla",
+    "name": "[ Better Vanilla ]",
+    "version": "1.2.2",
+    "mod_id": "hao1337-mod",
+    "author": "Hao1337",
+    "lastUpdated": "2024-05-14T07:54:53Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
     "repo": "StoneSteel27/Mobile-Controls",
     "name": "Mobile-Controls",
     "version": "2.0.0",
@@ -6656,19 +6682,6 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
-    "repo": "Hao-1337/mindustry-better-vanilla",
-    "name": "[ Better Vanilla ]",
-    "version": "1.2.2",
-    "mod_id": "hao1337-mod",
-    "author": "Hao1337",
-    "lastUpdated": "2024-05-14T07:54:53Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "floppa-coder/IronExtened",
     "name": "Iron Extended",
     "version": "0.3",
@@ -7226,19 +7239,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
-  },
-  {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
   },
   {
     "repo": "BakkaBlue/RGBee",
@@ -9163,5 +9163,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A wip mod that adds a bit of stuff"
+  },
+  {
+    "repo": "wangejinyong/TheDecayMod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-06-17T06:14:22Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
