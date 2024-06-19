@@ -19,7 +19,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 323,
+    "stars": 324,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -227,7 +227,7 @@
     "mod_id": "informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-12-06T10:59:29Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -344,7 +344,7 @@
     "mod_id": "mi2-utilities-java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-03-30T13:00:41Z",
-    "stars": 66,
+    "stars": 67,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -720,7 +720,7 @@
     "version": "0.2",
     "mod_id": "biotech",
     "author": "Jammuu-EndoFreeze",
-    "lastUpdated": "2024-06-18T00:23:16Z",
+    "lastUpdated": "2024-06-19T02:04:24Z",
     "stars": 32,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1168,19 +1168,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "TeamViscott/ModProjectViscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "mod_id": "project-viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-06-13T22:03:37Z",
-    "stars": 22,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -1677,6 +1664,19 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
+    "repo": "MinRi2/ItemBridgeX",
+    "name": "ItemBridgeX",
+    "version": "2.0",
+    "mod_id": "item-bridge-X",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "TheSkyFather/Minerals",
     "name": "Minerals",
     "version": "0.9.6.1 Final",
@@ -1779,19 +1779,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "pain and suffering"
-  },
-  {
-    "repo": "MinRi2/ItemBridgeX",
-    "name": "ItemBridgeX",
-    "version": "2.0",
-    "mod_id": "item-bridge-X",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "Shadowpazzo99/shadowdustry",
@@ -2054,6 +2041,19 @@
     "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nSprites: LaIm_Ik"
   },
   {
+    "repo": "deltanedas/waisa",
+    "name": "WAISA",
+    "version": "3.3.3",
+    "mod_id": "waisa",
+    "author": "deltanedas",
+    "lastUpdated": "2023-11-12T06:08:00Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "430230562/zerg",
     "name": "zerg",
     "version": "0.15",
@@ -2169,19 +2169,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "version": "3.3.3",
-    "mod_id": "waisa",
-    "author": "deltanedas",
-    "lastUpdated": "2023-11-12T06:08:00Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "TeamOct/Erekir-Music",
@@ -2501,7 +2488,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-18T12:24:00Z",
+    "lastUpdated": "2024-06-19T00:58:11Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5746,19 +5733,6 @@
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
-    "repo": "Kitrr1x/Mindustry-Addon",
-    "name": "Mindustry Addon+",
-    "version": "2.0 alpha b19",
-    "mod_id": "Mindustry-Addon+",
-    "author": "Kitrr1x",
-    "lastUpdated": "2024-06-18T10:45:58Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
-  },
-  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -8710,6 +8684,19 @@
     "description": "No description provided."
   },
   {
+    "repo": "Andgihrew/ModTestMindustry",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2023-12-20T18:50:04Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "4gameworld4/mindustry-mod",
     "name": "compression",
     "version": "1",
@@ -9170,7 +9157,7 @@
     "version": "1.0.0",
     "mod_id": "vincents-mindustry-mod",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-18T15:01:05Z",
+    "lastUpdated": "2024-06-19T03:40:19Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
