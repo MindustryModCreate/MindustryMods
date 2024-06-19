@@ -19,7 +19,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 322,
+    "stars": 323,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -84,7 +84,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2024-05-13T14:10:32Z",
-    "stars": 157,
+    "stars": 158,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -1170,6 +1170,19 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "TeamViscott/ModProjectViscott",
+    "name": "Project Viscott",
+    "version": "0.1.9.7",
+    "mod_id": "project-viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-06-13T22:03:37Z",
+    "stars": 22,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -1716,6 +1729,19 @@
     "description": "A online schematic browser"
   },
   {
+    "repo": "Uenhe/Fire",
+    "name": "Fire",
+    "version": "1.2.0",
+    "mod_id": "fire",
+    "author": "飞雨a_ssylfyzgmz && KochiyaUeneh油苗子",
+    "lastUpdated": "2024-06-16T08:02:07Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1896,19 +1922,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
-  },
-  {
-    "repo": "Uenhe/Fire",
-    "name": "Fire",
-    "version": "1.2.0",
-    "mod_id": "fire",
-    "author": "飞雨a_ssylfyzgmz && KochiyaUeneh油苗子",
-    "lastUpdated": "2024-06-16T08:02:07Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2228,7 +2241,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-16T19:35:22Z",
+    "lastUpdated": "2024-06-18T18:44:51Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2241,7 +2254,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-06-18T11:13:55Z",
+    "lastUpdated": "2024-06-19T00:01:43Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2390,6 +2403,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "GermantovA/Erida",
+    "name": "Erida",
+    "version": "1.0",
+    "mod_id": "erida",
+    "author": "ArtemG",
+    "lastUpdated": "2023-01-20T16:22:56Z",
+    "stars": 9,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In developement..."
   },
   {
     "repo": "Sh1penfire/Endless-Rusting",
@@ -2728,19 +2754,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "wip\nif you want to test this download from actions"
-  },
-  {
-    "repo": "GermantovA/Erida",
-    "name": "Erida",
-    "version": "1.0",
-    "mod_id": "erida",
-    "author": "ArtemG",
-    "lastUpdated": "2023-01-20T16:22:56Z",
-    "stars": 8,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "In developement..."
   },
   {
     "repo": "sk7725/BetaMindyMusic",
@@ -4758,6 +4771,19 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "Falkowitz/Medieval-Mindustry",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "mod_id": "mm",
+    "author": "Fitz",
+    "lastUpdated": "2024-06-18T19:12:54Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Another total conversion PVP mod"
+  },
+  {
     "repo": "bin-tenkuu/MindustryMod",
     "name": "MyMod",
     "version": "1.4",
@@ -5718,19 +5744,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
-  },
-  {
-    "repo": "Falkowitz/Medieval-Mindustry",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "mod_id": "mm",
-    "author": "Fitz",
-    "lastUpdated": "2024-06-17T23:06:12Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Another total conversion PVP mod"
   },
   {
     "repo": "Kitrr1x/Mindustry-Addon",
@@ -6723,13 +6736,13 @@
   {
     "repo": "NikitaPos/neo-dustry",
     "name": "Neo-Dustry",
-    "version": "v0.3.1",
+    "version": "v1.3.1",
     "mod_id": "neo-dustry",
-    "author": "NikitaPos",
-    "lastUpdated": "2024-06-16T19:21:05Z",
+    "author": "NikitaPos and NagyDoesStuff",
+    "lastUpdated": "2024-06-18T20:00:16Z",
     "stars": 2,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
   },
