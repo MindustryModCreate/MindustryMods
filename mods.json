@@ -19,7 +19,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-03-09T04:32:35Z",
-    "stars": 324,
+    "stars": 325,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -520,19 +520,6 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.9.1",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2024-04-10T16:04:09Z",
-    "stars": 40,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
-  },
-  {
     "repo": "liplum/MultiCrafterLib",
     "name": "MultiCrafter Lib",
     "version": "2.0.0",
@@ -544,6 +531,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.9.1",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-19T09:06:20Z",
+    "stars": 40,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1435,7 +1435,7 @@
     "version": "0.0.3",
     "mod_id": "disintegration",
     "author": "zeutd",
-    "lastUpdated": "2024-06-16T00:40:44Z",
+    "lastUpdated": "2024-06-19T07:52:46Z",
     "stars": 17,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6713,7 +6713,7 @@
     "version": "v1.3.1",
     "mod_id": "neo-dustry",
     "author": "NikitaPos and NagyDoesStuff",
-    "lastUpdated": "2024-06-18T20:00:16Z",
+    "lastUpdated": "2024-06-19T10:08:17Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -9126,19 +9126,6 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-06-15T20:35:55Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "wangejinyong/TheDecayMod",
     "name": "The Decay",
     "version": "0.1",
@@ -9157,11 +9144,24 @@
     "version": "1.0.0",
     "mod_id": "vincents-mindustry-mod",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-19T03:40:19Z",
+    "lastUpdated": "2024-06-19T05:28:24Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
     "description": "A wip mod that adds a bit of stuff"
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-06-19T09:08:36Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
