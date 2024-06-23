@@ -520,6 +520,19 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "version": "0.9.1",
+    "mod_id": "singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-19T09:06:20Z",
+    "stars": 41,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
+  },
+  {
     "repo": "liplum/MultiCrafterLib",
     "name": "MultiCrafter Lib",
     "version": "2.0.0",
@@ -531,19 +544,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "version": "0.9.1",
-    "mod_id": "singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-19T09:06:20Z",
-    "stars": 40,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -663,6 +663,19 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "EB-wilson/TooManyItems",
+    "name": "Too Many Items",
+    "version": "2.3",
+    "mod_id": "tmi",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-09T08:49:49Z",
+    "stars": 33,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
     "name": "Virtual Scheme Pack",
     "version": "1.0.0",
@@ -700,19 +713,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
-  },
-  {
-    "repo": "EB-wilson/TooManyItems",
-    "name": "Too Many Items",
-    "version": "2.3",
-    "mod_id": "tmi",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-09T08:49:49Z",
-    "stars": 32,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "xjamiex/BioTech",
@@ -1365,6 +1365,19 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-06-23T04:21:55Z",
+    "stars": 18,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "Sonnicon/mindustry-modtemplate",
     "name": "Template",
     "version": "0",
@@ -1454,19 +1467,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-06-23T04:21:55Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -1734,7 +1734,7 @@
     "version": "1.2.0",
     "mod_id": "fire",
     "author": "飞雨a_ssylfyzgmz && KochiyaUeneh油苗子",
-    "lastUpdated": "2024-06-16T08:02:07Z",
+    "lastUpdated": "2024-06-23T08:21:42Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2236,19 +2236,6 @@
     "description": "A mod with ambitious goals, and a fresh start."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-06-19T00:01:43Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "zuoranartemwing/MindustryExpansion",
     "name": "Mindustry Expansion",
     "version": "2.3.6",
@@ -2273,6 +2260,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-06-23T07:46:57Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -4030,19 +4030,6 @@
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
-    "repo": "Lunaticol/Erekir-to-Serpulo",
-    "name": "Erekir To Serpulo",
-    "version": "1",
-    "mod_id": "erekir-to-serpulo",
-    "author": "Lunatico",
-    "lastUpdated": "2023-10-30T18:34:16Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
-  },
-  {
     "repo": "Sirvoid/MindustryVCode",
     "name": "VCode Compiler",
     "version": "0.5.0",
@@ -4667,6 +4654,19 @@
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
+    "repo": "Lunaticol/Erekir-to-Serpulo",
+    "name": "Erekir To Serpulo",
+    "version": "1",
+    "mod_id": "erekir-to-serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2023-10-30T18:34:16Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
+  },
+  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4771,19 +4771,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "Creator-Art-Life/Mod-Mindustry",
-    "name": "Mod-Mindustry",
-    "version": "1.0.0",
-    "mod_id": "Just Industry Mod",
-    "author": "Creator-Art-Life",
-    "lastUpdated": "2024-06-15T18:50:27Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
     "repo": "Falkowitz/Medieval-Mindustry",
     "name": "Medieval Mindustry",
     "version": "0.1",
@@ -4795,6 +4782,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Another total conversion PVP mod"
+  },
+  {
+    "repo": "Creator-Art-Life/Mod-Mindustry",
+    "name": "Mod-Mindustry",
+    "version": "1.0.0",
+    "mod_id": "Just Industry Mod",
+    "author": "Maxim",
+    "lastUpdated": "2024-06-23T08:30:12Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -6760,17 +6760,17 @@
     "description": "\nMindustry mod that adds some things.\n"
   },
   {
-    "repo": "CamoGekko/Inferior",
-    "name": "Inferior",
-    "version": "2.7.3",
-    "mod_id": "inf",
-    "author": "\nCamoGekko\n",
-    "lastUpdated": "2024-06-23T01:56:04Z",
+    "repo": "guiYMOUR/Mindustry-LotteryMod",
+    "name": "lottery mod（抽卡模拟）",
+    "version": "beta0.32",
+    "mod_id": "lottery",
+    "author": "guiY",
+    "lastUpdated": "2024-06-22T19:22:12Z",
     "stars": 2,
-    "minGameVersion": "144.3",
+    "minGameVersion": "138",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "\nMakes the game multiple times harder by nerfing anything that was remotely good into oblivion\nand using various methods to prevent schematics from working and generally make processing harder\n"
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -6778,12 +6778,25 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-23T05:04:16Z",
+    "lastUpdated": "2024-06-23T06:17:06Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
+  },
+  {
+    "repo": "CamoGekko/Inferior",
+    "name": "Inferior",
+    "version": "2.7.3",
+    "mod_id": "inf",
+    "author": "\n[orange]CamoGekko\n",
+    "lastUpdated": "2024-06-23T09:44:42Z",
+    "stars": 2,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
   },
   {
     "repo": "4156/Infintory",
@@ -7278,19 +7291,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
-  },
-  {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
   },
   {
     "repo": "BakkaBlue/RGBee",
