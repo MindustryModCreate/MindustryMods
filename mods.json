@@ -1552,7 +1552,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-06-22T14:07:39Z",
+    "lastUpdated": "2024-06-24T03:10:32Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2514,7 +2514,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-23T12:22:14Z",
+    "lastUpdated": "2024-06-24T00:59:10Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4056,6 +4056,19 @@
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
+    "repo": "Vernaon/mindustry-admin-button",
+    "name": "Admin button",
+    "version": "2.1",
+    "mod_id": "admin-icon-in-chat",
+    "author": "NothingImportant",
+    "lastUpdated": "2023-12-14T11:07:35Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
+  },
+  {
     "repo": "Weathercold/extra-logging",
     "name": "Extra Logging 2",
     "version": "2.2.0",
@@ -4691,19 +4704,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
-  },
-  {
-    "repo": "Vernaon/mindustry-admin-button",
-    "name": "Admin button",
-    "version": "2.1",
-    "mod_id": "admin-icon-in-chat",
-    "author": "NothingImportant",
-    "lastUpdated": "2023-12-14T11:07:35Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
     "repo": "7003Mars/bocchi-the-shield",
@@ -5759,6 +5759,19 @@
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
+    "repo": "guiYMOUR/Mindustry-LotteryMod",
+    "name": "lottery mod（抽卡模拟）",
+    "version": "beta0.32",
+    "mod_id": "lottery",
+    "author": "guiY",
+    "lastUpdated": "2024-06-22T19:22:12Z",
+    "stars": 3,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -6134,6 +6147,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
+  },
+  {
+    "repo": "Raoul1808/Routermageddon",
+    "name": "Routermageddon",
+    "version": "1.0",
+    "mod_id": "routermageddon",
+    "author": "Raoul1808",
+    "lastUpdated": "2022-05-08T16:12:39Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
   },
   {
     "repo": "Zelaux/ZelauxMindustryModTemplate",
@@ -6747,19 +6773,6 @@
     "description": "\nMindustry mod that adds some things.\n"
   },
   {
-    "repo": "guiYMOUR/Mindustry-LotteryMod",
-    "name": "lottery mod（抽卡模拟）",
-    "version": "beta0.32",
-    "mod_id": "lottery",
-    "author": "guiY",
-    "lastUpdated": "2024-06-22T19:22:12Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "name": "ATLAS' Revolutions",
     "version": "No version provided.",
@@ -7278,19 +7291,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
-  },
-  {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
   },
   {
     "repo": "BakkaBlue/RGBee",
@@ -9183,7 +9183,7 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-06-23T15:24:32Z",
+    "lastUpdated": "2024-06-24T02:24:59Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
