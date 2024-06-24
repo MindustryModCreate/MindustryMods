@@ -538,7 +538,7 @@
     "version": "2.0.0",
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2024-06-05T04:47:04Z",
+    "lastUpdated": "2024-06-23T20:40:44Z",
     "stars": 40,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1469,6 +1469,19 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha1",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-06-22T21:48:34Z",
+    "stars": 17,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1545,19 +1558,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units.\nAvailable in:\nIndonesian\nEnglish \nRussian (WIP)\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha1",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-06-22T21:48:34Z",
-    "stars": 16,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -3289,6 +3289,19 @@
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-06-23T16:13:16Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
     "repo": "Vixelot/Facdustrio",
     "name": "Facdustrio",
     "version": "0.1",
@@ -3677,19 +3690,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-06-23T16:13:16Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4789,7 +4789,7 @@
     "version": "0.1",
     "mod_id": "mm",
     "author": "Fitz",
-    "lastUpdated": "2024-06-23T18:19:26Z",
+    "lastUpdated": "2024-06-23T20:43:48Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6136,19 +6136,6 @@
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
-    "repo": "Raoul1808/Routermageddon",
-    "name": "Routermageddon",
-    "version": "1.0",
-    "mod_id": "routermageddon",
-    "author": "Raoul1808",
-    "lastUpdated": "2022-05-08T16:12:39Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
-  },
-  {
     "repo": "Zelaux/ZelauxMindustryModTemplate",
     "name": "Your mod name",
     "version": "0.1",
@@ -7291,6 +7278,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
+  },
+  {
+    "repo": "ItzCraft/glonio",
+    "name": "Glonio New Journey!",
+    "version": "v0.1",
+    "mod_id": "glonio",
+    "author": "[blue]ItzCraft",
+    "lastUpdated": "2023-12-19T20:23:06Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
   },
   {
     "repo": "BakkaBlue/RGBee",
