@@ -162,7 +162,7 @@
     "mod_id": "cyber-io",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 114,
+    "stars": 113,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -214,7 +214,7 @@
     "mod_id": "me",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -253,7 +253,7 @@
     "mod_id": "diamond-ore",
     "author": "z0mbiesrock",
     "lastUpdated": "2024-02-20T18:24:23Z",
-    "stars": 80,
+    "stars": 81,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
@@ -694,7 +694,7 @@
     "version": "1.3",
     "mod_id": "No name provided.",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-06-24T12:08:00Z",
+    "lastUpdated": "2024-06-26T11:33:55Z",
     "stars": 33,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1170,19 +1170,6 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
-    "repo": "TeamViscott/ModProjectViscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "mod_id": "project-viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-06-13T22:03:37Z",
-    "stars": 22,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "version": "1.4",
@@ -1383,7 +1370,7 @@
     "version": "1.2.2",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-06-25T16:13:04Z",
+    "lastUpdated": "2024-06-26T11:48:32Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1552,7 +1539,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-06-24T03:10:32Z",
+    "lastUpdated": "2024-06-26T14:00:24Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1885,19 +1872,6 @@
     "description": "A fun mod that adds yeeters and other small additions."
   },
   {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "v1.7",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-05-18T13:31:24Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.6.1",
@@ -1922,6 +1896,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "v1.7",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-06-26T08:49:18Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2223,19 +2210,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "GlennFolker/MindustryModTemplate",
-    "name": "Mod Template",
-    "version": "v1.0",
-    "mod_id": "No name provided.",
-    "author": "You",
-    "lastUpdated": "2024-06-09T06:55:51Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
     "repo": "ThomasThings/xenacia",
     "name": "Xenacia",
     "version": "nv0.0",
@@ -2273,6 +2247,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "GlennFolker/MindustryModTemplate",
+    "name": "Mod Template",
+    "version": "v1.0",
+    "mod_id": "No name provided.",
+    "author": "You",
+    "lastUpdated": "2024-06-26T11:29:56Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -2488,7 +2475,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-06-26T00:57:48Z",
+    "lastUpdated": "2024-06-26T12:25:19Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2852,7 +2839,7 @@
     "version": "0.1",
     "mod_id": "situvngcd-test-mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-06-23T16:13:16Z",
+    "lastUpdated": "2024-06-26T12:40:35Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6773,19 +6760,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
   },
   {
-    "repo": "ItsKirby69/MineDusty",
-    "name": "MineDusty [new]",
-    "version": "1",
-    "mod_id": "minedusty-mod",
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2024-06-25T20:05:06Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. The overgrowth will overtake all."
-  },
-  {
     "repo": "CamoGekko/Inferior",
     "name": "Inferior",
     "version": "2.7.3",
@@ -6797,6 +6771,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
+  },
+  {
+    "repo": "ItsKirby69/MineDusty",
+    "name": "MineDusty [new]",
+    "version": "1",
+    "mod_id": "minedusty",
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2024-06-26T07:43:01Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. The overgrowth will overtake all."
   },
   {
     "repo": "4156/Infintory",
