@@ -2691,6 +2691,19 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1.1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
+  },
+  {
     "repo": "liplum/BottledLiquid",
     "name": "Bottled Liquid",
     "version": "3.0",
@@ -2975,19 +2988,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Replaces sector 0 (next to PLT with GigaFort."
-  },
-  {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1.1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T06:55:03Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
   },
   {
     "repo": "RebornTrack970/infinicampaign",
@@ -5777,7 +5777,7 @@
     "version": "0.5.1",
     "mod_id": "jp",
     "author": "Water white",
-    "lastUpdated": "2024-06-28T07:38:58Z",
+    "lastUpdated": "2024-06-29T07:09:08Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6149,19 +6149,6 @@
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
-    "repo": "Raoul1808/Routermageddon",
-    "name": "Routermageddon",
-    "version": "1.0",
-    "mod_id": "routermageddon",
-    "author": "Raoul1808",
-    "lastUpdated": "2022-05-08T16:12:39Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
-  },
-  {
     "repo": "Zelaux/ZelauxMindustryModTemplate",
     "name": "Your mod name",
     "version": "0.1",
@@ -6173,6 +6160,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/WorldEdit",
+    "name": "World Edit",
+    "version": "1.0",
+    "mod_id": "World Edit",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-06-07T04:39:58Z",
+    "stars": 2,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "N/A"
   },
   {
     "repo": "konkitoman/SpeedCtlMan",
@@ -9126,19 +9126,6 @@
     "description": "A Mindustry Java mod template.(Waiting for editing)"
   },
   {
-    "repo": "SquareCM2/TechnoExpansion",
-    "name": "科技扩展",
-    "version": "1.0",
-    "mod_id": "TechnoExpansion",
-    "author": "SquareCM2",
-    "lastUpdated": "2024-06-23T10:23:20Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More technological item and blocks"
-  },
-  {
     "repo": "DSFdsfWxp/finalCampaign",
     "name": "finalCampaign",
     "version": "0.0.1",
@@ -9176,5 +9163,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces two new processors.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor. 3x faster, 3x more health, and 33 more range than the Hyper Processor. Requires 3x the resources, 3x the Cryofluid, and infinitely more Plastanium (for the nice green color).\n\n\tClown Processor:\n\tHonk Honk. The clown sees all and refuses to die.\n\t5x faster than the Hyper Processor. Covers the entire map regardless of placement.\n\tCosts a penny.\n\n\t[Details]\n\n\tAbsurd Processor:\n\t- Unlocked after Hyper Processor\n\t- 1,560 Health\n\t- 4x4 Size\n\t- 75 Block Link Range\n\t- 4,500 Instructions/Second\n\tCost:\n\t- 1,300 Lead\n\t- 225 Thorium\n\t- 450 Silicon\n\t- 150 Surge Alloy\n\t- 50 Plastanium\n\t- 14.4 Cryofluid/Second\n\n\tClown Processor:\n\t- Unlocked after Core Shard\n\t- 100,000 Health\n\t- 1x1 Size\n\t- 707.12 Block Link Range\n\t- 7,500 Instructions/Second\n\tCost:\n\t- 1 Copper"
+  },
+  {
+    "repo": "SquareCM2/TechnoExpansion",
+    "name": "科技扩展",
+    "version": "1.0",
+    "mod_id": "TechnoExpansion",
+    "author": "SquareCM2",
+    "lastUpdated": "2024-06-29T06:45:19Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More technological item and blocks"
   }
 ]
