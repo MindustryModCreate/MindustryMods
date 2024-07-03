@@ -304,7 +304,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-02T18:24:13Z",
+    "lastUpdated": "2024-07-03T01:22:39Z",
     "stars": 76,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -539,7 +539,7 @@
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 40,
+    "stars": 41,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -733,7 +733,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-06-04T01:53:11Z",
+    "lastUpdated": "2024-07-03T04:33:20Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1729,6 +1729,19 @@
     "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
+    "repo": "Sublemon-Team/Subvoyage",
+    "name": "Subvoyage",
+    "version": "0.2-beta",
+    "mod_id": "subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-07-02T17:28:15Z",
+    "stars": 14,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1909,19 +1922,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
-  },
-  {
-    "repo": "Sublemon-Team/Subvoyage",
-    "name": "Subvoyage",
-    "version": "0.2-beta",
-    "mod_id": "subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-02T17:28:15Z",
-    "stars": 13,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2501,7 +2501,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-02T12:22:28Z",
+    "lastUpdated": "2024-07-03T00:58:18Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5798,19 +5798,6 @@
     "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
   },
   {
-    "repo": "CamoGekko/Inferior",
-    "name": "Inferior",
-    "version": "2.7.3",
-    "mod_id": "inf",
-    "author": "\n[orange]CamoGekko\n",
-    "lastUpdated": "2024-06-25T22:36:40Z",
-    "stars": 3,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
     "name": "Spore biomethane",
     "version": "0.5.1",
@@ -5822,6 +5809,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "CamoGekko/Inferior",
+    "name": "Inferior",
+    "version": "2.7.3",
+    "mod_id": "inf",
+    "author": "\nCamoGekko\n",
+    "lastUpdated": "2024-07-03T00:41:43Z",
+    "stars": 3,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6121,6 +6121,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
+  },
+  {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
@@ -6812,6 +6825,19 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
+    "repo": "coreworldyoutube/AtomicMindustry",
+    "name": "AtomicMindustry",
+    "version": "1.0",
+    "mod_id": "atomicmindustry",
+    "author": "coreworld",
+    "lastUpdated": "2024-07-03T05:07:24Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is the premise of the MOD."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "version": "1.0",
@@ -6927,6 +6953,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to break mindustry"
+  },
+  {
+    "repo": "Choobyshroom8450/MoreUnitsMod",
+    "name": "More Units Mod",
+    "version": "1.0",
+    "mod_id": "moreuints",
+    "author": "choobyshroom",
+    "lastUpdated": "2022-02-24T04:26:14Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more units to mindustry"
   },
   {
     "repo": "MinDoUser/ExtendedMind",
@@ -7241,19 +7280,6 @@
     "description": "mi primer mod, hecho en la plantilla de mods, está en version beta, tiene funciones muy rotas."
   },
   {
-    "repo": "FushitheSushi/Mindustry-soundpack-mod",
-    "name": "SOUNDPACK",
-    "version": "7.0",
-    "mod_id": "Random sound mod",
-    "author": "Fushi",
-    "lastUpdated": "2023-11-07T21:30:43Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just a collection of sounds I wanted in the game lol."
-  },
-  {
     "repo": "KayyAyeAre/melancholy",
     "name": "Melancholy",
     "version": "alpha 2023-31-8",
@@ -7291,19 +7317,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
-  },
-  {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
   },
   {
     "repo": "BakkaBlue/RGBee",
@@ -7460,19 +7473,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "REALLY cursed mod"
-  },
-  {
-    "repo": "coreworldyoutube/AtomicMindustry",
-    "name": "AtomicMindustry",
-    "version": "1.0",
-    "mod_id": "atomicmindustry",
-    "author": "coreworld",
-    "lastUpdated": "2024-07-02T07:25:08Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is the premise of the MOD."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -9035,19 +9035,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "PosionFox/Eclipsis",
-    "name": "Eclipsis",
-    "version": "0.1",
-    "mod_id": "eclipsis",
-    "author": "PosionFox",
-    "lastUpdated": "2024-05-22T01:49:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds new content."
-  },
-  {
     "repo": "XtarsAgency/sst-000",
     "name": "Station 000(WIP)",
     "version": "1",
@@ -9241,5 +9228,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java mod that adds some content. (WIP)"
+  },
+  {
+    "repo": "PosionFox/Eclipsis",
+    "name": "Eclipsis",
+    "version": "0.2",
+    "mod_id": "eclipsis",
+    "author": "PosionFox, Caldisio",
+    "lastUpdated": "2024-07-02T21:57:51Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds new content."
   }
 ]
