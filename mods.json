@@ -136,7 +136,7 @@
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-06-17T12:14:28Z",
-    "stars": 123,
+    "stars": 124,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -447,7 +447,7 @@
     "version": "1.1 beta build-3-dev",
     "mod_id": "No name provided.",
     "author": "Team Oct",
-    "lastUpdated": "2024-06-29T16:47:30Z",
+    "lastUpdated": "2024-07-03T16:42:12Z",
     "stars": 51,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2024-07-01T16:57:49Z",
+    "lastUpdated": "2024-07-03T20:26:36Z",
     "stars": 49,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -733,7 +733,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-03T04:33:20Z",
+    "lastUpdated": "2024-07-03T22:52:08Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -949,6 +949,19 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "Ferlern/extended-UI-v7",
+    "name": "extended UI",
+    "version": "0.78",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2024-03-27T19:31:22Z",
+    "stars": 28,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "version": "2.3",
@@ -960,19 +973,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
-  },
-  {
-    "repo": "Ferlern/extended-UI-v7",
-    "name": "extended UI",
-    "version": "0.78",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2024-03-27T19:31:22Z",
-    "stars": 27,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1448,7 +1448,7 @@
     "version": "1.0.Alpha1",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-07-01T02:33:44Z",
+    "lastUpdated": "2024-07-03T20:13:01Z",
     "stars": 17,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1461,7 +1461,7 @@
     "version": "1.2.2",
     "mod_id": "psammos",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-07-02T16:52:07Z",
+    "lastUpdated": "2024-07-03T20:52:12Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2267,7 +2267,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-03T05:12:19Z",
+    "lastUpdated": "2024-07-03T17:31:23Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2364,6 +2364,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java library for java mods"
+  },
+  {
+    "repo": "RebornTrack970/Sandbox-Mode",
+    "name": "Sandbox Mode",
+    "version": "1.1",
+    "mod_id": "sandboxmode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
   },
   {
     "repo": "Def-Try/parkour-mod",
@@ -2715,19 +2728,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
-  },
-  {
-    "repo": "RebornTrack970/Sandbox-Mode",
-    "name": "Sandbox Mode",
-    "version": "1.1",
-    "mod_id": "sandboxmode",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T06:55:03Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes you sandbox."
   },
   {
     "repo": "liplum/BottledLiquid",
@@ -6123,6 +6123,19 @@
     "description": "something and nothing"
   },
   {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
+  },
+  {
     "repo": "nrish/SectorPicker",
     "name": "Sector Picker",
     "version": "2.0",
@@ -6799,19 +6812,6 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
-    "repo": "coreworldyoutube/AtomicMindustry",
-    "name": "AtomicMindustry",
-    "version": "1.0",
-    "mod_id": "atomicmindustry",
-    "author": "coreworld",
-    "lastUpdated": "2024-07-03T05:13:38Z",
-    "stars": 2,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is the premise of the MOD."
-  },
-  {
     "repo": "NikitaPos/neo-dustry",
     "name": "Neo-Dustry",
     "version": "v1.3.1",
@@ -6823,6 +6823,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
+    "repo": "coreworldyoutube/AtomicMindustry",
+    "name": "AtomicMindustry",
+    "version": "1.0",
+    "mod_id": "atomicmindustry",
+    "author": "coreworld",
+    "lastUpdated": "2024-07-04T00:37:48Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is the premise of the MOD."
   },
   {
     "repo": "4156/Infintory",
