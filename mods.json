@@ -356,7 +356,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-04T13:39:46Z",
+    "lastUpdated": "2024-07-04T19:23:09Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -455,19 +455,6 @@
     "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
   },
   {
-    "repo": "RA2EXE/Saturation-Firepower",
-    "name": "Saturation firepower",
-    "version": "3.1.7",
-    "mod_id": "饱和火力",
-    "author": "RA2",
-    "lastUpdated": "2024-06-13T15:19:14Z",
-    "stars": 49,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "当前版本：[green]3.1.7[white]\nQQ群：181108928\n或者前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n战前须知：在宁开始挑战火力的高难度战役前，请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！\n小贴士：自定义先试试以免打不过\n[green]———————————————[white]"
-  },
-  {
     "repo": "pixecoz/SchematicsPack",
     "name": "Schematics Pack",
     "version": "9.0",
@@ -479,6 +466,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
+    "repo": "RA2EXE/Saturation-Firepower",
+    "name": "Saturation firepower",
+    "version": "3.1.7",
+    "mod_id": "饱和火力",
+    "author": "RA2",
+    "lastUpdated": "2024-07-04T17:13:44Z",
+    "stars": 49,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "当前版本：[green]3.1.7[white]\n前往Github查看火力最新状态\n饱和火力服务器保持常开，请装载最新模组进入\n[green]———————————————[white]\n请务必做好[red]备份工作！\n[white]mod不对玩家因自己的错误操作导致的不可挽回后果负责！"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -1612,6 +1612,19 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
+    "repo": "Sublemon-Team/Subvoyage",
+    "name": "Subvoyage",
+    "version": "0.2-beta",
+    "mod_id": "subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-07-03T15:03:56Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1727,19 +1740,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
-  },
-  {
-    "repo": "Sublemon-Team/Subvoyage",
-    "name": "Subvoyage",
-    "version": "0.2-beta",
-    "mod_id": "subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-03T15:03:56Z",
-    "stars": 14,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2093,19 +2093,6 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-07-02T00:57:38Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
-  },
-  {
     "repo": "430230562/zerg",
     "name": "zerg",
     "version": "0.15",
@@ -2130,6 +2117,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github\n\n[yellow]<INFO: DELTAIS>\n[white]Deltais has been separated from this mod and this current content is uncompleted and will not being deleted. Any new updates of Deltais will not being added here anymore. Kanaede and Jab will focus to updating Deltais project on new Deltais mod.\n[sky]New Deltais update soon!\n[white]There will be information more after it's completed!"
+  },
+  {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-07-04T16:03:07Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
     "repo": "deltanedas/cliff",
@@ -3705,19 +3705,6 @@
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
   },
   {
-    "repo": "MEEPofFaith/tranqol",
-    "name": "Tranqol",
-    "version": "v5",
-    "mod_id": "tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-06-14T04:27:35Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
     "repo": "MEEPofFaith/black-holes-library",
     "name": "Black Holes Library",
     "version": "15",
@@ -3729,6 +3716,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
+  },
+  {
+    "repo": "MEEPofFaith/tranqol",
+    "name": "Tranqol",
+    "version": "v5",
+    "mod_id": "tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-07-04T18:08:19Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -6123,19 +6123,6 @@
     "description": "something and nothing"
   },
   {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
-  },
-  {
     "repo": "nrish/SectorPicker",
     "name": "Sector Picker",
     "version": "2.0",
@@ -6830,7 +6817,7 @@
     "version": "v1.3.1",
     "mod_id": "neo-dustry",
     "author": "NikitaPos and NagyDoesStuff",
-    "lastUpdated": "2024-07-04T14:31:43Z",
+    "lastUpdated": "2024-07-04T16:51:42Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7670,19 +7657,6 @@
     "description": ""
   },
   {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "version": "0.1",
-    "mod_id": "UsA-Military",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
-  },
-  {
     "repo": "oguh43/quantumReactor",
     "name": "Quantum Reactor ",
     "version": "1",
@@ -8515,6 +8489,19 @@
     "description": "A mod about Silicon!"
   },
   {
+    "repo": "elie-g/poneys-mindustry-mod",
+    "name": "Poney's mod",
+    "version": "1.0",
+    "mod_id": "poneys-mod",
+    "author": "Elie Grenon",
+    "lastUpdated": "2023-06-29T03:58:14Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a few blocks."
+  },
+  {
     "repo": "992040/mindustry_better_mindustry",
     "name": "mindustry_better_mindustry",
     "version": "0.4",
@@ -9204,19 +9191,6 @@
     "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces five new processors. 2 balanced, 3 unbalanced.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor.\n\t3x faster, 3x more health, and 33 more range than the Hyper Processor.\n\tRequires 3x the resources, 3x the Cryofluid, and ♾️x the Plastanium (for the nice green color).\n\n\tBizarre Processor:\n\tRelatively balanced processor straight from the research lab.\n\tTitanium antenna extends range to the entire map.\n\t3x more health, 3x the cost, and the same speed as the Hyper Processor.\n\n\tEyeball Processor:\n\tNo link is too far.\n\tNo damage is too high.\n\tFaster than the Logic Processor, slower than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tPlanet Processor:\n\tAll lands are charted and all threats are thwarted.\n\t2x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tClown Processor:\n\tHonk Honk.\n\tThe clown sees all and refuses to die.\n\t5x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny."
   },
   {
-    "repo": "Artulo-JavaAdapter/Heavy-Industry",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Artulo Skywalker",
-    "lastUpdated": "2024-07-01T14:21:09Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Artulo Skywalker's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "Erex147/Worldustry",
     "name": "Worldustry",
     "version": "1.0",
@@ -9254,5 +9228,31 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "帝国マッキーとは、 \n…まぁ、とある帝国です。このMODはハイテク産業の拡張によるものです。 \n開発中で、徐々に追加していこうと思います。"
+  },
+  {
+    "repo": "Artulo-JavaAdapter/Heavy-Industry",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Artulo Skywalker",
+    "lastUpdated": "2024-07-04T15:30:03Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Artulo Skywalker's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "Poiu-y/Mindustry-Spectral.mod",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-07-04T16:11:49Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
