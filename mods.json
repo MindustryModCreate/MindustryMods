@@ -135,7 +135,7 @@
     "version": "0.5.0-dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2024-06-17T12:14:28Z",
+    "lastUpdated": "2024-07-06T19:47:13Z",
     "stars": 124,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -286,6 +286,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "xstabux/Omaloon",
+    "name": "Omaloon",
+    "version": "v0.1A",
+    "mod_id": "omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2024-07-06T17:02:55Z",
+    "stars": 77,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -297,19 +310,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "xstabux/Omaloon",
-    "name": "Omaloon",
-    "version": "v0.1A",
-    "mod_id": "omaloon",
-    "author": "_stabu_",
-    "lastUpdated": "2024-07-05T09:41:06Z",
-    "stars": 76,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "What42Pizza/Mindustry-Production-Mod",
@@ -447,7 +447,7 @@
     "version": "1.1 beta build-3-dev",
     "mod_id": "No name provided.",
     "author": "Team Oct",
-    "lastUpdated": "2024-07-03T16:42:12Z",
+    "lastUpdated": "2024-07-06T18:44:55Z",
     "stars": 51,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -460,7 +460,7 @@
     "version": "3.1.7",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-07-04T17:13:44Z",
+    "lastUpdated": "2024-07-06T16:35:10Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1292,7 +1292,7 @@
     "version": "Release 1.1",
     "mod_id": "vanillaplus",
     "author": "MindustryDagger",
-    "lastUpdated": "2024-07-06T14:51:54Z",
+    "lastUpdated": "2024-07-06T18:37:22Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1617,7 +1617,7 @@
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-06T14:49:24Z",
+    "lastUpdated": "2024-07-06T15:16:20Z",
     "stars": 15,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1898,19 +1898,6 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
-    "repo": "sharrlotte/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "v1.7.1",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-06-27T18:08:22Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.6.1",
@@ -1922,6 +1909,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
+  },
+  {
+    "repo": "sharrlotte/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "v1.8.0",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-07-06T17:17:44Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
   },
   {
     "repo": "Gdeft/bleach",
@@ -2124,12 +2124,12 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-07-05T19:56:02Z",
+    "lastUpdated": "2024-07-06T19:00:18Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
     "repo": "deltanedas/cliff",
