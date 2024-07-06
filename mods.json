@@ -149,7 +149,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 115,
+    "stars": 116,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -858,6 +858,19 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-01-31T15:47:33Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "coaldeficit/MoreDefences",
     "name": "MoreDefences V1",
     "version": "1.0",
@@ -934,19 +947,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Ferlern/extended-UI-v7",
@@ -1289,15 +1289,15 @@
   {
     "repo": "MindustryDagger/VanillaPlus",
     "name": "VanillaPlus",
-    "version": "Release 1.0",
+    "version": "Release 1.1",
     "mod_id": "vanillaplus",
     "author": "MindustryDagger",
-    "lastUpdated": "2024-07-06T09:58:38Z",
+    "lastUpdated": "2024-07-06T14:51:54Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. v1.0."
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "Zeniku/HeavyMachinery",
@@ -1617,7 +1617,7 @@
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-06T09:13:37Z",
+    "lastUpdated": "2024-07-06T14:49:24Z",
     "stars": 15,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2267,7 +2267,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-06T09:49:41Z",
+    "lastUpdated": "2024-07-06T11:25:39Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2514,7 +2514,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-06T00:56:54Z",
+    "lastUpdated": "2024-07-06T12:21:44Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5447,6 +5447,19 @@
     "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
   },
   {
+    "repo": "ocalhoun6/Resource-Supply-Mod",
+    "name": "Resource Supply Mod",
+    "version": "1.6.4",
+    "mod_id": "source_mod",
+    "author": "DLS",
+    "lastUpdated": "2023-05-23T22:27:20Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
+  },
+  {
     "repo": "I-hope1/BetterJS",
     "name": "BetterJS",
     "version": "1.2.3",
@@ -6407,19 +6420,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
-  },
-  {
-    "repo": "ocalhoun6/Resource-Supply-Mod",
-    "name": "Resource Supply Mod",
-    "version": "1.6.4",
-    "mod_id": "source_mod",
-    "author": "DLS",
-    "lastUpdated": "2023-05-23T22:27:20Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
   },
   {
     "repo": "NevaseenYeee/Unto-Ather",
@@ -9261,7 +9261,7 @@
     "version": "1.0",
     "mod_id": "worldustry",
     "author": "Erex147",
-    "lastUpdated": "2024-07-05T12:29:00Z",
+    "lastUpdated": "2024-07-06T13:50:57Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
