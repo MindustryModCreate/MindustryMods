@@ -460,7 +460,7 @@
     "version": "3.1.7",
     "mod_id": "饱和火力",
     "author": "RA2",
-    "lastUpdated": "2024-07-06T16:35:10Z",
+    "lastUpdated": "2024-07-07T06:13:10Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1552,7 +1552,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-02T15:54:30Z",
+    "lastUpdated": "2024-07-07T09:34:17Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1617,7 +1617,7 @@
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-06T15:16:20Z",
+    "lastUpdated": "2024-07-07T08:50:07Z",
     "stars": 15,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1727,19 +1727,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
-  },
-  {
-    "repo": "Uenhe/Fire",
-    "name": "Fire",
-    "version": "1.2.0",
-    "mod_id": "fire",
-    "author": "飞雨a_ssylfyzgmz && KochiyaUeneh油苗子",
-    "lastUpdated": "2024-06-30T08:49:25Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -5681,19 +5668,6 @@
     "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
-    "repo": "I-am-Fuse/MindustryPlus",
-    "name": "MindustryPlus",
-    "version": "-indev",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2024-04-08T07:47:01Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "Catana791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -5811,19 +5785,6 @@
     "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
   },
   {
-    "repo": "Hao-1337/mindustry-better-vanilla",
-    "name": "[ Better Vanilla ]",
-    "version": "1.0.0",
-    "mod_id": "hao1337-mod",
-    "author": "Hao1337",
-    "lastUpdated": "2024-07-04T06:00:24Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
     "name": "Spore biomethane",
     "version": "0.5.1",
@@ -5835,6 +5796,32 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "I-am-Fuse/MindustryPlus",
+    "name": "MindustryPlus",
+    "version": "-indev",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2024-07-07T09:39:41Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "Hao-1337/mindustry-better-vanilla",
+    "name": "[ Better Vanilla ]",
+    "version": "1.0.0",
+    "mod_id": "hao1337-mod",
+    "author": "Hao1337",
+    "lastUpdated": "2024-07-07T09:54:41Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6134,6 +6121,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
+  },
+  {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
