@@ -123,7 +123,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2024-06-13T10:49:57Z",
-    "stars": 125,
+    "stars": 126,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -291,7 +291,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-07T11:40:20Z",
+    "lastUpdated": "2024-07-07T18:05:42Z",
     "stars": 77,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1469,6 +1469,19 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "Sublemon-Team/Subvoyage",
+    "name": "Subvoyage",
+    "version": "0.3-beta",
+    "mod_id": "subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-07-07T15:09:13Z",
+    "stars": 17,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1558,19 +1571,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: Mod is currently under rework, Expect some broken things. \n\nAvailable in:\nIndonesian\nEnglish\nRussian\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "Sublemon-Team/Subvoyage",
-    "name": "Subvoyage",
-    "version": "0.3-beta",
-    "mod_id": "subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-07T12:59:41Z",
-    "stars": 16,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "o7-Fire/Mindustry-Ozone",
@@ -1729,6 +1729,19 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.6.1",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-06-30T05:05:06Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
+  },
+  {
     "repo": "LottieVixen/2xConveyors",
     "name": "2X Conveyors",
     "version": "0.2",
@@ -1883,19 +1896,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.6.1",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-06-30T05:05:06Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
   },
   {
     "repo": "sharrlotte/MindustryToolMod",
@@ -2483,19 +2483,6 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
-    "repo": "Catana791/Asthosus-OST",
-    "name": "Asthosus OST",
-    "version": "1",
-    "mod_id": "astost",
-    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
-    "lastUpdated": "2024-06-30T14:33:51Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
@@ -2507,6 +2494,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "Catana791/Asthosus-OST",
+    "name": "Asthosus OST",
+    "version": "1",
+    "mod_id": "astost",
+    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
+    "lastUpdated": "2024-07-07T18:46:10Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -6817,7 +6817,7 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-07-06T22:09:19Z",
+    "lastUpdated": "2024-07-07T20:05:44Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -8552,6 +8552,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this is a modding test"
+  },
+  {
+    "repo": "Xilites/MyMindustryMod",
+    "name": "MyMindustryMod",
+    "version": "0.0.1",
+    "mod_id": "MyMindustryMod",
+    "author": "CMX_DG",
+    "lastUpdated": "2023-08-25T10:18:29Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "SecondMandu/noreloading",
