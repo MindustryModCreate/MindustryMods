@@ -642,7 +642,7 @@
     "version": "0.2",
     "mod_id": "biotech",
     "author": "Jammuu - EndoFreeze",
-    "lastUpdated": "2024-07-05T22:37:59Z",
+    "lastUpdated": "2024-07-07T22:47:58Z",
     "stars": 35,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -728,12 +728,12 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
-    "repo": "Twcash/Tantros-Test",
+    "repo": "Twcash/Aquarion",
     "name": "Aquarion",
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-05T21:22:32Z",
+    "lastUpdated": "2024-07-08T01:36:59Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1443,19 +1443,6 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha1",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-07-05T02:08:48Z",
-    "stars": 17,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "Andromeda-Galaxy29/Psammos-Mod",
     "name": "Psammos Mod",
     "version": "1.2.2",
@@ -1480,6 +1467,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha1",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-07-08T02:12:46Z",
+    "stars": 17,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -2254,7 +2254,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-06T11:25:39Z",
+    "lastUpdated": "2024-07-08T00:39:20Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2483,19 +2483,6 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "version": "0.2",
-    "mod_id": "l1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-07T12:22:04Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "Catana791/Asthosus-OST",
     "name": "Asthosus OST",
     "version": "1",
@@ -2507,6 +2494,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "version": "0.2",
+    "mod_id": "l1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2024-07-08T01:00:25Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5278,19 +5278,6 @@
     "description": "A Mod"
   },
   {
-    "repo": "RexAliis/Colorful-Darkness-Mod",
-    "name": "Colorful Darkness",
-    "version": "1.0",
-    "mod_id": "c-dark",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-08-14T23:16:13Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dark-Mode Texture pack for Mindustry!"
-  },
-  {
     "repo": "Mnemotechnician/achievements",
     "name": "Mindustry Achievements",
     "version": "v0.2",
@@ -5798,30 +5785,30 @@
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
-    "repo": "I-am-Fuse/MindustryPlus",
-    "name": "MindustryPlus",
-    "version": "-indev",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2024-07-07T09:39:41Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "Hao-1337/mindustry-better-vanilla",
     "name": "[ Better Vanilla ]",
     "version": "1.0.0",
     "mod_id": "hao1337-mod",
     "author": "Hao1337",
-    "lastUpdated": "2024-07-07T14:20:50Z",
+    "lastUpdated": "2024-07-08T04:56:59Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "I-am-Fuse/MindustryPlus",
+    "name": "MindustryPlus",
+    "version": "-indev",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2024-07-08T04:59:00Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6121,19 +6108,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
-  },
-  {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
@@ -6817,7 +6791,7 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-07-07T20:05:44Z",
+    "lastUpdated": "2024-07-08T03:58:13Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
