@@ -331,7 +331,7 @@
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-06-14T01:52:10Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2514,7 +2514,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-09T12:25:28Z",
+    "lastUpdated": "2024-07-10T00:59:48Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5759,6 +5759,19 @@
     "description": "part of a icey planets collab"
   },
   {
+    "repo": "MEEPofFaith/extra-sand-redux",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "2.0",
+    "mod_id": "No name provided.",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2024-06-14T01:17:21Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
     "repo": "EvDes190/D-Serpulo-orHardMode",
     "name": "Dangerous Serpulo",
     "version": "0.9",
@@ -5798,19 +5811,6 @@
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
-    "repo": "I-am-Fuse/MindustryPlus",
-    "name": "MindustryPlus",
-    "version": "-indev",
-    "mod_id": "mindustryplus",
-    "author": "I_am_Fuse",
-    "lastUpdated": "2024-07-09T12:20:11Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "Hao-1337/mindustry-better-vanilla",
     "name": "[ Better Vanilla ]",
     "version": "1.0.0",
@@ -5822,6 +5822,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "I-am-Fuse/MindustryPlus",
+    "name": "MindustryPlus",
+    "version": "-indev",
+    "mod_id": "mindustryplus",
+    "author": "I_am_Fuse",
+    "lastUpdated": "2024-07-10T01:27:53Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6121,19 +6134,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
-  },
-  {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
@@ -6706,19 +6706,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ty slotterleet for EPJson"
-  },
-  {
-    "repo": "MEEPofFaith/extra-sand-redux",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "2.0",
-    "mod_id": "No name provided.",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2024-06-14T01:17:21Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "floppa-coder/IronExtened",
@@ -8526,6 +8513,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this is a modding test"
+  },
+  {
+    "repo": "Xilites/MyMindustryMod",
+    "name": "MyMindustryMod",
+    "version": "0.0.1",
+    "mod_id": "MyMindustryMod",
+    "author": "CMX_DG",
+    "lastUpdated": "2023-08-25T10:18:29Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "SecondMandu/noreloading",
