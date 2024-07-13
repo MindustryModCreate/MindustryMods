@@ -572,6 +572,19 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "xjamiex/BioTech",
+    "name": "BioTech",
+    "version": "0.2",
+    "mod_id": "biotech",
+    "author": "Jammuu - EndoFreeze",
+    "lastUpdated": "2024-07-12T21:11:56Z",
+    "stars": 38,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Meatballs."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -609,19 +622,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
-  },
-  {
-    "repo": "xjamiex/BioTech",
-    "name": "BioTech",
-    "version": "0.2",
-    "mod_id": "biotech",
-    "author": "Jammuu - EndoFreeze",
-    "lastUpdated": "2024-07-07T22:47:58Z",
-    "stars": 36,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Meatballs."
   },
   {
     "repo": "WilloIzCitron/ArchiveDustry-Java",
@@ -733,7 +733,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-11T01:36:05Z",
+    "lastUpdated": "2024-07-13T04:31:07Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1565,7 +1565,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-12T14:27:55Z",
+    "lastUpdated": "2024-07-13T00:33:14Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1747,7 +1747,7 @@
     "version": "1.4.6.1",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-12T15:29:33Z",
+    "lastUpdated": "2024-07-13T02:25:11Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2457,6 +2457,19 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
+    "repo": "Slotterleet/example-planet-json",
+    "name": "JSON Example Solar System!",
+    "version": "No version provided.",
+    "mod_id": "ep-json",
+    "author": "Slotterleet",
+    "lastUpdated": "2023-09-04T15:31:44Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
+  },
+  {
     "repo": "sbxte/mindustry-schematic-browser",
     "name": "Schematic Browser Reworked",
     "version": "1.0",
@@ -2527,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-12T12:25:10Z",
+    "lastUpdated": "2024-07-13T00:59:36Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2832,19 +2845,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
-  },
-  {
-    "repo": "Slotterleet/example-planet-json",
-    "name": "JSON Example Solar System!",
-    "version": "No version provided.",
-    "mod_id": "ep-json",
-    "author": "Slotterleet",
-    "lastUpdated": "2023-09-04T15:31:44Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
     "repo": "osp54/CloudSave",
@@ -6149,19 +6149,6 @@
     "description": "something and nothing"
   },
   {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
-  },
-  {
     "repo": "nrish/SectorPicker",
     "name": "Sector Picker",
     "version": "2.0",
@@ -9061,19 +9048,6 @@
     "description": "made with Mobile"
   },
   {
-    "repo": "Lazfimg/mindustry-js-mod-template",
-    "name": "This isn't a mod.",
-    "version": "1.0",
-    "mod_id": "mod-name",
-    "author": "Yourself",
-    "lastUpdated": "2024-06-08T04:31:46Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Bbfashbjhcbabfhsbafbhajbf"
-  },
-  {
     "repo": "Yoctus/artillery-mod",
     "name": "Artillery",
     "version": "2.0",
@@ -9241,5 +9215,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java mod that adds some content. (WIP)"
+  },
+  {
+    "repo": "Lazfimg/mindustry-js-mod-template",
+    "name": "This isn't a mod.",
+    "version": "1.0",
+    "mod_id": "mod-name",
+    "author": "Yourself",
+    "lastUpdated": "2024-07-13T02:26:47Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Bbfashbjhcbabfhsbafbhajbf"
   }
 ]
