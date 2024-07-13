@@ -577,7 +577,7 @@
     "version": "0.2",
     "mod_id": "biotech",
     "author": "Jammuu - EndoFreeze",
-    "lastUpdated": "2024-07-12T21:11:56Z",
+    "lastUpdated": "2024-07-13T10:04:53Z",
     "stars": 38,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -733,7 +733,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-13T04:31:07Z",
+    "lastUpdated": "2024-07-13T05:19:59Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1079,6 +1079,19 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "way-zer/ContentsTweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "@version@",
+    "mod_id": "ContentsTweaker",
+    "author": "WayZer",
+    "lastUpdated": "2024-03-04T15:35:32Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "fox1va-the-fox/schems",
     "name": "Schemepack 400+",
     "version": "1.4",
@@ -1116,19 +1129,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "way-zer/ContentsTweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "version": "@version@",
-    "mod_id": "ContentsTweaker",
-    "author": "WayZer",
-    "lastUpdated": "2024-03-04T15:35:32Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "Mnemotechnician/new-console",
@@ -1565,7 +1565,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-13T00:33:14Z",
+    "lastUpdated": "2024-07-13T07:01:56Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1747,7 +1747,7 @@
     "version": "1.4.6.1",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-13T02:25:11Z",
+    "lastUpdated": "2024-07-13T10:04:40Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2093,19 +2093,6 @@
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
   },
   {
-    "repo": "zuoranartemwing/MindustryExpansion",
-    "name": "Mindustry Expansion",
-    "version": "2.3.6",
-    "mod_id": "mindustry-expansion",
-    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede\n[#00ff][white]Jab005",
-    "lastUpdated": "2024-07-04T13:49:28Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github\n\n[yellow]<INFO: DELTAIS>\n[white]Deltais has been separated from this mod and this current content is uncompleted and will not being deleted. Any new updates of Deltais will not being added here anymore. Kanaede and Jab will focus to updating Deltais project on new Deltais mod.\n[sky]New Deltais update soon!\n[white]There will be information more after it's completed!"
-  },
-  {
     "repo": "Abe-isCharlie/OP-Mod",
     "name": "OP Things",
     "version": "1.2.2",
@@ -2130,6 +2117,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
+    "repo": "zuoranartemwing/MindustryExpansion",
+    "name": "Mindustry Expansion",
+    "version": "2.3.6",
+    "mod_id": "mindustry-expansion",
+    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede\n[#00ff][white]Jab005",
+    "lastUpdated": "2024-07-13T09:00:54Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github\n\n[yellow]<INFO: DELTAIS>\n[white]Deltais has been separated from this mod and this current content is uncompleted and will not being deleted. Any new updates of Deltais will not being added here anymore. Kanaede and Jab will focus to updating Deltais project on new Deltais mod.\n[sky]New Deltais update soon!\n[white]There will be information more after it's completed!"
   },
   {
     "repo": "deltanedas/cliff",
@@ -6147,6 +6147,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
+  },
+  {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
