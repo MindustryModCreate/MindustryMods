@@ -278,7 +278,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-17T00:09:42Z",
+    "lastUpdated": "2024-07-17T14:19:22Z",
     "stars": 78,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -460,7 +460,7 @@
     "version": "1.1 beta build-3-dev",
     "mod_id": "No name provided.",
     "author": "Team Oct",
-    "lastUpdated": "2024-07-16T17:46:58Z",
+    "lastUpdated": "2024-07-17T08:43:08Z",
     "stars": 52,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1744,15 +1744,15 @@
   {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
-    "version": "1.4.6.2",
+    "version": "1.4.6.3",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-16T10:52:56Z",
+    "lastUpdated": "2024-07-17T15:04:44Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "# Bug Fixes\n- Fixed the bug ShowInfoWindow class button was covered by label\n- UnitSpawn automatically cancels the redundant selections.\n- Fixed the bug caused by async set block (Selection)\n- Fixed a crash led by ISettings\n- Fixed a great number of bugs about DrawablePicker\n- Fixed the abnormal keyboard focus of `ReviewElement`\n- Fixed a bug about `enter` and `exit`\n- More bug\n\n# Features\n- Tester you can use $.contentName to get Content\n- Better ReviewElement to inspect element and cell\n- More key-shots for plenty of functions\n- Interp can be added by customization\n- Added some tips\n- Better LogDisplay\n- DrawString draw escape string\n- Ability to customize Styles\n- Image Preview can view the AtlasRegion name and page\n\n# Adjustment & Optimization\n- Adjust the info's key and value scale\n- Better performance for Tester\n- Review some code\n\n# 错误修复\n- 修复了 ShowInfoWindow 类按钮被标签覆盖的bug\n- 修复了 UnitSpawn 不能自动取消多余的选择的bug\n- 修复了 Selection 异步设置 block 引起的bug\n- 修复了ISettings导致的崩溃\n- 修复了DrawablePicker的大量错误\n- 修复了`ReviewElement`键盘焦点异常\n- 修复了有关`enter`和`exit`的错误\n- 更多错误\n# 功能\n- 测试者可以使用 `$.contentName` 来获取Content\n- 更好的 ReviewElement 来检查元素和单元格\n- 更多功能的快捷键\n- 可以通过自定义添加 Interp\n- 添加了一些提示\n- 更好的 LogDisplay\n- DrawString 绘制转义字符串\n- 能够自定义样式\n- 图像预览可以查看 AtlasRegion 名称和页面\n# 调整和优化\n- 调整信息的键和值比例\n- 为测试人员提供更好的性能\n- 重构一些代码"
+    "description": "Some Bug Fixes"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1916,7 +1916,7 @@
     "version": "1.3.3",
     "mod_id": "pyra",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-07-15T08:48:30Z",
+    "lastUpdated": "2024-07-17T12:38:42Z",
     "stars": 13,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2540,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-17T01:00:07Z",
+    "lastUpdated": "2024-07-17T12:24:55Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3744,19 +3744,6 @@
     "description": "A mindustry content mod inspired by terrarias end game resources."
   },
   {
-    "repo": "MEEPofFaith/tranqol",
-    "name": "Tranqol",
-    "version": "v5",
-    "mod_id": "tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-07-15T04:04:11Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
     "repo": "Catana791/Floatydustry",
     "name": "Floatydustry",
     "version": "1",
@@ -3768,6 +3755,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
+  },
+  {
+    "repo": "MEEPofFaith/tranqol",
+    "name": "Tranqol",
+    "version": "v5",
+    "mod_id": "tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-07-17T06:03:27Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -6162,6 +6162,19 @@
     "description": "something and nothing"
   },
   {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
+  },
+  {
     "repo": "nrish/SectorPicker",
     "name": "Sector Picker",
     "version": "2.0",
@@ -6830,7 +6843,7 @@
     "version": "No version provided.",
     "mod_id": "sentinel-addon",
     "author": "The skelebros",
-    "lastUpdated": "2024-07-15T14:23:18Z",
+    "lastUpdated": "2024-07-17T07:20:51Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7319,19 +7332,6 @@
     "description": "围绕一块铁展开的故事"
   },
   {
-    "repo": "ItzCraft/glonio",
-    "name": "Glonio New Journey!",
-    "version": "v0.1",
-    "mod_id": "glonio",
-    "author": "[blue]ItzCraft",
-    "lastUpdated": "2023-12-19T20:23:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "glonio is Tundra Planet. You captured full Serpulo and spotted a planet. \nBut when you tryed Land on it you crashed. And now you need survive In the difficult conditions of the planet. But you've noticed that you're not the first to visit this planet. And you'll have to fight against REDACTED..."
-  },
-  {
     "repo": "BakkaBlue/RGBee",
     "name": "RGBee",
     "version": "1.0",
@@ -7655,6 +7655,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "FIRE-WATER799/mindustry-milatry-mod",
+    "name": "USA-Militray",
+    "version": "0.1",
+    "mod_id": "UsA-Military",
+    "author": "fire",
+    "lastUpdated": "2021-02-16T02:45:32Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is my first mod."
   },
   {
     "repo": "oguh43/quantumReactor",
@@ -8552,19 +8565,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this is a modding test"
-  },
-  {
-    "repo": "Xilites/MyMindustryMod",
-    "name": "MyMindustryMod",
-    "version": "0.0.1",
-    "mod_id": "MyMindustryMod",
-    "author": "CMX_DG",
-    "lastUpdated": "2023-08-25T10:18:29Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "SecondMandu/noreloading",
