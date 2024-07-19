@@ -97,7 +97,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 149,
+    "stars": 150,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -135,7 +135,7 @@
     "version": "0.5.0-dev",
     "mod_id": "aeyama",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2024-07-10T16:07:13Z",
+    "lastUpdated": "2024-07-19T00:12:53Z",
     "stars": 124,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -278,7 +278,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-18T19:01:44Z",
+    "lastUpdated": "2024-07-18T23:10:31Z",
     "stars": 78,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-18T17:59:33Z",
+    "lastUpdated": "2024-07-19T05:44:23Z",
     "stars": 70,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -383,7 +383,7 @@
     "mod_id": "Invincible Cheat Mod v7",
     "author": "滞人",
     "lastUpdated": "2023-08-08T15:04:45Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -837,7 +837,7 @@
     "version": "2.1.2",
     "mod_id": "miner-tools",
     "author": "MinRi2",
-    "lastUpdated": "2024-07-14T13:03:49Z",
+    "lastUpdated": "2024-07-19T02:03:53Z",
     "stars": 30,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1162,7 +1162,7 @@
     "version": "0.1.9.7",
     "mod_id": "project-viscott",
     "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-06-13T22:03:37Z",
+    "lastUpdated": "2024-07-19T01:14:06Z",
     "stars": 22,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1487,7 +1487,7 @@
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-18T16:56:56Z",
+    "lastUpdated": "2024-07-19T07:22:58Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1729,19 +1729,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod工具",
-    "version": "1.4.6.3",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-18T14:06:19Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n## Tester\nEnglish|[中文](index.md)\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties\n"
-  },
-  {
     "repo": "Uenhe/Fire",
     "name": "Fire",
     "version": "1.2.0",
@@ -1753,6 +1740,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod工具",
+    "version": "1.4.6.3",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-19T06:23:30Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n## Tester\nEnglish|[中文](index.md)\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties\n"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -1993,13 +1993,13 @@
     "name": "Mindustry Expansion",
     "version": "2.3.6",
     "mod_id": "mindustry-expansion",
-    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede\n[#00ff][white]Jab005",
-    "lastUpdated": "2024-07-13T09:00:54Z",
+    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005",
+    "lastUpdated": "2024-07-19T09:32:29Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github\n\n[yellow]<INFO: DELTAIS>\n[white]Deltais has been separated from this mod and this current content is uncompleted and will not being deleted. Any new updates of Deltais will not being added here anymore. Kanaede and Jab will focus to updating Deltais project on new Deltais mod.\n[sky]New Deltais update soon!\n[white]There will be information more after it's completed!"
+    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -2137,7 +2137,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-07-18T17:47:49Z",
+    "lastUpdated": "2024-07-18T22:09:45Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2540,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-18T12:25:42Z",
+    "lastUpdated": "2024-07-19T05:12:29Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2875,10 +2875,10 @@
   {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
-    "version": "1.6",
+    "version": "1.61",
     "mod_id": "cheat-codes",
     "author": "electricgun",
-    "lastUpdated": "2024-07-11T19:11:22Z",
+    "lastUpdated": "2024-07-19T10:06:21Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3237,19 +3237,6 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "7",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-04-29T17:10:33Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "Cong0707/multiplayer",
     "name": "联机",
     "version": "2.0",
@@ -3313,6 +3300,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "8",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-07-18T23:14:57Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3718,19 +3718,6 @@
     "description": "A library mod for rendering black holes."
   },
   {
-    "repo": "SMOLKEYS/yellow-rewritten",
-    "name": "MINDUSTRY: YELLOW",
-    "version": "2.5S",
-    "mod_id": "yellow",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-07-14T17:51:53Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "When passion collides with the shitposter's mind."
-  },
-  {
     "repo": "CBMShadowGD/terrariacontentmod",
     "name": "Terarria Content Mod",
     "version": "2.0.0",
@@ -3768,6 +3755,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
+    "repo": "SMOLKEYS/yellow-rewritten",
+    "name": "MINDUSTRY: YELLOW",
+    "version": "2.56S",
+    "mod_id": "yellow",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-07-19T04:55:33Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4880,7 +4880,7 @@
     "version": "b3",
     "mod_id": "minedusty",
     "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2024-07-18T19:36:24Z",
+    "lastUpdated": "2024-07-18T21:06:31Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5486,19 +5486,6 @@
     "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
   },
   {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2023-07-15T11:55:50Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "FreezeMandu/infinite-processor",
     "name": "Infinite Processor V7",
     "version": "2.01",
@@ -5861,6 +5848,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-19T03:58:06Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6953,6 +6953,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to break mindustry"
+  },
+  {
+    "repo": "Choobyshroom8450/MoreUnitsMod",
+    "name": "More Units Mod",
+    "version": "1.0",
+    "mod_id": "moreuints",
+    "author": "choobyshroom",
+    "lastUpdated": "2022-02-24T04:26:14Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more units to mindustry"
   },
   {
     "repo": "MinDoUser/ExtendedMind",
