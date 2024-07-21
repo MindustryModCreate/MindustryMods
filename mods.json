@@ -1430,19 +1430,6 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "SaigoN0Nozomi/nightscape",
-    "name": "NightScape",
-    "version": "1.2",
-    "mod_id": "NScape",
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-02-23T21:11:52Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "version": "1.3.3",
@@ -1456,30 +1443,43 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha2",
-    "mod_id": "sw",
-    "author": "Uujuju",
-    "lastUpdated": "2024-07-20T01:30:38Z",
-    "stars": 17,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "Sublemon-Team/Subvoyage",
     "name": "Subvoyage",
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-21T13:15:23Z",
+    "lastUpdated": "2024-07-21T16:41:39Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
+    "repo": "SaigoN0Nozomi/nightscape",
+    "name": "NightScape",
+    "version": "1.2",
+    "mod_id": "NScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-07-21T18:57:07Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha2",
+    "mod_id": "sw",
+    "author": "Uujuju",
+    "lastUpdated": "2024-07-21T19:32:11Z",
+    "stars": 17,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -1552,7 +1552,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-21T13:19:56Z",
+    "lastUpdated": "2024-07-21T15:31:54Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4178,7 +4178,7 @@
     "version": "0.1",
     "mod_id": "mm",
     "author": "Fitz",
-    "lastUpdated": "2024-07-15T13:11:33Z",
+    "lastUpdated": "2024-07-21T19:59:05Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6812,19 +6812,6 @@
     "description": "This is the premise of the MOD."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "ATLAS' Revolutions",
-    "version": "No version provided.",
-    "mod_id": "sentinel-addon",
-    "author": "The skelebros",
-    "lastUpdated": "2024-07-17T07:20:51Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
-  },
-  {
     "repo": "NikitaPos/neo-dustry",
     "name": "Neo-Dustry",
     "version": "v1.3.1",
@@ -6836,6 +6823,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "ATLAS' Revolutions",
+    "version": "No version provided.",
+    "mod_id": "sentinel-addon",
+    "author": "The skelebros",
+    "lastUpdated": "2024-07-21T16:28:04Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
   },
   {
     "repo": "4156/Infintory",
