@@ -278,7 +278,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-22T13:22:00Z",
+    "lastUpdated": "2024-07-22T17:23:52Z",
     "stars": 78,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1474,7 +1474,7 @@
     "version": "0.3-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-22T14:59:54Z",
+    "lastUpdated": "2024-07-22T18:08:29Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1552,7 +1552,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-22T12:46:44Z",
+    "lastUpdated": "2024-07-22T15:48:13Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1716,30 +1716,30 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "Uenhe/Fire",
-    "name": "Fire",
-    "version": "1.2.0",
-    "mod_id": "fire",
-    "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
-    "lastUpdated": "2024-07-18T15:15:13Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
-  },
-  {
     "repo": "I-hope1/mod-tools",
     "name": "mod工具",
     "version": "1.4.6.4",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-22T07:54:07Z",
+    "lastUpdated": "2024-07-22T15:42:54Z",
     "stars": 14,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.4\n🌟 *Updater*启用\n⌨️ Tester的历史切换：`Ctrl`+`Shift`+`↑/↓`  ->  `Ctrl`+`Shift`+`Alt`+`↑/↓`\n\n🐛 修复`Selection`面对`uiIcon`为`null`时的报错\n🐛 修复`httpRedirect`导致其他url无法访问的问题\n🐛 修复Tester无法部分补全 & 支持'([{'多余报错\n🐛 修复Frag在强制横屏下异位的bug\n🐛 修复DrawablePicker有时没有alpha的bug（a没有除以255） & 颜色消失的bug\n\n✨ 完成ISettings的switch\n✨ `Tester`的`JS`更多功能\n✨ Better Updater & TopGroup\n🚚 `Icon`文件移到`sprites`下\n♻️ 代码部分重构 & 优化代码\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
+    "repo": "Uenhe/Fire",
+    "name": "Fire",
+    "version": "1.2.0",
+    "mod_id": "fire",
+    "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
+    "lastUpdated": "2024-07-22T15:44:27Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
   },
   {
     "repo": "LottieVixen/2xConveyors",
@@ -2093,30 +2093,30 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "v0.0.1",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-07-22T16:58:37Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
     "repo": "Haznobrain/Erekir-liquefied",
     "name": "Erekir Liquefied",
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-07-19T22:46:54Z",
+    "lastUpdated": "2024-07-22T18:30:15Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
-  },
-  {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "nv0.0",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-07-22T02:22:42Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start."
   },
   {
     "repo": "deltanedas/cliff",
@@ -2254,7 +2254,7 @@
     "version": "1.6",
     "mod_id": "olupis",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-22T13:05:03Z",
+    "lastUpdated": "2024-07-22T18:01:18Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2481,6 +2481,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Work in progress (not working)"
+  },
+  {
+    "repo": "Slotterleet/a-lot-of-damage",
+    "name": "A Lot of Damage!",
+    "version": "1.0.2",
+    "mod_id": "alod",
+    "author": "Slotterleet",
+    "lastUpdated": "2024-06-07T09:52:03Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for showing damage numbers."
   },
   {
     "repo": "Catana791/Asthosus-OST",
@@ -5187,6 +5200,19 @@
     "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
+    "repo": "wedro023/Frestorm",
+    "name": "Frestorm",
+    "version": "1",
+    "mod_id": "Frestorm",
+    "author": "Wedro, Darkness",
+    "lastUpdated": "2022-05-11T11:26:45Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod that adds multiple turrets and a wall"
+  },
+  {
     "repo": "iarkn/crescendo",
     "name": "Crescendo",
     "version": "0.1.0",
@@ -6136,19 +6162,6 @@
     "description": "something and nothing"
   },
   {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "version": "1.1",
-    "mod_id": "hc",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
-  },
-  {
     "repo": "nrish/SectorPicker",
     "name": "Sector Picker",
     "version": "2.0",
@@ -6212,6 +6225,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
+  },
+  {
+    "repo": "Raoul1808/Routermageddon",
+    "name": "Routermageddon",
+    "version": "1.0",
+    "mod_id": "routermageddon",
+    "author": "Raoul1808",
+    "lastUpdated": "2022-05-08T16:12:39Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
   },
   {
     "repo": "Zelaux/ZelauxMindustryModTemplate",
@@ -6929,6 +6955,19 @@
     "description": "A mod made to break mindustry"
   },
   {
+    "repo": "Choobyshroom8450/MoreUnitsMod",
+    "name": "More Units Mod",
+    "version": "1.0",
+    "mod_id": "moreuints",
+    "author": "choobyshroom",
+    "lastUpdated": "2022-02-24T04:26:14Z",
+    "stars": 1,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more units to mindustry"
+  },
+  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -7438,10 +7477,10 @@
   {
     "repo": "Savin1play140/Neoplasm-units",
     "name": "Neoplasm units",
-    "version": "1.1",
+    "version": "1.112",
     "mod_id": "Neoplasm units",
     "author": "Raidyriwe",
-    "lastUpdated": "2024-07-20T21:52:47Z",
+    "lastUpdated": "2024-07-22T18:52:35Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
