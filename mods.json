@@ -15,10 +15,10 @@
   {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
-    "version": "0.5.0",
+    "version": "0.5.1a",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-07-19T14:30:07Z",
+    "lastUpdated": "2024-07-26T05:41:15Z",
     "stars": 337,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -330,7 +330,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-25T14:31:17Z",
+    "lastUpdated": "2024-07-26T14:39:08Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -559,19 +559,6 @@
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
-    "repo": "xjamiex/BioTech",
-    "name": "BioTech",
-    "version": "0.2",
-    "mod_id": "biotech",
-    "author": "Jammuu - EndoFreeze",
-    "lastUpdated": "2024-07-18T02:50:34Z",
-    "stars": 41,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Meatballs."
-  },
-  {
     "repo": "WilloIzCitron/ArchiveDustry-Java",
     "name": "ArchiveDustry Java",
     "version": "1.3",
@@ -583,6 +570,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
+  },
+  {
+    "repo": "xjamiex/BioTech",
+    "name": "BioTech",
+    "version": "0.2",
+    "mod_id": "biotech",
+    "author": "Jammuu - EndoFreeze",
+    "lastUpdated": "2024-07-26T07:05:30Z",
+    "stars": 41,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Meatballs."
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -1487,7 +1487,7 @@
     "version": "0.4-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-25T06:39:44Z",
+    "lastUpdated": "2024-07-26T14:03:36Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1614,10 +1614,10 @@
   {
     "repo": "I-hope1/mod-tools",
     "name": "mod-tools",
-    "version": "1.4.6.6",
+    "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-25T15:14:54Z",
+    "lastUpdated": "2024-07-26T09:32:41Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1913,10 +1913,10 @@
   {
     "repo": "sharrlotte/MindustryToolMod",
     "name": "MindustryTool",
-    "version": "v1.8.0",
+    "version": "v1.8.1",
     "mod_id": "MindustryTool",
     "author": "VN-Shar",
-    "lastUpdated": "2024-07-25T10:39:02Z",
+    "lastUpdated": "2024-07-26T06:13:09Z",
     "stars": 13,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-26T00:59:21Z",
+    "lastUpdated": "2024-07-26T12:23:55Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3276,6 +3276,19 @@
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.4.2",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-24T08:03:45Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
     "repo": "Vixelot/Facdustrio",
     "name": "Facdustrio",
     "version": "0.1",
@@ -3744,19 +3757,6 @@
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.4.2",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-24T08:03:45Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -4191,7 +4191,7 @@
     "version": "1.00",
     "mod_id": "sand",
     "author": "Watermocules",
-    "lastUpdated": "2024-07-25T12:09:20Z",
+    "lastUpdated": "2024-07-26T12:49:27Z",
     "stars": 5,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -6225,19 +6225,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
-  },
-  {
-    "repo": "Raoul1808/Routermageddon",
-    "name": "Routermageddon",
-    "version": "1.0",
-    "mod_id": "routermageddon",
-    "author": "Raoul1808",
-    "lastUpdated": "2022-05-08T16:12:39Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
   },
   {
     "repo": "Zelaux/ZelauxMindustryModTemplate",
@@ -9287,7 +9274,7 @@
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Artulo Skywalker",
-    "lastUpdated": "2024-07-24T02:02:51Z",
+    "lastUpdated": "2024-07-26T09:37:27Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
