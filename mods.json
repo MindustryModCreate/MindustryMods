@@ -123,7 +123,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2024-06-13T10:49:57Z",
-    "stars": 127,
+    "stars": 128,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -266,7 +266,7 @@
     "mod_id": "omaloon",
     "author": "_stabu_",
     "lastUpdated": "2024-07-27T22:36:34Z",
-    "stars": 81,
+    "stars": 82,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1500,7 +1500,7 @@
     "version": "0.4-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-28T09:56:46Z",
+    "lastUpdated": "2024-07-28T14:35:03Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1617,7 +1617,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-27T15:18:00Z",
+    "lastUpdated": "2024-07-28T11:08:23Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2262,19 +2262,6 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "Catana791/Asthosus-OST",
-    "name": "Asthosus OST",
-    "version": "1",
-    "mod_id": "astost",
-    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
-    "lastUpdated": "2024-07-24T19:27:48Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2286,6 +2273,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "Catana791/Asthosus-OST",
+    "name": "Asthosus OST",
+    "version": "1",
+    "mod_id": "astost",
+    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
+    "lastUpdated": "2024-07-28T13:53:08Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-28T01:04:35Z",
+    "lastUpdated": "2024-07-28T12:22:25Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -6253,6 +6253,19 @@
     "description": "Your own mod"
   },
   {
+    "repo": "L0615T1C5-216AC-9437/WorldEdit",
+    "name": "World Edit",
+    "version": "1.0",
+    "mod_id": "World Edit",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-06-07T04:39:58Z",
+    "stars": 2,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "N/A"
+  },
+  {
     "repo": "konkitoman/SpeedCtlMan",
     "name": "SpeedCtlMan",
     "version": "0.2",
@@ -8515,19 +8528,6 @@
     "description": "A mod about Silicon!"
   },
   {
-    "repo": "elie-g/poneys-mindustry-mod",
-    "name": "Poney's mod",
-    "version": "1.0",
-    "mod_id": "poneys-mod",
-    "author": "Elie Grenon",
-    "lastUpdated": "2023-06-29T03:58:14Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a few blocks."
-  },
-  {
     "repo": "992040/mindustry_better_mindustry",
     "name": "mindustry_better_mindustry",
     "version": "0.4",
@@ -9256,12 +9256,25 @@
     "description": "A interesting mod."
   },
   {
+    "repo": "Sunken-Wood/WoodenMindustry",
+    "name": "Java Mod Template",
+    "version": "1.0",
+    "mod_id": "example-java-mod",
+    "author": "You",
+    "lastUpdated": "2024-07-28T10:48:31Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "Wisadell/Heavy-Industry",
     "name": "Heavy Industry",
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Artulo Skywalker",
-    "lastUpdated": "2024-07-28T08:19:30Z",
+    "lastUpdated": "2024-07-28T11:21:11Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
