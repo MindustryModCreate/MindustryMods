@@ -6,7 +6,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 359,
+    "stars": 360,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -299,6 +299,19 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "What42Pizza/Mindustry-Production-Mod",
+    "name": "Mindustry-Production-Mod",
+    "version": "A4.4.3",
+    "mod_id": "Production Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2023-10-16T02:58:23Z",
+    "stars": 77,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "version": "4.18.0",
@@ -310,19 +323,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "What42Pizza/Mindustry-Production-Mod",
-    "name": "Mindustry-Production-Mod",
-    "version": "A4.4.3",
-    "mod_id": "Production Mod",
-    "author": "What42Pizza",
-    "lastUpdated": "2023-10-16T02:58:23Z",
-    "stars": 76,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "MEEPofFaith/prog-mats-java",
@@ -681,7 +681,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-24T02:43:15Z",
+    "lastUpdated": "2024-07-31T04:39:07Z",
     "stars": 34,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1227,7 +1227,7 @@
     "version": "1.0.Alpha2",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-07-30T16:57:05Z",
+    "lastUpdated": "2024-07-31T03:16:25Z",
     "stars": 21,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1731,10 +1731,10 @@
   {
     "repo": "Uenhe/Fire",
     "name": "Fire",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "mod_id": "fire",
     "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
-    "lastUpdated": "2024-07-27T09:19:05Z",
+    "lastUpdated": "2024-07-31T04:26:53Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-30T12:24:47Z",
+    "lastUpdated": "2024-07-31T00:50:16Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4758,19 +4758,6 @@
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
-    "repo": "Lunaticol/Erekir-to-Serpulo",
-    "name": "Erekir To Serpulo",
-    "version": "1",
-    "mod_id": "erekir-to-serpulo",
-    "author": "Lunatico",
-    "lastUpdated": "2023-10-30T18:34:16Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
-  },
-  {
     "repo": "The4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "version": "135",
@@ -4925,6 +4912,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
+  },
+  {
+    "repo": "Lunaticol/Erekir-to-Serpulo",
+    "name": "Erekir To Serpulo",
+    "version": "1",
+    "mod_id": "erekir-to-serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2024-07-31T02:53:27Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -6251,6 +6251,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/WorldEdit",
+    "name": "World Edit",
+    "version": "1.0",
+    "mod_id": "World Edit",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2022-06-07T04:39:58Z",
+    "stars": 2,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "N/A"
   },
   {
     "repo": "konkitoman/SpeedCtlMan",
@@ -9270,15 +9283,15 @@
   },
   {
     "repo": "Sunken-Wood/WoodenMindustry",
-    "name": "Wooden Mindustry",
+    "name": "Wooden Tools",
     "version": "0.1",
-    "mod_id": "wooden-mindustry",
+    "mod_id": "wooden-tools",
     "author": "Sunken-Wood",
-    "lastUpdated": "2024-07-30T15:11:49Z",
+    "lastUpdated": "2024-07-31T05:08:29Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "tools!!!"
   }
 ]
