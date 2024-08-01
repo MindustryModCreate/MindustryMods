@@ -58,7 +58,7 @@
     "mod_id": "allure",
     "author": "Lixie",
     "lastUpdated": "2024-07-28T17:08:38Z",
-    "stars": 179,
+    "stars": 180,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": false,
@@ -655,7 +655,7 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-07-31T04:39:07Z",
+    "lastUpdated": "2024-08-01T03:32:42Z",
     "stars": 35,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1118,6 +1118,19 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-06-23T04:21:55Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "HappyGingerWolf/Inverted-Machines",
     "name": "Inverted Machines",
     "version": "1.4",
@@ -1144,38 +1157,12 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
-    "repo": "sporrus/randomMindustry",
-    "name": "Random Mindustry",
-    "version": "1.8.2",
-    "mod_id": "random-mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2024-05-29T05:17:04Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-06-23T04:21:55Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.Alpha2",
     "mod_id": "sw",
     "author": "Uujuju",
-    "lastUpdated": "2024-07-31T19:39:36Z",
+    "lastUpdated": "2024-08-01T03:55:14Z",
     "stars": 22,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2020,7 +2007,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-07-31T19:54:19Z",
+    "lastUpdated": "2024-07-31T21:05:08Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2535,19 +2522,6 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "8",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-07-18T23:14:57Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.63",
@@ -2566,12 +2540,25 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-07-31T12:25:46Z",
+    "lastUpdated": "2024-08-01T01:05:22Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "8",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-01T04:52:37Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3237,6 +3224,19 @@
     "description": "Additional functionality"
   },
   {
+    "repo": "guiYMOUR/Mindustry-LotteryMod",
+    "name": "lottery mod（抽卡模拟）",
+    "version": "beta0.32",
+    "mod_id": "lottery",
+    "author": "guiY",
+    "lastUpdated": "2024-06-22T19:22:12Z",
+    "stars": 7,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
     "repo": "KoraKiwi/PlanetaryAdditions",
     "name": "Planetary Additions",
     "version": "1.2.0",
@@ -3690,19 +3690,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
-    "repo": "guiYMOUR/Mindustry-LotteryMod",
-    "name": "lottery mod（抽卡模拟）",
-    "version": "beta0.32",
-    "mod_id": "lottery",
-    "author": "guiY",
-    "lastUpdated": "2024-06-22T19:22:12Z",
-    "stars": 6,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
     "repo": "CBMShadowGD/terrariacontentmod",
@@ -5798,19 +5785,6 @@
     "description": "part of a icey planets collab"
   },
   {
-    "repo": "MEEPofFaith/extra-sand-redux",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "2.0",
-    "mod_id": "No name provided.",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2024-06-14T01:17:21Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "EvDes190/D-Serpulo-orHardMode",
     "name": "Dangerous Serpulo",
     "version": "0.9",
@@ -5887,6 +5861,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
+    "repo": "MEEPofFaith/extra-sand-redux",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "2.0",
+    "mod_id": "No name provided.",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2024-08-01T04:52:01Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6251,19 +6238,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Your own mod"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/WorldEdit",
-    "name": "World Edit",
-    "version": "1.0",
-    "mod_id": "World Edit",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-06-07T04:39:58Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "N/A"
   },
   {
     "repo": "konkitoman/SpeedCtlMan",
@@ -7317,6 +7291,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "围绕一块铁展开的故事"
+  },
+  {
+    "repo": "kapzduke/Planet-Gebr",
+    "name": "Планета гебр",
+    "version": "0.11",
+    "mod_id": "gebr",
+    "author": "Lehanchic25",
+    "lastUpdated": "2023-12-18T22:51:09Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "BakkaBlue/RGBee",
@@ -8762,19 +8749,6 @@
     "description": "a mindustry mod that adds a planet"
   },
   {
-    "repo": "kapzduke/Planet-Gebr",
-    "name": "Планета гебр",
-    "version": "0.11",
-    "mod_id": "gebr",
-    "author": "Lehanchic25",
-    "lastUpdated": "2023-12-18T22:51:09Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "4gameworld4/mindustry-mod",
     "name": "compression",
     "version": "1",
@@ -9269,19 +9243,6 @@
     "description": "A interesting mod."
   },
   {
-    "repo": "Wisadell/Heavy-Industry",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Artulo Skywalker",
-    "lastUpdated": "2024-07-29T10:21:53Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Artulo Skywalker's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "Sunken-Wood/WoodenMindustry",
     "name": "Wooden Tools",
     "version": "0.1",
@@ -9293,5 +9254,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "tools!!!"
+  },
+  {
+    "repo": "Wisadell/Heavy-Industry",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Artulo Skywalker",
+    "lastUpdated": "2024-08-01T02:36:50Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Artulo Skywalker's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
