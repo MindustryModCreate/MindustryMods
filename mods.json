@@ -845,19 +845,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "EB-wilson/UniverseCore",
     "name": "Universe Core",
     "version": "2.1.1",
@@ -869,6 +856,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-08-06T09:32:50Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -1040,6 +1040,19 @@
     "description": "Chaos in a mod!\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n- Yellow, the unit stronger than vanilla units but weaker than most modded units\n- 10+ disableable weapons for Yellow of varying powers\n- Spells (or Abilities)! Things that make Yellow do funny stuff\n- 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)\n\nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!"
   },
   {
+    "repo": "way-zer/ContentsTweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "@version@",
+    "mod_id": "ContentsTweaker",
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.9",
@@ -1079,19 +1092,6 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
-    "repo": "way-zer/ContentsTweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "version": "@version@",
-    "mod_id": "ContentsTweaker",
-    "author": "WayZer",
-    "lastUpdated": "2024-08-04T06:54:03Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
-  },
-  {
     "repo": "TeamViscott/ModProjectViscott",
     "name": "Project Viscott",
     "version": "0.1.9.7",
@@ -1103,6 +1103,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-08-05T04:52:34Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -1129,19 +1142,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all made by the pure will of a person."
-  },
-  {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-08-05T04:52:34Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1263,10 +1263,10 @@
   {
     "repo": "Sublemon-Team/Subvoyage",
     "name": "Subvoyage",
-    "version": "0.5-beta",
+    "version": "0.5f-beta",
     "mod_id": "subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-08-05T14:05:18Z",
+    "lastUpdated": "2024-08-06T05:29:32Z",
     "stars": 20,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1487,7 +1487,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-08-05T00:48:52Z",
+    "lastUpdated": "2024-08-06T09:00:36Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1612,6 +1612,19 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
+    "repo": "ThomasThings/xenacia",
+    "name": "Xenacia",
+    "version": "v0.0.1",
+    "mod_id": "xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-07-27T23:10:51Z",
+    "stars": 15,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
     "repo": "sk7725/EXP-lib",
     "name": "EXP Library",
     "version": "3.0",
@@ -1714,19 +1727,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "ThomasThings/xenacia",
-    "name": "Xenacia",
-    "version": "v0.0.1",
-    "mod_id": "xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-07-27T23:10:51Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
     "repo": "Uenhe/Fire",
@@ -2007,7 +2007,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-08-05T20:53:11Z",
+    "lastUpdated": "2024-08-06T09:29:01Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4906,7 +4906,7 @@
     "version": "1.0.0",
     "mod_id": "hao1337-mod",
     "author": "Hao1337",
-    "lastUpdated": "2024-08-06T03:26:18Z",
+    "lastUpdated": "2024-08-06T05:49:35Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6916,19 +6916,6 @@
     "description": "A mod made to break mindustry"
   },
   {
-    "repo": "Choobyshroom8450/MoreUnitsMod",
-    "name": "More Units Mod",
-    "version": "1.0",
-    "mod_id": "moreuints",
-    "author": "choobyshroom",
-    "lastUpdated": "2022-02-24T04:26:14Z",
-    "stars": 1,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more units to mindustry"
-  },
-  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "version": "1.0.0",
@@ -7486,6 +7473,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for people who like pain\nmultiplies most stats 10x"
+  },
+  {
+    "repo": "Sunken-Wood/WoodenMindustry",
+    "name": "Wooden Mindustry",
+    "version": "V0.1.43.20240803_alpha",
+    "mod_id": "wooden-mindustry",
+    "author": "Sunken-Wood[https://github.com/Sunken-Wood] / TAGAST[https://github.com/TAGAST]",
+    "lastUpdated": "2024-08-06T09:53:00Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Restart"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -9269,19 +9269,6 @@
     "description": "This mod shows hp bars for allied and enemy units at the cursor position."
   },
   {
-    "repo": "Wisadell/Heavy-Industry",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-08-05T09:09:53Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "DSFdsfWxp/finalCampaign",
     "name": "finalCampaign",
     "version": "0.0.1",
@@ -9295,16 +9282,16 @@
     "description": "A interesting mod."
   },
   {
-    "repo": "Sunken-Wood/WoodenMindustry",
-    "name": "Wooden Mindustry",
-    "version": "V0.1.43.20240803_alpha",
-    "mod_id": "wooden-mindustry",
-    "author": "Sunken-Wood[https://github.com/Sunken-Wood] / TAGAST[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-06T03:38:48Z",
+    "repo": "Wisadell/Heavy-Industry",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-08-06T05:18:37Z",
     "stars": 0,
-    "minGameVersion": "146",
+    "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Restart"
+    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
