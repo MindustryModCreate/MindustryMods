@@ -18,7 +18,7 @@
     "version": "0.5.1",
     "mod_id": "new-horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-08-08T08:43:21Z",
+    "lastUpdated": "2024-08-08T13:40:02Z",
     "stars": 343,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-08T06:46:52Z",
+    "lastUpdated": "2024-08-08T11:35:31Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1924,6 +1924,19 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
+    "repo": "Haznobrain/Erekir-liquefied",
+    "name": "Erekir Liquefied",
+    "version": "1",
+    "mod_id": "erekirliquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-08-07T14:04:22Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
     "repo": "MindustryInside/AutoUpdater",
     "name": "AutoUpdater",
     "version": "0.9",
@@ -2000,19 +2013,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
-  },
-  {
-    "repo": "Haznobrain/Erekir-liquefied",
-    "name": "Erekir Liquefied",
-    "version": "1",
-    "mod_id": "erekirliquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-08-07T14:04:22Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-08T01:00:52Z",
+    "lastUpdated": "2024-08-08T12:25:05Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3367,19 +3367,6 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.1",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-25T08:01:08Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
-  },
-  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3469,6 +3456,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -9282,29 +9282,29 @@
     "description": "Main theme (Drok Metal coer) by ToxicxEternity. Other Music by World Beyond from album Mindshell"
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-06T15:05:07Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "Wisadell/Heavy-Industry",
     "name": "Heavy Industry",
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-08T05:09:02Z",
+    "lastUpdated": "2024-08-08T11:08:17Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-08T14:52:09Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
