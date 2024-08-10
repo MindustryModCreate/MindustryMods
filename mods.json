@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-10T14:44:26Z",
+    "lastUpdated": "2024-08-10T19:49:07Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "version": "9.0",
     "mod_id": "schematics-pack",
     "author": "pixecoz",
-    "lastUpdated": "2024-08-07T16:40:36Z",
+    "lastUpdated": "2024-08-10T20:03:49Z",
     "stars": 50,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3380,19 +3380,6 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "version": "2.1",
-    "mod_id": "Heavy Arsenal",
-    "author": "Vervalamis",
-    "lastUpdated": "2021-06-25T08:01:08Z",
-    "stars": 6,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
-  },
-  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3482,6 +3469,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.0.2",
+    "mod_id": "mindustry-2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -4945,7 +4945,7 @@
     "version": "2",
     "mod_id": "ice",
     "author": "Alon",
-    "lastUpdated": "2024-08-09T15:42:18Z",
+    "lastUpdated": "2024-08-10T16:11:06Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5759,19 +5759,6 @@
     "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
-    "repo": "sheptalo/mindustry-minecraft-mod",
-    "name": "Minecraft mod",
-    "version": "1.0",
-    "mod_id": "minecraft",
-    "author": "sheptalo",
-    "lastUpdated": "2024-04-19T15:06:43Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft in mindustry"
-  },
-  {
     "repo": "Catana791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -5926,6 +5913,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
+    "repo": "sheptalo/mindustry-minecraft-mod",
+    "name": "Minecraft mod",
+    "version": "1.0",
+    "mod_id": "minecraft",
+    "author": "sheptalo",
+    "lastUpdated": "2024-08-10T16:30:45Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft in mindustry"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -9295,19 +9295,6 @@
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
-    "repo": "wangejinyong/TheDecayMod",
-    "name": "The Decay",
-    "version": "0.1",
-    "mod_id": "Decay-mod",
-    "author": "Wangejinyong",
-    "lastUpdated": "2024-08-10T14:45:40Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template.(Waiting for editing)"
-  },
-  {
     "repo": "DSFdsfWxp/finalCampaign",
     "name": "finalCampaign",
     "version": "0.0.1",
@@ -9319,5 +9306,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
+  },
+  {
+    "repo": "wangejinyong/TheDecayMod",
+    "name": "The Decay",
+    "version": "0.1",
+    "mod_id": "Decay-mod",
+    "author": "Wangejinyong",
+    "lastUpdated": "2024-08-10T16:54:20Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template.(Waiting for editing)"
   }
 ]
