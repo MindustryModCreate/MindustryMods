@@ -252,7 +252,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-08-08T21:31:59Z",
+    "lastUpdated": "2024-08-10T13:45:08Z",
     "stars": 83,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -325,30 +325,30 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "Catana791/asthosus",
-    "name": "Asthosus",
-    "version": "1.4",
-    "mod_id": "asthosus",
-    "author": "Catana",
-    "lastUpdated": "2024-08-10T05:19:29Z",
-    "stars": 73,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
-  },
-  {
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Meepscellaneous Concepts",
     "version": "29.1",
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-08-02T02:54:55Z",
-    "stars": 72,
+    "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "Catana791/asthosus",
+    "name": "Asthosus",
+    "version": "1.4",
+    "mod_id": "asthosus",
+    "author": "Catana",
+    "lastUpdated": "2024-08-10T14:44:26Z",
+    "stars": 73,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
@@ -832,6 +832,19 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "2.1.1",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-17T09:38:33Z",
+    "stars": 30,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -856,19 +869,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "2.1.1",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-17T09:38:33Z",
-    "stars": 29,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Pointifix/AutoDrill",
@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-08T15:11:47Z",
+    "lastUpdated": "2024-08-10T14:46:19Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2275,6 +2275,19 @@
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "8",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-05T22:52:05Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
+  },
+  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2535,25 +2548,12 @@
     "description": "Mobile Release!!\nAdds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "8",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-05T22:52:05Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-10T01:01:07Z",
+    "lastUpdated": "2024-08-10T12:23:35Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2782,6 +2782,19 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
+    "repo": "EB-wilson/modPacker",
+    "name": "Mod Packer",
+    "version": "1.2",
+    "mod_id": "mod-packer",
+    "author": "EBwilson",
+    "lastUpdated": "2023-01-05T10:39:51Z",
+    "stars": 8,
+    "minGameVersion": "140.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
+  },
+  {
     "repo": "sk7725/BetaMindyMusic",
     "name": "BetaMindy Music",
     "version": "1.0",
@@ -2860,19 +2873,6 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
-    "repo": "SITUVNgcd/MindustryModTest",
-    "name": "SVN Test mod",
-    "version": "0.1",
-    "mod_id": "situvngcd-test-mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-08-04T12:20:46Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "SuenoDev/Sueno",
     "name": "Sueno",
     "version": "0.20",
@@ -2884,6 +2884,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "SITUVNgcd/MindustryModTest",
+    "name": "SVN Test mod",
+    "version": "0.1",
+    "mod_id": "situvngcd-test-mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-08-10T11:04:41Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "deltanedas/no",
@@ -3094,19 +3107,6 @@
     "description": "Vanilla decoloring project."
   },
   {
-    "repo": "EB-wilson/modPacker",
-    "name": "Mod Packer",
-    "version": "1.2",
-    "mod_id": "mod-packer",
-    "author": "EBwilson",
-    "lastUpdated": "2023-01-05T10:39:51Z",
-    "stars": 7,
-    "minGameVersion": "140.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
-  },
-  {
     "repo": "K103908/Defense-Array",
     "name": "Ruinous Defense Array",
     "version": "3",
@@ -3287,6 +3287,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
+    "repo": "MEEPofFaith/black-holes-library",
+    "name": "Black Holes Library",
+    "version": "16",
+    "mod_id": "black-hole-renderer",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-02T02:58:04Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "Cong0707/multiplayer",
@@ -3729,19 +3742,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
-  },
-  {
-    "repo": "MEEPofFaith/black-holes-library",
-    "name": "Black Holes Library",
-    "version": "16",
-    "mod_id": "black-hole-renderer",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-02T02:58:04Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "Spore-Biometh-team/SandMod",
@@ -4914,6 +4914,19 @@
     "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
   },
   {
+    "repo": "MEEPofFaith/extra-sand-redux",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "2.0",
+    "mod_id": "No name provided.",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2024-08-01T04:52:01Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
     "repo": "Hao-1337/mindustry-better-vanilla",
     "name": "[ Better Vanilla ]",
     "version": "1.0.0",
@@ -5913,19 +5926,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMindustry mod that adds some things.\n"
-  },
-  {
-    "repo": "MEEPofFaith/extra-sand-redux",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "2.0",
-    "mod_id": "No name provided.",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2024-08-01T04:52:01Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -9113,19 +9113,6 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
-    "repo": "wangejinyong/TheDecayMod",
-    "name": "The Decay",
-    "version": "0.1",
-    "mod_id": "Decay-mod",
-    "author": "Wangejinyong",
-    "lastUpdated": "2024-06-23T04:56:30Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template.(Waiting for editing)"
-  },
-  {
     "repo": "Mr816543/Simple-Chemistry",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -9282,19 +9269,6 @@
     "description": "Main theme (Drok Metal coer) by ToxicxEternity. Other Music by World Beyond from album Mindshell"
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-09T15:38:45Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "ToiletGaming3000/Mindustry-Testing-Utilities-Mod",
     "name": "Testing Utilities",
     "version": "66",
@@ -9308,16 +9282,42 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
-    "repo": "Wisadell/Heavy-Industry",
+    "repo": "Wisadell/HeavyIndustryMod",
     "name": "Heavy Industry",
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-10T02:34:43Z",
+    "lastUpdated": "2024-08-10T11:06:33Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "wangejinyong/TheDecayMod",
+    "name": "The Decay",
+    "version": "0.1",
+    "mod_id": "Decay-mod",
+    "author": "Wangejinyong",
+    "lastUpdated": "2024-08-10T14:45:40Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template.(Waiting for editing)"
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-10T15:04:16Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
