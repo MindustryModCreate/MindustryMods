@@ -331,7 +331,7 @@
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-08-02T02:54:55Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-11T09:59:06Z",
+    "lastUpdated": "2024-08-11T14:37:08Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -435,7 +435,7 @@
     "mod_id": "SaturationFirepowerMod",
     "author": "RA2EXE",
     "lastUpdated": "2024-08-09T18:13:56Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": true,
@@ -513,7 +513,7 @@
     "mod_id": "multi-crafter",
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -637,6 +637,19 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "Twcash/Aquarion",
+    "name": "Aquarion",
+    "version": "2.0.29",
+    "mod_id": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-08-09T20:33:28Z",
+    "stars": 36,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "EB-wilson/TooManyItems",
     "name": "Too Many Items",
     "version": "2.3",
@@ -661,19 +674,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "Twcash/Aquarion",
-    "name": "Aquarion",
-    "version": "2.0.29",
-    "mod_id": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-08-09T20:33:28Z",
-    "stars": 35,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "younggam/multi-lib",
@@ -936,6 +936,19 @@
     "description": "The technology of the oblivion awaits you..."
   },
   {
+    "repo": "Anuken/wind3",
+    "name": "wind3",
+    "version": "No version provided.",
+    "mod_id": "wind3",
+    "author": "Anuke (real)",
+    "lastUpdated": "2022-09-21T13:53:50Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "KayyAyeAre/Dusted-Lands",
     "name": "Dusted Lands",
     "version": "0.44",
@@ -973,6 +986,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
+    "repo": "way-zer/ContentsTweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "@version@",
+    "mod_id": "ContentsTweaker",
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "p101q/UNI",
@@ -1014,19 +1040,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "Anuken/wind3",
-    "name": "wind3",
-    "version": "No version provided.",
-    "mod_id": "wind3",
-    "author": "Anuke (real)",
-    "lastUpdated": "2022-09-21T13:53:50Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "Mnemotechnician/new-console",
     "name": "New Console",
     "version": "1.9",
@@ -1053,17 +1066,17 @@
     "description": "Chaos in a mod!\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n- Yellow, the unit stronger than vanilla units but weaker than most modded units\n- 10+ disableable weapons for Yellow of varying powers\n- Spells (or Abilities)! Things that make Yellow do funny stuff\n- 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)\n\nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!"
   },
   {
-    "repo": "way-zer/ContentsTweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "version": "@version@",
-    "mod_id": "ContentsTweaker",
-    "author": "WayZer",
-    "lastUpdated": "2024-08-04T06:54:03Z",
+    "repo": "zeutd/Disintegration",
+    "name": "disintegration",
+    "version": "0.1.0",
+    "mod_id": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-08-05T04:52:34Z",
     "stars": 25,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "fox1va-the-fox/schems",
@@ -1092,19 +1105,6 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
-    "repo": "zeutd/Disintegration",
-    "name": "disintegration",
-    "version": "0.1.0",
-    "mod_id": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-08-05T04:52:34Z",
-    "stars": 24,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "TeamViscott/ModProjectViscott",
     "name": "Project Viscott",
     "version": "0.1.9.7",
@@ -1118,6 +1118,19 @@
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
+    "repo": "uujuju1/Steam-Works",
+    "name": "Steam Works",
+    "version": "1.0.Alpha2",
+    "mod_id": "sw",
+    "author": "Liz Aurora",
+    "lastUpdated": "2024-08-11T01:33:49Z",
+    "stars": 24,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all made by the pure will of a person."
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "version": "1.82",
@@ -1129,19 +1142,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "uujuju1/Steam-Works",
-    "name": "Steam Works",
-    "version": "1.0.Alpha2",
-    "mod_id": "sw",
-    "author": "Liz Aurora",
-    "lastUpdated": "2024-08-11T01:33:49Z",
-    "stars": 23,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all made by the pure will of a person."
   },
   {
     "repo": "HappyGingerWolf/Inverted-Machines",
@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-10T14:46:19Z",
+    "lastUpdated": "2024-08-11T13:20:11Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1747,7 +1747,7 @@
     "version": "1",
     "mod_id": "erekirliquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-08-10T23:55:06Z",
+    "lastUpdated": "2024-08-11T15:02:12Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2106,6 +2106,19 @@
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
   },
   {
+    "repo": "MEEPofFaith/hallucinogen",
+    "name": "Hallucinogen",
+    "version": "8",
+    "mod_id": "hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-05T22:52:05Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
+  },
+  {
     "repo": "Fun7Game/Gloomistrymod",
     "name": "Gloomistry",
     "version": "0.0",
@@ -2273,19 +2286,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
-    "repo": "MEEPofFaith/hallucinogen",
-    "name": "Hallucinogen",
-    "version": "8",
-    "mod_id": "hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-05T22:52:05Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "JiroCab/Olupis",
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-11T01:05:55Z",
+    "lastUpdated": "2024-08-11T12:23:37Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3757,6 +3757,19 @@
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
+    "repo": "Falkowitz/Medieval-Mindustry",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "mod_id": "mm",
+    "author": "Fitz",
+    "lastUpdated": "2024-08-07T21:49:47Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -4173,17 +4186,17 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "Falkowitz/Medieval-Mindustry",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "mod_id": "mm",
-    "author": "Fitz",
-    "lastUpdated": "2024-08-07T21:49:47Z",
+    "repo": "Hao-1337/mindustry-better-vanilla",
+    "name": "[ Better Vanilla ]",
+    "version": "1.0.0",
+    "mod_id": "hao1337-mod",
+    "author": "Hao1337",
+    "lastUpdated": "2024-08-09T09:49:04Z",
     "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Total conversion PVP mod set in fantasy medieval times"
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -4938,19 +4951,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
-    "repo": "Hao-1337/mindustry-better-vanilla",
-    "name": "[ Better Vanilla ]",
-    "version": "1.0.0",
-    "mod_id": "hao1337-mod",
-    "author": "Hao1337",
-    "lastUpdated": "2024-08-09T09:49:04Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "Icexuegao/Icemods",
@@ -5928,6 +5928,19 @@
     "description": "Minecraft in mindustry"
   },
   {
+    "repo": "Pobeda1111/Mod_war",
+    "name": "campain batles",
+    "version": "1.1",
+    "mod_id": "mod_batles",
+    "author": "Pobeda1111",
+    "lastUpdated": "2024-08-11T06:05:55Z",
+    "stars": 3,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Big battles is world"
+  },
+  {
     "repo": "SilinVeredno/NewHorizonMod-Schematics",
     "name": "New Horizon schematics pack",
     "version": "0.5.1",
@@ -6812,6 +6825,19 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
   },
   {
+    "repo": "Ilya246/mindustry10x",
+    "name": "mindustry10x",
+    "version": "1.0",
+    "mod_id": "mindustry10x",
+    "author": "Ilya246",
+    "lastUpdated": "2024-08-04T07:28:18Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "for people who like pain\nmultiplies most stats 10x"
+  },
+  {
     "repo": "coreworldyoutube/AtomicMindustry",
     "name": "AtomicMindustry",
     "version": "1.0",
@@ -6827,28 +6853,15 @@
   {
     "repo": "Sunken-Wood/WoodenMindustry",
     "name": "WoodenMindustry",
-    "version": "V0.1.43.20240803_alpha",
+    "version": "V0.1.5.beta",
     "mod_id": "wooden-mindustry",
     "author": "Sunken-Wood(CN)[https://github.com/Sunken-Wood] / TAGAST(CN)[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-11T05:34:52Z",
+    "lastUpdated": "2024-08-11T12:16:48Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "欧耶~~"
-  },
-  {
-    "repo": "Pobeda1111/Mod_war",
-    "name": "campain batles",
-    "version": "1.1",
-    "mod_id": "mod_batles",
-    "author": "Pobeda1111",
-    "lastUpdated": "2024-08-11T06:05:55Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Big battles is world"
   },
   {
     "repo": "4156/Infintory",
@@ -7499,19 +7512,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My mod!"
-  },
-  {
-    "repo": "Ilya246/mindustry10x",
-    "name": "mindustry10x",
-    "version": "1.0",
-    "mod_id": "mindustry10x",
-    "author": "Ilya246",
-    "lastUpdated": "2024-08-04T07:28:18Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "for people who like pain\nmultiplies most stats 10x"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -9313,7 +9313,7 @@
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-11T01:22:54Z",
+    "lastUpdated": "2024-08-11T13:28:57Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
