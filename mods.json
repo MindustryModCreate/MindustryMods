@@ -149,7 +149,7 @@
     "mod_id": "time-control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 119,
+    "stars": 120,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -435,7 +435,7 @@
     "mod_id": "SaturationFirepowerMod",
     "author": "RA2EXE",
     "lastUpdated": "2024-08-09T18:13:56Z",
-    "stars": 55,
+    "stars": 54,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": true,
@@ -845,6 +845,19 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "Pointifix/AutoDrill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "mod_id": "auto-drill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-08-06T18:01:26Z",
+    "stars": 30,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "version": "69",
@@ -869,19 +882,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
-  },
-  {
-    "repo": "Pointifix/AutoDrill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "mod_id": "auto-drill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-08-06T18:01:26Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-13T04:48:03Z",
+    "lastUpdated": "2024-08-13T08:04:49Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3380,6 +3380,19 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
+  },
+  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3469,19 +3482,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
-  },
-  {
-    "repo": "deltanedas/mindustry-2",
-    "name": "Mindustry 2",
-    "version": "0.0.2",
-    "mod_id": "mindustry-2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -7059,19 +7059,6 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
-    "repo": "Agzam4/Mindustry-Units-Mod",
-    "name": "Agzam's Units Mod",
-    "version": "1.1",
-    "mod_id": "agzam4mod-units",
-    "author": "Agzam4",
-    "lastUpdated": "2023-03-12T14:21:36Z",
-    "stars": 1,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hide units hotkey & button"
-  },
-  {
     "repo": "virat2010/SomeVanillaExtension",
     "name": "VR's Mod",
     "version": "v1.0",
@@ -8632,19 +8619,6 @@
     "description": "this is a modding test"
   },
   {
-    "repo": "Xilites/MyMindustryMod",
-    "name": "MyMindustryMod",
-    "version": "0.0.1",
-    "mod_id": "MyMindustryMod",
-    "author": "CMX_DG",
-    "lastUpdated": "2023-08-25T10:18:29Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "SecondMandu/noreloading",
     "name": "No Reloading",
     "version": "0.2",
@@ -8877,6 +8851,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
+  },
+  {
+    "repo": "Kieaer/Mindustry_question_mod",
+    "name": "LOL missing ping sound",
+    "version": "1.0",
+    "mod_id": "lol-ping",
+    "author": "Gureumi",
+    "lastUpdated": "2024-01-23T06:03:13Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Change unlock sound to League of Legends missing ping sound"
   },
   {
     "repo": "dimon112/sand-storm-mindustry",
@@ -9321,19 +9308,6 @@
     "description": "A Mindustry Java mod template.(Waiting for editing)"
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-12T16:13:28Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "zsd2024/my-mod",
     "name": "Java Mod Template",
     "version": "1.0",
@@ -9345,5 +9319,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-13T08:59:30Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
