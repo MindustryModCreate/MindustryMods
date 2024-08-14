@@ -19,7 +19,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-08-09T07:28:52Z",
-    "stars": 346,
+    "stars": 347,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -252,7 +252,7 @@
     "version": "v0.1A",
     "mod_id": "omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-08-13T02:07:19Z",
+    "lastUpdated": "2024-08-14T01:31:19Z",
     "stars": 83,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-13T12:52:04Z",
+    "lastUpdated": "2024-08-14T02:15:47Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-13T13:28:31Z",
+    "lastUpdated": "2024-08-13T15:09:49Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2275,19 +2275,6 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "Catana791/Asthosus-OST",
-    "name": "Asthosus OST",
-    "version": "1",
-    "mod_id": "astost",
-    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
-    "lastUpdated": "2024-07-28T21:33:15Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
     "repo": "JiroCab/Olupis",
     "name": "Nyfalis (Olupis)",
     "version": "1.6",
@@ -2299,6 +2286,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "Catana791/Asthosus-OST",
+    "name": "Asthosus OST",
+    "version": "1",
+    "mod_id": "astost",
+    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
+    "lastUpdated": "2024-08-13T16:16:57Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-13T12:26:34Z",
+    "lastUpdated": "2024-08-14T01:01:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3380,6 +3380,19 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
+  },
+  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3469,19 +3482,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one."
-  },
-  {
-    "repo": "deltanedas/mindustry-2",
-    "name": "Mindustry 2",
-    "version": "0.0.2",
-    "mod_id": "mindustry-2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "Radio-Silence-1/2r2tUtilitesMod",
@@ -4199,7 +4199,7 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "Icexuegao/Icemods",
+    "repo": "Icexuegao/DeepSpace",
     "name": "Deep Space",
     "version": "2",
     "mod_id": "ice",
@@ -8112,19 +8112,6 @@
     "description": "Adds mower class to the game."
   },
   {
-    "repo": "TechFish3000/Techfish-Innovations",
-    "name": "Java Mod Template",
-    "version": "1.0",
-    "mod_id": "example-java-mod",
-    "author": "You",
-    "lastUpdated": "2022-02-16T13:04:00Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "sebmeister2077/Advanced-Refinement",
     "name": "Advanced refinement",
     "version": "2.6.0",
@@ -9308,29 +9295,29 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "Wisadell/HeavyIndustryMod",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-08-13T12:15:18Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "DSFdsfWxp/finalCampaign",
     "name": "finalCampaign",
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-13T12:56:09Z",
+    "lastUpdated": "2024-08-14T04:15:12Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
+  },
+  {
+    "repo": "Wisadell/HeavyIndustryMod",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-08-14T05:08:44Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
