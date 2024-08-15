@@ -1565,7 +1565,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-14T14:50:12Z",
+    "lastUpdated": "2024-08-15T06:01:16Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2553,7 +2553,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-14T12:25:48Z",
+    "lastUpdated": "2024-08-15T00:58:28Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3276,19 +3276,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.4.2",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-24T08:03:45Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
     "repo": "MEEPofFaith/black-holes-library",
     "name": "Black Holes Library",
     "version": "16",
@@ -3313,6 +3300,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "通过multiplayer service进行联机"
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.4.2",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-15T05:07:02Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3783,6 +3783,19 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
+    "repo": "Icexuegao/DeepSpace",
+    "name": "Deep Space",
+    "version": "2",
+    "mod_id": "ice",
+    "author": "Alon",
+    "lastUpdated": "2024-08-15T06:04:51Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "CyberneticSquid/self-destruct",
     "name": "Unit Self-Destruct",
     "version": "1.0",
@@ -4184,19 +4197,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
-    "repo": "Icexuegao/DeepSpace",
-    "name": "Deep Space",
-    "version": "2",
-    "mod_id": "ice",
-    "author": "Alon",
-    "lastUpdated": "2024-08-14T16:06:12Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "bin-tenkuu/MindustryMod",
@@ -7059,6 +7059,19 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
+    "repo": "Agzam4/Mindustry-Units-Mod",
+    "name": "Agzam's Units Mod",
+    "version": "1.1",
+    "mod_id": "agzam4mod-units",
+    "author": "Agzam4",
+    "lastUpdated": "2023-03-12T14:21:36Z",
+    "stars": 1,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hide units hotkey & button"
+  },
+  {
     "repo": "virat2010/SomeVanillaExtension",
     "name": "VR's Mod",
     "version": "v1.0",
@@ -7707,19 +7720,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "FIRE-WATER799/mindustry-milatry-mod",
-    "name": "USA-Militray",
-    "version": "0.1",
-    "mod_id": "UsA-Military",
-    "author": "fire",
-    "lastUpdated": "2021-02-16T02:45:32Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is my first mod."
   },
   {
     "repo": "mew1234567899/hackdustry",
@@ -8853,6 +8853,19 @@
     "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
   },
   {
+    "repo": "Kieaer/Mindustry_question_mod",
+    "name": "LOL missing ping sound",
+    "version": "1.0",
+    "mod_id": "lol-ping",
+    "author": "Gureumi",
+    "lastUpdated": "2024-01-23T06:03:13Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Change unlock sound to League of Legends missing ping sound"
+  },
+  {
     "repo": "dimon112/sand-storm-mindustry",
     "name": "sand-storm-mindustry",
     "version": "1.21",
@@ -9269,19 +9282,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "Wisadell/HeavyIndustryMod",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-08-14T05:08:44Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "SpiralSky/morewaves",
     "name": "More Waves",
     "version": "1.0",
@@ -9313,11 +9313,24 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-14T15:08:02Z",
+    "lastUpdated": "2024-08-15T07:56:09Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
+  },
+  {
+    "repo": "Wisadell/HeavyIndustryMod",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-08-15T08:33:32Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
