@@ -32,7 +32,7 @@
     "mod_id": "betamindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 325,
+    "stars": 326,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -331,7 +331,7 @@
     "mod_id": "No name provided.",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-08-02T02:54:55Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -383,7 +383,7 @@
     "mod_id": "moon mod",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2024-07-11T08:48:42Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -624,6 +624,19 @@
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
+    "repo": "Twcash/Aquarion",
+    "name": "Aquarion",
+    "version": "2.0.29",
+    "mod_id": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-08-09T20:33:28Z",
+    "stars": 37,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "version": "3.3.2",
@@ -648,19 +661,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
-  },
-  {
-    "repo": "Twcash/Aquarion",
-    "name": "Aquarion",
-    "version": "2.0.29",
-    "mod_id": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-08-09T20:33:28Z",
-    "stars": 36,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "Rogeh4/VIrtual-Scheme-Pack-",
@@ -1500,7 +1500,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-15T14:46:22Z",
+    "lastUpdated": "2024-08-17T04:39:49Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2124,12 +2124,12 @@
     "version": "0.0",
     "mod_id": "gloomustry",
     "author": "FunGame(фан)",
-    "lastUpdated": "2024-08-09T14:50:27Z",
+    "lastUpdated": "2024-08-16T17:47:18Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
+    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
   },
   {
     "repo": "deltanedas/cliff",
@@ -2496,19 +2496,6 @@
     "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
-    "repo": "sbxte/mindustry-schematic-browser",
-    "name": "Schematic Browser Reworked",
-    "version": "1.0",
-    "mod_id": "schematic-browser",
-    "author": "SByte, Eeve-lyn",
-    "lastUpdated": "2024-03-27T09:28:43Z",
-    "stars": 9,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "sebmeister2077/GifToLogic",
     "name": "GifToLogic",
     "version": "1.0-alpha",
@@ -2553,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-16T01:00:44Z",
+    "lastUpdated": "2024-08-17T00:59:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2871,6 +2858,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
+  },
+  {
+    "repo": "sbxte/mindustry-schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "version": "1.0",
+    "mod_id": "schematic-browser",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-03-27T09:28:43Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "misterfirer/UrMod-mindustry-v7-",
@@ -3237,19 +3237,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "Agzam4/Mindustry-mod",
-    "name": "Agzam's Mod",
-    "version": "1.7.1",
-    "mod_id": "agzam4mod",
-    "author": "Agzam4",
-    "lastUpdated": "2024-06-20T13:12:39Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "KoraKiwi/PlanetaryAdditions",
     "name": "Planetary Additions",
     "version": "1.2.0",
@@ -3313,6 +3300,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
+  },
+  {
+    "repo": "Agzam4/Mindustry-mod",
+    "name": "Agzam's Mod",
+    "version": "1.7.1",
+    "mod_id": "agzam4mod",
+    "author": "Agzam4",
+    "lastUpdated": "2024-08-16T12:00:06Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "Vixelot/Facdustrio",
@@ -3788,7 +3788,7 @@
     "version": "2",
     "mod_id": "ice",
     "author": "Alon",
-    "lastUpdated": "2024-08-15T06:04:51Z",
+    "lastUpdated": "2024-08-16T15:32:55Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5954,19 +5954,6 @@
     "description": "Big battles is world"
   },
   {
-    "repo": "SilinVeredno/NewHorizonMod-Schematics",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "mod_id": "nh-scheme-pack",
-    "author": "Silin Veredno",
-    "lastUpdated": "2024-08-11T18:05:59Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
-  },
-  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -6851,6 +6838,19 @@
     "description": "This is the premise of the MOD."
   },
   {
+    "repo": "SilinVeredno/NewHorizonMod-Schematics",
+    "name": "New Horizon schematics pack",
+    "version": "0.5.1",
+    "mod_id": "nh-scheme-pack",
+    "author": "Silin Veredno",
+    "lastUpdated": "2024-08-11T18:05:59Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
     "repo": "Sunken-Wood/WoodenMindustry",
     "name": "WoodenMindustry",
     "version": "V0.1.5.beta",
@@ -6869,7 +6869,7 @@
     "version": "0.1",
     "mod_id": "Decay-mod",
     "author": "Wangejinyong",
-    "lastUpdated": "2024-08-14T15:23:35Z",
+    "lastUpdated": "2024-08-16T13:51:32Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7070,19 +7070,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
-  },
-  {
-    "repo": "Agzam4/Mindustry-Units-Mod",
-    "name": "Agzam's Units Mod",
-    "version": "1.1",
-    "mod_id": "agzam4mod-units",
-    "author": "Agzam4",
-    "lastUpdated": "2023-03-12T14:21:36Z",
-    "stars": 1,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hide units hotkey & button"
   },
   {
     "repo": "virat2010/SomeVanillaExtension",
@@ -9313,7 +9300,7 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-15T16:23:14Z",
+    "lastUpdated": "2024-08-16T15:21:19Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -9326,7 +9313,7 @@
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-16T04:47:00Z",
+    "lastUpdated": "2024-08-17T04:44:09Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
