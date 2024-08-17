@@ -97,7 +97,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 155,
+    "stars": 154,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-15T21:02:44Z",
+    "lastUpdated": "2024-08-17T12:56:20Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -591,7 +591,7 @@
     "mod_id": "test-utils",
     "author": "MEEP of Faith",
     "lastUpdated": "2024-08-07T23:09:49Z",
-    "stars": 40,
+    "stars": 39,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -611,6 +611,19 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
+    "repo": "Twcash/Aquarion",
+    "name": "Aquarion",
+    "version": "2.0.29",
+    "mod_id": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-08-09T20:33:28Z",
+    "stars": 38,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
     "name": "Progressed Materials (Java)",
     "version": "14.1",
@@ -622,19 +635,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "Twcash/Aquarion",
-    "name": "Aquarion",
-    "version": "2.0.29",
-    "mod_id": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-08-09T20:33:28Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -1123,7 +1123,7 @@
     "version": "1.0.Alpha2",
     "mod_id": "sw",
     "author": "Liz Aurora",
-    "lastUpdated": "2024-08-11T01:33:49Z",
+    "lastUpdated": "2024-08-17T14:01:22Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1500,7 +1500,7 @@
     "version": "1.4.6.7",
     "mod_id": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-17T04:39:49Z",
+    "lastUpdated": "2024-08-17T14:07:22Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2540,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-17T00:59:04Z",
+    "lastUpdated": "2024-08-17T12:22:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3788,7 +3788,7 @@
     "version": "2",
     "mod_id": "ice",
     "author": "Alon",
-    "lastUpdated": "2024-08-16T15:32:55Z",
+    "lastUpdated": "2024-08-17T13:38:58Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6225,6 +6225,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
+  },
+  {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "version": "1.1",
+    "mod_id": "hc",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "nrish/SectorPicker",
@@ -9269,19 +9282,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "SpiralSky/morewaves",
-    "name": "More Waves",
-    "version": "1.0",
-    "mod_id": "morewaves",
-    "author": "SpiralSky",
-    "lastUpdated": "2024-08-14T08:38:00Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mod that doubles campaign waves"
-  },
-  {
     "repo": "sam-k0/Mindustry.HPBars",
     "name": "HP Bars",
     "version": "24.08.03",
@@ -9295,19 +9295,6 @@
     "description": "This mod shows hp bars for allied and enemy units at the cursor position."
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-16T15:21:19Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "Wisadell/HeavyIndustryMod",
     "name": "Heavy Industry",
     "version": "1.1.0.1",
@@ -9319,5 +9306,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "SpiralSky/morewaves",
+    "name": "More Waves",
+    "version": "1.0",
+    "mod_id": "morewaves",
+    "author": "SpiralSky",
+    "lastUpdated": "2024-08-17T07:18:24Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mod that doubles campaign waves"
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-17T09:15:10Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
