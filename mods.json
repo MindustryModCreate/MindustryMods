@@ -6,7 +6,7 @@
     "mod_id": "exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 365,
+    "stars": 366,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -343,7 +343,7 @@
     "version": "1.4",
     "mod_id": "asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-17T12:56:20Z",
+    "lastUpdated": "2024-08-17T18:26:30Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -533,6 +533,19 @@
     "description": "A large tech mod, and more things you can interested\n\n大型科技向mod，有很多东西你会感兴趣的\n\n ==================== \n based on UniverseCore mod"
   },
   {
+    "repo": "WilloIzCitron/ArchiveDustry-Java",
+    "name": "ArchiveDustry Java",
+    "version": "1.3",
+    "mod_id": "No name provided.",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-07-21T07:11:08Z",
+    "stars": 43,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
+  },
+  {
     "repo": "xjamiex/BioTech",
     "name": "BioTech",
     "version": "0.2",
@@ -544,19 +557,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Meatballs."
-  },
-  {
-    "repo": "WilloIzCitron/ArchiveDustry-Java",
-    "name": "ArchiveDustry Java",
-    "version": "1.3",
-    "mod_id": "No name provided.",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-07-21T07:11:08Z",
-    "stars": 42,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
   },
   {
     "repo": "AeronGreva/AeroMindustry",
@@ -1123,7 +1123,7 @@
     "version": "1.0.Alpha2",
     "mod_id": "sw",
     "author": "Liz Aurora",
-    "lastUpdated": "2024-08-17T14:01:22Z",
+    "lastUpdated": "2024-08-17T20:56:29Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1300,6 +1300,19 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "Zeniku/HeavyMachinery",
+    "name": "Heavy Machinery",
+    "version": "1.0",
+    "mod_id": "heavymachinery",
+    "author": "Zen",
+    "lastUpdated": "2022-03-07T09:56:07Z",
+    "stars": 19,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
+  },
+  {
     "repo": "sk7725/Testers",
     "name": "Testers",
     "version": "0.25",
@@ -1391,19 +1404,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "Zeniku/HeavyMachinery",
-    "name": "Heavy Machinery",
-    "version": "1.0",
-    "mod_id": "heavymachinery",
-    "author": "Zen",
-    "lastUpdated": "2022-03-07T09:56:07Z",
-    "stars": 18,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
-  },
-  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "version": "1.3.3",
@@ -1428,6 +1428,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod-tools",
+    "version": "1.4.6.7",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-17T14:07:22Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.7\n- Fixed some bug about `ValueLabel`\n- Fixed the problem of not being able to obtain the offset of hidden class fields\n- Removed some test code\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1493,19 +1506,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: Mod is currently under rework, Expect some broken things. \nbut it's still fun :D\n\nAvailable in languages:\nIndonesian\nEnglish\nRussian\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod-tools",
-    "version": "1.4.6.7",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-08-17T14:07:22Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.7\n- Fixed some bug about `ValueLabel`\n- Fixed the problem of not being able to obtain the offset of hidden class fields\n- Removed some test code\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -3788,7 +3788,7 @@
     "version": "2",
     "mod_id": "ice",
     "author": "Alon",
-    "lastUpdated": "2024-08-17T13:38:58Z",
+    "lastUpdated": "2024-08-17T15:39:47Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5954,6 +5954,19 @@
     "description": "Big battles is world"
   },
   {
+    "repo": "Alstin112/Context",
+    "name": "Context",
+    "version": "v1.0.0",
+    "mod_id": "context",
+    "author": "Alstin112 and Flintyx",
+    "lastUpdated": "2024-08-17T07:02:21Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "version": "1.3",
@@ -6708,6 +6721,19 @@
     "description": "Buffs the alpha unit so its better to stay on the shard core (smallest one),\nadds a ton of hp to the alpha,\nChanged bullet to fire bullet (shard core has alot of hp),\nmining speed, item capacity is also improved,\nHave a good day!\nduo and scatter is also buffed\ncopper walls are now the best defense in the game\nthe mechanical drill is also the best drill and can mine anything\nnormal conveyors are also the best\n\nit's my first mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\n"
   },
   {
+    "repo": "uujuju1/Radio",
+    "name": "Radio",
+    "version": "v1.1",
+    "mod_id": "No name provided.",
+    "author": "Aurora",
+    "lastUpdated": "2024-02-15T02:46:12Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry music loader."
+  },
+  {
     "repo": "PLsubfarm61/Random-Expansion-Mod-by-Oleksiy",
     "name": "Random Expansion Mod",
     "version": "0.17",
@@ -7382,19 +7408,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Arktik-java."
-  },
-  {
-    "repo": "uujuju1/Radio",
-    "name": "Radio",
-    "version": "v1.1",
-    "mod_id": "No name provided.",
-    "author": "Aurora",
-    "lastUpdated": "2024-02-15T02:46:12Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry music loader."
   },
   {
     "repo": "bob900-cod/STIdustrys",
@@ -8853,19 +8866,6 @@
     "description": "Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.\n\nThe game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.\n\nThe mod is about a Pace Game, that is you will defeat 800 Waves of enemies going up in strength every time. You will research and build defenses as the game proceeds. dont worry about losing, your destroyed building would still be there.\n\nThis mod interconnects with Zeridmuth: A New Beginning. if you want the immersive lore, Enable Zeridmuth: A New Beginning while playing this mod.\nIf you finished the mod, you can request us on our discord server for your name to be written here.\n\nOur Discord Server(https://discord.com/invite/KuV5r39cpY)\n\nEnjoy your game!"
   },
   {
-    "repo": "Kieaer/Mindustry_question_mod",
-    "name": "LOL missing ping sound",
-    "version": "1.0",
-    "mod_id": "lol-ping",
-    "author": "Gureumi",
-    "lastUpdated": "2024-01-23T06:03:13Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Change unlock sound to League of Legends missing ping sound"
-  },
-  {
     "repo": "dimon112/sand-storm-mindustry",
     "name": "sand-storm-mindustry",
     "version": "1.21",
@@ -9326,7 +9326,7 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-17T09:15:10Z",
+    "lastUpdated": "2024-08-17T15:18:35Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
