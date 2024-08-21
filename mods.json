@@ -97,7 +97,7 @@
     "mod_id": "scheme-size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 155,
+    "stars": 156,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -344,7 +344,7 @@
     "mod_id": "asthosus",
     "author": "Catana",
     "lastUpdated": "2024-08-18T14:41:17Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -728,6 +728,19 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "version": "0.74",
+    "mod_id": "extended-ui",
+    "author": "wizer",
+    "lastUpdated": "2022-12-16T17:36:50Z",
+    "stars": 32,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "AvantTeam/ProjectUnity",
     "name": "Project Unity",
     "version": "0.1",
@@ -752,19 +765,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
-  },
-  {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "version": "0.74",
-    "mod_id": "extended-ui",
-    "author": "wizer",
-    "lastUpdated": "2022-12-16T17:36:50Z",
-    "stars": 31,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "coaldeficit/MoreDefences",
@@ -1500,7 +1500,7 @@
     "version": "v1.806ZA",
     "mod_id": "zeridmuth",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-08-19T07:06:49Z",
+    "lastUpdated": "2024-08-21T01:51:05Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1911,19 +1911,6 @@
     "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github."
   },
   {
-    "repo": "MindustryVN/MindustryToolMod",
-    "name": "MindustryTool",
-    "version": "v1.8.2",
-    "mod_id": "MindustryTool",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-07-27T14:25:37Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "version": "1.3.4",
@@ -1937,12 +1924,25 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
+    "repo": "MindustryVN/MindustryToolMod",
+    "name": "MindustryTool",
+    "version": "v1.8.3",
+    "mod_id": "MindustryTool",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-08-21T03:28:48Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
+  },
+  {
     "repo": "Fun7Game/Gloomistrymod",
     "name": "Gloomistry",
     "version": "0.0",
     "mod_id": "gloomustry",
     "author": "FunGame(фан)",
-    "lastUpdated": "2024-08-20T09:43:24Z",
+    "lastUpdated": "2024-08-21T08:02:21Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2540,7 +2540,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-20T12:26:16Z",
+    "lastUpdated": "2024-08-21T01:00:44Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3250,6 +3250,19 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "TeamOct/FOS-OST",
+    "name": "Fictional Octo System OST",
+    "version": "1.0.3",
+    "mod_id": "fosost",
+    "author": "Team Oct",
+    "lastUpdated": "2024-06-02T19:53:17Z",
+    "stars": 7,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
     "repo": "KoraKiwi/PlanetaryAdditions",
     "name": "Planetary Additions",
     "version": "1.2.0",
@@ -3705,19 +3718,6 @@
     "description": "Solves the biggest territory war in all of Mindustry Modding: Putting UI in the bottom-left corner"
   },
   {
-    "repo": "TeamOct/FOS-OST",
-    "name": "Fictional Octo System OST",
-    "version": "1.0.3",
-    "mod_id": "fosost",
-    "author": "Team Oct",
-    "lastUpdated": "2024-06-02T19:53:17Z",
-    "stars": 6,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
     "repo": "CBMShadowGD/terrariacontentmod",
     "name": "Terarria Content Mod",
     "version": "2.0.0",
@@ -3770,19 +3770,6 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
-    "repo": "Spore-Biometh-team/SandMod",
-    "name": "Greektech",
-    "version": "1.0.1",
-    "mod_id": "sand",
-    "author": "Watermocules",
-    "lastUpdated": "2024-08-18T06:42:45Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fun have been surgically removed from this mod, now with gregtec level of grinding."
-  },
-  {
     "repo": "Icexuegao/DeepSpace",
     "name": "Deep Space",
     "version": "2",
@@ -3794,6 +3781,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "Spore-Biometh-team/SandMod",
+    "name": "Greektech",
+    "version": "1.0.1",
+    "mod_id": "sand",
+    "author": "Watermocules",
+    "lastUpdated": "2024-08-21T04:50:28Z",
+    "stars": 6,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4966,12 +4966,25 @@
     "description": "for people who like pain\nmultiplies most stats 10x"
   },
   {
+    "repo": "OBSIDAN55/WarDustry",
+    "name": "Wardustry",
+    "version": "0.2",
+    "mod_id": "aor",
+    "author": "obsidian and |Fox1va|",
+    "lastUpdated": "2024-08-20T20:56:26Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " description "
+  },
+  {
     "repo": "Stormride-R/Cruxscape-Takeover",
     "name": "Cruxscape Takeover",
-    "version": "0029",
+    "version": "0030",
     "mod_id": "cruxahh",
     "author": "Stormrider",
-    "lastUpdated": "2024-08-19T08:56:16Z",
+    "lastUpdated": "2024-08-21T03:02:41Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5991,19 +6004,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
-  },
-  {
-    "repo": "OBSIDAN55/WarDustry",
-    "name": "Wardustry",
-    "version": "0.2",
-    "mod_id": "aor",
-    "author": "obsidian and |Fox1va|",
-    "lastUpdated": "2024-08-20T20:56:26Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " description "
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -9360,29 +9360,29 @@
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-20T03:52:51Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "jscodepy/MyMindustryMod",
     "name": "More Factories",
     "version": "1.0",
     "mod_id": "morefactories-java-mod",
     "author": "WswDay2022",
-    "lastUpdated": "2024-08-20T15:14:40Z",
+    "lastUpdated": "2024-08-21T07:01:03Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个模组...也许是吧？\n这是我的第一个java模组！"
+  },
+  {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-21T07:55:23Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
   }
 ]
