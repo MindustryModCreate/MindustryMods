@@ -526,7 +526,7 @@
     "mod_id": "singularity",
     "author": "EBwilson",
     "lastUpdated": "2024-06-25T10:05:20Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -616,12 +616,25 @@
     "version": "2.0.29",
     "mod_id": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-08-19T21:47:02Z",
+    "lastUpdated": "2024-08-21T19:10:31Z",
     "stars": 39,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
+    "repo": "EB-wilson/TooManyItems",
+    "name": "Too Many Items",
+    "version": "2.3",
+    "mod_id": "tmi",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-09T08:49:49Z",
+    "stars": 38,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "MEEPofFaith/prog-mats-java-sonnicon",
@@ -635,19 +648,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "EB-wilson/TooManyItems",
-    "name": "Too Many Items",
-    "version": "2.3",
-    "mod_id": "tmi",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-09T08:49:49Z",
-    "stars": 37,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "EyeOfDarkness/FlameOut",
@@ -793,6 +793,19 @@
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "version": "2.1.1",
+    "mod_id": "universe-core",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-17T09:38:33Z",
+    "stars": 31,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "paulieg626/Cheat",
     "name": "CheatMod",
     "version": "2.7",
@@ -830,19 +843,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "version": "2.1.1",
-    "mod_id": "universe-core",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-17T09:38:33Z",
-    "stars": 30,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "Pointifix/AutoDrill",
@@ -1391,6 +1391,19 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod-tools",
+    "version": "1.5",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-21T14:43:58Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5\n## Highlight\n- Fixed a lot of bugs\n- Better `ReviewElement`, `Selection`, `Tester`, `ContentList`\n- Optimize a lot\n- New Content: KeyCodeSetter\n- More tips for functions.\n- Completely new ValueLabel (ShowInfoWindow)\n- Better experience on mobile.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "version": "0.2",
@@ -1428,19 +1441,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod-tools",
-    "version": "1.5",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-08-20T10:45:38Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5\n## Highlight\n- Fixed a lot of bugs\n- Better `ReviewElement`, `Selection`, `Tester`, `ContentList`\n- Optimize a lot\n- New Content: KeyCodeSetter\n- More tips for functions.\n- Completely new ValueLabel (ShowInfoWindow)\n- Better experience on mobile.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "Sonnicon/mindustry-modtemplate",
@@ -1942,7 +1942,7 @@
     "version": "0.0",
     "mod_id": "gloomustry",
     "author": "FunGame(фан)",
-    "lastUpdated": "2024-08-21T08:02:21Z",
+    "lastUpdated": "2024-08-21T12:20:21Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2275,19 +2275,6 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "JiroCab/Olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.6",
-    "mod_id": "olupis",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-08-10T09:09:24Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "Catana791/Asthosus-OST",
     "name": "Asthosus OST",
     "version": "1",
@@ -2299,6 +2286,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
+  },
+  {
+    "repo": "JiroCab/Olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.6",
+    "mod_id": "olupis",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-08-21T20:21:55Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "YurasovLev/TurretsMod",
@@ -2457,6 +2457,19 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "EB-wilson/modPacker",
+    "name": "Mod Packer",
+    "version": "1.2",
+    "mod_id": "mod-packer",
+    "author": "EBwilson",
+    "lastUpdated": "2023-01-05T10:39:51Z",
+    "stars": 9,
+    "minGameVersion": "140.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
+  },
+  {
     "repo": "GermantovA/Erida",
     "name": "Erida",
     "version": "1.0",
@@ -2522,17 +2535,30 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.4.3",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-18T05:38:37Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "此mod分离自mod tools.\nFixed a lot of bugs."
+  },
+  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
-    "version": "1.63",
+    "version": "1.7",
     "mod_id": "cheat-codes",
     "author": "electricgun",
-    "lastUpdated": "2024-07-27T03:39:39Z",
+    "lastUpdated": "2024-08-21T12:06:23Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Mobile Release!!\nAdds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "MindustryInside/L1337n",
@@ -2540,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-21T01:00:44Z",
+    "lastUpdated": "2024-08-21T12:24:58Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2769,19 +2795,6 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
-    "repo": "EB-wilson/modPacker",
-    "name": "Mod Packer",
-    "version": "1.2",
-    "mod_id": "mod-packer",
-    "author": "EBwilson",
-    "lastUpdated": "2023-01-05T10:39:51Z",
-    "stars": 8,
-    "minGameVersion": "140.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
-  },
-  {
     "repo": "sk7725/BetaMindyMusic",
     "name": "BetaMindy Music",
     "version": "1.0",
@@ -2912,19 +2925,6 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.4.3",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2024-08-18T05:38:37Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "此mod分离自mod tools.\nFixed a lot of bugs."
-  },
-  {
     "repo": "SuenoDev/Sueno",
     "name": "Sueno",
     "version": "0.20",
@@ -2936,6 +2936,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "Topyrit/CAPITAL_PROGRESS",
+    "name": "CAPITAL PROGRESS",
+    "version": "0.1",
+    "mod_id": "CAPITAL PROGRESS",
+    "author": "Topyrit\nZZZ NNN",
+    "lastUpdated": "2024-08-21T18:47:11Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
     "repo": "deltanedas/no",
@@ -3794,6 +3807,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
+  },
+  {
+    "repo": "OBSIDAN55/WarDustry",
+    "name": "Wardustry",
+    "version": "0.2",
+    "mod_id": "aor",
+    "author": "obsidian and |Fox1va|",
+    "lastUpdated": "2024-08-21T20:13:11Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "work in progress\n blocks = 60%\n units = 20%\n blocks balance = 60% \n units balance = 0%\n sectors = 0% \n\n thx |Fox1va| what has opened me java"
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4875,6 +4901,19 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
+    "repo": "I-hope1/BetterJS",
+    "name": "BetterJS",
+    "version": "1.2.3",
+    "mod_id": "better_js",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-19T03:58:06Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
+  },
+  {
     "repo": "ThomasThings/serpulo-scaled",
     "name": "Serpulo Scaled",
     "version": "0.0",
@@ -4964,19 +5003,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for people who like pain\nmultiplies most stats 10x"
-  },
-  {
-    "repo": "OBSIDAN55/WarDustry",
-    "name": "Wardustry",
-    "version": "0.2",
-    "mod_id": "aor",
-    "author": "obsidian and |Fox1va|",
-    "lastUpdated": "2024-08-20T20:56:26Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " description "
   },
   {
     "repo": "Stormride-R/Cruxscape-Takeover",
@@ -5785,6 +5811,19 @@
     "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
+    "repo": "SMOLKEYS/MusiChaos",
+    "name": "MusiChaos",
+    "version": "1.3",
+    "mod_id": "musichaos",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-04-23T16:56:40Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that allows you to add your own ambient, dark and boss music."
+  },
+  {
     "repo": "Catana791/Fading-Revelations-OST",
     "name": "Fading Revelations OST",
     "version": "1",
@@ -5913,19 +5952,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
-  },
-  {
-    "repo": "I-hope1/BetterJS",
-    "name": "BetterJS",
-    "version": "1.2.3",
-    "mod_id": "better_js",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-19T03:58:06Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "FreezeMandu/PowerSources",
@@ -8372,19 +8398,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "duGenouGaemr/mindustry_mod_test",
-    "name": "displayName : am i doing this right ?",
-    "version": "1.0",
-    "mod_id": "duGenouGeamr-s-first-mod",
-    "author": "it's in the name",
-    "lastUpdated": "2023-01-15T16:25:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "trying out modding"
-  },
-  {
     "repo": "pepters/MinTorio",
     "name": "MinTorio",
     "version": "0.1",
@@ -9360,17 +9373,30 @@
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
-    "repo": "jscodepy/MyMindustryMod",
-    "name": "More Factories",
+    "repo": "jscodepy/MoreFactories",
+    "name": "MoreFactories",
     "version": "1.0",
-    "mod_id": "morefactories-java-mod",
+    "mod_id": "MoreFactories",
+    "author": "jscodepy",
+    "lastUpdated": "2024-08-21T10:49:04Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
+    "repo": "jscodepy/MyMindustryMod",
+    "name": "BetaMindy",
+    "version": "0.1",
+    "mod_id": "MoreFactories",
     "author": "WswDay2022",
-    "lastUpdated": "2024-08-21T07:01:03Z",
+    "lastUpdated": "2024-08-21T12:04:16Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "这是一个模组...也许是吧？\n这是我的第一个java模组！"
+    "description": "This mod add more factories."
   },
   {
     "repo": "DSFdsfWxp/finalCampaign",
@@ -9378,7 +9404,7 @@
     "version": "0.0.1",
     "mod_id": "final-campaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-21T07:55:23Z",
+    "lastUpdated": "2024-08-21T15:56:08Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
