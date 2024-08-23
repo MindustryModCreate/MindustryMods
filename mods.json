@@ -19,7 +19,7 @@
     "mod_id": "new-horizon",
     "author": "Yuria",
     "lastUpdated": "2024-08-19T14:05:34Z",
-    "stars": 351,
+    "stars": 352,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -71,7 +71,7 @@
     "mod_id": "extra-utilities",
     "author": "guiY",
     "lastUpdated": "2024-08-15T14:02:44Z",
-    "stars": 167,
+    "stars": 168,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -123,7 +123,7 @@
     "mod_id": "example-java-mod",
     "author": "You",
     "lastUpdated": "2024-06-13T10:49:57Z",
-    "stars": 133,
+    "stars": 134,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -188,7 +188,7 @@
     "mod_id": "uaw",
     "author": "Eschatologue",
     "lastUpdated": "2023-07-27T11:04:24Z",
-    "stars": 104,
+    "stars": 105,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -624,6 +624,19 @@
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
+    "name": "Progressed Materials (Java)",
+    "version": "14.1",
+    "mod_id": "prog-mats",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2022-01-25T06:12:43Z",
+    "stars": 38,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "EB-wilson/TooManyItems",
     "name": "Too Many Items",
     "version": "2.3",
@@ -635,19 +648,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java-sonnicon",
-    "name": "Progressed Materials (Java)",
-    "version": "14.1",
-    "mod_id": "prog-mats",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Younggam (Multi Lib)\n        Kapzduke (Tinker sprites)\n        GlennFolker (Alphableeder)\n        Eye of Darkness (Some code taken from AC)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2022-01-25T06:12:43Z",
-    "stars": 37,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "EyeOfDarkness/FlameOut",
@@ -1287,6 +1287,19 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "I-hope1/mod-tools",
+    "name": "mod-tools",
+    "version": "1.5",
+    "mod_id": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-23T06:49:26Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5\n## Highlight\n- Fixed a lot of bugs\n- Better `ReviewElement`, `Selection`, `Tester`, `ContentList`\n- Optimize a lot\n- New Content: KeyCodeSetter\n- More tips for functions.\n- Completely new ValueLabel (ShowInfoWindow)\n- Better experience on mobile.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
     "repo": "MEEPofFaith/testing-utilities-js",
     "name": "Testing Utilities",
     "version": "0.17",
@@ -1389,19 +1402,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "I-hope1/mod-tools",
-    "name": "mod-tools",
-    "version": "1.5",
-    "mod_id": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-08-22T15:10:55Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5\n## Highlight\n- Fixed a lot of bugs\n- Better `ReviewElement`, `Selection`, `Tester`, `ContentList`\n- Optimize a lot\n- New Content: KeyCodeSetter\n- More tips for functions.\n- Completely new ValueLabel (ShowInfoWindow)\n- Better experience on mobile.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "ThirstyBoi/Abominations",
@@ -1950,6 +1950,19 @@
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
   },
   {
+    "repo": "Topyrit/CAPITAL_PROGRESS",
+    "name": "CAPITAL PROGRESS",
+    "version": "0.1",
+    "mod_id": "CAPITAL PROGRESS",
+    "author": "Topyrit\nZZZ NNN",
+    "lastUpdated": "2024-08-23T11:33:16Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
+  },
+  {
     "repo": "MindustryInside/AutoUpdater",
     "name": "AutoUpdater",
     "version": "0.9",
@@ -2132,6 +2145,19 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "Catana791/Asthosus-OST",
+    "name": "Asthosus OST",
+    "version": "1",
+    "mod_id": "astost",
+    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
+    "lastUpdated": "2024-08-13T16:16:57Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
+  },
+  {
     "repo": "deltanedas/cliff",
     "name": "cliff",
     "version": "1.1.0",
@@ -2275,17 +2301,17 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "Catana791/Asthosus-OST",
-    "name": "Asthosus OST",
-    "version": "1",
-    "mod_id": "astost",
-    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
-    "lastUpdated": "2024-08-13T16:16:57Z",
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "version": "1.4.3",
+    "mod_id": "mod make",
+    "author": "I hope...",
+    "lastUpdated": "2024-08-18T05:38:37Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
+    "hasJava": true,
+    "description": "此mod分离自mod tools.\nFixed a lot of bugs."
   },
   {
     "repo": "JiroCab/Olupis",
@@ -2535,19 +2561,6 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "version": "1.4.3",
-    "mod_id": "mod make",
-    "author": "I hope...",
-    "lastUpdated": "2024-08-18T05:38:37Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "此mod分离自mod tools.\nFixed a lot of bugs."
-  },
-  {
     "repo": "ElectricGun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "version": "1.7",
@@ -2566,7 +2579,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-23T01:01:20Z",
+    "lastUpdated": "2024-08-23T12:25:21Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2936,19 +2949,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
-    "repo": "Topyrit/CAPITAL_PROGRESS",
-    "name": "CAPITAL PROGRESS",
-    "version": "0.1",
-    "mod_id": "CAPITAL PROGRESS",
-    "author": "Topyrit\nZZZ NNN",
-    "lastUpdated": "2024-08-22T18:40:42Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
     "repo": "deltanedas/no",
@@ -5005,6 +5005,19 @@
     "description": "for people who like pain\nmultiplies most stats 10x"
   },
   {
+    "repo": "MoHuQwQ/Brilliance",
+    "name": "光辉 ",
+    "version": "0.9.7.7.4",
+    "mod_id": "Brilliance",
+    "author": "末狐是个鸽子",
+    "lastUpdated": "2024-08-12T16:27:51Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
+  },
+  {
     "repo": "Stormride-R/Cruxscape-Takeover",
     "name": "Cruxscape Takeover",
     "version": "0030",
@@ -6006,19 +6019,6 @@
     "description": "Big battles is world"
   },
   {
-    "repo": "MoHuQwQ/Brilliance",
-    "name": "光辉 ",
-    "version": "0.9.7.7.4",
-    "mod_id": "Brilliance",
-    "author": "末狐是个鸽子",
-    "lastUpdated": "2024-08-12T16:27:51Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
-  },
-  {
     "repo": "Alstin112/Context",
     "name": "Context",
     "version": "v1.0.0",
@@ -6368,19 +6368,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/WorldEdit",
-    "name": "World Edit",
-    "version": "1.0",
-    "mod_id": "World Edit",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-06-07T04:39:58Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "N/A"
   },
   {
     "repo": "konkitoman/SpeedCtlMan",
@@ -8229,6 +8216,19 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
+    "repo": "MinDoUser/ZERO",
+    "name": "Z E R O",
+    "version": "1.0.1",
+    "mod_id": "zero",
+    "author": "lol02 | MinDoUser",
+    "lastUpdated": "2022-06-08T12:20:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
+  },
+  {
     "repo": "MBTiAmo712DEV/parachutists-mod",
     "name": "parachutists",
     "version": "1.0",
@@ -9360,19 +9360,6 @@
     "description": ""
   },
   {
-    "repo": "DSFdsfWxp/finalCampaign",
-    "name": "finalCampaign",
-    "version": "0.0.1",
-    "mod_id": "final-campaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-22T07:10:06Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "jscodepy/MyMindustryMod",
     "name": "MoreFactories",
     "version": "0.1",
@@ -9386,12 +9373,25 @@
     "description": "This mod add more factories."
   },
   {
+    "repo": "DSFdsfWxp/finalCampaign",
+    "name": "finalCampaign",
+    "version": "0.0.1",
+    "mod_id": "final-campaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-23T07:37:51Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
+  },
+  {
     "repo": "Wisadell/HeavyIndustryMod",
     "name": "Heavy Industry",
     "version": "1.1.0.1",
     "mod_id": "heavy-industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-23T04:48:24Z",
+    "lastUpdated": "2024-08-23T14:58:24Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
