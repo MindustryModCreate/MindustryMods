@@ -65,6 +65,19 @@
     "description": "WARNING: Not supported on low-end devices.\n\nWorld logic contributed by Sh1penfire (@sh1penfire). Much thanks!\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Allure seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Allure is considerably tougher than vanilla.\n\nThis mod may cause ragequits and you may get stuck at any point in progression. Skill is required.\n\nTHIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS"
   },
   {
+    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
+    "name": "ExtraUtilities",
+    "version": "1.1.6.4",
+    "mod_id": "extra-utilities",
+    "author": "guiY",
+    "lastUpdated": "2024-08-15T14:02:44Z",
+    "stars": 167,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An extended mod for Mindustry"
+  },
+  {
     "repo": "AvantTeam/ProjectUnityPublic",
     "name": "Project Unity",
     "version": "0.2-youngcha.3.3",
@@ -76,19 +89,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
-    "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
-    "name": "ExtraUtilities",
-    "version": "1.1.6.4",
-    "mod_id": "extra-utilities",
-    "author": "guiY",
-    "lastUpdated": "2024-08-15T14:02:44Z",
-    "stars": 166,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An extended mod for Mindustry"
   },
   {
     "repo": "xzxADIxzx/Scheme-Size",
@@ -408,7 +408,7 @@
     "version": "1.1 beta build-3-dev",
     "mod_id": "No name provided.",
     "author": "Team Oct",
-    "lastUpdated": "2024-08-20T16:18:54Z",
+    "lastUpdated": "2024-08-22T17:13:27Z",
     "stars": 56,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1105,30 +1105,30 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
-    "repo": "TeamViscott/ModProjectViscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "mod_id": "project-viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, FrireDragon \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke ,FrireDragon \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-08-08T06:31:12Z",
-    "stars": 24,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "uujuju1/Steam-Works",
     "name": "Steam Works",
     "version": "1.0.Alpha2",
     "mod_id": "sw",
     "author": "Liz Aurora",
-    "lastUpdated": "2024-08-22T01:27:48Z",
+    "lastUpdated": "2024-08-23T00:15:45Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all made by the pure will of a person."
+  },
+  {
+    "repo": "TeamViscott/ModProjectViscott",
+    "name": "Project Viscott",
+    "version": "0.1.9.7",
+    "mod_id": "project-viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, FrireDragon \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke ,FrireDragon \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-08-23T00:34:23Z",
+    "stars": 24,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "ballgamer56/VanillaExtended",
@@ -2566,7 +2566,7 @@
     "version": "0.2",
     "mod_id": "l1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2024-08-22T12:25:34Z",
+    "lastUpdated": "2024-08-23T01:01:20Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2943,7 +2943,7 @@
     "version": "0.1",
     "mod_id": "CAPITAL PROGRESS",
     "author": "Topyrit\nZZZ NNN",
-    "lastUpdated": "2024-08-21T18:47:11Z",
+    "lastUpdated": "2024-08-22T18:40:42Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3406,6 +3406,19 @@
     "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "version": "2.1",
+    "mod_id": "Heavy Arsenal",
+    "author": "Vervalamis",
+    "lastUpdated": "2021-06-25T08:01:08Z",
+    "stars": 6,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a lot of new blocks. Special thanks to Toxin"
+  },
+  {
     "repo": "NiChrosia/Acceleration",
     "name": "Acceleration",
     "version": "0.2",
@@ -3770,6 +3783,19 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
+    "repo": "Hao-1337/mindustry-better-vanilla",
+    "name": "[ Better Vanilla ]",
+    "version": "1.0.0",
+    "mod_id": "hao1337-mod",
+    "author": "Hao1337",
+    "lastUpdated": "2024-08-09T09:49:04Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
     "repo": "Icexuegao/DeepSpace",
     "name": "Deep Space",
     "version": "2",
@@ -3783,19 +3809,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Spore-Biometh-team/SandMod",
-    "name": "Greektech",
-    "version": "1.0.1",
-    "mod_id": "sand",
-    "author": "Watermocules",
-    "lastUpdated": "2024-08-21T04:50:28Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
-  },
-  {
     "repo": "OBSIDAN55/WarDustry",
     "name": "Wardustry",
     "version": "0.2",
@@ -3807,6 +3820,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "work in progress\n blocks = 60%\n units = 20%\n blocks balance = 60% \n units balance = 0%\n sectors = 0% \n\n thx |Fox1va| what has opened me java"
+  },
+  {
+    "repo": "Spore-Biometh-team/SandMod",
+    "name": "Greektech",
+    "version": "1.0.1",
+    "mod_id": "sand",
+    "author": "Watermocules",
+    "lastUpdated": "2024-08-22T15:11:19Z",
+    "stars": 6,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
     "repo": "CyberneticSquid/self-destruct",
@@ -4197,19 +4223,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
-    "repo": "Hao-1337/mindustry-better-vanilla",
-    "name": "[ Better Vanilla ]",
-    "version": "1.0.0",
-    "mod_id": "hao1337-mod",
-    "author": "Hao1337",
-    "lastUpdated": "2024-08-09T09:49:04Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "UnionofSovietSocialistRepublics/Sporebiomethane",
@@ -6942,19 +6955,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "Sunken-Wood/WoodenMindustry",
-    "name": "WoodenMindustry",
-    "version": "V0.1.5.beta",
-    "mod_id": "wooden-mindustry",
-    "author": "Sunken-Wood(CN)[https://github.com/Sunken-Wood] / TAGAST(CN)[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-12T03:06:22Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "欧耶~~"
-  },
-  {
     "repo": "wangejinyong/TheDecayMod",
     "name": "The Decay",
     "version": "0.1",
@@ -6966,6 +6966,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template.(Waiting for editing)"
+  },
+  {
+    "repo": "Sunken-Wood/WoodenMindustry",
+    "name": "沉木工业",
+    "version": "V0.3.5_beta",
+    "mod_id": "wooden-mindustry",
+    "author": "Sunken-Wood(CN)/TAGAST(CN)",
+    "lastUpdated": "2024-08-23T04:14:34Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "很简单的小MOD，祝你玩得开心！"
   },
   {
     "repo": "4156/Infintory",
@@ -8216,19 +8229,6 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
-    "repo": "MinDoUser/ZERO",
-    "name": "Z E R O",
-    "version": "1.0.1",
-    "mod_id": "zero",
-    "author": "lol02 | MinDoUser",
-    "lastUpdated": "2022-06-08T12:20:55Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod. Nothing special. Have fun while try it!\n\n Hope to see your smile soon :D"
-  },
-  {
     "repo": "MBTiAmo712DEV/parachutists-mod",
     "name": "parachutists",
     "version": "1.0",
@@ -9373,19 +9373,6 @@
     "description": "A interesting mod."
   },
   {
-    "repo": "Wisadell/HeavyIndustryMod",
-    "name": "Heavy Industry",
-    "version": "1.1.0.1",
-    "mod_id": "heavy-industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-08-22T08:12:18Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "jscodepy/MyMindustryMod",
     "name": "MoreFactories",
     "version": "0.1",
@@ -9397,5 +9384,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod add more factories."
+  },
+  {
+    "repo": "Wisadell/HeavyIndustryMod",
+    "name": "Heavy Industry",
+    "version": "1.1.0.1",
+    "mod_id": "heavy-industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-08-23T04:48:24Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
